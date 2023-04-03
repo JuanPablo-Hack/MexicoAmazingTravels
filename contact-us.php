@@ -9,9 +9,7 @@
   <?php include "components/Loader.php" ?>
   <div class="page">
     <?php include "static/header.php"; ?>
-    <?php include "components/CarrusselInicio.php" ?>
-    <?php include "components/DiscoverUs.php" ?>
-    <?php include "components/AliancesTeams.php" ?>
+    <?php include "components/ContactForm.php" ?>
     <?php include "static/footer.php"; ?>
   </div>
 </body>
