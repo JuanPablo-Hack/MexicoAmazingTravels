@@ -7,11 +7,10 @@
 
 <body>
   <?php include "components/Loader.php" ?>
-  <div class="page">
-    <?php include "static/header.php" ?>
-    <?php include "components/AboutCarrusel.php" ?>
-    <?php include "components/OurServices.php" ?>
-    <?php include "static/footer.php" ?>
+  <?php include "static/header.php" ?>
+  <?php include "components/AboutCarrusel.php" ?>
+  <?php include "components/OurServices.php" ?>
+  <?php include "static/footer.php" ?>
 </body>
 
 </html>
