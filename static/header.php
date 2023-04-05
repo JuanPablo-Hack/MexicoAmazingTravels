@@ -42,7 +42,7 @@
                         <ul class="rd-navbar-nav">
                             <li class="rd-nav-item active"><a class="rd-nav-link" href="index.php">Inicio</a>
                             </li>
-                            <li class="rd-nav-item"><a class="rd-nav-link" href="about.php">Acerca de</a>
+                            <li class="rd-nav-item"><a class="rd-nav-link" href="about.php">Servicios</a>
                             </li>
                             <li class="rd-nav-item">
                                 <a class="rd-nav-link" href="destinos.php">Destinos</a>

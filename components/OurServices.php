@@ -28,7 +28,7 @@
                             <a href="#">Transporte terrestre</a>
                         </h5>
                         <p class="box-icon-classic-text">
-                            Todas las unidades que utiliza Mexico Lovely & Unforgettable
+                            Todas las unidades que utiliza Mexico Amazing & Unforgettable
                             para el traslado de sus turistas por los sitios, son muy
                             seguros y confortables.
                         </p>
@@ -93,11 +93,10 @@
                     </div>
                     <div class="content">
                         <h5 class="box-icon-classic-title" style="color: #fff">
-                            <a href="#">Precios especiales en artesanías</a>
+                            <a href="#">Apoyo en la compra de artesanías</a>
                         </h5>
                         <p class="box-icon-classic-text">
-                            Podrás adquirir las artesanías de tu agrado a un precio
-                            especial en todos los destinos que te ofrecemos.
+                            Podrás adquirir las artesanías de tu agrado en todos los destinos que te ofrecemos.
                         </p>
                     </div>
                 </div>
@@ -110,6 +109,56 @@
                     <div class="content">
                         <h5 class="box-icon-classic-title" style="color: #fff">
                             <a href="#">Soporte Médico</a>
+                        </h5>
+                        <p class="box-icon-classic-text">
+                            Contamos con la asistencia médica de especialistas para tu
+                            seguridad y tranquilidad en caso de que lo requieras.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-4 col-lg-4">
+                <div class="box">
+                    <div class="imgBox">
+                        <img src="https://mexicolu.gruposoca.com.mx/images/comida.jpg" class="img-responsive" />
+                    </div>
+                    <div class="content">
+                        <h5 class="box-icon-classic-title" style="color: #fff">
+                            <a href="#">Alimentos</a>
+                        </h5>
+                        <p class="box-icon-classic-text">
+                            En todos nuestros paquetes y destinos te ofrecemos los
+                            desayunos y comidas en los hoteles donde te hospedaremos y
+                            en los restaurantes de prestigio.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-4 col-lg-4">
+                <div class="box">
+                    <div class="imgBox">
+                        <img src="https://mexicolu.gruposoca.com.mx/images/souveniers.jpg" class="img-responsive" />
+                    </div>
+                    <div class="content">
+                        <h5 class="box-icon-classic-title" style="color: #fff">
+                            <a href="#">Souvenirs</a>
+                        </h5>
+                        <p class="box-icon-classic-text">
+                            Un detalle típico del sitio y paquete que elijas siempre
+                            será un grato recuerdo cortesía de Mexico Lovely &
+                            Unforgettable.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-4 col-lg-4">
+                <div class="box">
+                    <div class="imgBox">
+                        <img src="https://mexicolu.gruposoca.com.mx/images/doctor.png" class="img-responsive" />
+                    </div>
+                    <div class="content">
+                        <h5 class="box-icon-classic-title" style="color: #fff">
+                            <a href="#">Paquetería</a>
                         </h5>
                         <p class="box-icon-classic-text">
                             Contamos con la asistencia médica de especialistas para tu

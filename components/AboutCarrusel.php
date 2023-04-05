@@ -59,8 +59,7 @@
                                 <span class="font-weight-bold"> Tendrás el tiempo </span>
                             </h2>
                             <h4 class="text-uppercase" data-caption-animate="fadeInRight" data-caption-delay="0">
-                                No se trata de echar un vistazo sino de tomarte con calma
-                                la gran diversidad de sitios
+                                No corremos, nos lo tomamos con calma, para que vivas la mejor experiencia de tu vida
                             </h4>
                         </div>
                     </div>
@@ -108,7 +107,7 @@
                         <div class="col-md-10">
                             <h2 class="oh font-weight-light" data-caption-animate="slideInUp" data-caption-delay="100">
                                 <span class="font-weight-bold">
-                                    Interactuarás y festejarás
+                                    Festejarás
                                 </span>
                             </h2>
                             <h4 class="text-uppercase" data-caption-animate="fadeInRight" data-caption-delay="0">
@@ -129,7 +128,7 @@
                                 <span class="font-weight-bold"> Pero sobre todo </span>
                             </h2>
                             <h4 class="text-uppercase" data-caption-animate="fadeInRight" data-caption-delay="0">
-                                Descubrirás que “Mexico Lovely & Unforgettable” quedará
+                                Descubrirás que “Mexico Amazing & Unforgettable” quedará
                                 grabado en tu corazón para siempre…..
                                 <strong>y volverás</strong>
                             </h4>
