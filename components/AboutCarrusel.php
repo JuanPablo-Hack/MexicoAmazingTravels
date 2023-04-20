@@ -1,6 +1,6 @@
 <section class="section swiper-container swiper-slider swiper-slider-corporate swiper-pagination-style-2" data-loop="true" data-autoplay="8000" data-simulate-touch="true" data-nav="false" data-direction="vertical">
     <div class="swiper-wrapper text-left">
-        <div class="swiper-slide context-dark" data-slide-bg="https://mexicolu.gruposoca.com.mx/images/mexico_2.jpg">
+        <div class="swiper-slide context-dark" data-slide-bg="assets/images/CarruselInicio/Banner_unio.jpg">
             <div class="swiper-slide-caption section-md">
                 <div class="container">
                     <div class="row">
@@ -16,7 +16,7 @@
                 </div>
             </div>
         </div>
-        <div class="swiper-slide context-dark" data-slide-bg="https://mexicolu.gruposoca.com.mx/images/mexico_3.jpg">
+        <div class="swiper-slide context-dark" data-slide-bg="assets/images/CarruselInicio/Banner_dos.jpg">
             <div class="swiper-slide-caption section-md">
                 <div class="container">
                     <div class="row">
@@ -33,7 +33,7 @@
                 </div>
             </div>
         </div>
-        <div class="swiper-slide context-dark" data-slide-bg="https://mexicolu.gruposoca.com.mx/images/banner_2.jpg">
+        <div class="swiper-slide context-dark" data-slide-bg="assets/images/CarruselInicio/banner_tres.jpg">
             <div class="swiper-slide-caption section-md">
                 <div class="container">
                     <div class="row">
@@ -83,7 +83,7 @@
                 </div>
             </div>
         </div>
-        <div class="swiper-slide context-dark" data-slide-bg="https://mexicolu.gruposoca.com.mx/images/banner_3.jpg">
+        <div class="swiper-slide context-dark" data-slide-bg="assets/images/CarruselInicio/Banner_cuatro.jpg">
             <div class="swiper-slide-caption section-md">
                 <div class="container">
                     <div class="row">

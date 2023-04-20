@@ -2,7 +2,7 @@
     <div class="container">
         <div class="row row-50 align-items-center justify-content-center justify-content-xl-between">
             <div class="col-lg-6 text-center wow fadeInUp">
-                <img src="https://mexicolu.gruposoca.com.mx/images/mexico.jpg" alt="" width="556" height="382" />
+                <img src="assets/images/mariposas.jpg" alt="" width="556" height="382" />
             </div>
             <div class="col-lg-6 wow fadeInRight" data-wow-delay=".1s">
                 <div class="box-width-lg-470">

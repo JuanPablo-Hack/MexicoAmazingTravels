@@ -72,7 +72,7 @@
                             <a href="#">Entradas a eventos y sitio de interés</a>
                         </h5>
                         <p class="box-icon-classic-text">
-                            Los ingresos y asientos bien ubicados en los diferentes eventos tradicionales, museos y lugares arqueológicos están asegurados para ti y tus acompañantes en el paquete y destino que elijas.
+                            Los ingresos y asientos bien ubicados en los diferentes eventos tradicionales, museos y lugares arqueológicos están asegurados para ti y tus acompañantes.
                         </p>
                     </div>
                 </div>
@@ -140,14 +140,15 @@
             <div class="col-sm-4 col-lg-4">
                 <div class="box">
                     <div class="imgBox">
-                        <img src="https://mexicolu.gruposoca.com.mx/images/doctor.png" class="img-responsive" />
+                        <img src="assets/images/paqueteria.jpg" class="img-responsive" />
                     </div>
                     <div class="content">
                         <h5 class="box-icon-classic-title" style="color: #fff">
                             <a href="#">Apoyo en servicio de paquetería</a>
                         </h5>
                         <p class="box-icon-classic-text">
-                            Trasladamos empaquetadas a las agencias de paquetería las artesanías que adquieras al final de tu estancia para asegurarte que lleguen a su destino en buen estado. El costo del envío es por tu cuenta.
+                            Trasladamos a las agencias de paquetería las artesanías que adquieras
+                            para asegurarte que lleguen a su destino en buen estado. El costo del envío es por tu cuenta.
                         </p>
                     </div>
                 </div>
@@ -155,7 +156,7 @@
             <div class="col-sm-4 col-lg-4">
                 <div class="box">
                     <div class="imgBox">
-                        <img src="https://mexicolu.gruposoca.com.mx/images/comida.jpg" class="img-responsive" />
+                        <img src="assets/images/servicio_folklore.jpg" class="img-responsive" />
                     </div>
                     <div class="content">
                         <h5 class="box-icon-classic-title" style="color: #fff">
@@ -170,11 +171,11 @@
             <div class="col-sm-4 col-lg-4">
                 <div class="box">
                     <div class="imgBox">
-                        <img src="https://mexicolu.gruposoca.com.mx/images/souveniers.jpg" class="img-responsive" />
+                        <img src="assets/images/table-g536d4fa9b_1280.jpg" class="img-responsive" />
                     </div>
                     <div class="content">
                         <h5 class="box-icon-classic-title" style="color: #fff">
-                            <a href="#">Cenas de Bienvenida y Despedida</a>
+                            <a href="#">Cena Especial</a>
                         </h5>
                         <p class="box-icon-classic-text">
                             Siempre será agradable recibirlos y despedirlos con una cena especial. Un buen momento para disfrutar y obtener una foto de recuerdo cortesía de México Amazing & Unforgettable.

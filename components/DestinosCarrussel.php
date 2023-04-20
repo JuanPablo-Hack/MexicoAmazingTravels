@@ -1,8 +1,6 @@
 <section class="section section-sm section-fluid bg-default">
-    <!-- Owl Carousel-->
     <div class="owl-carousel owl-classic owl-timeline" data-items="1" data-md-items="2" data-lg-items="3" data-xl-items="4" data-margin="30" data-autoplay="false" data-nav="true" data-dots="true">
         <div class="owl-item">
-            <!-- Thumbnail Classic-->
             <article class="thumbnail thumbnail-mary">
                 <div class="thumbnail-mary-figure">
                     <img src="https://mexicolu.gruposoca.com.mx/images/oaxaca_destinos.jpg" alt="" width="420px" height="250px" />
