@@ -674,7 +674,7 @@
                         <div class="unit-body">
                             <div class="product-big-body">
                                 <h5 class="product-big-title">
-                                    <a href="#"> Básico e interesante</a>
+                                    <a href="#"> Básico</a>
                                 </h5>
                                 <div class="group-sm group-middle justify-content-start">
                                     <div class="product-big-rating">
@@ -683,8 +683,7 @@
                                     <a class="product-big-reviews" href="contact-us.html">4 customer reviews</a>
                                 </div>
                                 <p class="product-big-text">
-                                    <strong>Para personas que quieren disfrutar lo mejor de
-                                        Oaxaca en 7 días.</strong>
+                                    <strong>Experiencia interesante para personas que quieren disfrutar lo mejor de Oaxaca en 7 días y sin límite de edad.</strong>
                                 </p>
                                 <a class="button button-black-outline button-ujarak" href="contact-us.php">Reservar Ahora</a>
                             </div>
@@ -696,12 +695,12 @@
                 <article class="product-big">
                     <div class="unit flex-column flex-md-row align-items-md-stretch">
                         <div class="unit-left">
-                            <a class="product-big-figure" href="contact-us.html"><img src="https://mexicolu.gruposoca.com.mx/images/oaxaca/chiapas_2.jpg" alt="" width="600" height="366" /></a>
+                            <a class="product-big-figure" href="contact-us.html"><img src="assets/images/familia.jpg" alt="" width="600" height="366" /></a>
                         </div>
                         <div class="unit-body">
                             <div class="product-big-body">
                                 <h5 class="product-big-title">
-                                    <a href="#">Con tiempo para disfrutar</a>
+                                    <a href="#">Familiar y emocionante</a>
                                 </h5>
                                 <div class="group-sm group-middle justify-content-start">
                                     <div class="product-big-rating">
@@ -710,8 +709,7 @@
                                     <a class="product-big-reviews" href="#">5 customer reviews</a>
                                 </div>
                                 <p class="product-big-text">
-                                    <strong>Para personas que desean conocer todo e interactuar
-                                        con calma en 14 días.</strong>
+                                    <strong>Emocionante y para gozar con tu familia lo que ofrece Oaxaca en 10 días. No importa la edad.</strong>
                                 </p>
                                 <a class="button button-black-outline button-ujarak" href="contact-us.php">Reservar Ahora</a>
                             </div>
@@ -724,12 +722,12 @@
                 <article class="product-big">
                     <div class="unit flex-column flex-md-row align-items-md-stretch">
                         <div class="unit-left">
-                            <a class="product-big-figure" href="#"><img src="https://mexicolu.gruposoca.com.mx/images/oaxaca/chiapas_4.jpg" alt="" width="600" height="366" /></a>
+                            <a class="product-big-figure" href="#"><img src="https://mexicolu.gruposoca.com.mx/images/oaxaca/chiapas_2.jpg" alt="" width="600" height="366" /></a>
                         </div>
                         <div class="unit-body">
                             <div class="product-big-body">
                                 <h5 class="product-big-title">
-                                    <a href="#">Cultura y Aventura</a>
+                                    <a href="#">Con tiempo para deleitarse</a>
                                 </h5>
                                 <div class="group-sm group-middle justify-content-start">
                                     <div class="product-big-rating">
@@ -738,8 +736,59 @@
                                     <a class="product-big-reviews" href="#">5 customer reviews</a>
                                 </div>
                                 <p class="product-big-text">
-                                    <strong>Para personas que desean vivir la cultura y con
-                                        adrenalina durante 14 días.</strong>
+                                    <strong>Especial para personas mayores de edad o retiradas que desean conocer Oaxaca con calma en 10 días.</strong>
+                                </p>
+                                <a class="button button-black-outline button-ujarak" href="contact-us.php">Reservar Ahora</a>
+                            </div>
+                        </div>
+                    </div>
+                </article>
+            </div>
+            <div class="col-sm-6 col-md-12 wow fadeInRight">
+                <article class="product-big">
+                    <div class="unit flex-column flex-md-row align-items-md-stretch">
+                        <div class="unit-left">
+                            <a class="product-big-figure" href="#"><img src="https://mexicolu.gruposoca.com.mx/images/oaxaca/chiapas_4.jpg" alt="" width="600" height="366" /></a>
+                        </div>
+                        <div class="unit-body">
+                            <div class="product-big-body">
+                                <h5 class="product-big-title">
+                                    <a href="#">Aventura y Cultura</a>
+                                </h5>
+                                <div class="group-sm group-middle justify-content-start">
+                                    <div class="product-big-rating">
+                                        <span class="icon material-icons-star"></span><span class="icon material-icons-star"></span><span class="icon material-icons-star"></span><span class="icon material-icons-star"></span><span class="icon material-icons-star_half"></span>
+                                    </div>
+                                    <a class="product-big-reviews" href="contact-us.html">4 customer reviews</a>
+                                </div>
+                                <p class="product-big-text">
+                                    <strong>Siempre excitante, especial para personas que desean convivir con la naturaleza y una buena dosis de adrenalina sin olvidar la esencia cultural de Oaxaca durante 10 días.</strong>
+                                </p>
+                                <a class="button button-black-outline button-ujarak" href="contact-us.php">Reservar Ahora</a>
+                            </div>
+                        </div>
+                    </div>
+                </article>
+            </div>
+            <div class="col-sm-6 col-md-12 wow fadeInRight">
+                <article class="product-big">
+                    <div class="unit flex-column flex-md-row align-items-md-stretch">
+                        <div class="unit-left">
+                            <a class="product-big-figure" href="#"><img src="assets/images/playas_oaxaca.jpg" alt="" width="600" height="366" /></a>
+                        </div>
+                        <div class="unit-body">
+                            <div class="product-big-body">
+                                <h5 class="product-big-title">
+                                    <a href="#"> Playas inolvidables</a>
+                                </h5>
+                                <div class="group-sm group-middle justify-content-start">
+                                    <div class="product-big-rating">
+                                        <span class="icon material-icons-star"></span><span class="icon material-icons-star"></span><span class="icon material-icons-star"></span><span class="icon material-icons-star"></span><span class="icon material-icons-star_half"></span>
+                                    </div>
+                                    <a class="product-big-reviews" href="contact-us.html">4 customer reviews</a>
+                                </div>
+                                <p class="product-big-text">
+                                    <strong>Están a tu alcance las playas que tiene Oaxaca con una combinación de aventura, relajamiento y romanticismo. El paraíso de la región a tu alcance durante 10 días y para todas las edades.</strong>
                                 </p>
                                 <a class="button button-black-outline button-ujarak" href="contact-us.php">Reservar Ahora</a>
                             </div>
