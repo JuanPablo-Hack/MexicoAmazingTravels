@@ -72,7 +72,7 @@
                             <a href="#">Entradas a eventos y sitio de interés</a>
                         </h5>
                         <p class="box-icon-classic-text">
-                            Los ingresos y asientos bien ubicados en los diferentes eventos tradicionales, museos y lugares arqueológicos están asegurados para ti y tus acompañantes.
+                            Los ingresos y asientos bien ubicados en los eventos tradicionales, museos y lugares arqueológicos están asegurados para ti y tus acompañantes.
                         </p>
                     </div>
                 </div>
@@ -80,6 +80,7 @@
             <div class="col-sm-4 col-lg-4">
                 <div class="box">
                     <div class="imgBox">
+                        <!-- TODO: redimensionar la imagen adecuada a las diferentes imagenes -->
                         <img src="https://mexicolu.gruposoca.com.mx/images/artesanias.jpg" class="img-responsive" />
                     </div>
                     <div class="content">
@@ -87,8 +88,7 @@
                             <a href="#">Apoyo en la compra de artesanías</a>
                         </h5>
                         <p class="box-icon-classic-text">
-                            Podrás adquirir las artesanías de tu agrado en todos los Destinos que tenemos para ti.
-                        </p>
+                            Podrás adquirir las artesanías de tu agrado en todos los Destinos que tenemos para ti. </p>
                     </div>
                 </div>
             </div>
@@ -147,8 +147,7 @@
                             <a href="#">Apoyo en servicio de paquetería</a>
                         </h5>
                         <p class="box-icon-classic-text">
-                            Trasladamos a las agencias de paquetería las artesanías que adquieras
-                            para asegurarte que lleguen a su destino en buen estado. El costo del envío es por tu cuenta.
+                            Trasladamos empaquetadas a las agencias de paquetería las artesanías que adquieras para asegurarte que lleguen a su destino en buen estado. El costo del envío es por tu cuenta.
                         </p>
                     </div>
                 </div>

@@ -1,7 +1,6 @@
 <section class="section section-sm section-first bg-default text-md-left">
     <div class="container">
         <div class="row row-50 align-items-center justify-content-center justify-content-xl-between">
-            <!-- TODO: Que se haga la imagen estatica con el cambio del texto -->
             <div class="col-lg-12 wow fadeInRight" data-wow-delay=".1s">
                 <div style=" width: 100%;">
                     <h3>Lo que nos caracteriza</h3>

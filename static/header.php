@@ -47,15 +47,15 @@
                             <li class="rd-nav-item">
                                 <a class="rd-nav-link" href="destinos.php">Destinos</a>
                             </li>
-                            <li class="rd-nav-item">
+                            <!-- <li class="rd-nav-item">
                                 <a class="rd-nav-link" href="#">Testimoniales</a>
-                            </li>
+                            </li> -->
                             <li class="rd-nav-item">
                                 <a class="rd-nav-link" href="contact-us.php">Reservaciones</a>
                             </li>
-                            <li class="rd-nav-item">
+                            <!-- <li class="rd-nav-item">
                                 <a class="rd-nav-link" href="gallery.php">Galería</a>
-                            </li>
+                            </li> -->
                         </ul>
                     </div>
                 </div>
