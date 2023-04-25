@@ -28,7 +28,7 @@
                             Elaboración de Alebrijes
                         </h3>
                         <p>
-                            Recorrido en talleres artesanales y explicación sobre la forma en que se elaboran las famosas figuras de madera con pinturas multicolores. Interactivo. <br />
+                            Recorrido en talleres artesanales y explicación sobre la forma en que se elaboran las famosas figuras de madera con pinturas multicolores. Interactivo. <br /> <br>
                             <br />
                         </p>
                     </div>
@@ -62,7 +62,7 @@
                         </h3>
                         <p>
                             Recorrido por el templo inconcluso de estilo Dominico con relato popular acerca del porqué no se concluyó
-                            <br />
+                            <br /> <br> <br>
                         </p>
                     </div>
                 </div>
@@ -79,7 +79,7 @@
                         </h3>
                         <p>
                             Visita y paseo por el pueblo de El Tule, lugar del Árbol más longevo del mundo, con explicación de las figuras caprichosas que forman sus raíces y corteza
-                            <br />
+                            <br /> <br>
                         </p>
                     </div>
                 </div>
@@ -95,7 +95,7 @@
                             Sitio Arqueológico de Monte Albán
                         </h3>
                         <p>
-                            Visita al complejo de construcciones de origen Zapoteca construidas sobre un cerro con explicación de las costumbres, ceremonias y práctica de oficios de esa civilización.
+                            Visita al complejo de construcciones de origen Zapoteca construidas sobre un cerro con explicación de las costumbres, ceremonias y práctica de oficios de esa civilización. <br> <br>
                         </p>
                     </div>
                 </div>
@@ -116,7 +116,6 @@
                     </div>
                 </div>
             </div>
-
             <div class="item">
                 <div class="blog-entry">
                     <a href="#" class="block-20 d-flex align-items-start" style="
@@ -128,7 +127,7 @@
                             Participación de ruta Senderismo (aventura)
                         </h3>
                         <p>
-                            Recorrido por la montaña durante una mañana completa para ejercitarte y convivir con la naturaleza vegetal y animal de la zona
+                            Recorrido por la montaña durante una mañana completa para ejercitarte y convivir con la naturaleza vegetal y animal de la zona <br> <br>
                         </p>
                     </div>
                 </div>
@@ -156,7 +155,7 @@
                     <div class="text border border-top-0 p-4">
                         <h3 class="heading">Elaboración de Velas de Concha</h3>
                         <p>
-                            Explicación sobre la forma en que los habitantes elaboran las famosas velas de concha con técnicas heredadas. Interactivo <br />
+                            Explicación sobre la forma en que los habitantes elaboran las famosas velas de concha con técnicas heredadas. Interactivo <br /> <br>
                             <br />
                         </p>
                     </div>
@@ -174,7 +173,7 @@
                         </h3>
                         <p>
                             Visita al complejo de construcciones de origen Zapoteca construidas como lugar ceremonial con explicación de las costumbres, ceremonias y rituales efectuados en el sitio.
-                            <br />
+                            <br /> <br>
                         </p>
                     </div>
                 </div>
@@ -188,7 +187,7 @@
                     <div class="text border border-top-0 p-4">
                         <h3 class="heading">Artesanías en Barro de Atzompa</h3>
                         <p>
-                            Explicación sobre la forma en que los habitantes elaboran las figuras de barro con las técnicas heredadas de sus ancestros. Interactivo.
+                            Explicación sobre la forma en que los habitantes elaboran las figuras de barro con las técnicas heredadas de sus ancestros. Interactivo. <br> <br> <br>
                         </p>
                     </div>
                 </div>
@@ -220,7 +219,7 @@
                             Mercado de la ciudad </h3>
                         <p>
                             Paseo y degustación de alimentos cotidianos de los habitantes, la variedad y múltiples sabores que se ofrecen en el lugar.
-                            <br />
+                            <br /> <br> <br>
                         </p>
                     </div>
                 </div>
@@ -235,7 +234,7 @@
                         <h3 class="heading">
                             Cascadas pétreas de Hierve el Agua (Aventura) </h3>
                         <p>
-                            Paseo por la locación de las cascadas pétreas formadas a través de millones de años y explicación de su composición.
+                            Paseo por la locación de las cascadas pétreas formadas a través de millones de años y explicación de su composición. <br> <br>
                         </p>
                     </div>
                 </div>
@@ -253,6 +252,7 @@
                             Recorrido por una fábrica elaboradora de Mezcal con explicación del proceso de elaboración de los diferentes tipos de mezcal
                             <br />
                             <br />
+                            <br>
                         </p>
                     </div>
                 </div>
@@ -285,7 +285,7 @@
                             Sitio Arqueológico de Yagul
                         </h3>
                         <p>
-                            Visita al complejo de construcciones precolombinas de origen Zapoteca construidas sobre un valle con explicación de las costumbres, ceremonias y práctica de oficios de esa civilización.
+                            Visita al complejo de construcciones precolombinas de origen Zapoteca construidas sobre un valle con explicación de las costumbres, ceremonias y práctica de oficios de esa civilización. <br>
                             <br />
                         </p>
                     </div>
@@ -302,7 +302,7 @@
                             Visita al Museo Rufino Tamayo </h3>
                         <p>
                             Visita y recorrido en el museo Tamayo con exhibición de una gran variedad de piezas arqueológicas encontradas en la zona.
-                            <br />
+                            <br /> <br> <br>
                         </p>
                     </div>
                 </div>
@@ -331,7 +331,8 @@
                     <div class="text border border-top-0 p-4">
                         <h3 class="heading">Elaboración de Chocolate</h3>
                         <p>
-                            Explicación sobre la forma en que sus habitantes elaboran el Chocolate con las mismas técnicas que utilizaban los indígenas de la zona. Interactivo <br />
+                            Explicación sobre la forma en que sus habitantes elaboran el Chocolate con las mismas técnicas que utilizaban los indígenas de la zona. Interactivo <br /> <br> <br>
+
                         </p>
                     </div>
                 </div>
@@ -345,7 +346,7 @@
                     <div class="text border border-top-0 p-4">
                         <h3 class="heading">Sitio de Hongos (aventura)</h3>
                         <p>
-                            Recorrido en un bosque repleto de una gran variedad de hongos silvestres utilizados por los habitantes de la región para efectos medicinales, sobre todo. Aprenderás a distinguir entre hongos benéficos y venenosos <br /><br />
+                            Recorrido en un bosque repleto de una gran variedad de hongos silvestres utilizados por los habitantes de la región para efectos medicinales, sobre todo. Aprenderás a distinguir entre hongos benéficos y venenosos <br />
                         </p>
                     </div>
                 </div>
@@ -361,7 +362,7 @@
                             Recorrido por el Centro Histórico </h3>
                         <p>
                             Recorrido por los lugares importantes que dan ejemplo de arquitectura y costumbres de sus habitantes
-                            <br />
+                            <br /> <br /> <br />
                         </p>
                     </div>
                 </div>
@@ -376,7 +377,7 @@
                         <h3 class="heading">Visita y participación del Columpio (aventura)</h3>
                         <p>
                             Disfruta la sensación de balancearte sobre un columpio a la orilla de un risco donde no tienes contacto con el piso sino con el aire durante unos minutos que parecerán horas.
-                            <br /><br />
+                            <br />
                         </p>
                     </div>
                 </div>
@@ -393,7 +394,7 @@
                         </h3>
                         <p>
                             Explicación sobre la forma en que los habitantes elaboran las velas y crean figuras de flores multicolores con las técnicas heredadas de sus ancestros. Interactivo.
-                            <br />
+                            <br /> <br />
                         </p>
                     </div>
                 </div>
@@ -409,7 +410,7 @@
                             Visita a las Grutas (Aventura) </h3>
                         <p>
                             Recorrido por el interior de las grutas con explicación de las figuras caprichosas que forman las estalactitas y estalagmitas del lugar.
-                            <br />
+                            <br /> <br /> <br />
                         </p>
                     </div>
                 </div>
@@ -441,7 +442,7 @@
                         </h3>
                         <p>
                             Explicación sobre la manera en que los habitantes elaboran los utensilios para batir el chocolate con madera con los mismos procedimientos que utilizaban los indígenas de la zona. Interactivo.
-                            <br />
+                            <br /> <br />
                         </p>
                     </div>
                 </div>
@@ -457,7 +458,7 @@
                             Visita y participación de Tirolesa (aventura)
                         </h3>
                         <p>
-                            Experimentarás durante el recorrido la sensación extrema de viajar sobre una cuerda desde un risco hasta la zona plana del valle.
+                            Experimentarás durante el recorrido la sensación extrema de viajar sobre una cuerda desde un risco hasta la zona plana del valle. <br /> <br />
                         </p>
                     </div>
                 </div>
@@ -491,7 +492,7 @@
                         </h3>
                         <p>
                             Recorrido por el cañón para disfrutar de la majestuosa formación natural y la vista panorámica de la zona
-                            <br />
+                            <br /> <br />
                         </p>
                     </div>
                 </div>
