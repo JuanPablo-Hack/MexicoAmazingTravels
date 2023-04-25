@@ -8,6 +8,7 @@
 <link rel="stylesheet" href="assets/css/bootstrap.css">
 <link rel="stylesheet" href="assets/css/fonts.css">
 <link rel="stylesheet" href="assets/css/style.css">
+<link rel="stylesheet" href="assets/sweetalert2/sweetalert2.min.css">
 <style>
     .ie-panel {
         display: none;

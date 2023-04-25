@@ -138,6 +138,5 @@
             </div>
         </div>
     </div>
-    <!-- Swiper Pagination-->
     <div class="swiper-pagination"></div>
 </section>
