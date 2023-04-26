@@ -295,14 +295,14 @@ function mandarReservacionVentas($correo, $nombre, $tel, $destino, $paquete, $no
                             Hemos tenido una nueva petición de reservación atender a la brevedad administrador!
                           </h1>
                           <p style="margin: 0">
-                              Administrador ha llegado una nueva reservación a nombre de: ' . $nombre . ', número de télefono ' . $tel . '. <br>
-                              Destino: ' . $destino . ' <br>
+                              Administrador ha llegado una nueva reservacion a nombre de: ' . utf8_encode($nombre) . ', número de telefono ' . utf8_encode($tel) . '. <br>
+                              Destino: ' . utf8_encode($destino) . ' <br>
                               Tipo de paquete: ' . $paquete . ' <br>
                               Número de Adultos: ' . $no_adultos . ' <br>
                               Número de niños: ' . $no_niños . ' <br>
                               Fecha de inicio: ' . $fecha_inicio . ' <br>
                               Fecha de fin: ' . $fecha_fin . ' <br>
-                              Mensaje: ' . $mensaje . '
+                              Mensaje: ' . utf8_encode($mensaje) . '
                           </p>
                           <br />
                         </td>
