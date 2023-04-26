@@ -1,6 +1,7 @@
 <?php
 mandarConfirmacionReservacion($_POST['email'], $_POST['name']);
 mandarReservacionVentas($_POST['email'], $_POST['name'], $_POST['phone'], $_POST['destino'], $_POST['paquete'], $_POST['numero_adultos'], $_POST['numero_niños'], $_POST['fecha_inicio'], $_POST['fecha_fin'], $_POST['message']);
+echo 1;
 function mandarConfirmacionReservacion($correo, $nombre)
 {
   $destinatario = "$correo";
@@ -292,14 +293,14 @@ function mandarReservacionVentas($correo, $nombre, $tel, $destino, $paquete, $no
                               letter-spacing: -0.02em;
                             "
                           >
-                            Hemos tenido una nueva petición de reservación atender a la brevedad administrador!
+                            Hemos tenido una nueva peticion de reservacion atender a la brevedad administrador!
                           </h1>
                           <p style="margin: 0">
-                              Administrador ha llegado una nueva reservacion a nombre de: ' . utf8_encode($nombre) . ', número de telefono ' . utf8_encode($tel) . '. <br>
+                              Administrador ha llegado una nueva reservacion a nombre de: ' . utf8_encode($nombre) . ', numero de telefono ' . utf8_encode($tel) . '. <br>
                               Destino: ' . utf8_encode($destino) . ' <br>
                               Tipo de paquete: ' . $paquete . ' <br>
-                              Número de Adultos: ' . $no_adultos . ' <br>
-                              Número de niños: ' . $no_niños . ' <br>
+                              Numero de adultos: ' . $no_adultos . ' <br>
+                              Numero de menores: ' . $no_niños . ' <br>
                               Fecha de inicio: ' . $fecha_inicio . ' <br>
                               Fecha de fin: ' . $fecha_fin . ' <br>
                               Mensaje: ' . utf8_encode($mensaje) . '
