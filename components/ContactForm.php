@@ -66,7 +66,7 @@
                     <div class="form-wrap">
                         <select name="destino" class="form-input" data-constraints="@Selected">
                             <option value="">Seleccion un destino</option>
-                            <option value="">Oaxaca</option>
+                            <option value="Oaxaca">Oaxaca</option>
                         </select>
                     </div>
                 </div>
@@ -74,12 +74,12 @@
                     <div class="form-wrap">
                         <select name="paquete" class="form-input" data-constraints="@Selected">
                             <option value="">Selecciona un paquete</option>
-                            <option value="">Básico</option>
-                            <option value="">Familiar y emocionante</option>
-                            <option value="">Con tiempo para deleitarse</option>
-                            <option value="">Aventura y Cultura</option>
-                            <option value="">Playas inolvidables</option>
-                            <option value="">Especial y a tu medida</option>
+                            <option value="Basico">Básico</option>
+                            <option value="Familiar">Familiar y emocionante</option>
+                            <option value="Tiempo">Con tiempo para deleitarse</option>
+                            <option value="Aventura">Aventura y Cultura</option>
+                            <option value="Playas">Playas inolvidables</option>
+                            <option value="Especial">Especial y a tu medida</option>
                         </select>
                     </div>
                 </div>
