@@ -171,7 +171,7 @@ function mandarConfirmacionReservacion($correo, $nombre)
 function mandarReservacionVentas($correo, $nombre, $tel, $destino, $paquete, $no_adultos, $no_niños, $fecha_inicio, $fecha_fin, $mensaje)
 {
   $destinatario = "contacto@mexicoamazingtravels.com";
-  $asunto = "Reservación del sitio web";
+  $asunto = "Reservacion del sitio web";
   $cuerpo = ' 
         <!DOCTYPE html>
         <html
