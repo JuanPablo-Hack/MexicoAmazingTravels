@@ -3,7 +3,7 @@
         <div class="owl-item">
             <article class="thumbnail thumbnail-mary">
                 <div class="thumbnail-mary-figure">
-                    <img src="https://mexicolu.gruposoca.com.mx/images/oaxaca_destinos.jpg" alt="" width="420px" height="250px" />
+                    <img src="assets/images/oaxaca_destinos.jpg" alt="" width="420px" height="250px" />
                 </div>
                 <div class="thumbnail-mary-caption">
                     <a class="icon fl-bigmug-line-zoom60" href="paquetes.php?destino=chiapas"></a>

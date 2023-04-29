@@ -80,7 +80,6 @@
             <div class="col-sm-4 col-lg-4">
                 <div class="box">
                     <div class="imgBox">
-                        <!-- TODO: redimensionar la imagen adecuada a las diferentes imagenes -->
                         <img src="https://mexicolu.gruposoca.com.mx/images/artesanias.jpg" class="img-responsive" />
                     </div>
                     <div class="content">

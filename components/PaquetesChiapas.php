@@ -95,7 +95,7 @@
                             Sitio Arqueológico de Monte Albán
                         </h3>
                         <p>
-                            Visita al complejo de construcciones de origen Zapoteca construidas sobre un cerro con explicación de las costumbres, ceremonias y práctica de oficios de esa civilización. <br>  
+                            Visita al complejo de construcciones de origen Zapoteca construidas sobre un cerro con explicación de las costumbres, ceremonias y práctica de oficios de esa civilización. <br>
                         </p>
                     </div>
                 </div>
@@ -127,7 +127,7 @@
                             Participación de ruta Senderismo (aventura)
                         </h3>
                         <p>
-                            Recorrido por la montaña durante una mañana completa para ejercitarte y convivir con la naturaleza vegetal y animal de la zona <br> 
+                            Recorrido por la montaña durante una mañana completa para ejercitarte y convivir con la naturaleza vegetal y animal de la zona <br>
                         </p>
                     </div>
                 </div>
@@ -155,7 +155,7 @@
                     <div class="text border border-top-0 p-4">
                         <h3 class="heading">Elaboración de Velas de Concha</h3>
                         <p>
-                            Explicación sobre la forma en que los habitantes elaboran las famosas velas de concha con técnicas heredadas. Interactivo <br /> 
+                            Explicación sobre la forma en que los habitantes elaboran las famosas velas de concha con técnicas heredadas. Interactivo <br />
                             <br />
                         </p>
                     </div>
@@ -219,7 +219,7 @@
                             Mercado de la ciudad </h3>
                         <p>
                             Paseo y degustación de alimentos cotidianos de los habitantes, la variedad y múltiples sabores que se ofrecen en el lugar.
-                            <br /> <br> 
+                            <br /> <br>
                         </p>
                     </div>
                 </div>
@@ -252,7 +252,7 @@
                             Recorrido por una fábrica elaboradora de Mezcal con explicación del proceso de elaboración de los diferentes tipos de mezcal
                             <br />
                             <br />
-                          
+
                         </p>
                     </div>
                 </div>
@@ -269,7 +269,7 @@
                         <p>
                             Recorrido con explicación sobre la forma en que los habitantes elaboran los tapetes de lana virgen utilizando técnicas antiguas y pigmentación con elementos naturales. Interactivo.
                             <br />
-                           
+
                         </p>
                     </div>
                 </div>
@@ -286,7 +286,7 @@
                         </h3>
                         <p>
                             Visita al complejo de construcciones precolombinas de origen Zapoteca construidas sobre un valle con explicación de las costumbres, ceremonias y práctica de oficios de esa civilización. <br>
-                         
+
                         </p>
                     </div>
                 </div>
@@ -302,7 +302,7 @@
                             Visita al Museo Rufino Tamayo </h3>
                         <p>
                             Visita y recorrido en el museo Tamayo con exhibición de una gran variedad de piezas arqueológicas encontradas en la zona.
-                            <br /> <br> 
+                            <br /> <br>
                         </p>
                     </div>
                 </div>
@@ -331,7 +331,7 @@
                     <div class="text border border-top-0 p-4">
                         <h3 class="heading">Elaboración de Chocolate</h3>
                         <p>
-                            Explicación sobre la forma en que sus habitantes elaboran el Chocolate con las mismas técnicas que utilizaban los indígenas de la zona. Interactivo <br /> <br> 
+                            Explicación sobre la forma en que sus habitantes elaboran el Chocolate con las mismas técnicas que utilizaban los indígenas de la zona. Interactivo <br /> <br>
 
                         </p>
                     </div>
@@ -442,7 +442,7 @@
                         </h3>
                         <p>
                             Explicación sobre la manera en que los habitantes elaboran los utensilios para batir el chocolate con madera con los mismos procedimientos que utilizaban los indígenas de la zona. Interactivo.
-                            <br /> 
+                            <br />
                         </p>
                     </div>
                 </div>
@@ -458,8 +458,8 @@
                             Visita y participación de Tirolesa (aventura)
                         </h3>
                         <p>
-                            Experimentarás durante el recorrido la sensación extrema de viajar sobre una cuerda desde un risco hasta la zona plana del valle. <br /> 
-                            
+                            Experimentarás durante el recorrido la sensación extrema de viajar sobre una cuerda desde un risco hasta la zona plana del valle. <br />
+
                         </p>
                     </div>
                 </div>
@@ -476,7 +476,7 @@
                         <p>
                             Explicación sobre la forma en que los habitantes elaboran el pan hecho para ocasiones especiales de los habitantes de la región con las técnicas que heredaron de sus ancestros. Interactivo.
                             <br />
-                           
+
                         </p>
                     </div>
                 </div>
@@ -520,9 +520,6 @@
 </section>
 <section class="section section-sm bg-default">
     <div class="container">
-        <div class="group-md group-middle justify-content-sm-start">
-            <a class="button button-lg button-primary button-ujarak" href="destinos.php">Regresar</a>
-        </div>
         <h3 class="oh-desktop">
             <span class="d-inline-block wow slideInDown">Paquetes</span>
         </h3>
@@ -547,7 +544,7 @@
                                 <p class="product-big-text">
                                     <strong>Experiencia interesante para personas que quieren disfrutar lo mejor de Oaxaca en 7 días y sin límite de edad.</strong>
                                 </p>
-                                <a class="button button-black-outline button-ujarak" href="contact-us.php">Reservar Ahora</a>
+                                <a class="button button-black-outline button-ujarak" href="contact-us.php">Intinerario</a>
                             </div>
                         </div>
                     </div>
@@ -573,7 +570,7 @@
                                 <p class="product-big-text">
                                     <strong>Emocionante y para gozar con tu familia lo que ofrece Oaxaca en 10 días. No importa la edad.</strong>
                                 </p>
-                                <a class="button button-black-outline button-ujarak" href="contact-us.php">Reservar Ahora</a>
+                                <a class="button button-black-outline button-ujarak" href="contact-us.php">Intinerario</a>
                             </div>
                         </div>
                     </div>
@@ -600,7 +597,7 @@
                                 <p class="product-big-text">
                                     <strong>Especial para personas mayores de edad o retiradas que desean conocer Oaxaca con calma en 10 días.</strong>
                                 </p>
-                                <a class="button button-black-outline button-ujarak" href="contact-us.php">Reservar Ahora</a>
+                                <a class="button button-black-outline button-ujarak" href="contact-us.php">Intinerario</a>
                             </div>
                         </div>
                     </div>
@@ -626,7 +623,7 @@
                                 <p class="product-big-text">
                                     <strong>Siempre excitante, especial para personas que desean convivir con la naturaleza y una buena dosis de adrenalina sin olvidar la esencia cultural de Oaxaca durante 10 días.</strong>
                                 </p>
-                                <a class="button button-black-outline button-ujarak" href="contact-us.php">Reservar Ahora</a>
+                                <a class="button button-black-outline button-ujarak" href="contact-us.php">Intinerario</a>
                             </div>
                         </div>
                     </div>
@@ -652,7 +649,7 @@
                                 <p class="product-big-text">
                                     <strong>Están a tu alcance las playas que tiene Oaxaca con una combinación de aventura, relajamiento y romanticismo. El paraíso de la región a tu alcance durante 10 días y para todas las edades.</strong>
                                 </p>
-                                <a class="button button-black-outline button-ujarak" href="contact-us.php">Reservar Ahora</a>
+                                <a class="button button-black-outline button-ujarak" href="contact-us.php">Intinerario</a>
                             </div>
                         </div>
                     </div>
@@ -678,7 +675,7 @@
                                 <p class="product-big-text">
                                     <strong>No es indispensable ir en grupo, siempre hay la opción de tomar cualquiera de estos paquetes en pareja o solo para tu familia. La duración depende de ti, 7 o 10 días y sin límite de edad.</strong>
                                 </p>
-                                <a class="button button-black-outline button-ujarak" href="contact-us.php">Reservar Ahora</a>
+                                <a class="button button-black-outline button-ujarak" href="contact-us.php">Intinerario</a>
                             </div>
                         </div>
                     </div>

@@ -1,6 +1,6 @@
 <section class="section swiper-container swiper-slider swiper-slider-corporate swiper-pagination-style-2" data-loop="true" data-autoplay="10000" data-simulate-touch="true" data-nav="false" data-direction="vertical">
     <div class="swiper-wrapper text-left">
-        <div class="swiper-slide context-dark" data-slide-bg="https://mexicolu.gruposoca.com.mx/images/taxco.jpg">
+        <div class="swiper-slide context-dark" data-slide-bg="assets/images/danza_viejitos.jpg">
             <div class="swiper-slide-caption section-md">
                 <div class="container">
                     <div class="row">
@@ -70,7 +70,8 @@
                                 <span class="font-weight-bold">Sin presiones </span>
                             </h2>
                             <h5 class="text-uppercase" data-caption-animate="fadeInRight" data-caption-delay="0">
-                                No corremos, nos lo tomamos con calma, para que vivas la mejor experiencia de tu vida, es la mejor manera de disfrutar. </h5>
+                                No se trata de echar un vistazo sino de tomarte con calma
+                                la gran diversidad de sitios </h5>
                         </div>
                     </div>
                 </div>
