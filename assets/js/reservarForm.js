@@ -26,7 +26,8 @@ async function crearReservacion(e) {
       if (result.isConfirmed) {
         var form = document.getElementById("FormReservar");
         const fd = new FormData(form);
-        fetch("config/SendMail.php", {
+        fd.append("accion", "alta");
+        fetch("models/ReservarModel.php", {
           method: "POST",
           body: fd,
         })
@@ -38,20 +39,20 @@ async function crearReservacion(e) {
                 "Su reservación ha sido enviada con éxito, se le envíara un correo con las instrucciones del pago.",
                 "success"
               );
-              form.reset();
-              setTimeout(function () {
-                location.reload();
-              }, 2000);
+              // form.reset();
+              // setTimeout(function () {
+              //   location.reload();
+              // }, 2000);
             } else {
               swalWithBootstrapButtons.fire(
                 "Error",
                 "Hemos tenido un error a la base de datos o la conexión.",
                 "error"
               );
-              form.reset();
-              setTimeout(function () {
-                location.reload();
-              }, 2000);
+              // form.reset();
+              // setTimeout(function () {
+              //   location.reload();
+              // }, 2000);
             }
           });
       } else if (result.dismiss === Swal.DismissReason.cancel) {

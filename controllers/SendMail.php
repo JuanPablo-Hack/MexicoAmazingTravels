@@ -1,10 +1,8 @@
 <?php
-mandarConfirmacionReservacion($_POST['email'], $_POST['name']);
-mandarReservacionVentas($_POST['email'], $_POST['name'], $_POST['phone'], $_POST['destino'], $_POST['paquete'], $_POST['numero_adultos'], $_POST['numero_niños'], $_POST['fecha_inicio'], $_POST['fecha_fin'], $_POST['message']);
-echo 1;
-function mandarConfirmacionReservacion($correo, $nombre)
+function mandarConfirmacionReservacion($datos_cliente)
 {
-  $destinatario = "$correo";
+
+  $destinatario = "$datos_cliente[1]";
   $asunto = "Confirmacion Reservación";
   $cuerpo = ' 
         <!DOCTYPE html>
@@ -127,7 +125,7 @@ function mandarConfirmacionReservacion($correo, $nombre)
                               letter-spacing: -0.02em;
                             "
                           >
-                            Felicidades ' . $nombre . ' se ha realizado con éxito tu reservación!
+                            Felicidades ' . $datos_cliente[0] . ' se ha realizado con éxito tu reservación!
                           </h1>
                           <p style="margin: 0">
                             En Mexico Amazing Travels nos alegra que nos elija como preferencia para hacer sus viajes, muchas gracias por realizar su reservación en menos de 24  horas ser le hará llegar la cotización por parte de nuestro departamento de ventas, siempre estamos innovando para dar servicios de gran calidad.
@@ -168,7 +166,7 @@ function mandarConfirmacionReservacion($correo, $nombre)
   $headers .= "From: Departamento de Ventas <contacto@mexicoamazingtravels.com>\r\n";
   mail($destinatario, $asunto, $cuerpo, $headers);
 }
-function mandarReservacionVentas($correo, $nombre, $tel, $destino, $paquete, $no_adultos, $no_niños, $fecha_inicio, $fecha_fin, $mensaje)
+function mandarReservacionVentas($datos_cliente)
 {
   $destinatario = "contacto@mexicoamazingtravels.com";
   $asunto = "Reservacion del sitio web";
@@ -296,14 +294,12 @@ function mandarReservacionVentas($correo, $nombre, $tel, $destino, $paquete, $no
                             Hemos tenido una nueva peticion de reservacion atender a la brevedad administrador!
                           </h1>
                           <p style="margin: 0">
-                              Administrador ha llegado una nueva reservacion a nombre de: ' . utf8_encode($nombre) . ', numero de telefono ' . utf8_encode($tel) . '. <br>
-                              Destino: ' . utf8_encode($destino) . ' <br>
-                              Tipo de paquete: ' . $paquete . ' <br>
-                              Numero de adultos: ' . $no_adultos . ' <br>
-                              Numero de menores: ' . $no_niños . ' <br>
-                              Fecha de inicio: ' . $fecha_inicio . ' <br>
-                              Fecha de fin: ' . $fecha_fin . ' <br>
-                              Mensaje: ' . utf8_encode($mensaje) . '
+                              Administrador ha llegado una nueva reservacion a nombre de: ' . utf8_encode($datos_cliente[0]) . ', numero de telefono ' . utf8_encode($datos_cliente[4]) . '. <br>
+                              Destino: ' . utf8_encode($datos_cliente[5]) . ' <br>
+                              Tipo de paquete: ' . $datos_cliente[6] . ' <br>
+                              Numero de adultos: ' . $datos_cliente[7] . ' <br>
+                              Numero de menores: ' . $datos_cliente[8] . ' <br>
+                              Fecha de seleccionadas: ' . $datos_cliente[9] . ' <br>
                           </p>
                           <br />
                         </td>
@@ -338,6 +334,6 @@ function mandarReservacionVentas($correo, $nombre, $tel, $destino, $paquete, $no
       ';
   $headers = "MIME-Version: 1.0\r\n";
   $headers .= "Content-type: text/html; charset=iso-8859-1\r\n";
-  $headers .= "From: Departamento de Ventas <$correo>\r\n";
+  $headers .= "From: Departamento de Ventas <$datos_cliente[1]>\r\n";
   mail($destinatario, $asunto, $cuerpo, $headers);
 }

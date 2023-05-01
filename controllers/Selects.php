@@ -28,4 +28,5 @@ function obtenerEstado($id){
     $datos =  $result->fetch_assoc();
     return $datos['nombre'];
 }
+
 ?>

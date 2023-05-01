@@ -1,3 +1,10 @@
+<?php
+include 'config/DataBase.php';
+$sql = "SELECT * FROM paquetes";
+$result = mysqli_query($conexion, $sql);
+$sql2 = "SELECT * FROM destinos";
+$result2 = mysqli_query($conexion, $sql2);
+?>
 <section class="section section-sm section-last bg-default text-left">
     <div class="container">
         <article class="title-classic">
@@ -18,46 +25,44 @@
             <div class="row row-14 gutters-14">
                 <div class="col-md-6">
                     <div class="form-wrap">
-                        <input class="form-input" id="contact-your-name-2" type="text" name="name"
+                        <input class="form-input" id="contact-your-name-2" type="text" name="datos[]"
                             data-constraints="@Required" placeholder="Ingresa tu nombre" />
                     </div>
                 </div>
                 <div class="col-md-6">
                     <div class="form-wrap">
-                        <input class="form-input" id="contact-email-2" type="email" name="email"
+                        <input class="form-input" id="contact-email-2" type="email" name="datos[]"
                             data-constraints="@Email @Required" placeholder="Ingresa tu correo" />
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="form-wrap">
-                        <input class="form-input" type="text" name="pais" data-constraints="@Required"
+                        <input class="form-input" type="text" name="datos[]" data-constraints="@Required"
                             placeholder="Ingresa tu país" />
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="form-wrap">
-                        <input class="form-input" type="text" name="ciudad" data-constraints="@Required"
+                        <input class="form-input" type="text" name="datos[]" data-constraints="@Required"
                             placeholder="Ingresa tu ciudad" />
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="form-wrap">
-                        <input class="form-input" id="contact-phone-2" type="text" name="phone"
+                        <input class="form-input" id="contact-phone-2" type="text" name="datos[]"
                             data-constraints="@Numeric" placeholder="Ingresa tu número de telefono" />
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="form-wrap">
-                        <input class="form-input" type="number" name="numero_adultos"
-                            data-constraints="@Numeric  @Required" id="numero_adultos"
-                            placeholder="Ingresa la cantidad de adultos" />
+                        <input class="form-input" type="number" name="datos[]" data-constraints="@Numeric  @Required"
+                            id="numero_adultos" placeholder="Ingresa la cantidad de adultos" />
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="form-wrap">
-                        <input class="form-input" type="number" name="numero_niños"
-                            data-constraints="@Numeric  @Required" id="numero_niños"
-                            placeholder="Ingresa número de niños" onchange="calcularPersonas()" />
+                        <input class="form-input" type="number" name="datos[]" data-constraints="@Numeric  @Required"
+                            id="numero_niños" placeholder="Ingresa número de niños" onchange="calcularPersonas()" />
                     </div>
                 </div>
                 <div class="col-md-4">
@@ -68,37 +73,44 @@
                 </div>
                 <div class="col-md-4">
                     <div class="form-wrap">
-                        <select name="destino" class="form-input" data-constraints="@Selected">
-                            <option value="">Seleccion un destino</option>
-                            <option value="Oaxaca">Oaxaca</option>
+                        <select name="datos[]" class="form-input" data-constraints="@Selected">
+                            <option value="">-Seleccion un destino-</option>
+                            <?php
+                                while ($Row1 = mysqli_fetch_array($result2)) {
+                                ?>
+                            <option value=<?php echo $Row1['id']; ?>><?php echo $Row1['nombre']; ?></option>
+                            <?php
+                                }
+                                ?>
                         </select>
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="form-wrap">
-                        <select name="paquete" class="form-input" data-constraints="@Selected" id="paquteSeleccionado">
-                            <option value="">Selecciona un paquete</option>
-                            <option value="Basico">Básico</option>
-                            <option value="Familiar">Familiar y emocionante</option>
-                            <option value="Tiempo">Con tiempo para deleitarse</option>
-                            <option value="Aventura">Aventura y Cultura</option>
-                            <option value="Playas">Playas inolvidables</option>
-                            <option value="Especial">Especial y a tu medida</option>
+                        <select name="datos[]" class="form-input" data-constraints="@Selected" id="paquteSeleccionado">
+                            <option value="0">-Selecciona un paquete-</option>
+                            <?php
+                                while ($Row1 = mysqli_fetch_array($result)) {
+                                ?>
+                            <option value=<?php echo $Row1['id']; ?>><?php echo $Row1['nombre']; ?></option>
+                            <?php
+                                }
+                                ?>
                         </select>
                     </div>
                 </div>
                 <div class="col-md-4">
-                    <select name="paquete" class="form-input" data-constraints="@Selected">
+                    <select name="datos[]" class="form-input" data-constraints="@Selected">
                         <option value="">Fechas disponibles</option>
-                        <option value="">3 de Marzo - 8 de Marzo</option>
-                        <option value="">3 de Marzo - 8 de Marzo</option>
-                        <option value="">3 de Marzo - 8 de Marzo</option>
+                        <option value="2023-05-09">3 de Marzo - 8 de Marzo</option>
+                        <option value="2023-05-09">3 de Marzo - 8 de Marzo</option>
+                        <option value="2023-05-09">3 de Marzo - 8 de Marzo</option>
                     </select>
                 </div>
                 <div class="col-md-4">
                     <label>Seleccione la fecha</label>
                     <div class="form-wrap">
-                        <input class="form-input" type="date" name="fecha_inicio" required />
+                        <input class="form-input" type="date" name="datos[]" required />
                     </div>
                 </div>
             </div>
