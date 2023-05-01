@@ -1,0 +1,19 @@
+.languagewrapper {
+    margin: 0 auto;
+    width: 100%;
+}
+
+.languagemenu {
+    display: inline-block;
+    margin: 0 auto;
+}
+
+.languagemenu a {
+    display: inline-block;
+    text-decoration: none;
+
+}
+
+.languagemenu img {
+    display: inline-block;
+}

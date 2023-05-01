@@ -11,57 +11,59 @@
                 </p>
             </div>
         </article>
-        <!-- TODO: Tenemos que hacer que al momento de poner adultos y niños se pueda ver el total de personas automaticamente en el apartado de total de personas, poner el apartado de fechas disponibles con los rangos de fechas que nos harán llegar -->
-        <!-- TODO: Al momento de terminar el formulario hacer una confirmación del cliente mostrando el precio por persona del paquete que va adquirir, si se confirma se enviará un corre electrónico con las cuentas de deposito con la cantidad total que se tiene que depositar, poner que tiene una fecha limíte para hacer el deposito de comrpa de sus boletos de una semana -->
+        <!-- TODO: Hacer que el formulario despliegue los destinos y paquetes de la base de datos, hacer que todos los names sean un array llamados datos -->
         <!-- TODO: Tenemos que hacer un tabla de admnistración de las reservaciones para saber los datos personales de los clientes, el total de personas y la cantidad que se tiene que pagar para la verificación de las cuentas y del saldo a favor de las reservaciones, esta tabla se tiene que exportar en excel o pdf -->
-        <form class="rd-form rd-form-variant-2 rd-mailform" data-form-output="form-output-global" data-form-type="contact" id="FormReservar">
+        <form class="rd-form rd-form-variant-2 rd-mailform" data-form-output="form-output-global"
+            data-form-type="contact" id="FormReservar">
             <div class="row row-14 gutters-14">
                 <div class="col-md-6">
                     <div class="form-wrap">
-                        <input class="form-input" id="contact-your-name-2" type="text" name="name" data-constraints="@Required" />
-                        <label class="form-label" for="contact-your-name-2">Nombre</label>
+                        <input class="form-input" id="contact-your-name-2" type="text" name="name"
+                            data-constraints="@Required" placeholder="Ingresa tu nombre" />
                     </div>
                 </div>
                 <div class="col-md-6">
                     <div class="form-wrap">
-                        <input class="form-input" id="contact-email-2" type="email" name="email" data-constraints="@Email @Required" />
-                        <label class="form-label" for="contact-email-2">E-mail</label>
+                        <input class="form-input" id="contact-email-2" type="email" name="email"
+                            data-constraints="@Email @Required" placeholder="Ingresa tu correo" />
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="form-wrap">
-                        <input class="form-input" id="contact-phone-2" type="text" name="phone" data-constraints="@Numeric" />
-                        <label class="form-label" for="contact-phone-2">País</label>
+                        <input class="form-input" type="text" name="pais" data-constraints="@Required"
+                            placeholder="Ingresa tu país" />
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="form-wrap">
-                        <input class="form-input" id="contact-phone-2" type="text" name="phone" data-constraints="@Numeric" />
-                        <label class="form-label" for="contact-phone-2">Ciudad</label>
+                        <input class="form-input" type="text" name="ciudad" data-constraints="@Required"
+                            placeholder="Ingresa tu ciudad" />
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="form-wrap">
-                        <input class="form-input" id="contact-phone-2" type="text" name="phone" data-constraints="@Numeric" />
-                        <label class="form-label" for="contact-phone-2">Teléfono</label>
+                        <input class="form-input" id="contact-phone-2" type="text" name="phone"
+                            data-constraints="@Numeric" placeholder="Ingresa tu número de telefono" />
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="form-wrap">
-                        <input class="form-input" type="number" name="numero_adultos" data-constraints="@Numeric  @Required" />
-                        <label class="form-label" for="contact-phone-2">Número de adultos</label>
+                        <input class="form-input" type="number" name="numero_adultos"
+                            data-constraints="@Numeric  @Required" id="numero_adultos"
+                            placeholder="Ingresa la cantidad de adultos" />
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="form-wrap">
-                        <input class="form-input" type="number" name="numero_niños" data-constraints="@Numeric  @Required" />
-                        <label class="form-label" for="contact-phone-2">Número de niños</label>
+                        <input class="form-input" type="number" name="numero_niños"
+                            data-constraints="@Numeric  @Required" id="numero_niños"
+                            placeholder="Ingresa número de niños" onchange="calcularPersonas()" />
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="form-wrap">
-                        <input class="form-input" type="number" readonly />
-                        <label class="form-label" for="contact-phone-2">Número total de personas</label>
+                        <input class="form-input" type="number" readonly placeholder="Número total de personas"
+                            id="totalPersonas" />
                     </div>
                 </div>
                 <div class="col-md-4">
@@ -74,7 +76,7 @@
                 </div>
                 <div class="col-md-4">
                     <div class="form-wrap">
-                        <select name="paquete" class="form-input" data-constraints="@Selected">
+                        <select name="paquete" class="form-input" data-constraints="@Selected" id="paquteSeleccionado">
                             <option value="">Selecciona un paquete</option>
                             <option value="Basico">Básico</option>
                             <option value="Familiar">Familiar y emocionante</option>
@@ -100,9 +102,9 @@
                     </div>
                 </div>
             </div>
-            <button class="button button-primary button-pipaluk" type="submit">
+            <div class="button button-primary button-pipaluk" onclick="calcularFormulario()">
                 Calcular Precio
-            </button>
+            </div>
             <button class="button button-primary button-pipaluk" type="submit">
                 Reservar Ahora
             </button>
@@ -142,3 +144,4 @@
 </section>
 <script src="assets/sweetalert2/sweetalert2.all.min.js"></script>
 <script src="assets/js/reservarForm.js"></script>
+<script src="assets/js/calculosForm.js"></script>
