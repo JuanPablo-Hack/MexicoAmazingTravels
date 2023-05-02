@@ -2,8 +2,7 @@
     <div class="container ht-100p pd-t-0-f">
         <span class="text-muted d-block text-center text-sm-left d-sm-inline-block">Copyright © Mexico Amazing
             Travels</span>
-        <span class="float-none float-sm-right d-block mt-1 mt-sm-0 text-center"> Desarrollado por <a
-                href="https://jupitersoft.tech/" target="_blank">Jupiter Soft Tech</a>
+        <span class="float-none float-sm-right d-block mt-1 mt-sm-0 text-center"> Desarrollado por <a href="https://jupitersoft.tech/" target="_blank">Jupiter Soft Tech</a>
             desde jupitersoft.tech</span>
     </div>
 </div>
@@ -21,4 +20,3 @@
 <script src="assets/js/chart.flot.sampledata.js"></script>
 <script src="assets/js/dashboard.sampledata.js"></script>
 <script src="assets/js/graficasPanel.js"></script>
-<script src="assets/js/jquery.cookie.js" type="text/javascript"></script>

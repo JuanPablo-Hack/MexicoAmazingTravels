@@ -4,21 +4,20 @@
         <div class="az-signin-header">
             <h2>Bienvenido de nuevo!</h2>
             <h4>Por favor inicia sesión para continuar</h4>
-
-            <form action="index.html">
+            <form action="../controllers/Login.php" method="POST">
                 <div class="form-group">
                     <label>Correo</label>
-                    <input type="text" class="form-control" placeholder="Ingresa tu correo">
-                </div><!-- form-group -->
+                    <input type="text" class="form-control" placeholder="Ingresa tu correo" name="email">
+                </div>
                 <div class="form-group">
                     <label>Contraseña</label>
-                    <input type="password" class="form-control" placeholder="Ingresa tu contraseña">
-                </div><!-- form-group -->
-                <button class="btn btn-az-primary btn-block">Iniciar Sesión</button>
+                    <input type="password" class="form-control" placeholder="Ingresa tu contraseña" name="password">
+                </div>
+                <button class="btn btn-az-primary btn-block" type="submit">Iniciar Sesión</button>
             </form>
-        </div><!-- az-signin-header -->
+        </div>
         <div class="az-signin-footer">
             <p><a href="">Olvidaste la contraseña?</a></p>
-        </div><!-- az-signin-footer -->
-    </div><!-- az-card-signin -->
-</div><!-- az-signin-wrapper -->
+        </div>
+    </div>
+</div>

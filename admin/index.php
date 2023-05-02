@@ -1,12 +1,16 @@
 <!DOCTYPE html>
+<?php
+session_start();
+if (!isset($_SESSION['user'])) {
+    header('location: login.php');
+}
+?>
 <html lang="en">
-
 <head>
-    <?php 
-    include "static/head.php" 
+    <?php
+    include "static/head.php";
     ?>
 </head>
-
 <body>
     <?php include "static/header.php" ?>
     <div class="az-content az-content-dashboard">

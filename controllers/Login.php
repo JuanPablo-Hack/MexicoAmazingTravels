@@ -1,12 +1,14 @@
 <?php
 session_start();
-// TODO: Terminar el login y tambien la validación de sesiones
-include 'conexion.php';
-login($conexion, $_POST['correo'], sha1($_POST['contra']));
-function login($conexion, $user, $password)
-{
-    $sql = "SELECT * FROM trabajador WHERE correo='$user' and pwd='$password'";
-    $resultado = $conexion->query($sql);
-    
+include '../config/DataBase.php';
+$correo = $_POST['email'];
+$password = sha1($_POST['password']);
+$sql = "SELECT * FROM admin WHERE email='$correo' and contra='$password'";
+$resultado = $conexion->query($sql);
+if (!$resultado) {
+    header("Location: ../admin/login.php");
+} else {
+    $row = mysqli_fetch_assoc($resultado);
+    $_SESSION['user'] = $row['id'];
+    header("Location: ../admin/index.php");
 }
-?>

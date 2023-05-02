@@ -23,7 +23,7 @@
                         </div><!-- az-img-user -->
                         <h6>Administrador</h6>
                     </div><!-- az-header-profile -->
-                    <a href="page-signin.html" class="dropdown-item"><i class="typcn typcn-power-outline"></i> Cerrar
+                    <a href="../controllers/Logout.php" class="dropdown-item"><i class="typcn typcn-power-outline"></i> Cerrar
                         Sesión</a>
                 </div><!-- dropdown-menu -->
             </div>
