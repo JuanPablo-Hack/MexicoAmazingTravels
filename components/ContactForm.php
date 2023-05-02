@@ -18,8 +18,6 @@ $result2 = mysqli_query($conexion, $sql2);
                 </p>
             </div>
         </article>
-        <!-- TODO: Hacer que el formulario despliegue los destinos y paquetes de la base de datos, hacer que todos los names sean un array llamados datos -->
-        <!-- TODO: Tenemos que hacer un tabla de admnistración de las reservaciones para saber los datos personales de los clientes, el total de personas y la cantidad que se tiene que pagar para la verificación de las cuentas y del saldo a favor de las reservaciones, esta tabla se tiene que exportar en excel o pdf -->
         <form class="rd-form rd-form-variant-2 rd-mailform" data-form-output="form-output-global"
             data-form-type="contact" id="FormReservar">
             <div class="row row-14 gutters-14">

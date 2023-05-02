@@ -2,7 +2,9 @@
 <html lang="en">
 
 <head>
-    <?php include "static/head.php" ?>
+    <?php 
+    include "static/head.php" 
+    ?>
 </head>
 
 <body>
