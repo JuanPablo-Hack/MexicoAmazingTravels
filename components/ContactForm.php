@@ -18,55 +18,46 @@ $result2 = mysqli_query($conexion, $sql2);
                 </p>
             </div>
         </article>
-        <form class="rd-form rd-form-variant-2 rd-mailform" data-form-output="form-output-global"
-            data-form-type="contact" id="FormReservar">
+        <form class="rd-form rd-form-variant-2 rd-mailform" data-form-output="form-output-global" data-form-type="contact" id="FormReservar">
             <div class="row row-14 gutters-14">
                 <div class="col-md-6">
                     <div class="form-wrap">
-                        <input class="form-input" id="contact-your-name-2" type="text" name="datos[]"
-                            data-constraints="@Required" placeholder="Ingresa tu nombre" />
+                        <input class="form-input" id="contact-your-name-2" type="text" name="datos[]" data-constraints="@Required" placeholder="Nombre" />
                     </div>
                 </div>
                 <div class="col-md-6">
                     <div class="form-wrap">
-                        <input class="form-input" id="contact-email-2" type="email" name="datos[]"
-                            data-constraints="@Email @Required" placeholder="Ingresa tu correo" />
+                        <input class="form-input" id="contact-email-2" type="email" name="datos[]" data-constraints="@Email @Required" placeholder="Correo" />
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="form-wrap">
-                        <input class="form-input" type="text" name="datos[]" data-constraints="@Required"
-                            placeholder="Ingresa tu país" />
+                        <input class="form-input" type="text" name="datos[]" data-constraints="@Required" placeholder="País" />
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="form-wrap">
-                        <input class="form-input" type="text" name="datos[]" data-constraints="@Required"
-                            placeholder="Ingresa tu ciudad" />
+                        <input class="form-input" type="text" name="datos[]" data-constraints="@Required" placeholder="Ciudad" />
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="form-wrap">
-                        <input class="form-input" id="contact-phone-2" type="text" name="datos[]"
-                            data-constraints="@Numeric" placeholder="Ingresa tu número de telefono" />
+                        <input class="form-input" id="contact-phone-2" type="text" name="datos[]" data-constraints="@Numeric" placeholder="Número de telefono" />
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="form-wrap">
-                        <input class="form-input" type="number" name="datos[]" data-constraints="@Numeric  @Required"
-                            id="numero_adultos" placeholder="Ingresa la cantidad de adultos" />
+                        <input class="form-input" type="number" name="datos[]" data-constraints="@Numeric  @Required" id="numero_adultos" placeholder="Número de adultos" />
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="form-wrap">
-                        <input class="form-input" type="number" name="datos[]" data-constraints="@Numeric  @Required"
-                            id="numero_niños" placeholder="Ingresa número de niños" onchange="calcularPersonas()" />
+                        <input class="form-input" type="number" name="datos[]" data-constraints="@Numeric  @Required" id="numero_niños" placeholder="Número de niños" onchange="calcularPersonas()" />
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="form-wrap">
-                        <input class="form-input" type="number" readonly placeholder="Número total de personas"
-                            id="totalPersonas" />
+                        <input class="form-input" type="number" readonly placeholder="Total de personas" id="totalPersonas" />
                     </div>
                 </div>
                 <div class="col-md-4">
@@ -74,12 +65,12 @@ $result2 = mysqli_query($conexion, $sql2);
                         <select name="datos[]" class="form-input" data-constraints="@Selected">
                             <option value="">-Seleccion un destino-</option>
                             <?php
-                                while ($Row1 = mysqli_fetch_array($result2)) {
-                                ?>
-                            <option value=<?php echo $Row1['id']; ?>><?php echo $Row1['nombre']; ?></option>
+                            while ($Row1 = mysqli_fetch_array($result2)) {
+                            ?>
+                                <option value=<?php echo $Row1['id']; ?>><?php echo $Row1['nombre']; ?></option>
                             <?php
-                                }
-                                ?>
+                            }
+                            ?>
                         </select>
                     </div>
                 </div>
@@ -88,12 +79,12 @@ $result2 = mysqli_query($conexion, $sql2);
                         <select name="datos[]" class="form-input" data-constraints="@Selected" id="paquteSeleccionado">
                             <option value="0">-Selecciona un paquete-</option>
                             <?php
-                                while ($Row1 = mysqli_fetch_array($result)) {
-                                ?>
-                            <option value=<?php echo $Row1['id']; ?>><?php echo $Row1['nombre']; ?></option>
+                            while ($Row1 = mysqli_fetch_array($result)) {
+                            ?>
+                                <option value=<?php echo $Row1['id']; ?>><?php echo $Row1['nombre']; ?></option>
                             <?php
-                                }
-                                ?>
+                            }
+                            ?>
                         </select>
                     </div>
                 </div>

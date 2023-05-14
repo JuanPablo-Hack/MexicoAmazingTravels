@@ -484,6 +484,23 @@
             <div class="item">
                 <div class="blog-entry">
                     <a href="#" class="block-20 d-flex align-items-start" style="
+                    background-image: url('assets/images/playas_act.jpg');
+                  ">
+                    </a>
+                    <div class="text border border-top-0 p-4">
+                        <h3 class="heading">
+                            Playas </h3>
+                        <p>
+                            Ademas de la gran diversidad de playas, cada una tiene su encanto y atractivo.
+                            <br>
+                            <br> <br>
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="item">
+                <div class="blog-entry">
+                    <a href="#" class="block-20 d-flex align-items-start" style="
                     background-image: url('assets/images/cañon.jpg');
                   ">
                     </a>
@@ -511,6 +528,57 @@
                             agradecimiento hacia ustedes. Es la mejor oportunidad que
                             tenemos para dejarles un buen sabor de boca y con la
                             seguridad de que volverán.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="item">
+                <div class="blog-entry">
+                    <a class="block-20 d-flex align-items-start" style="
+                    background-image: url('https://mexicolu.gruposoca.com.mx/images/oaxaca/carussel/Guelaguetza_tiempo.jpg');
+                  ">
+                    </a>
+                    <div class="text border border-top-0 p-4">
+                        <h3 class="heading">Guelaguetza (Evento Especial)</h3>
+                        <p>
+                            En este evento las 8 regiones se reúnen una vez
+                            al año, comparten su patrimonio cultural con sus bailes,
+                            música, comida y costumbres que los distinguen entre ellos
+                            con gran alegría y colorido.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="item">
+                <div class="blog-entry">
+                    <a class="block-20 d-flex align-items-start" style="
+                    background-image: url('https://mexicolu.gruposoca.com.mx/images/oaxaca/carussel/Calendas.jpg');
+                  ">
+                    </a>
+                    <div class="text border border-top-0 p-4">
+                        <h3 class="heading">Calendas (Evento Especial)</h3>
+                        <p>
+                            Es una fiesta por las calles de Oaxaca donde se
+                            manifiesta la alegría. En este desfile se disfruta de la
+                            música regional, los bailes, Fuegos pirotécnicos y figuras
+                            enormes hechas con papel.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="item">
+                <div class="blog-entry">
+                    <a class="block-20 d-flex align-items-start" style="
+                    background-image: url('assets/images/muertos.jpg');
+                  ">
+                    </a>
+                    <div class="text border border-top-0 p-4">
+                        <h3 class="heading">Días de muertos (Evento Especial)</h3>
+                        <p>
+                            Este evento se realiza en fecha determinada de acuerdo al
+                            calendario anual en México. En Oaxaca, la tradición de recordar a
+                            los seres queridos bajo un ambiente de desfile y color para compartir
+                            con todos.
                         </p>
                     </div>
                 </div>
@@ -544,12 +612,13 @@
                                 <p class="product-big-text">
                                     <strong>Experiencia interesante para personas que quieren disfrutar lo mejor de Oaxaca en 7 días y sin límite de edad.</strong>
                                 </p>
-                                <a class="button button-black-outline button-ujarak" href="contact-us.php">Intinerario</a>
+                                <a class="button button-black-outline button-ujarak" href="assets/docs/BásicoItinerario.pdf">Intinerario</a>
                             </div>
                         </div>
                     </div>
                 </article>
             </div>
+            <!-- TODO: Hacer el modal de los itinerarios en pantalla completa con colorde fondo verde tenue, con las lineas de datos de verde intercalado -->
             <div class="col-sm-6 col-md-12 wow fadeInLeft">
                 <article class="product-big">
                     <div class="unit flex-column flex-md-row align-items-md-stretch">
