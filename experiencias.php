@@ -43,10 +43,10 @@
                                     <li class="rd-nav-item">
                                         <a class="rd-nav-link" href="destinos.php">Destinos</a>
                                     </li>
-                                    <li class="rd-nav-item">
+                                    <li class="rd-nav-item active">
                                         <a class="rd-nav-link" href="experiencias.php">Experiencias</a>
                                     </li>
-                                    <li class="rd-nav-item active">
+                                    <li class="rd-nav-item">
                                         <a class="rd-nav-link" href="contact-us.php">Reservaciones</a>
                                     </li>
                                 </ul>
@@ -56,7 +56,7 @@
                 </nav>
             </div>
         </header>
-        <?php include "components/ContactForm.php" ?>
+        <?php include "components/ExperienciasLenguas.php" ?>
         <?php include "static/footer.php"; ?>
     </div>
 </body>

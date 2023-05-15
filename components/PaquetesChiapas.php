@@ -612,13 +612,12 @@
                                 <p class="product-big-text">
                                     <strong>Experiencia interesante para personas que quieren disfrutar lo mejor de Oaxaca en 7 días y sin límite de edad.</strong>
                                 </p>
-                                <a class="button button-black-outline button-ujarak" href="assets/docs/BásicoItinerario.pdf">Intinerario</a>
+                                <button class="button button-black-outline button-ujarak" data-toggle="modal" data-target="#modal-fullscreen-xl">Intinerario</button>
                             </div>
                         </div>
                     </div>
                 </article>
             </div>
-            <!-- TODO: Hacer el modal de los itinerarios en pantalla completa con colorde fondo verde tenue, con las lineas de datos de verde intercalado -->
             <div class="col-sm-6 col-md-12 wow fadeInLeft">
                 <article class="product-big">
                     <div class="unit flex-column flex-md-row align-items-md-stretch">
@@ -646,7 +645,6 @@
                 </article>
             </div>
             <div class="col-sm-6 col-md-12 wow fadeInLeft">
-                <!-- Product Big-->
                 <article class="product-big">
                     <div class="unit flex-column flex-md-row align-items-md-stretch">
                         <div class="unit-left">
