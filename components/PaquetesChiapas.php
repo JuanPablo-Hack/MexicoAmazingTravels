@@ -1,51 +1,3 @@
-<header class="section page-header">
-    <div class="rd-navbar-wrap">
-        <nav class="rd-navbar rd-navbar-corporate" data-layout="rd-navbar-fixed" data-sm-layout="rd-navbar-fixed" data-md-layout="rd-navbar-fixed" data-md-device-layout="rd-navbar-fixed" data-lg-layout="rd-navbar-static" data-lg-device-layout="rd-navbar-fixed" data-xl-layout="rd-navbar-static" data-xl-device-layout="rd-navbar-static" data-xxl-layout="rd-navbar-static" data-xxl-device-layout="rd-navbar-static" data-lg-stick-up-offset="46px" data-xl-stick-up-offset="46px" data-xxl-stick-up-offset="106px" data-lg-stick-up="true" data-xl-stick-up="true" data-xxl-stick-up="true">
-            <div class="rd-navbar-collapse-toggle rd-navbar-fixed-element-1" data-rd-navbar-toggle=".rd-navbar-collapse"><span></span></div>
-            <div class="rd-navbar-aside-outer">
-                <div class="rd-navbar-aside">
-                    <div class="rd-navbar-panel">
-                        <button class="rd-navbar-toggle" data-rd-navbar-toggle=".rd-navbar-nav-wrap"><span></span></button>
-                        <div class="rd-navbar-brand">
-                            <a class="brand" href="index.php"><img src="assets/images/logo-default-450x37.png" alt="" width="225" height="18" /></a>
-                        </div>
-                    </div>
-                    <div class="rd-navbar-aside-right rd-navbar-collapse">
-                        <div class="languagewrapper">
-                            <div class="languagemenu">
-                                <a href="./de/"><img src="https://cdn2.iconfinder.com/data/icons/flags_gosquared/64/Germany_flat.png" alt="Deutsch" class="flag"></a>
-                                <a href="./en/"><img src="https://cdn2.iconfinder.com/data/icons/flags_gosquared/64/United-Kingdom_flat.png" alt="English" class="flag"></a>
-                                <a href="./fr/"><img src="https://cdn2.iconfinder.com/data/icons/flags_gosquared/64/France_flat.png" alt="Français" class="flag"></a>
-                                <a href="./it/"><img src="https://cdn2.iconfinder.com/data/icons/flags_gosquared/64/Italy_flat.png" alt="Italiano" class="flag"></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="rd-navbar-main-outer">
-                <div class="rd-navbar-main">
-                    <div class="rd-navbar-nav-wrap">
-                        <ul class="rd-navbar-nav">
-                            <li class="rd-nav-item"><a class="rd-nav-link" href="index.php">Inicio</a>
-                            </li>
-                            <li class="rd-nav-item"><a class="rd-nav-link" href="about.php">Servicios</a>
-                            </li>
-                            <li class="rd-nav-item active">
-                                <a class="rd-nav-link" href="destinos.php">Destinos</a>
-                            </li>
-                            <li class="rd-nav-item">
-                                <a class="rd-nav-link" href="experiencias.php">Experiencias</a>
-                            </li>
-                            <li class="rd-nav-item">
-                                <a class="rd-nav-link" href="contact-us.php">Reservaciones</a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </nav>
-    </div>
-</header>
 <section class="section section-sm">
     <div class="col-md-12">
         <div class="featured-carousel owl-carousel">
@@ -76,7 +28,8 @@
                             Elaboración de Alebrijes
                         </h3>
                         <p>
-                            Recorrido en talleres artesanales y explicación sobre la forma en que se elaboran las famosas figuras de madera con pinturas multicolores. Interactivo. <br />
+                            Recorrido en talleres artesanales y explicación sobre la forma en que se elaboran las
+                            famosas figuras de madera con pinturas multicolores. Interactivo. <br />
                             <br />
                         </p>
                     </div>
@@ -91,7 +44,8 @@
                     <div class="text border border-top-0 p-4">
                         <h3 class="heading">Visita recorrida por la Cascada (aventura</h3>
                         <p>
-                            Recorrido a las cascadas con una vista espectacular en donde podrás disfrutar del lago y su entorno natural.
+                            Recorrido a las cascadas con una vista espectacular en donde podrás disfrutar del lago y su
+                            entorno natural.
                             <br />
                             <br /> <br>
                         </p>
@@ -109,7 +63,8 @@
                             Templo inconcluso de Cuilapam
                         </h3>
                         <p>
-                            Recorrido por el templo inconcluso de estilo Dominico con relato popular acerca del porqué no se concluyó
+                            Recorrido por el templo inconcluso de estilo Dominico con relato popular acerca del porqué
+                            no se concluyó
                             <br /> <br> <br>
                         </p>
                     </div>
@@ -126,7 +81,8 @@
                             Sitio del Árbol del Tule
                         </h3>
                         <p>
-                            Visita y paseo por el pueblo de El Tule, lugar del Árbol más longevo del mundo, con explicación de las figuras caprichosas que forman sus raíces y corteza
+                            Visita y paseo por el pueblo de El Tule, lugar del Árbol más longevo del mundo, con
+                            explicación de las figuras caprichosas que forman sus raíces y corteza
                             <br /> <br>
                         </p>
                     </div>
@@ -143,7 +99,8 @@
                             Sitio Arqueológico de Monte Albán
                         </h3>
                         <p>
-                            Visita al complejo de construcciones de origen Zapoteca construidas sobre un cerro con explicación de las costumbres, ceremonias y práctica de oficios de esa civilización. <br>
+                            Visita al complejo de construcciones de origen Zapoteca construidas sobre un cerro con
+                            explicación de las costumbres, ceremonias y práctica de oficios de esa civilización. <br>
                         </p>
                     </div>
                 </div>
@@ -157,7 +114,8 @@
                     <div class="text border border-top-0 p-4">
                         <h3 class="heading">Elaboración de artesanías en Barro Negro</h3>
                         <p>
-                            Recorrido con explicación sobre la elaboración de las figuras de barro negro con las técnicas heredadas de sus ancestros. Interactivo
+                            Recorrido con explicación sobre la elaboración de las figuras de barro negro con las
+                            técnicas heredadas de sus ancestros. Interactivo
                             <br />
                             <br />
                         </p>
@@ -175,7 +133,8 @@
                             Participación de ruta Senderismo (aventura)
                         </h3>
                         <p>
-                            Recorrido por la montaña durante una mañana completa para ejercitarte y convivir con la naturaleza vegetal y animal de la zona <br>
+                            Recorrido por la montaña durante una mañana completa para ejercitarte y convivir con la
+                            naturaleza vegetal y animal de la zona <br>
                         </p>
                     </div>
                 </div>
@@ -189,7 +148,8 @@
                     <div class="text border border-top-0 p-4">
                         <h3 class="heading">Visita al Museo y Templo de Santo Domingo</h3>
                         <p>
-                            Con explicación de las etapas históricas de Oaxaca y sus objetos más preciados. En el interior del Templo se apreciará la riqueza arquitectónica, y ornamental del lugar.
+                            Con explicación de las etapas históricas de Oaxaca y sus objetos más preciados. En el
+                            interior del Templo se apreciará la riqueza arquitectónica, y ornamental del lugar.
                         </p>
                     </div>
                 </div>
@@ -203,7 +163,8 @@
                     <div class="text border border-top-0 p-4">
                         <h3 class="heading">Elaboración de Velas de Concha</h3>
                         <p>
-                            Explicación sobre la forma en que los habitantes elaboran las famosas velas de concha con técnicas heredadas. Interactivo <br />
+                            Explicación sobre la forma en que los habitantes elaboran las famosas velas de concha con
+                            técnicas heredadas. Interactivo <br />
                             <br />
                         </p>
                     </div>
@@ -220,7 +181,8 @@
                             Sitio Arqueológico de Mitla
                         </h3>
                         <p>
-                            Visita al complejo de construcciones de origen Zapoteca construidas como lugar ceremonial con explicación de las costumbres, ceremonias y rituales efectuados en el sitio.
+                            Visita al complejo de construcciones de origen Zapoteca construidas como lugar ceremonial
+                            con explicación de las costumbres, ceremonias y rituales efectuados en el sitio.
                             <br /> <br>
                         </p>
                     </div>
@@ -235,7 +197,8 @@
                     <div class="text border border-top-0 p-4">
                         <h3 class="heading">Artesanías en Barro de Atzompa</h3>
                         <p>
-                            Explicación sobre la forma en que los habitantes elaboran las figuras de barro con las técnicas heredadas de sus ancestros. Interactivo. <br> <br>
+                            Explicación sobre la forma en que los habitantes elaboran las figuras de barro con las
+                            técnicas heredadas de sus ancestros. Interactivo. <br> <br>
                         </p>
                     </div>
                 </div>
@@ -251,7 +214,8 @@
                             Reserva de la Guacamaya Verde (Aventura)
                         </h3>
                         <p>
-                            Recorrido al santuario de la Guacamaya Verde, sitio donde estas coloridas aves utilizan para anidar. Disfrutará del entorno natural de la zona.
+                            Recorrido al santuario de la Guacamaya Verde, sitio donde estas coloridas aves utilizan para
+                            anidar. Disfrutará del entorno natural de la zona.
                         </p>
                     </div>
                 </div>
@@ -266,7 +230,8 @@
                         <h3 class="heading">
                             Mercado de la ciudad </h3>
                         <p>
-                            Paseo y degustación de alimentos cotidianos de los habitantes, la variedad y múltiples sabores que se ofrecen en el lugar.
+                            Paseo y degustación de alimentos cotidianos de los habitantes, la variedad y múltiples
+                            sabores que se ofrecen en el lugar.
                             <br /> <br>
                         </p>
                     </div>
@@ -282,7 +247,8 @@
                         <h3 class="heading">
                             Cascadas pétreas de Hierve el Agua (Aventura) </h3>
                         <p>
-                            Paseo por la locación de las cascadas pétreas formadas a través de millones de años y explicación de su composición. <br> <br>
+                            Paseo por la locación de las cascadas pétreas formadas a través de millones de años y
+                            explicación de su composición. <br> <br>
                         </p>
                     </div>
                 </div>
@@ -297,7 +263,8 @@
                         <h3 class="heading">
                             Visita a fábrica de Mezcal </h3>
                         <p>
-                            Recorrido por una fábrica elaboradora de Mezcal con explicación del proceso de elaboración de los diferentes tipos de mezcal
+                            Recorrido por una fábrica elaboradora de Mezcal con explicación del proceso de elaboración
+                            de los diferentes tipos de mezcal
                             <br />
                             <br />
 
@@ -315,7 +282,8 @@
                         <h3 class="heading">
                             Elaboración de Tapetes de Lana </h3>
                         <p>
-                            Recorrido con explicación sobre la forma en que los habitantes elaboran los tapetes de lana virgen utilizando técnicas antiguas y pigmentación con elementos naturales. Interactivo.
+                            Recorrido con explicación sobre la forma en que los habitantes elaboran los tapetes de lana
+                            virgen utilizando técnicas antiguas y pigmentación con elementos naturales. Interactivo.
                             <br />
 
                         </p>
@@ -333,7 +301,9 @@
                             Sitio Arqueológico de Yagul
                         </h3>
                         <p>
-                            Visita al complejo de construcciones precolombinas de origen Zapoteca construidas sobre un valle con explicación de las costumbres, ceremonias y práctica de oficios de esa civilización. <br>
+                            Visita al complejo de construcciones precolombinas de origen Zapoteca construidas sobre un
+                            valle con explicación de las costumbres, ceremonias y práctica de oficios de esa
+                            civilización. <br>
 
                         </p>
                     </div>
@@ -349,7 +319,8 @@
                         <h3 class="heading">
                             Visita al Museo Rufino Tamayo </h3>
                         <p>
-                            Visita y recorrido en el museo Tamayo con exhibición de una gran variedad de piezas arqueológicas encontradas en la zona.
+                            Visita y recorrido en el museo Tamayo con exhibición de una gran variedad de piezas
+                            arqueológicas encontradas en la zona.
                             <br /> <br>
                         </p>
                     </div>
@@ -364,7 +335,8 @@
                     <div class="text border border-top-0 p-4">
                         <h3 class="heading">Puente Colgante (Aventura)</h3>
                         <p>
-                            Recorrido por el puente que une dos montañas con más de 100 metros de largo en medio del bosque. Especialmente sobrecogedor cuando lo cubre la niebla.
+                            Recorrido por el puente que une dos montañas con más de 100 metros de largo en medio del
+                            bosque. Especialmente sobrecogedor cuando lo cubre la niebla.
                             <br /><br />
                         </p>
                     </div>
@@ -379,7 +351,8 @@
                     <div class="text border border-top-0 p-4">
                         <h3 class="heading">Elaboración de Chocolate</h3>
                         <p>
-                            Explicación sobre la forma en que sus habitantes elaboran el Chocolate con las mismas técnicas que utilizaban los indígenas de la zona. Interactivo <br /> <br>
+                            Explicación sobre la forma en que sus habitantes elaboran el Chocolate con las mismas
+                            técnicas que utilizaban los indígenas de la zona. Interactivo <br /> <br>
 
                         </p>
                     </div>
@@ -394,7 +367,9 @@
                     <div class="text border border-top-0 p-4">
                         <h3 class="heading">Sitio de Hongos (aventura)</h3>
                         <p>
-                            Recorrido en un bosque repleto de una gran variedad de hongos silvestres utilizados por los habitantes de la región para efectos medicinales, sobre todo. Aprenderás a distinguir entre hongos benéficos y venenosos <br />
+                            Recorrido en un bosque repleto de una gran variedad de hongos silvestres utilizados por los
+                            habitantes de la región para efectos medicinales, sobre todo. Aprenderás a distinguir entre
+                            hongos benéficos y venenosos <br />
                         </p>
                     </div>
                 </div>
@@ -409,7 +384,8 @@
                         <h3 class="heading">
                             Recorrido por el Centro Histórico </h3>
                         <p>
-                            Recorrido por los lugares importantes que dan ejemplo de arquitectura y costumbres de sus habitantes
+                            Recorrido por los lugares importantes que dan ejemplo de arquitectura y costumbres de sus
+                            habitantes
                             <br /> <br /> <br />
                         </p>
                     </div>
@@ -424,7 +400,8 @@
                     <div class="text border border-top-0 p-4">
                         <h3 class="heading">Visita y participación del Columpio (aventura)</h3>
                         <p>
-                            Disfruta la sensación de balancearte sobre un columpio a la orilla de un risco donde no tienes contacto con el piso sino con el aire durante unos minutos que parecerán horas.
+                            Disfruta la sensación de balancearte sobre un columpio a la orilla de un risco donde no
+                            tienes contacto con el piso sino con el aire durante unos minutos que parecerán horas.
                             <br />
                         </p>
                     </div>
@@ -441,7 +418,8 @@
                             Elaboración de Miel Multiflora
                         </h3>
                         <p>
-                            Explicación sobre la forma en que los habitantes elaboran las velas y crean figuras de flores multicolores con las técnicas heredadas de sus ancestros. Interactivo.
+                            Explicación sobre la forma en que los habitantes elaboran las velas y crean figuras de
+                            flores multicolores con las técnicas heredadas de sus ancestros. Interactivo.
                             <br /> <br />
                         </p>
                     </div>
@@ -457,7 +435,8 @@
                         <h3 class="heading">
                             Visita a las Grutas (Aventura) </h3>
                         <p>
-                            Recorrido por el interior de las grutas con explicación de las figuras caprichosas que forman las estalactitas y estalagmitas del lugar.
+                            Recorrido por el interior de las grutas con explicación de las figuras caprichosas que
+                            forman las estalactitas y estalagmitas del lugar.
                             <br /> <br />
                         </p>
                     </div>
@@ -472,7 +451,9 @@
                     <div class="text border border-top-0 p-4">
                         <h3 class="heading">Elaboración del Quesillo</h3>
                         <p>
-                            Explicación sobre la forma en que los habitantes elaboran el queso originario de la región con las técnicas que heredaron de sus ancestros. El turista participa en la elaboración y degustación del quesillo
+                            Explicación sobre la forma en que los habitantes elaboran el queso originario de la región
+                            con las técnicas que heredaron de sus ancestros. El turista participa en la elaboración y
+                            degustación del quesillo
                             <br />
                         </p>
                     </div>
@@ -489,7 +470,9 @@
                             Elaboración de Molinillos
                         </h3>
                         <p>
-                            Explicación sobre la manera en que los habitantes elaboran los utensilios para batir el chocolate con madera con los mismos procedimientos que utilizaban los indígenas de la zona. Interactivo.
+                            Explicación sobre la manera en que los habitantes elaboran los utensilios para batir el
+                            chocolate con madera con los mismos procedimientos que utilizaban los indígenas de la zona.
+                            Interactivo.
                             <br />
                         </p>
                     </div>
@@ -506,7 +489,8 @@
                             Visita y participación de Tirolesa (aventura)
                         </h3>
                         <p>
-                            Experimentarás durante el recorrido la sensación extrema de viajar sobre una cuerda desde un risco hasta la zona plana del valle. <br />
+                            Experimentarás durante el recorrido la sensación extrema de viajar sobre una cuerda desde un
+                            risco hasta la zona plana del valle. <br />
 
                         </p>
                     </div>
@@ -522,7 +506,9 @@
                         <h3 class="heading">
                             Elaboración del Pan Serrano </h3>
                         <p>
-                            Explicación sobre la forma en que los habitantes elaboran el pan hecho para ocasiones especiales de los habitantes de la región con las técnicas que heredaron de sus ancestros. Interactivo.
+                            Explicación sobre la forma en que los habitantes elaboran el pan hecho para ocasiones
+                            especiales de los habitantes de la región con las técnicas que heredaron de sus ancestros.
+                            Interactivo.
                             <br />
 
                         </p>
@@ -557,7 +543,8 @@
                             Visita al Cañón del Sabino (Aventura)
                         </h3>
                         <p>
-                            Recorrido por el cañón para disfrutar de la majestuosa formación natural y la vista panorámica de la zona
+                            Recorrido por el cañón para disfrutar de la majestuosa formación natural y la vista
+                            panorámica de la zona
                             <br /> <br> <br>
                         </p>
                     </div>
@@ -658,7 +645,8 @@
                                     <a class="product-big-reviews" href="contact-us.html">4 customer reviews</a>
                                 </div>
                                 <p class="product-big-text">
-                                    <strong>Experiencia interesante para personas que quieren disfrutar lo mejor de Oaxaca en 7 días y sin límite de edad.</strong>
+                                    <strong>Experiencia interesante para personas que quieren disfrutar lo mejor de
+                                        Oaxaca en 7 días y sin límite de edad.</strong>
                                 </p>
                                 <a href="intinerario.php" target="_blank" rel="noopener noreferrer" class="button button-black-outline button-ujarak">Intinerario</a>
                             </div>
@@ -684,7 +672,8 @@
                                     <a class="product-big-reviews" href="#">5 customer reviews</a>
                                 </div>
                                 <p class="product-big-text">
-                                    <strong>Emocionante y para gozar con tu familia lo que ofrece Oaxaca en 10 días. No importa la edad.</strong>
+                                    <strong>Emocionante y para gozar con tu familia lo que ofrece Oaxaca en 10 días. No
+                                        importa la edad.</strong>
                                 </p>
                                 <a class="button button-black-outline button-ujarak" href="contact-us.php">Intinerario</a>
                             </div>
@@ -710,7 +699,8 @@
                                     <a class="product-big-reviews" href="#">5 customer reviews</a>
                                 </div>
                                 <p class="product-big-text">
-                                    <strong>Especial para personas mayores de edad o retiradas que desean conocer Oaxaca con calma en 10 días.</strong>
+                                    <strong>Especial para personas mayores de edad o retiradas que desean conocer Oaxaca
+                                        con calma en 10 días.</strong>
                                 </p>
                                 <a class="button button-black-outline button-ujarak" href="contact-us.php">Intinerario</a>
                             </div>
@@ -736,7 +726,9 @@
                                     <a class="product-big-reviews" href="contact-us.html">4 customer reviews</a>
                                 </div>
                                 <p class="product-big-text">
-                                    <strong>Siempre excitante, especial para personas que desean convivir con la naturaleza y una buena dosis de adrenalina sin olvidar la esencia cultural de Oaxaca durante 10 días.</strong>
+                                    <strong>Siempre excitante, especial para personas que desean convivir con la
+                                        naturaleza y una buena dosis de adrenalina sin olvidar la esencia cultural de
+                                        Oaxaca durante 10 días.</strong>
                                 </p>
                                 <a class="button button-black-outline button-ujarak" href="contact-us.php">Intinerario</a>
                             </div>
@@ -762,7 +754,9 @@
                                     <a class="product-big-reviews" href="contact-us.html">4 customer reviews</a>
                                 </div>
                                 <p class="product-big-text">
-                                    <strong>Están a tu alcance las playas que tiene Oaxaca con una combinación de aventura, relajamiento y romanticismo. El paraíso de la región a tu alcance durante 10 días y para todas las edades.</strong>
+                                    <strong>Están a tu alcance las playas que tiene Oaxaca con una combinación de
+                                        aventura, relajamiento y romanticismo. El paraíso de la región a tu alcance
+                                        durante 10 días y para todas las edades.</strong>
                                 </p>
                                 <a class="button button-black-outline button-ujarak" href="contact-us.php">Intinerario</a>
                             </div>
@@ -788,7 +782,9 @@
                                     <a class="product-big-reviews" href="contact-us.html">4 customer reviews</a>
                                 </div>
                                 <p class="product-big-text">
-                                    <strong>No es indispensable ir en grupo, siempre hay la opción de tomar cualquiera de estos paquetes en pareja o solo para tu familia. La duración depende de ti, 7 o 10 días y sin límite de edad.</strong>
+                                    <strong>No es indispensable ir en grupo, siempre hay la opción de tomar cualquiera
+                                        de estos paquetes en pareja o solo para tu familia. La duración depende de ti, 7
+                                        o 10 días y sin límite de edad.</strong>
                                 </p>
                                 <a class="button button-black-outline button-ujarak" href="contact-us.php">Intinerario</a>
                             </div>
