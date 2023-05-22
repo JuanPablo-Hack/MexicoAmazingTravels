@@ -1,6 +1,6 @@
 <section class="section section-sm">
     <div class="container">
-        <h3>Our Services Include</h3>
+        <h3>Nuestros Servicios Incluyen</h3>
         <div class="row row-30">
             <div class="col-sm-4 col-lg-4">
                 <div class="box">
@@ -9,10 +9,10 @@
                     </div>
                     <div class="content">
                         <h5 class="box-icon-classic-title" style="color: #fff">
-                            <a href="#">Flights</a>
+                            <a href="#">Vuelos</a>
                         </h5>
                         <p class="box-icon-classic-text">
-                            The round flight in the package of the destination that you decide starting from the cities of Mexico DF and Guadalajara.
+                            El Vuelo redondo en el paquete del destino que decidas partiendo de las ciudades de México DF y Guadalajara.
                         </p>
                     </div>
                 </div>
@@ -24,10 +24,10 @@
                     </div>
                     <div class="content">
                         <h5 class="box-icon-classic-title" style="color: #fff">
-                            <a href="#">Ground transportation</a>
+                            <a href="#">Transporte terrestre</a>
                         </h5>
                         <p class="box-icon-classic-text">
-                            All the units used by México Amazing & Unforgettable to transport its tourists around the sites are very safe and comfortable.
+                            Todas las unidades que utiliza México Amazing & Unforgettable para el traslado de sus turistas por los sitios, son muy seguros y confortables.
                         </p>
                     </div>
                 </div>
@@ -39,10 +39,10 @@
                     </div>
                     <div class="content">
                         <h5 class="box-icon-classic-title" style="color: #fff">
-                            <a href="#">Hosting</a>
+                            <a href="#">Hospedaje</a>
                         </h5>
                         <p class="box-icon-classic-text">
-                            In luxury hotels during your stay in the destination package you have selected.
+                            En Hoteles de gran lujo durante tu estancia en el paquete del destino que hayas seleccionado.
                         </p>
                     </div>
                 </div>
@@ -57,7 +57,7 @@
                             <a href="#">Tours</a>
                         </h5>
                         <p class="box-icon-classic-text">
-                            With bilingual guides and experts in the sites to visit according to the package and destination you decide. They will accompany you and recommend the best during your stay.
+                            Con Guías bilingües y expertos en los sitios a visitar de acuerdo al paquete y destino que decidas. Ellos los acompañarán y recomendarán lo mejor durante tu estancia.
                         </p>
                     </div>
                 </div>
@@ -69,10 +69,10 @@
                     </div>
                     <div class="content">
                         <h5 class="box-icon-classic-title" style="color: #fff">
-                            <a href="#">Tickets to events and landmarks</a>
+                            <a href="#">Entradas a eventos y sitio de interés</a>
                         </h5>
                         <p class="box-icon-classic-text">
-                            Tickets and well-located seats at traditional events, museums and archaeological sites are guaranteed for you and your companions.
+                            Los ingresos y asientos bien ubicados en los eventos tradicionales, museos y lugares arqueológicos están asegurados para ti y tus acompañantes.
                         </p>
                     </div>
                 </div>
@@ -84,10 +84,10 @@
                     </div>
                     <div class="content">
                         <h5 class="box-icon-classic-title" style="color: #fff">
-                            <a href="#">Support in the purchase of handicrafts</a>
+                            <a href="#">Apoyo en la compra de artesanías</a>
                         </h5>
                         <p class="box-icon-classic-text">
-                            You will be able to acquire the crafts of your liking in all the Destinations that we have for you. </p>
+                            Podrás adquirir las artesanías de tu agrado en todos los Destinos que tenemos para ti. </p>
                     </div>
                 </div>
             </div>
@@ -98,10 +98,10 @@
                     </div>
                     <div class="content">
                         <h5 class="box-icon-classic-title" style="color: #fff">
-                            <a href="#">Medical Support</a>
+                            <a href="#">Soporte Médico</a>
                         </h5>
                         <p class="box-icon-classic-text">
-                            We have the medical assistance of specialists for your safety and tranquility in case you require it.
+                            Contamos con la asistencia médica de especialistas para tu seguridad y tranquilidad en caso de que lo requieras.
                         </p>
                     </div>
                 </div>
@@ -113,10 +113,10 @@
                     </div>
                     <div class="content">
                         <h5 class="box-icon-classic-title" style="color: #fff">
-                            <a href="#">Food</a>
+                            <a href="#">Alimentos</a>
                         </h5>
                         <p class="box-icon-classic-text">
-                            In all our packages and destinations we offer you breakfasts and meals where we will host you and in prestigious restaurants.
+                            En todos nuestros paquetes y destinos te ofrecemos los desayunos y comidas donde te hospedaremos y en los restaurantes de prestigio.
                         </p>
                     </div>
                 </div>
@@ -131,7 +131,7 @@
                             <a href="#">Souvenirs</a>
                         </h5>
                         <p class="box-icon-classic-text">
-                            A typical detail of the site and package you choose will always be a pleasant memory courtesy of Mexico Amazing & Unforgettable.
+                            Un detalle típico del sitio y paquete que elijas siempre será un grato recuerdo cortesía de México Amazing & Unforgettable.
                         </p>
                     </div>
                 </div>
@@ -139,14 +139,14 @@
             <div class="col-sm-4 col-lg-4">
                 <div class="box">
                     <div class="imgBox">
-                        <img src="assets/images/paqueteria.jpg" class="img-responsive" />
+                        <img src="../assets/images/paqueteria.jpg" class="img-responsive" />
                     </div>
                     <div class="content">
                         <h5 class="box-icon-classic-title" style="color: #fff">
-                            <a href="#">Support in parcel service</a>
+                            <a href="#">Apoyo en servicio de paquetería</a>
                         </h5>
                         <p class="box-icon-classic-text">
-                            We transport the crafts you purchase to the parcel agencies packaged to ensure that they reach their destination in good condition. The shipping cost is on your own.
+                            Trasladamos empaquetadas a las agencias de paquetería las artesanías que adquieras para asegurarte que lleguen a su destino en buen estado. El costo del envío es por tu cuenta.
                         </p>
                     </div>
                 </div>
@@ -154,14 +154,14 @@
             <div class="col-sm-4 col-lg-4">
                 <div class="box">
                     <div class="imgBox">
-                        <img src="assets/images/servicio_folklore.jpg" class="img-responsive" />
+                        <img src="../assets/images/servicio_folklore.jpg" class="img-responsive" />
                     </div>
                     <div class="content">
                         <h5 class="box-icon-classic-title" style="color: #fff">
-                            <a href="#">Folk Festival</a>
+                            <a href="#">Fiesta Folklórica</a>
                         </h5>
                         <p class="box-icon-classic-text">
-                            A sample of the folklore that distinguishes each destination, its music, clothing, dances, colors and traditions exclusively for you.
+                            Una muestra del folklor que distingue cada destino, su música, indumentaria, bailes, colorido y tradiciones en exclusiva para ti.
                         </p>
                     </div>
                 </div>
@@ -169,14 +169,14 @@
             <div class="col-sm-4 col-lg-4">
                 <div class="box">
                     <div class="imgBox">
-                        <img src="assets/images/table-g536d4fa9b_1280.jpg" class="img-responsive" />
+                        <img src="../assets/images/table-g536d4fa9b_1280.jpg" class="img-responsive" />
                     </div>
                     <div class="content">
                         <h5 class="box-icon-classic-title" style="color: #fff">
-                            <a href="#">Special Dinner</a>
+                            <a href="#">Cena Especial</a>
                         </h5>
                         <p class="box-icon-classic-text">
-                            It will always be nice to receive them and send them off with a special dinner. A good time to enjoy and get a souvenir photo courtesy of Mexico Amazing & Unforgettable.
+                            Siempre será agradable recibirlos y despedirlos con una cena especial. Un buen momento para disfrutar y obtener una foto de recuerdo cortesía de México Amazing & Unforgettable.
                         </p>
                     </div>
                 </div>

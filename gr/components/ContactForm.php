@@ -1,5 +1,5 @@
 <?php
-include 'config/DataBase.php';
+include '../config/DataBase.php';
 $sql = "SELECT * FROM paquetes";
 $result = mysqli_query($conexion, $sql);
 $sql2 = "SELECT * FROM destinos";
@@ -9,12 +9,12 @@ $result2 = mysqli_query($conexion, $sql2);
     <div class="container">
         <article class="title-classic">
             <div class="title-classic-title">
-                <h3>Book now</h3>
+                <h3>Jetzt buchen</h3>
             </div>
             <div class="title-classic-text">
                 <p>
-                    To book successfully please answer this
-                    form with your information to be able to contact you.
+                    Um erfolgreich zu buchen, beantworten Sie bitte diese Frage
+                    Formular mit Ihren Daten aus, um mit Ihnen in Kontakt treten zu können.
                 </p>
             </div>
         </article>
@@ -32,38 +32,38 @@ $result2 = mysqli_query($conexion, $sql2);
                 </div>
                 <div class="col-md-4">
                     <div class="form-wrap">
-                        <input class="form-input" type="text" name="datos[]" data-constraints="@Required" placeholder="Country" />
+                        <input class="form-input" type="text" name="datos[]" data-constraints="@Required" placeholder="Land" />
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="form-wrap">
-                        <input class="form-input" type="text" name="datos[]" data-constraints="@Required" placeholder="City" />
+                        <input class="form-input" type="text" name="datos[]" data-constraints="@Required" placeholder="Stadt" />
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="form-wrap">
-                        <input class="form-input" id="contact-phone-2" type="text" name="datos[]" data-constraints="@Numeric" placeholder="Phone Number" />
+                        <input class="form-input" id="contact-phone-2" type="text" name="datos[]" data-constraints="@Numeric" placeholder="Telefonnummer" />
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="form-wrap">
-                        <input class="form-input" type="number" name="datos[]" data-constraints="@Numeric  @Required" id="numero_adultos" placeholder="Adults" />
+                        <input class="form-input" type="number" name="datos[]" data-constraints="@Numeric  @Required" id="numero_adultos" placeholder="Anzahl Erwachsene" />
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="form-wrap">
-                        <input class="form-input" type="number" name="datos[]" data-constraints="@Numeric  @Required" id="numero_niños" placeholder="Kids" onchange="calcularPersonas()" />
+                        <input class="form-input" type="number" name="datos[]" data-constraints="@Numeric  @Required" id="numero_niños" placeholder="Anzahl der Kinder" onchange="calcularPersonas()" />
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="form-wrap">
-                        <input class="form-input" type="number" readonly placeholder="Total number of people" id="totalPersonas" />
+                        <input class="form-input" type="number" readonly placeholder="Total Leute" id="totalPersonas" />
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="form-wrap">
                         <select name="datos[]" class="form-input" data-constraints="@Selected">
-                            <option value="">-Choose a destination-</option>
+                            <option value="">-Wähle ein Reiseziel-</option>
                             <?php
                             while ($Row1 = mysqli_fetch_array($result2)) {
                             ?>
@@ -77,7 +77,7 @@ $result2 = mysqli_query($conexion, $sql2);
                 <div class="col-md-4">
                     <div class="form-wrap">
                         <select name="datos[]" class="form-input" data-constraints="@Selected" id="paquteSeleccionado">
-                            <option value="0">-Choose a package-</option>
+                            <option value="0">-Wählen Sie ein Paket aus-</option>
                             <?php
                             while ($Row1 = mysqli_fetch_array($result)) {
                             ?>
@@ -90,24 +90,24 @@ $result2 = mysqli_query($conexion, $sql2);
                 </div>
                 <div class="col-md-4">
                     <select name="datos[]" class="form-input" data-constraints="@Selected">
-                        <option value="">Available dates</option>
+                        <option value="">Verfügbare Termine</option>
                         <option value="2023-05-09">3 de Marzo - 8 de Marzo</option>
                         <option value="2023-05-09">3 de Marzo - 8 de Marzo</option>
                         <option value="2023-05-09">3 de Marzo - 8 de Marzo</option>
                     </select>
                 </div>
                 <div class="col-md-4">
-                    <label>Select the date</label>
+                    <label>Wählen Sie das Datum aus</label>
                     <div class="form-wrap">
                         <input class="form-input" type="date" name="datos[]" required />
                     </div>
                 </div>
             </div>
             <div class="button button-primary button-pipaluk" onclick="calcularFormulario()">
-                Calculate price
+                Preis berechnen
             </div>
             <button class="button button-primary button-pipaluk" type="submit">
-                Book now
+                Jetzt reservieren
             </button>
         </form>
     </div>
@@ -143,6 +143,6 @@ $result2 = mysqli_query($conexion, $sql2);
         </div>
     </div>
 </section>
-<script src="assets/sweetalert2/sweetalert2.all.min.js"></script>
-<script src="assets/js/reservarForm.js"></script>
-<script src="assets/js/calculosForm.js"></script>
+<script src="../assets/sweetalert2/sweetalert2.all.min.js"></script>
+<script src="../assets/js/reservarForm.js"></script>
+<script src="../assets/js/calculosForm.js"></script>

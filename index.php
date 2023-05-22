@@ -4,7 +4,6 @@
 <head>
   <?php include "static/head.php" ?>
 </head>
-<!-- TODO: Cambiar el tono de algunas imagenes -->
 
 <body>
   <?php include "components/Loader.php" ?>
@@ -24,9 +23,8 @@
               <div class="rd-navbar-aside-right rd-navbar-collapse">
                 <div class="languagewrapper">
                   <div class="languagemenu">
-                    <!-- TODO:Cambiar la bandera de inglaterra y poner la de españa -->
-                    <a href="./de/"><img src="https://cdn2.iconfinder.com/data/icons/flags_gosquared/64/Germany_flat.png" alt="Deutsch" class="flag"></a>
-                    <a href="./en/"><img src="https://cdn2.iconfinder.com/data/icons/flags_gosquared/64/United-Kingdom_flat.png" alt="English" class="flag"></a>
+                    <a href="./gr/"><img src="https://cdn2.iconfinder.com/data/icons/flags_gosquared/64/Germany_flat.png" alt="Deutsch" class="flag"></a>
+                    <a href="./es/"><img src="https://cdn2.iconfinder.com/data/icons/flags_gosquared/64/Spain_flat.png" alt="English" class="flag"></a>
                     <a href="./fr/"><img src="https://cdn2.iconfinder.com/data/icons/flags_gosquared/64/France_flat.png" alt="Français" class="flag"></a>
                     <a href="./it/"><img src="https://cdn2.iconfinder.com/data/icons/flags_gosquared/64/Italy_flat.png" alt="Italiano" class="flag"></a>
                   </div>
@@ -38,18 +36,18 @@
             <div class="rd-navbar-main">
               <div class="rd-navbar-nav-wrap">
                 <ul class="rd-navbar-nav">
-                  <li class="rd-nav-item active"><a class="rd-nav-link" href="index.php">Inicio</a>
+                  <li class="rd-nav-item active"><a class="rd-nav-link" href="index.php">Home</a>
                   </li>
-                  <li class="rd-nav-item"><a class="rd-nav-link" href="about.php">Servicios</a>
-                  </li>
-                  <li class="rd-nav-item">
-                    <a class="rd-nav-link" href="destinos.php">Destinos</a>
+                  <li class="rd-nav-item"><a class="rd-nav-link" href="about.php">Services</a>
                   </li>
                   <li class="rd-nav-item">
-                    <a class="rd-nav-link" href="experiencias.php">Experiencias</a>
+                    <a class="rd-nav-link" href="destinos.php">Destinations</a>
                   </li>
                   <li class="rd-nav-item">
-                    <a class="rd-nav-link" href="contact-us.php">Reservaciones</a>
+                    <a class="rd-nav-link" href="experiencias.php">Experiences</a>
+                  </li>
+                  <li class="rd-nav-item">
+                    <a class="rd-nav-link" href="contact-us.php">Reservations</a>
                   </li>
                 </ul>
               </div>

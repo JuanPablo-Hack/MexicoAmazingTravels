@@ -1,44 +1,44 @@
 <section class="section swiper-container swiper-slider swiper-slider-corporate swiper-pagination-style-2" data-loop="true" data-autoplay="10000" data-simulate-touch="true" data-nav="false" data-direction="vertical">
     <div class="swiper-wrapper text-left">
-        <div class="swiper-slide context-dark" data-slide-bg="assets/images/danza_viejitos.jpg">
+        <div class="swiper-slide context-dark" data-slide-bg="../assets/images/danza_viejitos.jpg">
             <div class="swiper-slide-caption section-md">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-10">
                             <h2 class="oh font-weight-light" data-caption-animate="slideInUp" data-caption-delay="100">
-                                <span class="font-weight-bold"> What characterizes us in destinations </span>
+                                <span class="font-weight-bold"> Lo que nos caracteriza en los destinos </span>
                             </h2>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-        <div class="swiper-slide context-dark" data-slide-bg="assets/images/ecologico.jpg">
+        <div class="swiper-slide context-dark" data-slide-bg="../assets/images/ecologico.jpg">
             <div class="swiper-slide-caption section-md">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-10">
                             <h2 class="oh font-weight-light" data-caption-animate="slideInUp" data-caption-delay="100">
-                                <span class="font-weight-bold"> Ecological responsibility </span>
+                                <span class="font-weight-bold"> Responsabilidad ecológica </span>
                             </h2>
                             <h5 class="text-uppercase" data-caption-animate="fadeInRight" data-caption-delay="0">
-                                We take care of the natural environment and cleanliness of our country, so we will leave a legacy for the new generations.
+                                Cuidamos el entorno natural y limpieza de nuestro país, así dejaremos un legado a las nuevas generaciones.
                             </h5>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-        <div class="swiper-slide context-dark" data-slide-bg="assets/images/libertad.jpg">
+        <div class="swiper-slide context-dark" data-slide-bg="../assets/images/libertad.jpg">
             <div class="swiper-slide-caption section-md">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-10">
                             <h2 class="oh font-weight-light" data-caption-animate="slideInUp" data-caption-delay="100">
-                                <span class="font-weight-bold"> Freedom </span>
+                                <span class="font-weight-bold"> Libertad </span>
                             </h2>
                             <h5 class="text-uppercase" data-caption-animate="fadeInRight" data-caption-delay="0">
-                                If you prefer to rest for a day or go to another place on your own, do it, don't think about it, we understand.
+                                Si prefieres descansar un día o ir a otro sitio por tu cuenta, hazlo, no lo pienses, lo entendemos.
                             </h5>
                         </div>
                     </div>
@@ -51,10 +51,10 @@
                     <div class="row">
                         <div class="col-md-10">
                             <h2 class="oh font-weight-light" data-caption-animate="slideInUp" data-caption-delay="100">
-                                <span class="font-weight-bold"> Interaction </span>
+                                <span class="font-weight-bold"> Interacción </span>
                             </h2>
                             <h5 class="text-uppercase" data-caption-animate="fadeInRight" data-caption-delay="0">
-                                With artisans it is not just observing the manufacturing process, let's go one step further. Participate and design your own craft. It's always fun.
+                                Con los artesanos no es solo observar el proceso de la fabricación, demos un paso más allá. Participa y diseña tu propia artesanía. Siempre es divertido.
                             </h5>
                         </div>
                     </div>
@@ -67,17 +67,17 @@
                     <div class="row">
                         <div class="col-md-10">
                             <h2 class="oh font-weight-light" data-caption-animate="slideInUp" data-caption-delay="100">
-                                <span class="font-weight-bold">No pressure </span>
+                                <span class="font-weight-bold">Sin presiones </span>
                             </h2>
                             <h5 class="text-uppercase" data-caption-animate="fadeInRight" data-caption-delay="0">
-                                It's not about taking a look but about taking it easy
-                                the great diversity of sites </h5>
+                                No se trata de echar un vistazo sino de tomarte con calma
+                                la gran diversidad de sitios </h5>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-        <div class="swiper-slide context-dark" data-slide-bg="assets/images/reservand.jpg">
+        <div class="swiper-slide context-dark" data-slide-bg="../assets/images/reservand.jpg">
             <div class="swiper-slide-caption section-md">
                 <div class="container">
                     <div class="row">
@@ -93,34 +93,34 @@
                 </div>
             </div>
         </div>
-        <div class="swiper-slide context-dark" data-slide-bg="assets/images/profe.jpg">
+        <div class="swiper-slide context-dark" data-slide-bg="../assets/images/profe.jpg">
             <div class="swiper-slide-caption section-md">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-10">
                             <h2 class="oh font-weight-light" data-caption-animate="slideInUp" data-caption-delay="100">
-                                <span class="font-weight-bold"> Professionalism </span>
+                                <span class="font-weight-bold"> Profesionalismo </span>
                             </h2>
                             <h5 class="text-uppercase" data-caption-animate="fadeInRight" data-caption-delay="0">
-                                We always fulfill what we offer. We seek to give an extra if possible, but we will never give less than what we promise.
+                                Siempre cumplimos lo que ofrecemos. Buscamos dar un extra si nos es posible, pero jamás daremos menos de lo que prometemos.
                             </h5>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-        <div class="swiper-slide context-dark" data-slide-bg="assets/images/satisfaccion.jpg">
+        <div class="swiper-slide context-dark" data-slide-bg="../assets/images/satisfaccion.jpg">
             <div class="swiper-slide-caption section-md">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-10">
                             <h2 class="oh font-weight-light" data-caption-animate="slideInUp" data-caption-delay="100">
                                 <span class="font-weight-bold">
-                                    Satisfaction
+                                    Satisfacción
                                 </span>
                             </h2>
                             <h5 class="text-uppercase" data-caption-animate="fadeInRight" data-caption-delay="0">
-                                Our foundation is a satisfied, happy and excited visitor to travel with us again to any destination we offer. That is why we are "Mexico Amazing & Unforgettable".
+                                Nuestro fundamento es un visitante satisfecho, feliz y emocionado por viajar de nuevo con nosotros a cualquier destino que ofrecemos. Por eso somos “México Amazing & Unforgettable”.
                             </h5>
                         </div>
                     </div>

@@ -14,8 +14,8 @@
                 </div>
                 <div class="col-sm-6 col-md-4 order-sm-first">
                     <p class="rights">
-                        <span>&copy;&nbsp;</span><span class="copyright-year"></span><span>&nbsp;</span><span>Mexico Amazing Travels</span>.All rights
-                        reserved. Designed by
+                        <span>&copy;&nbsp;</span><span class="copyright-year"></span><span>&nbsp;</span><span>Mexico Amazing Travels</span>.Todos los derechos
+                        reservados. Diseñado por
                         <a href="https://jupitersoft.tech/">JupiterSoft</a>
                     </p>
                 </div>
@@ -27,5 +27,5 @@
     </div>
 </footer>
 <div class="snackbars" id="form-output-global"></div>
-<script src="assets/js/core.min.js"></script>
-<script src="assets/js/script.js"></script>
+<script src="../assets/js/core.min.js"></script>
+<script src="../assets/js/script.js"></script>

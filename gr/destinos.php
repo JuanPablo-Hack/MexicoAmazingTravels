@@ -17,14 +17,14 @@
                             <div class="rd-navbar-panel">
                                 <button class="rd-navbar-toggle" data-rd-navbar-toggle=".rd-navbar-nav-wrap"><span></span></button>
                                 <div class="rd-navbar-brand">
-                                    <a class="brand" href="index.php"><img src="assets/images/logo-default-450x37.png" alt="" width="225" height="18" /></a>
+                                    <a class="brand" href="index.php"><img src="../assets/images/logo-default-450x37.png" alt="" width="225" height="18" /></a>
                                 </div>
                             </div>
                             <div class="rd-navbar-aside-right rd-navbar-collapse">
                                 <div class="languagewrapper">
                                     <div class="languagemenu">
-                                        <a href="./gr/"><img src="https://cdn2.iconfinder.com/data/icons/flags_gosquared/64/Germany_flat.png" alt="Deutsch" class="flag"></a>
-                                        <a href="./es/"><img src="https://cdn2.iconfinder.com/data/icons/flags_gosquared/64/Spain_flat.png" alt="English" class="flag"></a>
+                                        <a href="./de/"><img src="https://cdn2.iconfinder.com/data/icons/flags_gosquared/64/Germany_flat.png" alt="Deutsch" class="flag"></a>
+                                        <a href="./en/"><img src="https://cdn2.iconfinder.com/data/icons/flags_gosquared/64/Spain_flat.png" alt="English" class="flag"></a>
                                         <a href="./fr/"><img src="https://cdn2.iconfinder.com/data/icons/flags_gosquared/64/France_flat.png" alt="Français" class="flag"></a>
                                         <a href="./it/"><img src="https://cdn2.iconfinder.com/data/icons/flags_gosquared/64/Italy_flat.png" alt="Italiano" class="flag"></a>
                                     </div>
@@ -36,18 +36,18 @@
                         <div class="rd-navbar-main">
                             <div class="rd-navbar-nav-wrap">
                                 <ul class="rd-navbar-nav">
-                                    <li class="rd-nav-item"><a class="rd-nav-link" href="index.php">Home</a>
+                                    <li class="rd-nav-item"><a class="rd-nav-link" href="index.php">Heim</a>
                                     </li>
-                                    <li class="rd-nav-item"><a class="rd-nav-link" href="about.php">Services</a>
+                                    <li class="rd-nav-item"><a class="rd-nav-link" href="about.php">Dienstleistungen</a>
                                     </li>
                                     <li class="rd-nav-item active">
-                                        <a class="rd-nav-link" href="destinos.php">Destinations</a>
+                                        <a class="rd-nav-link" href="destinos.php">Reiseziele</a>
                                     </li>
                                     <li class="rd-nav-item">
-                                        <a class="rd-nav-link" href="experiencias.php">Experiences</a>
+                                        <a class="rd-nav-link" href="experiencias.php">Erfahrungen</a>
                                     </li>
                                     <li class="rd-nav-item">
-                                        <a class="rd-nav-link" href="contact-us.php">Reservations</a>
+                                        <a class="rd-nav-link" href="contact-us.php">Reservierungen</a>
                                     </li>
                                 </ul>
                             </div>

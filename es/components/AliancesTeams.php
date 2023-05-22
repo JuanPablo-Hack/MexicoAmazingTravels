@@ -1,7 +1,7 @@
 <section class="section section-sm">
     <div class="container">
         <h3 class="title-block find-car oh">
-            <span class="d-inline-block wow slideInUp">Aliances</span>
+            <span class="d-inline-block wow slideInUp">Alianzas</span>
         </h3>
         <div class="row row-30 justify-content-center box-ordered">
             <div class="col-sm-6 col-md-5 col-lg-3">
