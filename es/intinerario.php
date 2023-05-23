@@ -3,66 +3,7 @@
 
 <head>
     <?php include "static/head.php" ?>
-    <style>
-        h1 {
-            font-size: 30px;
-            color: #fff;
-            text-transform: uppercase;
-            font-weight: 300;
-            text-align: center;
-            margin-bottom: 15px;
-        }
-
-        table {
-            width: 100%;
-            table-layout: fixed;
-        }
-
-        .tbl-header {
-            background-color: rgba(255, 255, 255, 0.3);
-        }
-
-        .tbl-content {
-            height: 300px;
-            overflow-x: auto;
-            margin-top: 0px;
-            border: 1px solid rgba(255, 255, 255, 0.3);
-        }
-
-        th {
-            padding: 20px 15px;
-            text-align: left;
-            font-weight: 500;
-            font-size: 12px;
-            color: #fff;
-            text-transform: uppercase;
-        }
-
-        td {
-            padding: 15px;
-            text-align: left;
-            vertical-align: middle;
-            font-weight: 300;
-            font-size: 12px;
-            color: #fff;
-            border: solid 5px rgba(255, 255, 255, 0.3);
-        }
-
-
-        /* demo styles */
-
-        @import url(https://fonts.googleapis.com/css?family=Roboto:400,500,300,700);
-
-        body {
-            background: -webkit-linear-gradient(left, #25c481, #25b7c4);
-            background: linear-gradient(to right, #25c481, #25b7c4);
-            font-family: 'Roboto', sans-serif;
-        }
-
-        section {
-            margin: 50px;
-        }
-    </style>
+    <link rel="stylesheet" href="../assets/css/itinerario.css">
 </head>
 
 <body>
@@ -116,96 +57,11 @@
                 </nav>
             </div>
         </header>
-        <!-- TODO: Poner los colores diferentes en los intinerarios de la base de datos -->
-        <section>
-            <h1>Intenerario</h1>
-            <div class="tbl-header">
-                <table cellpadding="0" cellspacing="0" border="0">
-                    <thead>
-                        <th>Día 1</th>
-                        <th>Día 2</th>
-                        <th>Día 3</th>
-                        <th>Día 4</th>
-                        <th>Día 5</th>
-                        <th>Día 6</th>
-                        <th>Día 7</th>
-                    </thead>
-                </table>
-            </div>
-            <div class="tbl-content">
-                <table cellpadding="0" cellspacing="0" border="0">
-                    <tbody>
-                        <tr>
-                            <td>
-                                <ol>
-                                    <li>Recepción</li>
-                                    <li>Comida de bienvenida</li>
-                                    <li>Tour por el Centro Histórico</li>
-                                    <li>Mercado de la Ciudad</li>
-                                </ol>
-                            </td>
-                            <td>
-                                <ol>
-                                    <li>Recepción</li>
-                                    <li>Comida de bienvenida</li>
-                                    <li>Tour por el Centro Histórico</li>
-                                    <li>Mercado de la Ciudad</li>
-                                </ol>
-                            </td>
-                            <td>
-                                <ol>
-                                    <li>Recepción</li>
-                                    <li>Comida de bienvenida</li>
-                                    <li>Tour por el Centro Histórico</li>
-                                    <li>Mercado de la Ciudad</li>
-                                </ol>
-                            </td>
-                            <td>
-                                <ol>
-                                    <li>Recepción</li>
-                                    <li>Comida de bienvenida</li>
-                                    <li>Tour por el Centro Histórico</li>
-                                    <li>Mercado de la Ciudad</li>
-                                </ol>
-                            </td>
-                            <td>
-                                <ol>
-                                    <li>Recepción</li>
-                                    <li>Comida de bienvenida</li>
-                                    <li>Tour por el Centro Histórico</li>
-                                    <li>Mercado de la Ciudad</li>
-                                </ol>
-                            </td>
-                            <td>
-                                <ol>
-                                    <li>Recepción</li>
-                                    <li>Comida de bienvenida</li>
-                                    <li>Tour por el Centro Histórico</li>
-                                    <li>Mercado de la Ciudad</li>
-                                </ol>
-                            </td>
-                            <td>
-                                <ol>
-                                    <li>Recepción</li>
-                                    <li>Comida de bienvenida</li>
-                                    <li>Tour por el Centro Histórico</li>
-                                    <li>Mercado de la Ciudad</li>
-                                </ol>
-                            </td>
-                            <td>
-                                <ol>
-                                    <li>Recepción</li>
-                                    <li>Comida de bienvenida</li>
-                                    <li>Tour por el Centro Histórico</li>
-                                    <li>Mercado de la Ciudad</li>
-                                </ol>
-                            </td>
-                        </tr>
-                    </tbody>
-                </table>
-            </div>
-        </section>
-        <?php include "static/footer.php"; ?>
+        <?php
+        include "components/Intinerarios.php";
+        seleccionarIntinerario($_GET['paquete']);
+        include "static/footer.php";
+        ?>
     </div>
 </body>
 
