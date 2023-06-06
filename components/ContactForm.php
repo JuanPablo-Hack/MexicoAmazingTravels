@@ -46,14 +46,34 @@ $result2 = mysqli_query($conexion, $sql2);
                     </div>
                 </div>
                 <div class="col-md-4">
-                    <div class="form-wrap">
-                        <input class="form-input" type="number" name="datos[]" data-constraints="@Numeric  @Required" id="numero_adultos" placeholder="Adults" />
-                    </div>
+                    <select name="datos[]" class="form-input" data-constraints="@Selected" id="numero_adultos">
+                        <option value="">- Adults -</option>
+                        <option value="1">1</option>
+                        <option value="2">2</option>
+                        <option value="3">3</option>
+                        <option value="4">4</option>
+                        <option value="5">5</option>
+                        <option value="6">6</option>
+                        <option value="7">7</option>
+                        <option value="8">8</option>
+                        <option value="9">9</option>
+                        <option value="10">10</option>
+                    </select>
                 </div>
                 <div class="col-md-4">
-                    <div class="form-wrap">
-                        <input class="form-input" type="number" name="datos[]" data-constraints="@Numeric  @Required" id="numero_niños" placeholder="Kids" onchange="calcularPersonas()" />
-                    </div>
+                    <select name="datos[]" class="form-input" data-constraints="@Selected" id="numero_niños" onchange="calcularPersonas()">
+                        <option value="">- Kids -</option>
+                        <option value="1">1</option>
+                        <option value="2">2</option>
+                        <option value="3">3</option>
+                        <option value="4">4</option>
+                        <option value="5">5</option>
+                        <option value="6">6</option>
+                        <option value="7">7</option>
+                        <option value="8">8</option>
+                        <option value="9">9</option>
+                        <option value="10">10</option>
+                    </select>
                 </div>
                 <div class="col-md-4">
                     <div class="form-wrap">
@@ -90,17 +110,11 @@ $result2 = mysqli_query($conexion, $sql2);
                 </div>
                 <div class="col-md-4">
                     <select name="datos[]" class="form-input" data-constraints="@Selected">
-                        <option value="">Available dates</option>
+                        <option value="">-Available dates-</option>
                         <option value="2023-05-09">3 de Marzo - 8 de Marzo</option>
                         <option value="2023-05-09">3 de Marzo - 8 de Marzo</option>
                         <option value="2023-05-09">3 de Marzo - 8 de Marzo</option>
                     </select>
-                </div>
-                <div class="col-md-4">
-                    <label>Select the date</label>
-                    <div class="form-wrap">
-                        <input class="form-input" type="date" name="datos[]" required />
-                    </div>
                 </div>
             </div>
             <div class="button button-primary button-pipaluk" onclick="calcularFormulario()">

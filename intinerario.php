@@ -3,71 +3,12 @@
 
 <head>
     <?php include "static/head.php" ?>
-    <style>
-        h1 {
-            font-size: 30px;
-            color: #fff;
-            text-transform: uppercase;
-            font-weight: 300;
-            text-align: center;
-            margin-bottom: 15px;
-        }
-
-        table {
-            width: 100%;
-            table-layout: fixed;
-        }
-
-        .tbl-header {
-            background-color: rgba(255, 255, 255, 0.3);
-        }
-
-        .tbl-content {
-            height: 300px;
-            overflow-x: auto;
-            margin-top: 0px;
-            border: 1px solid rgba(255, 255, 255, 0.3);
-        }
-
-        th {
-            padding: 20px 15px;
-            text-align: left;
-            font-weight: 500;
-            font-size: 12px;
-            color: #fff;
-            text-transform: uppercase;
-        }
-
-        td {
-            padding: 15px;
-            text-align: left;
-            vertical-align: middle;
-            font-weight: 300;
-            font-size: 12px;
-            color: #fff;
-            border: solid 5px rgba(255, 255, 255, 0.3);
-        }
-
-
-        /* demo styles */
-
-        @import url(https://fonts.googleapis.com/css?family=Roboto:400,500,300,700);
-
-        body {
-            background: -webkit-linear-gradient(left, #25c481, #25b7c4);
-            background: linear-gradient(to right, #25c481, #25b7c4);
-            font-family: 'Roboto', sans-serif;
-        }
-
-        section {
-            margin: 50px;
-        }
-    </style>
+    <link rel="stylesheet" href="assets/css/itinerario.css">
 </head>
 
 <body>
-    <?php include "components/Loader.php" ?>
-    <div class="page">k
+
+    <div class="page">
         <header class="section page-header">
             <div class="rd-navbar-wrap">
                 <nav class="rd-navbar rd-navbar-corporate" data-layout="rd-navbar-fixed" data-sm-layout="rd-navbar-fixed" data-md-layout="rd-navbar-fixed" data-md-device-layout="rd-navbar-fixed" data-lg-layout="rd-navbar-static" data-lg-device-layout="rd-navbar-fixed" data-xl-layout="rd-navbar-static" data-xl-device-layout="rd-navbar-static" data-xxl-layout="rd-navbar-static" data-xxl-device-layout="rd-navbar-static" data-lg-stick-up-offset="46px" data-xl-stick-up-offset="46px" data-xxl-stick-up-offset="106px" data-lg-stick-up="true" data-xl-stick-up="true" data-xxl-stick-up="true">
@@ -107,97 +48,11 @@
                 </nav>
             </div>
         </header>
-        <section>
-            <h1>Itinerario</h1>
-            <div class="tbl-header">
-                <table cellpadding="0" cellspacing="0" border="0">
-                    <thead>
-                        <th>Día 1</th>
-                        <th>Día 2</th>
-                        <th>Día 3</th>
-                        <th>Día 4</th>
-                        <th>Día 5</th>
-                        <th>Día 6</th>
-                        <th>Día 7</th>
-                    </thead>
-                </table>
-            </div>
-            <div class="tbl-content">
-                <table cellpadding="0" cellspacing="0" border="0">
-                    <tbody>
-                        <tr>
-                            <td>
-                                <ol>
-                                    <li>Recepción</li>
-                                    <li>Comida de bienvenida</li>
-                                    <li>Tour por el Centro Histórico</li>
-                                    <li>Mercado de la Ciudad</li>
-                                </ol>
-                            </td>
-                            <td>
-                                <ol>
-                                    <li>Recepción</li>
-                                    <li>Comida de bienvenida</li>
-                                    <li>Tour por el Centro Histórico</li>
-                                    <li>Mercado de la Ciudad</li>
-                                </ol>
-                            </td>
-                            <td>
-                                <ol>
-                                    <li>Recepción</li>
-                                    <li>Comida de bienvenida</li>
-                                    <li>Tour por el Centro Histórico</li>
-                                    <li>Mercado de la Ciudad</li>
-                                </ol>
-                            </td>
-                            <td>
-                                <ol>
-                                    <li>Recepción</li>
-                                    <li>Comida de bienvenida</li>
-                                    <li>Tour por el Centro Histórico</li>
-                                    <li>Mercado de la Ciudad</li>
-                                </ol>
-                            </td>
-                            <td>
-                                <ol>
-                                    <li>Recepción</li>
-                                    <li>Comida de bienvenida</li>
-                                    <li>Tour por el Centro Histórico</li>
-                                    <li>Mercado de la Ciudad</li>
-                                </ol>
-                            </td>
-                            <td>
-                                <ol>
-                                    <li>Recepción</li>
-                                    <li>Comida de bienvenida</li>
-                                    <li>Tour por el Centro Histórico</li>
-                                    <li>Mercado de la Ciudad</li>
-                                </ol>
-                            </td>
-                            <td>
-                                <ol>
-                                    <li>Recepción</li>
-                                    <li>Comida de bienvenida</li>
-                                    <li>Tour por el Centro Histórico</li>
-                                    <li>Mercado de la Ciudad</li>
-                                </ol>
-                            </td>
-                            <td>
-                                <ol>
-                                    <li>Recepción</li>
-                                    <li>Comida de bienvenida</li>
-                                    <li>Tour por el Centro Histórico</li>
-                                    <li>Mercado de la Ciudad</li>
-                                </ol>
-                            </td>
-                        </tr>
-                    </tbody>
-                </table>
-            </div>
-        </section>
-        <!-- TODO: Que se ponga todos los itinerarios conforme a la varibles de los paquetes metodo GET -->
-        <a class="button button-lg button-primary button-ujarak" style="background-color:#C11709;" href="paquetes.php">Regresar</a> <br> <br>
-        <?php include "static/footer.php"; ?>
+        <?php
+        include "./components/Itinerarios.php";
+        seleccionarIntinerario($_GET['paquete']);
+        include "static/footer.php";
+        ?>
     </div>
 </body>
 
