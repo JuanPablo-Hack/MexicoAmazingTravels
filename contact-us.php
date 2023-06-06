@@ -47,6 +47,13 @@
                 </nav>
             </div>
         </header>
+        <!-- TODO: Dejar el campo de numero de personas en checklist -->
+        <!-- TODO: Dejar el campo de numero de personas en checklist -->
+        <!-- TODO: Cabmiar el total de personas por un icono -->
+        <!-- TODO: Donde dice country poner pais de origen -->
+        <!-- TODO: Poner el limite de personas por paquetes -->
+        <!-- TODO: Quitar el campo de la fecha -->
+        <!-- TODO: Poner el formulario de calcular precio a la hora de mandar llamar el calcular el precio -->
         <?php include "components/ContactForm.php" ?>
         <?php include "static/footer.php"; ?>
     </div>
