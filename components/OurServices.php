@@ -50,7 +50,7 @@
             <div class="col-sm-4 col-lg-4">
                 <div class="box">
                     <div class="imgBox">
-                        <img src="https://mexicolu.gruposoca.com.mx/images/tours.jpg" class="img-responsive" />
+                        <img src="assets/images/test2.jpg" class="img-responsive" />
                     </div>
                     <div class="content">
                         <h5 class="box-icon-classic-title" style="color: #fff">
@@ -139,7 +139,7 @@
             <div class="col-sm-4 col-lg-4">
                 <div class="box">
                     <div class="imgBox">
-                        <img src="assets/images/paqueteria.jpg" class="img-responsive" />
+                        <img src="assets/images/paqueteria.png" class="img-responsive" />
                     </div>
                     <div class="content">
                         <h5 class="box-icon-classic-title" style="color: #fff">

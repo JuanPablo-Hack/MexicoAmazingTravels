@@ -67,7 +67,7 @@
 
 <body>
     <?php include "components/Loader.php" ?>
-    <div class="page">
+    <div class="page">k
         <header class="section page-header">
             <div class="rd-navbar-wrap">
                 <nav class="rd-navbar rd-navbar-corporate" data-layout="rd-navbar-fixed" data-sm-layout="rd-navbar-fixed" data-md-layout="rd-navbar-fixed" data-md-device-layout="rd-navbar-fixed" data-lg-layout="rd-navbar-static" data-lg-device-layout="rd-navbar-fixed" data-xl-layout="rd-navbar-static" data-xl-device-layout="rd-navbar-static" data-xxl-layout="rd-navbar-static" data-xxl-device-layout="rd-navbar-static" data-lg-stick-up-offset="46px" data-xl-stick-up-offset="46px" data-xxl-stick-up-offset="106px" data-lg-stick-up="true" data-xl-stick-up="true" data-xxl-stick-up="true">
@@ -108,7 +108,7 @@
             </div>
         </header>
         <section>
-            <h1>Intenerario</h1>
+            <h1>Itinerario</h1>
             <div class="tbl-header">
                 <table cellpadding="0" cellspacing="0" border="0">
                     <thead>
@@ -195,6 +195,8 @@
                 </table>
             </div>
         </section>
+        <!-- TODO: Que se ponga todos los itinerarios conforme a la varibles de los paquetes metodo GET -->
+        <a class="button button-lg button-primary button-ujarak" style="background-color:#C11709;" href="paquetes.php">Regresar</a> <br> <br>
         <?php include "static/footer.php"; ?>
     </div>
 </body>

@@ -1,7 +1,7 @@
 <section class="breadcrumbs-custom-inset">
     <div class="breadcrumbs-custom context-dark bg-overlay-60">
         <div class="container">
-            <h2 class="breadcrumbs-custom-title">Galería</h2>
+            <h2 class="breadcrumbs-custom-title" style="text-shadow: -2px -2px 1px #000, 2px 2px 1px #000, -2px 2px 1px #000, 2px -2px 1px #000;">Galería</h2>
         </div>
         <div class="box-position" style="background-image: url(https://mexicolu.gruposoca.com.mx/images/acerca_2.jpg)"></div>
     </div>

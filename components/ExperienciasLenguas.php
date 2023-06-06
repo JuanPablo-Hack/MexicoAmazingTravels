@@ -5,14 +5,8 @@
                 <div class="thumbnail-mary-figure">
                     <img src="assets/images/USA.png" alt="" width="420px" height="250px" />
                 </div>
-                <div class="thumbnail-mary-caption">
-                    <a class="icon fl-bigmug-line-zoom60" href="paquetes.php?destino=chiapas"></a>
-                </div>
             </article>
             <div class="thumbnail-mary-description">
-                <h5 class="thumbnail-mary-project">
-                    <a href="destinos/oaxaca/index.html">USA </a>
-                </h5>
                 <span class="thumbnail-mary-decor"></span>
                 <h5 class="thumbnail-mary-time"></h5>
             </div>
@@ -22,14 +16,8 @@
                 <div class="thumbnail-mary-figure">
                     <img src="assets/images/Alemania.png" alt="" width="420px" height="250px" />
                 </div>
-                <div class="thumbnail-mary-caption">
-                    <a class="icon fl-bigmug-line-zoom60" data-lightgallery="item"></a>
-                </div>
             </article>
             <div class="thumbnail-mary-description">
-                <h5 class="thumbnail-mary-project">
-                    <a href="#">Alemania</a>
-                </h5>
                 <span class="thumbnail-mary-decor"></span>
                 <h5 class="thumbnail-mary-time"></h5>
             </div>
@@ -39,14 +27,8 @@
                 <div class="thumbnail-mary-figure">
                     <img src="assets/images/Inglaterra.png" alt="" width="420px" height="250px" />
                 </div>
-                <div class="thumbnail-mary-caption">
-                    <a class="icon fl-bigmug-line-zoom60" data-lightgallery="item"></a>
-                </div>
             </article>
             <div class="thumbnail-mary-description">
-                <h5 class="thumbnail-mary-project">
-                    <a href="#">Inglaterras</a>
-                </h5>
                 <span class="thumbnail-mary-decor"></span>
                 <h5 class="thumbnail-mary-time"></h5>
             </div>
@@ -57,14 +39,8 @@
                 <div class="thumbnail-mary-figure">
                     <img src="assets/images/Italia.png" alt="" width="420px" height="250px" />
                 </div>
-                <div class="thumbnail-mary-caption">
-                    <a class="icon fl-bigmug-line-zoom60" data-lightgallery="item"></a>
-                </div>
             </article>
             <div class="thumbnail-mary-description">
-                <h5 class="thumbnail-mary-project">
-                    <a href="#">Italia</a>
-                </h5>
                 <span class="thumbnail-mary-decor"></span>
                 <h5 class="thumbnail-mary-time"></h5>
             </div>
@@ -75,17 +51,12 @@
                 <div class="thumbnail-mary-figure">
                     <img src="assets/images/Francia.png" alt="" width="420px" height="250px" />
                 </div>
-                <div class="thumbnail-mary-caption">
-                    <a class="icon fl-bigmug-line-zoom60" data-lightgallery="item"></a>
-                </div>
             </article>
             <div class="thumbnail-mary-description">
-                <h5 class="thumbnail-mary-project">
-                    <a href="#">Francia</a>
-                </h5>
                 <span class="thumbnail-mary-decor"></span>
                 <h5 class="thumbnail-mary-time"></h5>
             </div>
         </div>
     </div>
 </section>
+<!-- TODO: Poner las banderas en cuadricula, agregar las banderas de canada , austria y españa-->

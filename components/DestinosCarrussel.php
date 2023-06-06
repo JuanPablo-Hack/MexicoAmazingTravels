@@ -6,6 +6,7 @@
                     <img src="assets/images/oaxaca_destinos.jpg" alt="" width="420px" height="250px" />
                 </div>
                 <div class="thumbnail-mary-caption">
+                    <!-- TODO: Quitar el icono y poner el evento clic dentro del banner -->
                     <a class="icon fl-bigmug-line-zoom60" href="paquetes.php?destino=chiapas"></a>
                 </div>
             </article>
