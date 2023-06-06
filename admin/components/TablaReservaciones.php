@@ -1,4 +1,4 @@
-<?php 
+<?php
 include '../controllers/Selects.php'
 ?>
 <div class="row row-sm mg-b-20">
@@ -26,33 +26,33 @@ include '../controllers/Selects.php'
             </thead>
             <tbody>
                 <?php
-                    $datos= obtenerReservaciones();
-                    while ($mostrar= mysqli_fetch_assoc($datos)) {
-                    ?>
-                <tr>
-                    <td><?php echo $mostrar['id'] ?></td>
-                    <td><?php echo $mostrar['nombre'] ?></td>
-                    <td><?php echo $mostrar['correo'] ?></td>
-                    <td><?php echo $mostrar['tel'] ?></td>
-                    <td><?php echo '$'.number_format(18500.50,2,'.') ?></td>
-                    <td class="hidden_info"><?php echo $mostrar['num_adultos'] ?></td>
-                    <td class="hidden_info"><?php echo $mostrar['num_niños'] ?></td>
-                    <td class="hidden_info"><?php echo obtenerDestino($mostrar['id_destinos']) ?></td>
-                    <td class="hidden_info"><?php echo obtenerPaquete($mostrar['id_paquetes']) ?></td>
-                    <td class="hidden_info"><?php echo $mostrar['fecha_reservadas'] ?></td>
-                    <td class="hidden_info"><?php echo $mostrar['creado'] ?></td>
-                    <td class="hidden_info"><?php echo $mostrar['pais'] ?></td>
-                    <td class="hidden_info"><?php echo $mostrar['ciudad'] ?></td>
-                    <td class="hidden_info"><?php echo obtenerEstado($mostrar['estado']) ?></td>
-                    <td>
-                        <button class="btn btn-success btn-xs" title="Editar Cliente"><i
-                                class="far fa-arrow-alt-circle-down"></i></button>
-                        <a class="btn btn-danger btn-xs" title="Eliminar Cliente"> <i class="fa-solid fa-trash"></i></a>
-                    </td>
-                </tr>
+                $datos = obtenerReservaciones();
+                while ($mostrar = mysqli_fetch_assoc($datos)) {
+                ?>
+                    <tr>
+                        <td><?php echo $mostrar['id'] ?></td>
+                        <td><?php echo $mostrar['nombre'] ?></td>
+                        <td><?php echo $mostrar['correo'] ?></td>
+                        <td><?php echo $mostrar['tel'] ?></td>
+                        <td><?php $total =  obtenerPaquetePrecio($mostrar['id_paquetes']) * ($mostrar['num_adultos'] + $mostrar['num_niños']);
+                            echo '$' . number_format($total, 2, '.') ?></td>
+                        <td class="hidden_info"><?php echo $mostrar['num_adultos'] ?></td>
+                        <td class="hidden_info"><?php echo $mostrar['num_niños'] ?></td>
+                        <td class="hidden_info"><?php echo obtenerDestino($mostrar['id_destinos']) ?></td>
+                        <td class="hidden_info"><?php echo obtenerPaquete($mostrar['id_paquetes']) ?></td>
+                        <td class="hidden_info"><?php echo $mostrar['fecha_reservadas'] ?></td>
+                        <td class="hidden_info"><?php echo $mostrar['creado'] ?></td>
+                        <td class="hidden_info"><?php echo $mostrar['pais'] ?></td>
+                        <td class="hidden_info"><?php echo $mostrar['ciudad'] ?></td>
+                        <td class="hidden_info"><?php echo obtenerEstado($mostrar['estado']) ?></td>
+                        <td>
+                            <button class="btn btn-success btn-xs" title="Editar Cliente"><i class="far fa-arrow-alt-circle-down"></i></button>
+                            <a class="btn btn-danger btn-xs" title="Eliminar Cliente"> <i class="fa-solid fa-trash"></i></a>
+                        </td>
+                    </tr>
                 <?php
-                    }
-                    ?>
+                }
+                ?>
             </tbody>
         </table>
     </div>
