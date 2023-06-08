@@ -18,7 +18,6 @@
             </div>
         </div>
         <div class="owl-item">
-            <!-- Thumbnail Classic-->
             <article class="thumbnail thumbnail-mary">
                 <div class="thumbnail-mary-figure">
                     <img src="https://mexicolu.gruposoca.com.mx/images/chiapas_destinos.jpg" alt="" width="420px" height="250px" />

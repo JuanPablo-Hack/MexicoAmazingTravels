@@ -795,3 +795,4 @@
         </div>
     </div>
 </section>
+<a class="button button-lg button-primary button-ujarak" href="destinos.php">Regresar</a> <br><br><br>
