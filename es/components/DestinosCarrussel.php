@@ -2,6 +2,9 @@
     <div class="owl-carousel owl-classic owl-timeline" data-items="1" data-md-items="2" data-lg-items="3" data-xl-items="4" data-margin="30" data-autoplay="false" data-nav="true" data-dots="true">
         <div class="owl-item">
             <article class="thumbnail thumbnail-mary">
+                <div class="thumbnail-mary-figure">
+                    <img src="../assets/images/oaxaca_destinos.jpg" alt="" width="420px" height="250px" />
+                </div>
                 <div class="thumbnail-mary-caption">
                     <a href="paquetes.php?destino=chiapas">Ir</a>
                 </div>
