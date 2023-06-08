@@ -47,7 +47,6 @@
         </nav>
       </div>
     </header>
-    <!-- TODO: Manejar las imagenes -->
     <?php include "components/OurServices.php" ?>
     <?php include "components/AliancesTeams.php" ?>
     <?php include "static/footer.php" ?>

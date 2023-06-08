@@ -6,7 +6,7 @@
 </head>
 
 <body>
-    <?php include "components/Loader.php" ?>
+
     <div class="page">
         <header class="section page-header">
             <div class="rd-navbar-wrap">
@@ -49,6 +49,8 @@
             </div>
         </header>
         <?php include "components/ContactForm.php" ?>
+        <?php include "components/FormCalcular.php" ?>
+        <?php include "components/DatosContacto.php" ?>
         <?php include "static/footer.php"; ?>
     </div>
 </body>

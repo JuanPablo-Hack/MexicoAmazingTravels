@@ -59,4 +59,3 @@
         </div>
     </div>
 </section>
-<!-- TODO: Poner las banderas en cuadricula, agregar las banderas de canada , austria y españa-->

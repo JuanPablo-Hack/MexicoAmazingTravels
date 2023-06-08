@@ -47,7 +47,6 @@
                 </nav>
             </div>
         </header>
-        <!-- TODO: Poner el formulario de calcular precio a la hora de mandar llamar el calcular el precio -->
         <?php include "components/ContactForm.php" ?>
         <?php include "static/footer.php"; ?>
     </div>
