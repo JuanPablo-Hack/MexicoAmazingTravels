@@ -94,7 +94,7 @@
             <div class="col-sm-4 col-lg-4">
                 <div class="box">
                     <div class="imgBox">
-                        <img src="https://mexicolu.gruposoca.com.mx/images/doctor.png" class="img-responsive" />
+                        <img src="../assets/images/doctora.jpg" class="img-responsive" />
                     </div>
                     <div class="content">
                         <h5 class="box-icon-classic-title" style="color: #fff">
@@ -139,14 +139,14 @@
             <div class="col-sm-4 col-lg-4">
                 <div class="box">
                     <div class="imgBox">
-                        <img src="../assets/images/paqueteria.png" class="img-responsive" />
+                        <img src="../assets/images/cena_especial.jpg" class="img-responsive" />
                     </div>
                     <div class="content">
                         <h5 class="box-icon-classic-title" style="color: #fff">
-                            <a href="#">Apoyo en servicio de paquetería</a>
+                            <a href="#">Cena Especial</a>
                         </h5>
                         <p class="box-icon-classic-text">
-                            Trasladamos empaquetadas a las agencias de paquetería las artesanías que adquieras para asegurarte que lleguen a su destino en buen estado. El costo del envío es por tu cuenta.
+                            Siempre será agradable recibirlos y despedirlos con una cena especial. Un buen momento para disfrutar y obtener una foto de recuerdo cortesía de México Amazing & Unforgettable.
                         </p>
                     </div>
                 </div>
@@ -169,14 +169,14 @@
             <div class="col-sm-4 col-lg-4">
                 <div class="box">
                     <div class="imgBox">
-                        <img src="../assets/images/table-g536d4fa9b_1280.jpg" class="img-responsive" />
+                        <img src="../assets/images/paqueteria.png" class="img-responsive" />
                     </div>
                     <div class="content">
                         <h5 class="box-icon-classic-title" style="color: #fff">
-                            <a href="#">Cena Especial</a>
+                            <a href="#">Apoyo en servicio de paquetería</a>
                         </h5>
                         <p class="box-icon-classic-text">
-                            Siempre será agradable recibirlos y despedirlos con una cena especial. Un buen momento para disfrutar y obtener una foto de recuerdo cortesía de México Amazing & Unforgettable.
+                            Trasladamos empaquetadas a las agencias de paquetería las artesanías que adquieras para asegurarte que lleguen a su destino en buen estado. El costo del envío es por tu cuenta.
                         </p>
                     </div>
                 </div>

@@ -4502,6 +4502,27 @@ input:-webkit-autofill ~ .form-validation {
 	border: 1px solid #f7f7f7;
 }
 
+.form-input-total {
+	display: block;
+	width: 100%;
+	min-height: 60px;
+	padding: 17px 22px;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 24px;
+	letter-spacing: .025em;
+	color: #151515;
+	background-color: #01b3a7;
+	background-image: none;
+	border-radius: 0;
+	-webkit-appearance: none;
+	transition: .3s ease-in-out;
+	border: 1px solid #f7f7f7;
+}
+.form-input-total::placeholder {
+	color: white;
+}
+
 .form-input:focus {
 	outline: 0;
 }
@@ -6931,17 +6952,7 @@ textarea.textarea-lg {
 		transform-origin: 0 50%;
 		will-change: transform;
 	}
-	.desktop .thumbnail-modern:hover .thumbnail-modern-figure img {
-		transform-origin: 100% 50%;
-	}
-	.desktop .thumbnail-modern:hover .thumbnail-modern-title {
-		color: #01b3a7;
-	}
-	.desktop .thumbnail-modern:hover .thumbnail-modern-figure:before {
-		width: 100%;
-		visibility: visible;
-		opacity: 1;
-	}
+
 }
 
 * + .thumbnail-modern-caption {
@@ -7197,6 +7208,7 @@ textarea.textarea-lg {
 
 .thumbnail-mary-project {
 	font-weight: 400;
+	font-size: 30px;
 }
 
 .thumbnail-mary-time {

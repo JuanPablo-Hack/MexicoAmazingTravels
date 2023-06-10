@@ -20,7 +20,8 @@
                     </p>
                 </div>
                 <div class="col-sm-6 col-md-4 text-md-right">
-                    <p class="rights"><a href="#">Privacy Policy</a></p>
+                    <p class="rights" style="font-size: 15px;"><a href="#">Aviso de privacidad</a></p>
+                    <p class="rights" style="font-size: 15px;"><a href="#">Términos y condiciones</a></p>
                 </div>
             </div>
         </div>

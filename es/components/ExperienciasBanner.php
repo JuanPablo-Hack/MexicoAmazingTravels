@@ -6,6 +6,6 @@
                 <q>Haz Clik en la bandera de tu país.</q>
             </h4>
         </div>
-        <div class="box-position" style="background-image: url(assets/images/globos.jpg)"></div>
+        <div class="box-position" style="background-image: url(../assets/images/globos.jpg)"></div>
     </div>
 </section>
