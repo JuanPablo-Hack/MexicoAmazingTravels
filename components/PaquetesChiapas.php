@@ -42,7 +42,7 @@
                   ">
                     </a>
                     <div class="text border border-top-0 p-4">
-                        <h3 class="heading">Visit tour of the Waterfall (adventure</h3>
+                        <h3 class="heading">Visit tour of the Waterfall (adventure)</h3>
                         <p>
                             Tour to the waterfalls with a spectacular view where you can enjoy the lake and its
                             natural environment.
@@ -624,7 +624,7 @@
 <section class="section section-sm bg-default">
     <div class="container">
         <h3 class="oh-desktop">
-            <span class="d-inline-block wow slideInDown">Paquetes</span>
+            <span class="d-inline-block wow slideInDown">Essential</span>
         </h3>
         <div class="row row-sm row-40 row-md-50">
             <div class="col-sm-6 col-md-12 wow fadeInRight">
@@ -636,7 +636,7 @@
                         <div class="unit-body">
                             <div class="product-big-body">
                                 <h5 class="product-big-title">
-                                    <a href="#"> Básico</a>
+                                    <a href="#">Essential</a>
                                 </h5>
                                 <div class="group-sm group-middle justify-content-start">
                                     <div class="product-big-rating">
@@ -645,10 +645,11 @@
                                     <a class="product-big-reviews" href="contact-us.html">4 customer reviews</a>
                                 </div>
                                 <p class="product-big-text">
-                                    <strong>Experiencia interesante para personas que quieren disfrutar lo mejor de
-                                        Oaxaca en 7 días y sin límite de edad.</strong>
+                                    <strong>Interesting experience for people who want to enjoy the best of
+                                        Oaxaca in 7 days and without age limit.</strong>
                                 </p>
-                                <a href="intinerario.php?paquete=basico" target="_blank" rel="noopener noreferrer" class="button button-black-outline button-ujarak">Itinerario</a>
+                                <a href="intinerario.php?paquete=basico" target="_blank" rel="noopener noreferrer" class="button button-black-outline button-ujarak">itinerary
+</a>
                             </div>
                         </div>
                     </div>
@@ -663,7 +664,7 @@
                         <div class="unit-body">
                             <div class="product-big-body">
                                 <h5 class="product-big-title">
-                                    <a href="#">Familiar y emocionante</a>
+                                    <a href="#">familiar and exciting</a>
                                 </h5>
                                 <div class="group-sm group-middle justify-content-start">
                                     <div class="product-big-rating">
@@ -672,10 +673,11 @@
                                     <a class="product-big-reviews" href="#">5 customer reviews</a>
                                 </div>
                                 <p class="product-big-text">
-                                    <strong>Emocionante y para gozar con tu familia lo que ofrece Oaxaca en 10 días. No
-                                        importa la edad.</strong>
+                                    <strong>Exciting and to enjoy with your family what Oaxaca offers in 10 days. No
+                                        age matters.</strong>
                                 </p>
-                                <a href="intinerario.php?paquete=familiar" target="_blank" rel="noopener noreferrer" class="button button-black-outline button-ujarak">Itinerario</a>
+                                <a href="intinerario.php?paquete=familiar" target="_blank" rel="noopener noreferrer" class="button button-black-outline button-ujarak">itinerary
+</a>
                             </div>
                         </div>
                     </div>
@@ -690,7 +692,8 @@
                         <div class="unit-body">
                             <div class="product-big-body">
                                 <h5 class="product-big-title">
-                                    <a href="#">Con tiempo para deleitarse</a>
+                                    <a href="#">With time to delight
+                                    </a>
                                 </h5>
                                 <div class="group-sm group-middle justify-content-start">
                                     <div class="product-big-rating">
@@ -699,10 +702,11 @@
                                     <a class="product-big-reviews" href="#">5 customer reviews</a>
                                 </div>
                                 <p class="product-big-text">
-                                    <strong>Especial para personas mayores de edad o retiradas que desean conocer Oaxaca
-                                        con calma en 10 días.</strong>
+                                    <strong>Special for people of legal age or retirees who want to know Oaxaca
+                                        calmly in 10 days.</strong>
                                 </p>
-                                <a href="intinerario.php?paquete=retirados" target="_blank" rel="noopener noreferrer" class="button button-black-outline button-ujarak">Itinerario</a>
+                                <a href="intinerario.php?paquete=retirados" target="_blank" rel="noopener noreferrer" class="button button-black-outline button-ujarak">itinerary
+</a>
                             </div>
                         </div>
                     </div>
@@ -717,7 +721,7 @@
                         <div class="unit-body">
                             <div class="product-big-body">
                                 <h5 class="product-big-title">
-                                    <a href="#">Aventura y Cultura</a>
+                                    <a href="#">Adventure and Culture</a>
                                 </h5>
                                 <div class="group-sm group-middle justify-content-start">
                                     <div class="product-big-rating">
@@ -726,11 +730,12 @@
                                     <a class="product-big-reviews" href="contact-us.html">4 customer reviews</a>
                                 </div>
                                 <p class="product-big-text">
-                                    <strong>Siempre excitante, especial para personas que desean convivir con la
-                                        naturaleza y una buena dosis de adrenalina sin olvidar la esencia cultural de
-                                        Oaxaca durante 10 días.</strong>
+                                    <strong>Always exciting, especially for people who want to live with the
+                                        nature and a good dose of adrenaline without forgetting the cultural essence of
+                                        Oaxaca for 10 days.</strong>
                                 </p>
-                                <a href="intinerario.php?paquete=aventura" target="_blank" rel="noopener noreferrer" class="button button-black-outline button-ujarak">Itinerario</a>
+                                <a href="intinerario.php?paquete=aventura" target="_blank" rel="noopener noreferrer" class="button button-black-outline button-ujarak">itinerary
+</a>
                             </div>
                         </div>
                     </div>
@@ -745,7 +750,7 @@
                         <div class="unit-body">
                             <div class="product-big-body">
                                 <h5 class="product-big-title">
-                                    <a href="#"> Playas inolvidables</a>
+                                    <a href="#">unforgettable beaches</a>
                                 </h5>
                                 <div class="group-sm group-middle justify-content-start">
                                     <div class="product-big-rating">
@@ -754,11 +759,12 @@
                                     <a class="product-big-reviews" href="contact-us.html">4 customer reviews</a>
                                 </div>
                                 <p class="product-big-text">
-                                    <strong>Están a tu alcance las playas que tiene Oaxaca con una combinación de
-                                        aventura, relajamiento y romanticismo. El paraíso de la región a tu alcance
-                                        durante 10 días y para todas las edades.</strong>
+                                    <strong>Oaxaca's beaches are within your reach with a combination of
+                                        adventure, relaxation and romance. The region's paradise at your fingertips
+                                        for 10 days and for all ages.</strong>
                                 </p>
-                                <a href="intinerario.php?paquete=playas" target="_blank" rel="noopener noreferrer" class="button button-black-outline button-ujarak">Itinerario</a>
+                                <a href="intinerario.php?paquete=playas" target="_blank" rel="noopener noreferrer" class="button button-black-outline button-ujarak">itinerary
+</a>
                             </div>
                         </div>
                     </div>
@@ -773,7 +779,8 @@
                         <div class="unit-body">
                             <div class="product-big-body">
                                 <h5 class="product-big-title">
-                                    <a href="#"> Especial y a tu medida</a>
+                                    <a href="#">Special and to your measure
+                                    </a>
                                 </h5>
                                 <div class="group-sm group-middle justify-content-start">
                                     <div class="product-big-rating">
@@ -782,11 +789,12 @@
                                     <a class="product-big-reviews" href="contact-us.html">4 customer reviews</a>
                                 </div>
                                 <p class="product-big-text">
-                                    <strong>No es indispensable ir en grupo, siempre hay la opción de tomar cualquiera
-                                        de estos paquetes en pareja o solo para tu familia. La duración depende de ti, 7
-                                        o 10 días y sin límite de edad.</strong>
+                                    <strong>It is not essential to go in a group, there is always the option of taking any
+                                        of these packages as a couple or just for your family. The duration depends on you, 7
+                                        or 10 days and no age limit.</strong>
                                 </p>
-                                <a class="button button-black-outline button-ujarak" href="contact-us.php">Itinerario</a>
+                                <a class="button button-black-outline button-ujarak" href="contact-us.php">itinerary
+                                </a>
                             </div>
                         </div>
                     </div>

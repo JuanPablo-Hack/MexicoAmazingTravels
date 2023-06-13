@@ -6,7 +6,7 @@
             </div>
             <div class="col-lg-6 wow fadeInRight" data-wow-delay=".1s">
                 <div class="box-width-lg-470">
-                    <h3>Conócenos y viaja con nosotros</h3>
+                    <h3>Get to know us and travel with us</h3>
                     <div class="tabs-custom tabs-horizontal tabs-line tabs-line-big tabs-line-style-2 text-center text-md-left" id="tabs-7">
                         <ul class="nav nav-tabs">
                             <li class="nav-item" role="presentation">

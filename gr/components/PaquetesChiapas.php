@@ -8,11 +8,12 @@
                   ">
                     </a>
                     <div class="text border border-top-0 p-4">
-                        <h3 class="heading">Cena de Bienvenida (Evento Especial)</h3>
+                        <h3 class="heading">Willkommensdinner (besonderes Ereignis)
+                        </h3>
                         <p>
-                            Al inicio de nuestras actividades ofrecemos la cena con una
-                            muestra de la riqueza culinaria de Oaxaca. Es una oportunidad para
-                            extender amistades bajo un ambiente de calidez.
+                            Zu Beginn unserer Aktivitäten bieten wir ein Abendessen mit einem an
+                            Kostprobe des kulinarischen Reichtums von Oaxaca. Es ist eine Chance für
+                            Bauen Sie Freundschaften in einer herzlichen Atmosphäre aus.
                         </p>
                     </div>
                 </div>
@@ -25,11 +26,13 @@
                     </a>
                     <div class="text border border-top-0 p-4">
                         <h3 class="heading">
-                            Elaboración de Alebrijes
+                            Ausarbeitung von Alebrijes
+
                         </h3>
                         <p>
-                            Recorrido en talleres artesanales y explicación sobre la forma en que se elaboran las
-                            famosas figuras de madera con pinturas multicolores. Interactivo. <br />
+                            Rundgang durch Handwerksbetriebe und Erläuterung der Art und Weise, wie die
+                            berühmte Holzfiguren mit vielfarbiger Bemalung. Interaktiv.
+                            <br />
                             <br />
                         </p>
                     </div>
@@ -42,10 +45,10 @@
                   ">
                     </a>
                     <div class="text border border-top-0 p-4">
-                        <h3 class="heading">Visita recorrida por la Cascada (aventura</h3>
+                        <h3 class="heading">Besichtigungstour zum Wasserfall (Abenteuer)</h3>
                         <p>
-                            Recorrido a las cascadas con una vista espectacular en donde podrás disfrutar del lago y su
-                            entorno natural.
+                            Tour zu den Wasserfällen mit spektakulärer Aussicht, wo Sie den See und seine Umgebung genießen können
+                            natürlichen Umgebung.
                             <br />
                             <br /> <br>
                         </p>
@@ -60,11 +63,11 @@
                     </a>
                     <div class="text border border-top-0 p-4">
                         <h3 class="heading">
-                            Templo inconcluso de Cuilapam
+                            Unvollendeter Tempel von Cuilapam
                         </h3>
                         <p>
-                            Recorrido por el templo inconcluso de estilo Dominico con relato popular acerca del porqué
-                            no se concluyó
+                            Besichtigung des unvollendeten Tempels im dominikanischen Stil mit einer beliebten Geschichte darüber, warum
+                            es wurde nicht abgeschlossen
                             <br /> <br> <br>
                         </p>
                     </div>
@@ -78,11 +81,11 @@
                     </a>
                     <div class="text border border-top-0 p-4">
                         <h3 class="heading">
-                            Sitio del Árbol del Tule
+                            Standort des Tule-Baums
                         </h3>
                         <p>
-                            Visita y paseo por el pueblo de El Tule, lugar del Árbol más longevo del mundo, con
-                            explicación de las figuras caprichosas que forman sus raíces y corteza
+                            Besuchen und spazieren Sie durch die Stadt El Tule, den Ort mit dem langlebigsten Baum der Welt
+                            Erklärung der kapriziösen Figuren, die seine Wurzeln und Rinde bilden
                             <br /> <br>
                         </p>
                     </div>
@@ -96,11 +99,12 @@
                     </a>
                     <div class="text border border-top-0 p-4">
                         <h3 class="heading">
-                            Sitio Arqueológico de Monte Albán
+                            Archäologische Stätte Monte Alban
+
                         </h3>
                         <p>
-                            Visita al complejo de construcciones de origen Zapoteca construidas sobre un cerro con
-                            explicación de las costumbres, ceremonias y práctica de oficios de esa civilización. <br>
+                            Besuch des Komplexes von Bauwerken zapotekischen Ursprungs, die auf einem Hügel errichtet wurden
+                            Erläuterung der Bräuche, Zeremonien und Handelspraktiken dieser Zivilisation. <br>
                         </p>
                     </div>
                 </div>
@@ -112,10 +116,10 @@
                   ">
                     </a>
                     <div class="text border border-top-0 p-4">
-                        <h3 class="heading">Elaboración de artesanías en Barro Negro</h3>
+                        <h3 class="heading">Herstellung von Kunsthandwerk im Barro Negro</h3>
                         <p>
-                            Recorrido con explicación sobre la elaboración de las figuras de barro negro con las
-                            técnicas heredadas de sus ancestros. Interactivo
+                            Rundgang mit Erklärung zur Herstellung der schwarzen Tonfiguren mit dem
+                            Techniken, die von ihren Vorfahren geerbt wurden. Interaktiv
                             <br />
                             <br />
                         </p>
@@ -130,11 +134,11 @@
                     </a>
                     <div class="text border border-top-0 p-4">
                         <h3 class="heading">
-                            Participación de ruta Senderismo (aventura)
+                            Wanderrouten-Teilnahme (Abenteuer)
                         </h3>
                         <p>
-                            Recorrido por la montaña durante una mañana completa para ejercitarte y convivir con la
-                            naturaleza vegetal y animal de la zona <br>
+                            Bergtour für einen ganzen Vormittag zum Trainieren und Leben mit dem
+                            Pflanzen- und Tiernatur der Gegend <br>
                         </p>
                     </div>
                 </div>
@@ -146,10 +150,10 @@
                   ">
                     </a>
                     <div class="text border border-top-0 p-4">
-                        <h3 class="heading">Visita al Museo y Templo de Santo Domingo</h3>
+                        <h3 class="heading">Besuch des Museums und Tempels von Santo Domingo</h3>
                         <p>
-                            Con explicación de las etapas históricas de Oaxaca y sus objetos más preciados. En el
-                            interior del Templo se apreciará la riqueza arquitectónica, y ornamental del lugar.
+                            Mit Erklärung der historischen Phasen von Oaxaca und seiner wertvollsten Objekte. Drin
+                            Im Inneren des Tempels werden Sie den architektonischen und ornamentalen Reichtum des Ortes zu schätzen wissen.
                         </p>
                     </div>
                 </div>
@@ -161,10 +165,10 @@
                   ">
                     </a>
                     <div class="text border border-top-0 p-4">
-                        <h3 class="heading">Elaboración de Velas de Concha</h3>
+                        <h3 class="heading">Herstellung von Muschelkerzen</h3>
                         <p>
-                            Explicación sobre la forma en que los habitantes elaboran las famosas velas de concha con
-                            técnicas heredadas. Interactivo <br />
+                            Erklärung über die Art und Weise, wie die Einwohner die berühmten Muschelkerzen herstellen
+                            Legacy-Techniken. Interaktiv <br />
                             <br />
                         </p>
                     </div>
@@ -178,11 +182,12 @@
                     </a>
                     <div class="text border border-top-0 p-4">
                         <h3 class="heading">
-                            Sitio Arqueológico de Mitla
+                            Archäologische Stätte Mitla
+
                         </h3>
                         <p>
-                            Visita al complejo de construcciones de origen Zapoteca construidas como lugar ceremonial
-                            con explicación de las costumbres, ceremonias y rituales efectuados en el sitio.
+                            Besichtigung des Gebäudekomplexes zapotekischen Ursprungs, der als Zeremonienstätte errichtet wurde
+                            mit Erläuterung der Bräuche, Zeremonien und Rituale, die vor Ort durchgeführt werden.
                             <br /> <br>
                         </p>
                     </div>
@@ -195,10 +200,10 @@
                   ">
                     </a>
                     <div class="text border border-top-0 p-4">
-                        <h3 class="heading">Artesanías en Barro de Atzompa</h3>
+                        <h3 class="heading">Kunsthandwerk aus Atzompa-Ton</h3>
                         <p>
-                            Explicación sobre la forma en que los habitantes elaboran las figuras de barro con las
-                            técnicas heredadas de sus ancestros. Interactivo. <br> <br>
+                            Erklärung zur Art und Weise, wie die Bewohner die Tonfiguren mit dem anfertigen
+                            Techniken, die von ihren Vorfahren geerbt wurden. Interaktiv.<br> <br>
                         </p>
                     </div>
                 </div>
@@ -211,11 +216,11 @@
                     </a>
                     <div class="text border border-top-0 p-4">
                         <h3 class="heading">
-                            Reserva de la Guacamaya Verde (Aventura)
+                            Grünes Ara-Reservat (Abenteuer)
                         </h3>
                         <p>
-                            Recorrido al santuario de la Guacamaya Verde, sitio donde estas coloridas aves utilizan para
-                            anidar. Disfrutará del entorno natural de la zona.
+                            Tour zum Grünen Ara-Schutzgebiet, dem Aufenthaltsort dieser farbenfrohen Vögel
+                            Nest. Sie werden die natürliche Umgebung der Gegend genießen.
                         </p>
                     </div>
                 </div>
@@ -228,10 +233,11 @@
                     </a>
                     <div class="text border border-top-0 p-4">
                         <h3 class="heading">
-                            Mercado de la ciudad </h3>
+                            Stadtmarkt
+                        </h3>
                         <p>
-                            Paseo y degustación de alimentos cotidianos de los habitantes, la variedad y múltiples
-                            sabores que se ofrecen en el lugar.
+                            Spaziergang und Verkostung der täglichen Speisen der Einwohner, deren Vielfalt und Vielfältigkeit
+                            Geschmacksrichtungen vor Ort angeboten.
                             <br /> <br>
                         </p>
                     </div>
@@ -245,10 +251,10 @@
                     </a>
                     <div class="text border border-top-0 p-4">
                         <h3 class="heading">
-                            Cascadas pétreas de Hierve el Agua (Aventura) </h3>
+                            Steinige Wasserfälle von Hierve el Agua (Abenteuer)</h3>
                         <p>
-                            Paseo por la locación de las cascadas pétreas formadas a través de millones de años y
-                            explicación de su composición. <br> <br>
+                            Spazieren Sie durch die Lage der Steinwasserfälle, die über Millionen von Jahren entstanden sind
+                            Erklärung seiner Zusammensetzung. <br> <br>
                         </p>
                     </div>
                 </div>
@@ -261,10 +267,10 @@
                     </a>
                     <div class="text border border-top-0 p-4">
                         <h3 class="heading">
-                            Visita a fábrica de Mezcal </h3>
+                            Besuch der Mezcal-Fabrik </h3>
                         <p>
-                            Recorrido por una fábrica elaboradora de Mezcal con explicación del proceso de elaboración
-                            de los diferentes tipos de mezcal
+                            Besichtigung einer Mezcal-Fabrik mit Erläuterung des Herstellungsprozesses
+                            der verschiedenen Mezcal-Sorten
                             <br />
                             <br />
 
@@ -280,10 +286,11 @@
                     </a>
                     <div class="text border border-top-0 p-4">
                         <h3 class="heading">
-                            Elaboración de Tapetes de Lana </h3>
+                            Herstellung von Wollteppichen
+                        </h3>
                         <p>
-                            Recorrido con explicación sobre la forma en que los habitantes elaboran los tapetes de lana
-                            virgen utilizando técnicas antiguas y pigmentación con elementos naturales. Interactivo.
+                            Rundgang mit Erläuterung der Art und Weise, wie die Einwohner Wollteppiche herstellen
+                            jungfräulich mit alten Techniken und Pigmentierung mit natürlichen Elementen. Interaktiv.
                             <br />
 
                         </p>
@@ -298,12 +305,13 @@
                     </a>
                     <div class="text border border-top-0 p-4">
                         <h3 class="heading">
-                            Sitio Arqueológico de Yagul
+                            Archäologische Stätte Yagul
+
                         </h3>
                         <p>
-                            Visita al complejo de construcciones precolombinas de origen Zapoteca construidas sobre un
-                            valle con explicación de las costumbres, ceremonias y práctica de oficios de esa
-                            civilización. <br>
+                            Besuch des Komplexes präkolumbianischer Bauten zapotekischen Ursprungs, der auf einem errichtet wurde
+                            Tal mit einer Erklärung der Bräuche, Zeremonien und Gewerbepraktiken dieses Tals
+                            Zivilisation. <br>
 
                         </p>
                     </div>
@@ -317,10 +325,10 @@
                     </a>
                     <div class="text border border-top-0 p-4">
                         <h3 class="heading">
-                            Visita al Museo Rufino Tamayo </h3>
+                            Besuch des Rufino Tamayo Museums </h3>
                         <p>
-                            Visita y recorrido en el museo Tamayo con exhibición de una gran variedad de piezas
-                            arqueológicas encontradas en la zona.
+                            Besuch und Rundgang durch das Tamayo-Museum mit einer Ausstellung verschiedenster Stücke
+                            Archäologie in der Gegend gefunden.
                             <br /> <br>
                         </p>
                     </div>
@@ -333,10 +341,11 @@
                   ">
                     </a>
                     <div class="text border border-top-0 p-4">
-                        <h3 class="heading">Puente Colgante (Aventura)</h3>
+                        <h3 class="heading">Hängebrücke (Abenteuer)
+                        </h3>
                         <p>
-                            Recorrido por el puente que une dos montañas con más de 100 metros de largo en medio del
-                            bosque. Especialmente sobrecogedor cuando lo cubre la niebla.
+                            Besichtigung der Brücke, die in der Mitte zwei über 100 Meter lange Berge verbindet
+                            Wald. Besonders entmutigend, wenn es von Nebel bedeckt ist.
                             <br /><br />
                         </p>
                     </div>
@@ -349,10 +358,12 @@
                   ">
                     </a>
                     <div class="text border border-top-0 p-4">
-                        <h3 class="heading">Elaboración de Chocolate</h3>
+                        <h3 class="heading">
+                            Schokoladenherstellung
+                        </h3>
                         <p>
-                            Explicación sobre la forma en que sus habitantes elaboran el Chocolate con las mismas
-                            técnicas que utilizaban los indígenas de la zona. Interactivo <br /> <br>
+                            Erklärung über die Art und Weise, wie seine Bewohner damit Schokolade herstellen
+                            Techniken, die von den Einheimischen der Region verwendet werden. Interaktiv <br /> <br>
 
                         </p>
                     </div>
@@ -365,11 +376,11 @@
                   ">
                     </a>
                     <div class="text border border-top-0 p-4">
-                        <h3 class="heading">Sitio de Hongos (aventura)</h3>
+                        <h3 class="heading">Pilzstandort (Abenteuer)</h3>
                         <p>
-                            Recorrido en un bosque repleto de una gran variedad de hongos silvestres utilizados por los
-                            habitantes de la región para efectos medicinales, sobre todo. Aprenderás a distinguir entre
-                            hongos benéficos y venenosos <br />
+                            Tour durch einen Wald voller einer großen Vielfalt an Wildpilzen, die von den Wildpilzen genutzt werden
+                            Bewohner der Region vor allem für medizinische Zwecke. Sie lernen, zwischen zu unterscheiden
+                            nützliche und giftige Pilze <br />
                         </p>
                     </div>
                 </div>
@@ -382,10 +393,11 @@
                     </a>
                     <div class="text border border-top-0 p-4">
                         <h3 class="heading">
-                            Recorrido por el Centro Histórico </h3>
+                            Rundgang durch das historische Zentrum
+                        </h3>
                         <p>
-                            Recorrido por los lugares importantes que dan ejemplo de arquitectura y costumbres de sus
-                            habitantes
+                            Besichtigung der wichtigen Orte, die ein Beispiel ihrer Architektur und Bräuche bieten
+                            Bevölkerung
                             <br /> <br /> <br />
                         </p>
                     </div>
@@ -398,10 +410,11 @@
                   ">
                     </a>
                     <div class="text border border-top-0 p-4">
-                        <h3 class="heading">Visita y participación del Columpio (aventura)</h3>
+                        <h3 class="heading">Besuch und Teilnahme am Swing (Abenteuer)
+                        </h3>
                         <p>
-                            Disfruta la sensación de balancearte sobre un columpio a la orilla de un risco donde no
-                            tienes contacto con el piso sino con el aire durante unos minutos que parecerán horas.
+                            Genießen Sie das Gefühl, auf einer Schaukel am Rand einer Klippe zu schwingen
+                            Sie haben für einige Minuten, die Ihnen wie Stunden vorkommen, keinen Kontakt mit dem Boden, sondern mit der Luft.
                             <br />
                         </p>
                     </div>
@@ -415,11 +428,12 @@
                     </a>
                     <div class="text border border-top-0 p-4">
                         <h3 class="heading">
-                            Elaboración de Miel Multiflora
+                            Zubereitung von Multiflora-Honig
+
                         </h3>
                         <p>
-                            Explicación sobre la forma en que los habitantes elaboran las velas y crean figuras de
-                            flores multicolores con las técnicas heredadas de sus ancestros. Interactivo.
+                            Erläuterung der Art und Weise, wie die Bewohner Kerzen herstellen und Figuren herstellen
+                            mehrfarbige Blumen mit den von ihren Vorfahren geerbten Techniken. Interaktiv.
                             <br /> <br />
                         </p>
                     </div>
@@ -433,10 +447,11 @@
                     </a>
                     <div class="text border border-top-0 p-4">
                         <h3 class="heading">
-                            Visita a las Grutas (Aventura) </h3>
+                            Besuch der Höhlen (Abenteuer)
+                        </h3>
                         <p>
-                            Recorrido por el interior de las grutas con explicación de las figuras caprichosas que
-                            forman las estalactitas y estalagmitas del lugar.
+                            Rundgang durch die Höhlen mit Erklärung der skurrilen Figuren
+                            bilden die Stalaktiten und Stalagmiten des Ortes.
                             <br /> <br />
                         </p>
                     </div>
@@ -449,11 +464,11 @@
                   ">
                     </a>
                     <div class="text border border-top-0 p-4">
-                        <h3 class="heading">Elaboración del Quesillo</h3>
+                        <h3 class="heading">Zubereitung des Käses</h3>
                         <p>
-                            Explicación sobre la forma en que los habitantes elaboran el queso originario de la región
-                            con las técnicas que heredaron de sus ancestros. El turista participa en la elaboración y
-                            degustación del quesillo
+                            Erläuterung der Art und Weise, wie die Einwohner den aus der Region stammenden Käse herstellen
+                            mit den Techniken, die sie von ihren Vorfahren geerbt haben. Der Tourist beteiligt sich an der Ausarbeitung und
+                            Käseverkostung
                             <br />
                         </p>
                     </div>
@@ -467,12 +482,12 @@
                     </a>
                     <div class="text border border-top-0 p-4">
                         <h3 class="heading">
-                            Elaboración de Molinillos
+                            Ausarbeitung von Mühlen
                         </h3>
                         <p>
-                            Explicación sobre la manera en que los habitantes elaboran los utensilios para batir el
-                            chocolate con madera con los mismos procedimientos que utilizaban los indígenas de la zona.
-                            Interactivo.
+                            Erläuterung der Art und Weise, wie die Bewohner die Utensilien zum Schlagen herstellen
+                            Schokolade mit Holz mit den gleichen Verfahren herstellen, die auch die Einheimischen der Region anwenden.
+                            Interaktiv.
                             <br />
                         </p>
                     </div>
@@ -486,11 +501,10 @@
                     </a>
                     <div class="text border border-top-0 p-4">
                         <h3 class="heading">
-                            Visita y participación de Tirolesa (aventura)
-                        </h3>
+                            Besuch und Teilnahme an Zipline (Abenteuer) </h3>
                         <p>
-                            Experimentarás durante el recorrido la sensación extrema de viajar sobre una cuerda desde un
-                            risco hasta la zona plana del valle. <br />
+                            Während der Tour erleben Sie das extreme Gefühl, an einem Seil zu schweben
+                            Klippe zum flachen Bereich des Tals. <br />
 
                         </p>
                     </div>
@@ -504,11 +518,12 @@
                     </a>
                     <div class="text border border-top-0 p-4">
                         <h3 class="heading">
-                            Elaboración del Pan Serrano </h3>
+                            Herstellung von Serrano-Brot
+                        </h3>
                         <p>
-                            Explicación sobre la forma en que los habitantes elaboran el pan hecho para ocasiones
-                            especiales de los habitantes de la región con las técnicas que heredaron de sus ancestros.
-                            Interactivo.
+                            Erläuterung der Art und Weise, wie die Einwohner das für bestimmte Anlässe gebackene Brot zubereiten
+                            der Bewohner der Region mit den Techniken, die sie von ihren Vorfahren geerbt haben.
+                            Interaktiv.
                             <br />
 
                         </p>
@@ -523,10 +538,10 @@
                     </a>
                     <div class="text border border-top-0 p-4">
                         <h3 class="heading">
-                            Playas </h3>
+                            Strände
+                        </h3>
                         <p>
-                            Ademas de la gran diversidad de playas, cada una tiene su encanto y atractivo.
-                            <br>
+                            Neben der großen Vielfalt an Spielen hat jedes einzelne seinen Reiz und Reiz. <br>
                             <br> <br>
                         </p>
                     </div>
@@ -540,11 +555,11 @@
                     </a>
                     <div class="text border border-top-0 p-4">
                         <h3 class="heading">
-                            Visita al Cañón del Sabino (Aventura)
+                            Besuch im Sabino Canyon (Abenteuer)
                         </h3>
                         <p>
-                            Recorrido por el cañón para disfrutar de la majestuosa formación natural y la vista
-                            panorámica de la zona
+                            Canyon-Tour, um die majestätische Naturformation und Aussicht zu genießen
+                            Panorama der Gegend
                             <br /> <br> <br>
                         </p>
                     </div>
@@ -557,12 +572,12 @@
                   ">
                     </a>
                     <div class="text border border-top-0 p-4">
-                        <h3 class="heading">Cena de Despedida (Evento Especial)</h3>
+                        <h3 class="heading">Abschiedsessen (besonderes Ereignis)</h3>
                         <p>
-                            Al término de nuestro viaje lo mejor es una muestra de
-                            agradecimiento hacia ustedes. Es la mejor oportunidad que
-                            tenemos para dejarles un buen sabor de boca y con la
-                            seguridad de que volverán.
+                            Das Beste am Ende unserer Reise ist eine Kostprobe
+                            Danke dir. Es ist die beste Chance
+                            Wir müssen einen guten Geschmack in Ihrem Mund und bei Ihnen hinterlassen
+                            sicher kommen sie wieder.
                         </p>
                     </div>
                 </div>
@@ -574,12 +589,12 @@
                   ">
                     </a>
                     <div class="text border border-top-0 p-4">
-                        <h3 class="heading">Guelaguetza (Evento Especial)</h3>
+                        <h3 class="heading">Guelaguetza (Sonderveranstaltung)</h3>
                         <p>
-                            En este evento las 8 regiones se reúnen una vez
-                            al año, comparten su patrimonio cultural con sus bailes,
-                            música, comida y costumbres que los distinguen entre ellos
-                            con gran alegría y colorido.
+                            In diesem Fall treffen sich die 8 Regionen einmal
+                            pro Jahr ihr kulturelles Erbe mit ihren Tänzen teilen,
+                            Musik, Essen und Bräuche, die sie voneinander unterscheiden
+                            mit großer Freude und Farbe.
                         </p>
                     </div>
                 </div>
@@ -591,12 +606,12 @@
                   ">
                     </a>
                     <div class="text border border-top-0 p-4">
-                        <h3 class="heading">Calendas (Evento Especial)</h3>
+                        <h3 class="heading">Kalenden (Besonderes Ereignis)</h3>
                         <p>
-                            Es una fiesta por las calles de Oaxaca donde se
-                            manifiesta la alegría. En este desfile se disfruta de la
-                            música regional, los bailes, Fuegos pirotécnicos y figuras
-                            enormes hechas con papel.
+                            Es ist eine Party durch die Straßen von Oaxaca, wo
+                            Freude offenbaren. Bei dieser Parade können Sie das genießen
+                            regionale Musik, Tänze, Feuerwerk und Figuren
+                            riesig aus Papier.
                         </p>
                     </div>
                 </div>
@@ -608,12 +623,12 @@
                   ">
                     </a>
                     <div class="text border border-top-0 p-4">
-                        <h3 class="heading">Días de muertos (Evento Especial)</h3>
+                        <h3 class="heading">Tage der Toten (Sonderereignis)</h3>
                         <p>
-                            Este evento se realiza en fecha determinada de acuerdo al
-                            calendario anual en México. En Oaxaca, la tradición de recordar a
-                            los seres queridos bajo un ambiente de desfile y color para compartir
-                            con todos.
+                            Diese Veranstaltung findet an einem bestimmten Datum statt
+                            Jahreskalender in Mexiko. In Oaxaca die Tradition des Erinnerns
+                            Lieben in einer Atmosphäre voller Parade und Farben zum Teilen
+                            Mit allen.
                         </p>
                     </div>
                 </div>
@@ -624,7 +639,7 @@
 <section class="section section-sm bg-default">
     <div class="container">
         <h3 class="oh-desktop">
-            <span class="d-inline-block wow slideInDown">Paquetes</span>
+            <span class="d-inline-block wow slideInDown">Pakete</span>
         </h3>
         <div class="row row-sm row-40 row-md-50">
             <div class="col-sm-6 col-md-12 wow fadeInRight">
@@ -636,17 +651,17 @@
                         <div class="unit-body">
                             <div class="product-big-body">
                                 <h5 class="product-big-title">
-                                    <a href="#"> Básico</a>
+                                    <a href="#">Essentiell</a>
                                 </h5>
                                 <div class="group-sm group-middle justify-content-start">
                                     <div class="product-big-rating">
                                         <span class="icon material-icons-star"></span><span class="icon material-icons-star"></span><span class="icon material-icons-star"></span><span class="icon material-icons-star"></span><span class="icon material-icons-star_half"></span>
                                     </div>
-                                    <a class="product-big-reviews" href="contact-us.html">4 customer reviews</a>
+                                    <a class="product-big-reviews" href="contact-us.html">4 Kundenrezensionen</a>
                                 </div>
                                 <p class="product-big-text">
-                                    <strong>Experiencia interesante para personas que quieren disfrutar lo mejor de
-                                        Oaxaca en 7 días y sin límite de edad.</strong>
+                                    <strong>Interessante Erfahrung für Menschen, die das Beste genießen möchten
+                                        Oaxaca in 7 Tagen und ohne Altersbeschränkung.</strong>
                                 </p>
                                 <a href="intinerario.php" target="_blank" rel="noopener noreferrer" class="button button-black-outline button-ujarak">Intinerario</a>
                             </div>
@@ -663,17 +678,20 @@
                         <div class="unit-body">
                             <div class="product-big-body">
                                 <h5 class="product-big-title">
-                                    <a href="#">Familiar y emocionante</a>
+                                    <a href="#">vertraut und aufregend</a>
                                 </h5>
                                 <div class="group-sm group-middle justify-content-start">
                                     <div class="product-big-rating">
                                         <span class="icon material-icons-star"></span><span class="icon material-icons-star"></span><span class="icon material-icons-star"></span><span class="icon material-icons-star"></span><span class="icon material-icons-star_half"></span>
                                     </div>
-                                    <a class="product-big-reviews" href="#">5 customer reviews</a>
+                                    <a class="product-big-reviews" href="#">5 Kundenrezensionen
+
+                                    </a>
                                 </div>
                                 <p class="product-big-text">
-                                    <strong>Emocionante y para gozar con tu familia lo que ofrece Oaxaca en 10 días. No
-                                        importa la edad.</strong>
+                                    <strong>Aufregend und genießen Sie mit Ihrer Familie, was Oaxaca in 10 Tagen zu bieten hat. NEIN
+                                        Alter ist wichtig
+                                    </strong>
                                 </p>
                                 <a class="button button-black-outline button-ujarak" href="contact-us.php">Intinerario</a>
                             </div>
@@ -690,17 +708,19 @@
                         <div class="unit-body">
                             <div class="product-big-body">
                                 <h5 class="product-big-title">
-                                    <a href="#">Con tiempo para deleitarse</a>
+                                    <a href="#">Mit Zeit zum Genießen</a>
                                 </h5>
                                 <div class="group-sm group-middle justify-content-start">
                                     <div class="product-big-rating">
                                         <span class="icon material-icons-star"></span><span class="icon material-icons-star"></span><span class="icon material-icons-star"></span><span class="icon material-icons-star"></span><span class="icon material-icons-star_half"></span>
                                     </div>
-                                    <a class="product-big-reviews" href="#">5 customer reviews</a>
+                                    <a class="product-big-reviews" href="#">5 Kundenrezensionen
+
+                                    </a>
                                 </div>
                                 <p class="product-big-text">
-                                    <strong>Especial para personas mayores de edad o retiradas que desean conocer Oaxaca
-                                        con calma en 10 días.</strong>
+                                    <strong>Speziell für volljährige Personen oder Rentner, die Oaxaca kennenlernen möchten
+                                        ruhig in 10 Tagen.</strong>
                                 </p>
                                 <a class="button button-black-outline button-ujarak" href="contact-us.php">Intinerario</a>
                             </div>
@@ -717,18 +737,20 @@
                         <div class="unit-body">
                             <div class="product-big-body">
                                 <h5 class="product-big-title">
-                                    <a href="#">Aventura y Cultura</a>
+                                    <a href="#">Abenteuer und Kultur
+                                    </a>
                                 </h5>
                                 <div class="group-sm group-middle justify-content-start">
                                     <div class="product-big-rating">
                                         <span class="icon material-icons-star"></span><span class="icon material-icons-star"></span><span class="icon material-icons-star"></span><span class="icon material-icons-star"></span><span class="icon material-icons-star_half"></span>
                                     </div>
-                                    <a class="product-big-reviews" href="contact-us.html">4 customer reviews</a>
+                                    <a class="product-big-reviews" href="contact-us.html">4 Kundenrezensionen</a>
                                 </div>
                                 <p class="product-big-text">
-                                    <strong>Siempre excitante, especial para personas que desean convivir con la
-                                        naturaleza y una buena dosis de adrenalina sin olvidar la esencia cultural de
-                                        Oaxaca durante 10 días.</strong>
+                                    <strong>Immer spannend, vor allem für Leute, die damit leben wollen
+                                        Natur und eine gute Portion Adrenalin, ohne die kulturelle Essenz zu vergessen
+                                        Oaxaca für 10 Tage.
+                                    </strong>
                                 </p>
                                 <a class="button button-black-outline button-ujarak" href="contact-us.php">Intinerario</a>
                             </div>
@@ -745,18 +767,18 @@
                         <div class="unit-body">
                             <div class="product-big-body">
                                 <h5 class="product-big-title">
-                                    <a href="#"> Playas inolvidables</a>
+                                    <a href="#"> unvergessliche Strände</a>
                                 </h5>
                                 <div class="group-sm group-middle justify-content-start">
                                     <div class="product-big-rating">
                                         <span class="icon material-icons-star"></span><span class="icon material-icons-star"></span><span class="icon material-icons-star"></span><span class="icon material-icons-star"></span><span class="icon material-icons-star_half"></span>
                                     </div>
-                                    <a class="product-big-reviews" href="contact-us.html">4 customer reviews</a>
+                                    <a class="product-big-reviews" href="contact-us.html">4 Kundenrezensionen</a>
                                 </div>
                                 <p class="product-big-text">
-                                    <strong>Están a tu alcance las playas que tiene Oaxaca con una combinación de
-                                        aventura, relajamiento y romanticismo. El paraíso de la región a tu alcance
-                                        durante 10 días y para todas las edades.</strong>
+                                    <strong>Die Strände von Oaxaca sind mit einer Kombination aus beidem zum Greifen nah
+                                        Abenteuer, Entspannung und Romantik. Das Paradies der Region zum Greifen nah
+                                        für 10 Tage und für alle Altersgruppen.</strong>
                                 </p>
                                 <a class="button button-black-outline button-ujarak" href="contact-us.php">Intinerario</a>
                             </div>
@@ -773,18 +795,18 @@
                         <div class="unit-body">
                             <div class="product-big-body">
                                 <h5 class="product-big-title">
-                                    <a href="#"> Especial y a tu medida</a>
+                                    <a href="#">Speziell und nach Ihren Maßen</a>
                                 </h5>
                                 <div class="group-sm group-middle justify-content-start">
                                     <div class="product-big-rating">
                                         <span class="icon material-icons-star"></span><span class="icon material-icons-star"></span><span class="icon material-icons-star"></span><span class="icon material-icons-star"></span><span class="icon material-icons-star_half"></span>
                                     </div>
-                                    <a class="product-big-reviews" href="contact-us.html">4 customer reviews</a>
+                                    <a class="product-big-reviews" href="contact-us.html">4 Kundenrezensionen</a>
                                 </div>
                                 <p class="product-big-text">
-                                    <strong>No es indispensable ir en grupo, siempre hay la opción de tomar cualquiera
-                                        de estos paquetes en pareja o solo para tu familia. La duración depende de ti, 7
-                                        o 10 días y sin límite de edad.</strong>
+                                    <strong>Es ist nicht unbedingt erforderlich, in einer Gruppe zu gehen, es besteht immer die Möglichkeit, an einer Gruppe teilzunehmen
+                                        Buchen Sie eines dieser Pakete zu zweit oder einfach nur für Ihre Familie. Die Dauer hängt von Ihnen ab, 7
+                                        oder 10 Tage und keine Altersbeschränkung.</strong>
                                 </p>
                                 <a class="button button-black-outline button-ujarak" href="contact-us.php">Intinerario</a>
                             </div>

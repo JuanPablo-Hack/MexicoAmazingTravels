@@ -1,6 +1,6 @@
 <section class="section section-sm">
     <div class="container">
-        <h3 class="title-block find-car oh"><span class="d-inline-block wow slideInUp" style="visibility: visible; animation-name: slideInUp;">Conoce las experiencias de nuestros clientes</span></h3>
+        <h3 class="title-block find-car oh"><span class="d-inline-block wow slideInUp" style="visibility: visible; animation-name: slideInUp;">Kennen Sie die Erfahrungen unserer Kunden</span></h3>
         <div class="row row-30 justify-content-center box-ordered">
             <div class="col-sm-6 col-md-5 col-lg-3">
                 <article class="team-modern">
