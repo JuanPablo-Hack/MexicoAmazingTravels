@@ -48,6 +48,8 @@
             </div>
         </header>
         <?php include "components/ContactForm.php" ?>
+        <?php include "components/FormCalcular.php" ?>
+        <?php include "components/DatosContacto.php" ?>
         <?php include "static/footer.php"; ?>
     </div>
 </body>

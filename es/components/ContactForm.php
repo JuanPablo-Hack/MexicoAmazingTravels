@@ -123,14 +123,15 @@ $result2 = mysqli_query($conexion, $sql2);
                     </div>
                 </div>
             </div>
-            <div class="button button-danger button-pipaluk" style="background-color: #151515; color:white;" onclick="calcularFormulario()">
-                Calcular Precio
+            <div class="contedor_botones">
+                <button class="button button-danger button-pipaluk" style="background-color: #151515; color:white;" onclick="calcularFormulario()">
+                    Calcular Precio
+                </button>
+                <button class="button button-primary button-pipaluk" type="submit">
+                    Reservar Ahora
+                </button>
             </div>
-            <!-- TODO: cambiar asi el diseño de los botones de reservar ahora -->
-            
-            <button class="button button-primary button-pipaluk" type="submit">
-                Reservar Ahora
-            </button>
+
         </form>
     </div>
 </section>

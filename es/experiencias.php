@@ -3,6 +3,7 @@
 
 <head>
     <?php include "static/head.php" ?>
+
 </head>
 
 <body>

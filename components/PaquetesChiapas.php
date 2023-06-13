@@ -8,11 +8,11 @@
                   ">
                     </a>
                     <div class="text border border-top-0 p-4">
-                        <h3 class="heading">Cena de Bienvenida (Evento Especial)</h3>
+                        <h3 class="heading">Welcome Dinner (Special Event)</h3>
                         <p>
-                            Al inicio de nuestras actividades ofrecemos la cena con una
-                            muestra de la riqueza culinaria de Oaxaca. Es una oportunidad para
-                            extender amistades bajo un ambiente de calidez.
+                            At the beginning of our activities we offer dinner with a
+                            Sample of the culinary wealth of Oaxaca. It is an opportunity for
+                            extend friendships under a warm atmosphere.
                         </p>
                     </div>
                 </div>
@@ -25,11 +25,11 @@
                     </a>
                     <div class="text border border-top-0 p-4">
                         <h3 class="heading">
-                            Elaboración de Alebrijes
+                            Elaboration of Alebrijes
                         </h3>
                         <p>
-                            Recorrido en talleres artesanales y explicación sobre la forma en que se elaboran las
-                            famosas figuras de madera con pinturas multicolores. Interactivo. <br />
+                            Tour of artisan workshops and explanation of the way in which the
+                            famous wooden figures with multicolored paintings. Interactive. <br />
                             <br />
                         </p>
                     </div>
@@ -42,10 +42,10 @@
                   ">
                     </a>
                     <div class="text border border-top-0 p-4">
-                        <h3 class="heading">Visita recorrida por la Cascada (aventura</h3>
+                        <h3 class="heading">Visit tour of the Waterfall (adventure</h3>
                         <p>
-                            Recorrido a las cascadas con una vista espectacular en donde podrás disfrutar del lago y su
-                            entorno natural.
+                            Tour to the waterfalls with a spectacular view where you can enjoy the lake and its
+                            natural environment.
                             <br />
                             <br /> <br>
                         </p>
@@ -60,11 +60,11 @@
                     </a>
                     <div class="text border border-top-0 p-4">
                         <h3 class="heading">
-                            Templo inconcluso de Cuilapam
+                            Unfinished temple of Cuilapam
                         </h3>
                         <p>
-                            Recorrido por el templo inconcluso de estilo Dominico con relato popular acerca del porqué
-                            no se concluyó
+                            Tour of the unfinished Dominican-style temple with a popular story about why
+                            it was not concluded
                             <br /> <br> <br>
                         </p>
                     </div>
@@ -78,11 +78,11 @@
                     </a>
                     <div class="text border border-top-0 p-4">
                         <h3 class="heading">
-                            Sitio del Árbol del Tule
+                            Site of the Tule Tree
                         </h3>
                         <p>
-                            Visita y paseo por el pueblo de El Tule, lugar del Árbol más longevo del mundo, con
-                            explicación de las figuras caprichosas que forman sus raíces y corteza
+                            Visit and walk through the town of El Tule, place of the longest-lived tree in the world, with
+                            explanation of the capricious figures that form its roots and bark
                             <br /> <br>
                         </p>
                     </div>
@@ -96,11 +96,11 @@
                     </a>
                     <div class="text border border-top-0 p-4">
                         <h3 class="heading">
-                            Sitio Arqueológico de Monte Albán
+                            Monte Alban Archaeological Site
                         </h3>
                         <p>
-                            Visita al complejo de construcciones de origen Zapoteca construidas sobre un cerro con
-                            explicación de las costumbres, ceremonias y práctica de oficios de esa civilización. <br>
+                            Visit to the complex of constructions of Zapotec origin built on a hill with
+                            explanation of the customs, ceremonies and practice of trades of that civilization. <br>
                         </p>
                     </div>
                 </div>
@@ -112,10 +112,10 @@
                   ">
                     </a>
                     <div class="text border border-top-0 p-4">
-                        <h3 class="heading">Elaboración de artesanías en Barro Negro</h3>
+                        <h3 class="heading">Elaboration of handicrafts in Black Clay</h3>
                         <p>
-                            Recorrido con explicación sobre la elaboración de las figuras de barro negro con las
-                            técnicas heredadas de sus ancestros. Interactivo
+                            Tour with explanation about the elaboration of the black clay figures with the
+                            techniques inherited from their ancestors. Interactive
                             <br />
                             <br />
                         </p>
@@ -130,11 +130,11 @@
                     </a>
                     <div class="text border border-top-0 p-4">
                         <h3 class="heading">
-                            Participación de ruta Senderismo (aventura)
+                            Hiking route participation (adventure)
                         </h3>
                         <p>
-                            Recorrido por la montaña durante una mañana completa para ejercitarte y convivir con la
-                            naturaleza vegetal y animal de la zona <br>
+                            Mountain tour for a full morning to exercise and live with the
+                            plant and animal nature of the area <br>
                         </p>
                     </div>
                 </div>
@@ -146,10 +146,10 @@
                   ">
                     </a>
                     <div class="text border border-top-0 p-4">
-                        <h3 class="heading">Visita al Museo y Templo de Santo Domingo</h3>
+                        <h3 class="heading">Visit to the Museum and Temple of Santo Domingo</h3>
                         <p>
-                            Con explicación de las etapas históricas de Oaxaca y sus objetos más preciados. En el
-                            interior del Templo se apreciará la riqueza arquitectónica, y ornamental del lugar.
+                            With explanation of the historical stages of Oaxaca and its most precious objects. In it
+                            Inside the Temple you will appreciate the architectural and ornamental richness of the place.
                         </p>
                     </div>
                 </div>
@@ -161,10 +161,10 @@
                   ">
                     </a>
                     <div class="text border border-top-0 p-4">
-                        <h3 class="heading">Elaboración de Velas de Concha</h3>
+                        <h3 class="heading">Making Shell Candles</h3>
                         <p>
-                            Explicación sobre la forma en que los habitantes elaboran las famosas velas de concha con
-                            técnicas heredadas. Interactivo <br />
+                            Explanation on the way in which the inhabitants make the famous shell candles with
+                            legacy techniques. Interactive <br />
                             <br />
                         </p>
                     </div>
@@ -178,11 +178,11 @@
                     </a>
                     <div class="text border border-top-0 p-4">
                         <h3 class="heading">
-                            Sitio Arqueológico de Mitla
+                            Mitla Archaeological Site
                         </h3>
                         <p>
-                            Visita al complejo de construcciones de origen Zapoteca construidas como lugar ceremonial
-                            con explicación de las costumbres, ceremonias y rituales efectuados en el sitio.
+                            Visit to the complex of buildings of Zapotec origin built as a ceremonial place
+                            with explanation of the customs, ceremonies and rituals carried out on the site.
                             <br /> <br>
                         </p>
                     </div>
@@ -195,10 +195,10 @@
                   ">
                     </a>
                     <div class="text border border-top-0 p-4">
-                        <h3 class="heading">Artesanías en Barro de Atzompa</h3>
+                        <h3 class="heading">Crafts in Atzompa Clay</h3>
                         <p>
-                            Explicación sobre la forma en que los habitantes elaboran las figuras de barro con las
-                            técnicas heredadas de sus ancestros. Interactivo. <br> <br>
+                            Explanation on the way in which the inhabitants elaborate the clay figures with the
+                            techniques inherited from their ancestors. Interactive. <br> <br>
                         </p>
                     </div>
                 </div>
@@ -211,11 +211,11 @@
                     </a>
                     <div class="text border border-top-0 p-4">
                         <h3 class="heading">
-                            Reserva de la Guacamaya Verde (Aventura)
+                            Green Macaw Reserve (Adventure)
                         </h3>
                         <p>
-                            Recorrido al santuario de la Guacamaya Verde, sitio donde estas coloridas aves utilizan para
-                            anidar. Disfrutará del entorno natural de la zona.
+                            Tour to the Green Macaw Sanctuary, site where these colorful birds use to
+                            nest. You will enjoy the natural environment of the area.
                         </p>
                     </div>
                 </div>
@@ -228,10 +228,10 @@
                     </a>
                     <div class="text border border-top-0 p-4">
                         <h3 class="heading">
-                            Mercado de la ciudad </h3>
+                            City Market </h3>
                         <p>
-                            Paseo y degustación de alimentos cotidianos de los habitantes, la variedad y múltiples
-                            sabores que se ofrecen en el lugar.
+                            Walk and tasting of daily food of the inhabitants, the variety and multiple
+                            flavors offered on site.
                             <br /> <br>
                         </p>
                     </div>
@@ -245,10 +245,10 @@
                     </a>
                     <div class="text border border-top-0 p-4">
                         <h3 class="heading">
-                            Cascadas pétreas de Hierve el Agua (Aventura) </h3>
+                            Stony waterfalls of Hierve el Agua (Adventure) </h3>
                         <p>
-                            Paseo por la locación de las cascadas pétreas formadas a través de millones de años y
-                            explicación de su composición. <br> <br>
+                            Walk through the location of the stone waterfalls formed over millions of years and
+                            explanation of its composition. <br> <br>
                         </p>
                     </div>
                 </div>
@@ -261,10 +261,10 @@
                     </a>
                     <div class="text border border-top-0 p-4">
                         <h3 class="heading">
-                            Visita a fábrica de Mezcal </h3>
+                            Visit to the Mezcal factory </h3>
                         <p>
-                            Recorrido por una fábrica elaboradora de Mezcal con explicación del proceso de elaboración
-                            de los diferentes tipos de mezcal
+                            Tour of a Mezcal manufacturing factory with explanation of the production process
+                            of the different types of mezcal
                             <br />
                             <br />
 

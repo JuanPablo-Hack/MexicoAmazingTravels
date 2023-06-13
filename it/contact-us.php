@@ -6,7 +6,7 @@
 </head>
 
 <body>
-    <?php include "components/Loader.php" ?>
+
     <div class="page">
         <header class="section page-header">
             <div class="rd-navbar-wrap">
@@ -28,19 +28,18 @@
                         <div class="rd-navbar-main">
                             <div class="rd-navbar-nav-wrap">
                                 <ul class="rd-navbar-nav">
-                                    <li class="rd-nav-item"><a class="rd-nav-link" href="index.php">Inizio</a>
+                                    <li class="rd-nav-item"><a class="rd-nav-link" href="index.php">Inicio</a>
                                     </li>
-                                    <li class="rd-nav-item"><a class="rd-nav-link" href="about.php">Servizi</a>
-                                    </li>
-                                    <li class="rd-nav-item">
-                                        <a class="rd-nav-link" href="destinos.php">Destinazioni
-                                        </a>
+                                    <li class="rd-nav-item"><a class="rd-nav-link" href="about.php">Servicios</a>
                                     </li>
                                     <li class="rd-nav-item">
-                                        <a class="rd-nav-link" href="experiencias.php">Esperienze</a>
+                                        <a class="rd-nav-link" href="destinos.php">Destinos</a>
+                                    </li>
+                                    <li class="rd-nav-item">
+                                        <a class="rd-nav-link" href="experiencias.php">Experiencias</a>
                                     </li>
                                     <li class="rd-nav-item active">
-                                        <a class="rd-nav-link" href="contact-us.php">Prenotazioni</a>
+                                        <a class="rd-nav-link" href="contact-us.php">Reservaciones</a>
                                     </li>
                                 </ul>
                             </div>
@@ -50,6 +49,8 @@
             </div>
         </header>
         <?php include "components/ContactForm.php" ?>
+        <?php include "components/FormCalcular.php" ?>
+        <?php include "components/DatosContacto.php" ?>
         <?php include "static/footer.php"; ?>
     </div>
 </body>

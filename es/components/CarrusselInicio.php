@@ -1,7 +1,7 @@
 <section class="breadcrumbs-custom-inset">
     <div class="breadcrumbs-custom context-dark bg-overlay-60">
         <div class="container">
-            <h2>Acompáñanos a descubrir México</h2>
+            <h2 style="text-shadow: -2px -2px 1px #000, 2px 2px 1px #000, -2px 2px 1px #000, 2px -2px 1px #000;">Acompáñanos a descubrir México</h2>
             <h4 class="breadcrumbs-custom-title" style="text-shadow: -2px -2px 1px #000, 2px 2px 1px #000, -2px 2px 1px #000, 2px -2px 1px #000;">
                 <q>Y sabrás que es increible e inolvidable</q>
             </h4>

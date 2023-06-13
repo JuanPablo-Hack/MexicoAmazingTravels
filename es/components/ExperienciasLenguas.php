@@ -1,47 +1,98 @@
-<section class="section section-xl bg-default text-center isotope-wrap">
+<section class="section section-sm">
     <div class="container">
-        <div class="row row-50 isotope isotope--loaded" data-isotope-layout="fitRows" data-isotope-group="gallery" data-lightgallery="group" style="position: relative; height: 855px;">
-            <div class="col-md-6 col-lg-3 isotope-item" data-filter="Type 3" style="position: absolute; left: 0px; top: 0px;">
-                <article class="thumbnail thumbnail-modern thumbnail-sm"><img src="../assets/images/USA.png" alt="" width="420" height="350">
-
-                </article>
-            </div>
-            <!-- TODO: Que sean de columnas de 4  -->
-            <div class="col-md-6 col-lg-3 isotope-item" data-filter="Type 2" style="position: absolute; left: 399px; top: 0px;">
-                <article class="thumbnail thumbnail-modern thumbnail-sm"><a class="thumbnail-modern-figure" href="images/fullwidth-gallery-2-1200x800-original.jpg" data-lightgallery="item"><img src="../assets/images/Alemania.png" alt="" width=" 420" height="350"></a>
-                </article>
-            </div>
-            <div class="col-md-6 col-lg-3 isotope-item" data-filter="Type 1" style="position: absolute; left: 799px; top: 0px;">
-                <article class="thumbnail thumbnail-modern thumbnail-sm"><a class="thumbnail-modern-figure" href="images/fullwidth-gallery-3-1200x800-original.jpg" data-lightgallery="item"><img src="../assets/images/Italia.png" alt="" width="420" height="350"></a>
-                </article>
-            </div>
-            <div class="col-md-6 col-lg-3 isotope-item" data-filter="Type 3" style="position: absolute; left: 0px; top: 427px;">
-
-                <article class="thumbnail thumbnail-modern thumbnail-sm"><a class="thumbnail-modern-figure" href="images/fullwidth-gallery-4-1200x800-original.jpg" data-lightgallery="item"><img src="../assets/images/España.png" alt="" width="420" height="350"></a>
-
-                </article>
-            </div>
-            <div class="col-md-6 col-lg-3 isotope-item" data-filter="Type 2" style="position: absolute; left: 399px; top: 427px;">
-                <!-- TODO: Cambiar el diseño de la de francia e italia -->
-                <article class="thumbnail thumbnail-modern thumbnail-sm"><a class="thumbnail-modern-figure" href="images/fullwidth-gallery-5-1200x800-original.jpg" data-lightgallery="item"><img src="../assets/images/Francia.png" alt="" width="420" height="350"></a>
-                    <div class="thumbnail-modern-caption">
-
+        <h3 class="title-block find-car oh"><span class="d-inline-block wow slideInUp" style="visibility: visible; animation-name: slideInUp;">Conoce las experiencias de nuestros clientes</span></h3>
+        <div class="row row-30 justify-content-center box-ordered">
+            <div class="col-sm-6 col-md-5 col-lg-3">
+                <article class="team-modern">
+                    <div class="team-modern-header"><a class="team-modern-figure" href="#"><img class="img-circles" src="../assets/images/canada.png" alt="" width="118" height="118"></a>
+                        <svg x="0px" y="0px" width="270px" height="70px" viewBox="0 0 270 70" enable-background="new 0 0 270 70" xml:space="preserve">
+                            <g>
+                                <path fill="#161616" d="M202.085,0C193.477,28.912,166.708,50,135,50S76.523,28.912,67.915,0H0v70h270V0H202.085z"></path>
+                            </g>
+                        </svg>
                     </div>
                 </article>
             </div>
-            <div class="col-md-6 col-lg-3 isotope-item" data-filter="Type 1" style="position: absolute; left: 799px; top: 427px;">
-
-                <article class="thumbnail thumbnail-modern thumbnail-sm"><a class="thumbnail-modern-figure" href="images/fullwidth-gallery-6-1200x800-original.jpg" data-lightgallery="item"><img src="../assets/images/España.png" alt="" width="420" height="350"></a>
-
+            <div class="col-sm-6 col-md-5 col-lg-3">
+                <article class="team-modern">
+                    <div class="team-modern-header"><a class="team-modern-figure" href="#"><img class="img-circles" src="../assets/images/Inglaterra.png" alt="" width="118" height="118"></a>
+                        <svg x="0px" y="0px" width="270px" height="70px" viewBox="0 0 270 70" enable-background="new 0 0 270 70" xml:space="preserve">
+                            <g>
+                                <path fill="#161616" d="M202.085,0C193.477,28.912,166.708,50,135,50S76.523,28.912,67.915,0H0v70h270V0H202.085z"></path>
+                            </g>
+                        </svg>
+                    </div>
                 </article>
             </div>
-            <div class="col-md-6 col-lg-3 isotope-item" data-filter="Type 1" style="position: absolute; left: 799px; top: 427px;">
-                <article class="thumbnail thumbnail-modern thumbnail-sm"><a class="thumbnail-modern-figure" href="images/fullwidth-gallery-6-1200x800-original.jpg" data-lightgallery="item"><img src="../assets/images/canada.png" alt="" width="420" height="350"></a>
+            <div class="col-sm-6 col-md-5 col-lg-3">
+                <article class="team-modern">
+                    <div class="team-modern-header"><a class="team-modern-figure" href="#"><img class="img-circles" src="../assets/images/Italia.png" alt="" width="118" height="118"></a>
+                        <svg x="0px" y="0px" width="270px" height="70px" viewBox="0 0 270 70" enable-background="new 0 0 270 70" xml:space="preserve">
+                            <g>
+                                <path fill="#161616" d="M202.085,0C193.477,28.912,166.708,50,135,50S76.523,28.912,67.915,0H0v70h270V0H202.085z"></path>
+                            </g>
+                        </svg>
+                    </div>
                 </article>
             </div>
-            <div class="col-md-6 col-lg-3 isotope-item" data-filter="Type 1" style="position: absolute; left: 799px; top: 427px;">
-                <article class="thumbnail thumbnail-modern thumbnail-sm"><a class="thumbnail-modern-figure" href="images/fullwidth-gallery-6-1200x800-original.jpg" data-lightgallery="item"><img src="../assets/images/austria.png" alt="" width="420" height="350"></a>
-                    <div class="thumbnail-modern-caption">
+            <div class="col-sm-6 col-md-5 col-lg-3">
+                <article class="team-modern">
+                    <div class="team-modern-header"><a class="team-modern-figure" href="#"><img class="img-circles" src="../assets/images/España.png" alt="" width="118" height="118"></a>
+                        <svg x="0px" y="0px" width="270px" height="70px" viewBox="0 0 270 70" enable-background="new 0 0 270 70" xml:space="preserve">
+                            <g>
+                                <path fill="#161616" d="M202.085,0C193.477,28.912,166.708,50,135,50S76.523,28.912,67.915,0H0v70h270V0H202.085z"></path>
+                            </g>
+                        </svg>
+                    </div>
+                </article>
+            </div>
+        </div>
+        <div class="row row-30 justify-content-center box-ordered">
+            <div class="col-sm-6 col-md-5 col-lg-3">
+                <!-- Team Modern-->
+                <article class="team-modern">
+                    <div class="team-modern-header"><a class="team-modern-figure" href="#"><img class="img-circles" src="../assets/images/Francia.png" alt="" width="118" height="118"></a>
+                        <svg x="0px" y="0px" width="270px" height="70px" viewBox="0 0 270 70" enable-background="new 0 0 270 70" xml:space="preserve">
+                            <g>
+                                <path fill="#161616" d="M202.085,0C193.477,28.912,166.708,50,135,50S76.523,28.912,67.915,0H0v70h270V0H202.085z"></path>
+                            </g>
+                        </svg>
+                    </div>
+                </article>
+            </div>
+            <div class="col-sm-6 col-md-5 col-lg-3">
+                <!-- Team Modern-->
+                <article class="team-modern">
+                    <div class="team-modern-header"><a class="team-modern-figure" href="#"><img class="img-circles" src="../assets/images/austria.png" alt="" width="118" height="118"></a>
+                        <svg x="0px" y="0px" width="270px" height="70px" viewBox="0 0 270 70" enable-background="new 0 0 270 70" xml:space="preserve">
+                            <g>
+                                <path fill="#161616" d="M202.085,0C193.477,28.912,166.708,50,135,50S76.523,28.912,67.915,0H0v70h270V0H202.085z"></path>
+                            </g>
+                        </svg>
+                    </div>
+                </article>
+            </div>
+            <div class="col-sm-6 col-md-5 col-lg-3">
+                <!-- Team Modern-->
+                <article class="team-modern">
+                    <div class="team-modern-header"><a class="team-modern-figure" href="#"><img class="img-circles" src="../assets/images/Usa.png" alt="" width="118" height="118"></a>
+                        <svg x="0px" y="0px" width="270px" height="70px" viewBox="0 0 270 70" enable-background="new 0 0 270 70" xml:space="preserve">
+                            <g>
+                                <path fill="#161616" d="M202.085,0C193.477,28.912,166.708,50,135,50S76.523,28.912,67.915,0H0v70h270V0H202.085z"></path>
+                            </g>
+                        </svg>
+                    </div>
+                </article>
+            </div>
+            <div class="col-sm-6 col-md-5 col-lg-3">
+                <!-- Team Modern-->
+                <article class="team-modern">
+                    <div class="team-modern-header"><a class="team-modern-figure" href="#"><img class="img-circles" src="../assets/images/Alemania.png" alt="" width="118" height="118"></a>
+                        <svg x="0px" y="0px" width="270px" height="70px" viewBox="0 0 270 70" enable-background="new 0 0 270 70" xml:space="preserve">
+                            <g>
+                                <path fill="#161616" d="M202.085,0C193.477,28.912,166.708,50,135,50S76.523,28.912,67.915,0H0v70h270V0H202.085z"></path>
+                            </g>
+                        </svg>
                     </div>
                 </article>
             </div>

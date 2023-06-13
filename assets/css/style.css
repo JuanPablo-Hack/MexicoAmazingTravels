@@ -24732,6 +24732,13 @@ img.mfp-img {
 	transition: 0.5s;
 	opacity: 0;
   }
+.contedor_botones{
+	display: flex;
+	width: 100%;
+	justify-content: space-between;
+	align-items: center;
+}
+
   .box:hover .content {
 	opacity: 1;
 	bottom: 0;

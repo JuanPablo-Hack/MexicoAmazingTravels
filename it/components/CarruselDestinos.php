@@ -6,7 +6,7 @@
                     <div class="row">
                         <div class="col-md-10">
                             <h2 class="oh font-weight-light" data-caption-animate="slideInUp" data-caption-delay="100">
-                                <span class="font-weight-bold" style="text-shadow: -2px -2px 1px #000, 2px 2px 1px #000, -2px 2px 1px #000, 2px -2px 1px #000;"> Cosa ci caratterizza nelle destinazioni </span>
+                                <span class="font-weight-bold" style="text-shadow: -2px -2px 1px #000, 2px 2px 1px #000, -2px 2px 1px #000, 2px -2px 1px #000;"> Lo que nos caracteriza en los destinos </span>
                             </h2>
                         </div>
                     </div>
@@ -19,10 +19,10 @@
                     <div class="row">
                         <div class="col-md-10">
                             <h2 class="oh font-weight-light" data-caption-animate="slideInUp" data-caption-delay="100">
-                                <span class="font-weight-bold" style="text-shadow: -2px -2px 1px #000, 2px 2px 1px #000, -2px 2px 1px #000, 2px -2px 1px #000;"> Responsabilità ecologica </span>
+                                <span class="font-weight-bold" style="text-shadow: -2px -2px 1px #000, 2px 2px 1px #000, -2px 2px 1px #000, 2px -2px 1px #000;"> Responsabilidad ecológica </span>
                             </h2>
                             <h5 class="text-uppercase" data-caption-animate="fadeInRight" data-caption-delay="0" style="text-shadow: -2px -2px 1px #000, 2px 2px 1px #000, -2px 2px 1px #000, 2px -2px 1px #000;">
-                                Ci prendiamo cura dell'ambiente naturale e della pulizia del nostro paese, quindi lasceremo un'eredità per le nuove generazioni.
+                                Cuidamos el entorno natural y limpieza de nuestro país, así dejaremos un legado a las nuevas generaciones.
                             </h5>
                         </div>
                     </div>
@@ -35,10 +35,10 @@
                     <div class="row">
                         <div class="col-md-10">
                             <h2 class="oh font-weight-light" data-caption-animate="slideInUp" data-caption-delay="100">
-                                <span class="font-weight-bold" style="text-shadow: -2px -2px 1px #000, 2px 2px 1px #000, -2px 2px 1px #000, 2px -2px 1px #000;"> Libertà </span>
+                                <span class="font-weight-bold" style="text-shadow: -2px -2px 1px #000, 2px 2px 1px #000, -2px 2px 1px #000, 2px -2px 1px #000;"> Libertad </span>
                             </h2>
                             <h5 class="text-uppercase" data-caption-animate="fadeInRight" data-caption-delay="0" style="text-shadow: -2px -2px 1px #000, 2px 2px 1px #000, -2px 2px 1px #000, 2px -2px 1px #000;">
-                                Se preferisci riposarti un giorno o andare da solo in un altro posto, fallo, non pensarci, ti capiamo.
+                                Si prefieres descansar un día o ir a otro sitio por tu cuenta, hazlo, no lo pienses, lo entendemos.
                             </h5>
                         </div>
                     </div>
@@ -67,11 +67,11 @@
                     <div class="row">
                         <div class="col-md-10">
                             <h2 class="oh font-weight-light" data-caption-animate="slideInUp" data-caption-delay="100">
-                                <span class="font-weight-bold" style="text-shadow: -2px -2px 1px #000, 2px 2px 1px #000, -2px 2px 1px #000, 2px -2px 1px #000;">Nessuna pressione</span>
+                                <span class="font-weight-bold" style="text-shadow: -2px -2px 1px #000, 2px 2px 1px #000, -2px 2px 1px #000, 2px -2px 1px #000;">Sin presiones </span>
                             </h2>
                             <h5 class="text-uppercase" data-caption-animate="fadeInRight" data-caption-delay="0" style="text-shadow: -2px -2px 1px #000, 2px 2px 1px #000, -2px 2px 1px #000, 2px -2px 1px #000;">
-                                Non si tratta di dare un'occhiata, ma di prendersela comoda
-                                la grande diversità di siti </h5>
+                                No se trata de echar un vistazo sino de tomarte con calma
+                                la gran diversidad de sitios </h5>
                         </div>
                     </div>
                 </div>
@@ -83,10 +83,10 @@
                     <div class="row">
                         <div class="col-md-10">
                             <h2 class="oh font-weight-light" data-caption-animate="slideInUp" data-caption-delay="100">
-                                <span class="font-weight-bold" style="text-shadow: -2px -2px 1px #000, 2px 2px 1px #000, -2px 2px 1px #000, 2px -2px 1px #000;"> Garanzia di prenotazione </span>
+                                <span class="font-weight-bold" style="text-shadow: -2px -2px 1px #000, 2px 2px 1px #000, -2px 2px 1px #000, 2px -2px 1px #000;"> Garantía de reservación </span>
                             </h2>
                             <h5 class="text-uppercase" data-caption-animate="fadeInRight" data-caption-delay="0" style="text-shadow: -2px -2px 1px #000, 2px 2px 1px #000, -2px 2px 1px #000, 2px -2px 1px #000;">
-                                La quota per noi non è un limite, c'è sempre posto per te e per i tuoi accompagnatori e le attenzioni saranno sempre con la stessa qualità e calore.
+                                El cupo no es una limitante para nosotros, siempre hay un lugar para ti y tus acompañantes y la atención será siempre con la misma calidad y calidez.
                             </h5>
                         </div>
                     </div>
@@ -99,10 +99,10 @@
                     <div class="row">
                         <div class="col-md-10">
                             <h2 class="oh font-weight-light" data-caption-animate="slideInUp" data-caption-delay="100">
-                                <span class="font-weight-bold" style="text-shadow: -2px -2px 1px #000, 2px 2px 1px #000, -2px 2px 1px #000, 2px -2px 1px #000;"> Professionalità </span>
+                                <span class="font-weight-bold" style="text-shadow: -2px -2px 1px #000, 2px 2px 1px #000, -2px 2px 1px #000, 2px -2px 1px #000;"> Profesionalismo </span>
                             </h2>
                             <h5 class="text-uppercase" data-caption-animate="fadeInRight" data-caption-delay="0" style="text-shadow: -2px -2px 1px #000, 2px 2px 1px #000, -2px 2px 1px #000, 2px -2px 1px #000;">
-                                Soddisfiamo sempre ciò che offriamo. Cerchiamo di dare un extra se possibile, ma non daremo mai meno di quanto promesso.
+                                Siempre cumplimos lo que ofrecemos. Buscamos dar un extra si nos es posible, pero jamás daremos menos de lo que prometemos.
                             </h5>
                         </div>
                     </div>
@@ -116,11 +116,11 @@
                         <div class="col-md-10">
                             <h2 class="oh font-weight-light" data-caption-animate="slideInUp" data-caption-delay="100">
                                 <span class="font-weight-bold" style="text-shadow: -2px -2px 1px #000, 2px 2px 1px #000, -2px 2px 1px #000, 2px -2px 1px #000;">
-                                    Soddisfazione
+                                    Satisfacción
                                 </span>
                             </h2>
                             <h5 class="text-uppercase" data-caption-animate="fadeInRight" data-caption-delay="0" style="text-shadow: -2px -2px 1px #000, 2px 2px 1px #000, -2px 2px 1px #000, 2px -2px 1px #000;">
-                                La nostra fondazione è un visitatore soddisfatto, felice ed entusiasta di viaggiare di nuovo con noi verso qualsiasi destinazione che offriamo. Ecco perché siamo "Mexico Amazing & Unforgettable".
+                                Nuestro fundamento es un visitante satisfecho, feliz y emocionado por viajar de nuevo con nosotros a cualquier destino que ofrecemos. Por eso somos “México Amazing & Unforgettable”.
                             </h5>
                         </div>
                     </div>

@@ -9,12 +9,12 @@ $result2 = mysqli_query($conexion, $sql2);
     <div class="container">
         <article class="title-classic">
             <div class="title-classic-title">
-                <h3>Réservez maintenant</h3>
+                <h3>Reservar</h3>
             </div>
             <div class="title-classic-text">
                 <p>
-                    Pour réserver avec succès, veuillez répondre à ceci
-                    formulaire avec vos informations pour pouvoir vous contacter.
+                    Para reservar con éxito por favor responde este
+                    formulario con tu información para poder contactarte.
                 </p>
             </div>
         </article>
@@ -22,48 +22,34 @@ $result2 = mysqli_query($conexion, $sql2);
             <div class="row row-14 gutters-14">
                 <div class="col-md-6">
                     <div class="form-wrap">
-                        <input class="form-input" id="contact-your-name-2" type="text" name="datos[]" data-constraints="@Required" placeholder="Nom" />
+                        <input class="form-input" id="contact-your-name-2" type="text" name="datos[]" data-constraints="@Required" placeholder="Nombre" />
                     </div>
                 </div>
                 <div class="col-md-6">
                     <div class="form-wrap">
-                        <input class="form-input" id="contact-email-2" type="email" name="datos[]" data-constraints="@Email @Required" placeholder="E-mail" />
+                        <input class="form-input" id="contact-email-2" type="email" name="datos[]" data-constraints="@Email @Required" placeholder="Correo" />
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="form-wrap">
-                        <input class="form-input" type="text" name="datos[]" data-constraints="@Required" placeholder="Pays" />
+                        <input class="form-input" type="text" name="datos[]" data-constraints="@Required" placeholder="País de Origen" />
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="form-wrap">
-                        <input class="form-input" type="text" name="datos[]" data-constraints="@Required" placeholder="Ville" />
+                        <input class="form-input" type="text" name="datos[]" data-constraints="@Required" placeholder="Ciudad" />
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="form-wrap">
-                        <input class="form-input" id="contact-phone-2" type="text" name="datos[]" data-constraints="@Numeric" placeholder="Numéro de téléphone" />
+                        <input class="form-input" id="contact-phone-2" type="text" name="datos[]" data-constraints="@Numeric" placeholder="Número de telefono" />
                     </div>
                 </div>
-                <div class="col-md-4">
-                    <div class="form-wrap">
-                        <input class="form-input" type="number" name="datos[]" data-constraints="@Numeric  @Required" id="numero_adultos" placeholder="Nombre d'adultes" />
-                    </div>
-                </div>
-                <div class="col-md-4">
-                    <div class="form-wrap">
-                        <input class="form-input" type="number" name="datos[]" data-constraints="@Numeric  @Required" id="numero_niños" placeholder="Nombre d'enfants" onchange="calcularPersonas()" />
-                    </div>
-                </div>
-                <div class="col-md-4">
-                    <div class="form-wrap">
-                        <input class="form-input" type="number" readonly placeholder="Personnes totales" id="totalPersonas" />
-                    </div>
-                </div>
-                <div class="col-md-4">
+
+                <div class="col-md-3">
                     <div class="form-wrap">
                         <select name="datos[]" class="form-input" data-constraints="@Selected">
-                            <option value="">-Choisissez une destination-</option>
+                            <option value="">-Seleccion un destino-</option>
                             <?php
                             while ($Row1 = mysqli_fetch_array($result2)) {
                             ?>
@@ -74,10 +60,10 @@ $result2 = mysqli_query($conexion, $sql2);
                         </select>
                     </div>
                 </div>
-                <div class="col-md-4">
+                <div class="col-md-3">
                     <div class="form-wrap">
                         <select name="datos[]" class="form-input" data-constraints="@Selected" id="paquteSeleccionado">
-                            <option value="0">-Sélectionnez un forfait-</option>
+                            <option value="0">-Selecciona un paquete-</option>
                             <?php
                             while ($Row1 = mysqli_fetch_array($result)) {
                             ?>
@@ -88,61 +74,68 @@ $result2 = mysqli_query($conexion, $sql2);
                         </select>
                     </div>
                 </div>
-                <div class="col-md-4">
-                    <select name="datos[]" class="form-input" data-constraints="@Selected">
-                        <option value="">Dates disponibles</option>
+                <div class="col-md-3">
+                    <select name="datos[]" class="form-input" data-constraints="@Selected" onchange="cuposDisponibles()">
+                        <option value="">Fechas disponibles</option>
                         <option value="2023-05-09">3 de Marzo - 8 de Marzo</option>
                         <option value="2023-05-09">3 de Marzo - 8 de Marzo</option>
                         <option value="2023-05-09">3 de Marzo - 8 de Marzo</option>
                     </select>
                 </div>
-                <div class="col-md-4">
-                    <label>Sélectionnez la date</label>
+                <div class="col-md-3" id="cuposdisponibles" style="display: none;">
                     <div class="form-wrap">
-                        <input class="form-input" type="date" name="datos[]" required />
+                        <input class="form-input" id="contact-phone-2" type="text" name="datos[]" placeholder="Cupos disponibles" />
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <select name="datos[]" class="form-input" data-constraints="@Selected" id="numero_adultos">
+                        <option selected disabled>-Números de Adultos-</option>
+                        <option value="1">1</option>
+                        <option value="2">2</option>
+                        <option value="3">3</option>
+                        <option value="4">4</option>
+                        <option value="5">5</option>
+                        <option value="6">6</option>
+                        <option value="7">7</option>
+                        <option value="8">8</option>
+                        <option value="9">9</option>
+                        <option value="10">10</option>
+                    </select>
+                </div>
+                <div class="col-md-4">
+                    <select name="datos[]" class="form-input" data-constraints="@Selected" id="numero_niños" onchange="calcularPersonas()">
+                        <option selected disabled>-Números de Niños-</option>
+                        <option value="1">1</option>
+                        <option value="2">2</option>
+                        <option value="3">3</option>
+                        <option value="4">4</option>
+                        <option value="5">5</option>
+                        <option value="6">6</option>
+                        <option value="7">7</option>
+                        <option value="8">8</option>
+                        <option value="9">9</option>
+                        <option value="10">10</option>
+                    </select>
+                </div>
+                <div class="col-md-4">
+                    <div class="form-wrap">
+                        <input class="form-input-total" type="number" readonly placeholder="Total de personas" id="totalPersonas" style="background-color: #01b3a7; color: white;" />
                     </div>
                 </div>
             </div>
-            <div class="button button-primary button-pipaluk" onclick="calcularFormulario()">
-                Calculer le prix
+            <div class="contedor_botones">
+                <button class="button button-danger button-pipaluk" style="background-color: #151515; color:white;" onclick="calcularFormulario()">
+                    Calcular Precio
+                </button>
+                <button class="button button-primary button-pipaluk" type="submit">
+                    Reservar Ahora
+                </button>
             </div>
-            <button class="button button-primary button-pipaluk" type="submit">
-                Réservez maintenant
-            </button>
+
         </form>
     </div>
 </section>
-<section class="section section-sm section-first bg-default">
-    <div class="container">
-        <div class="row row-30 justify-content-center">
-            <div class="col-sm-8 col-md-6 col-lg-6">
-                <article class="box-contacts">
-                    <div class="box-contacts-body">
-                        <div class="box-contacts-icon fl-bigmug-line-cellphone55"></div>
-                        <div class="box-contacts-decor"></div>
-                        <p class="box-contacts-link">
-                            <a href="tel:#">+1 323-913-4688</a>
-                        </p>
-                        <p class="box-contacts-link">
-                            <a href="tel:#">+1 323-888-4554</a>
-                        </p>
-                    </div>
-                </article>
-            </div>
-            <div class="col-sm-8 col-md-6 col-lg-6">
-                <article class="box-contacts">
-                    <div class="box-contacts-body">
-                        <div class="box-contacts-icon fl-bigmug-line-chat55"></div>
-                        <div class="box-contacts-decor"></div>
-                        <p class="box-contacts-link">
-                            <a href="mailto:#info@mexicoamazingtravels.com">info@mexicoamazingtravels.com</a>
-                        </p>
-                    </div>
-                </article>
-            </div>
-        </div>
-    </div>
-</section>
+
 <script src="../assets/sweetalert2/sweetalert2.all.min.js"></script>
 <script src="../assets/js/reservarForm.js"></script>
 <script src="../assets/js/calculosForm.js"></script>

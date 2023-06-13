@@ -48,6 +48,7 @@
                 </nav>
             </div>
         </header>
+        <?php include "components/ExperienciasBanner.php" ?>
         <?php include "components/ExperienciasLenguas.php" ?>
         <?php include "static/footer.php"; ?>
     </div>

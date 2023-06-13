@@ -4,7 +4,6 @@ const calcularPersonas = () => {
   );
   const numeroNiños = parseInt(document.getElementById("numero_niños").value);
   const totalPersonas = numeroAdultos + numeroNiños;
-  // TODO: Cambiar el número de totales
   document.getElementById("totalPersonas").value = totalPersonas;
 };
 const calcularFormulario = () => {
