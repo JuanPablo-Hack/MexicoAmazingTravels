@@ -11,6 +11,9 @@
                             </g>
                         </svg>
                     </div>
+                    <div class="team-modern-caption">
+                        <h6 class="team-modern-name"><a href="#">Canada</a></h6>
+                    </div>
                 </article>
             </div>
             <div class="col-sm-6 col-md-5 col-lg-3">
@@ -21,6 +24,9 @@
                                 <path fill="#161616" d="M202.085,0C193.477,28.912,166.708,50,135,50S76.523,28.912,67.915,0H0v70h270V0H202.085z"></path>
                             </g>
                         </svg>
+                    </div>
+                    <div class="team-modern-caption">
+                        <h6 class="team-modern-name"><a href="#">England</a></h6>
                     </div>
                 </article>
             </div>
@@ -33,6 +39,9 @@
                             </g>
                         </svg>
                     </div>
+                    <div class="team-modern-caption">
+                        <h6 class="team-modern-name"><a href="#">Italy</a></h6>
+                    </div>
                 </article>
             </div>
             <div class="col-sm-6 col-md-5 col-lg-3">
@@ -43,6 +52,9 @@
                                 <path fill="#161616" d="M202.085,0C193.477,28.912,166.708,50,135,50S76.523,28.912,67.915,0H0v70h270V0H202.085z"></path>
                             </g>
                         </svg>
+                    </div>
+                    <div class="team-modern-caption">
+                        <h6 class="team-modern-name"><a href="#">Spain</a></h6>
                     </div>
                 </article>
             </div>
@@ -58,6 +70,9 @@
                             </g>
                         </svg>
                     </div>
+                    <div class="team-modern-caption">
+                        <h6 class="team-modern-name"><a href="#">France</a></h6>
+                    </div>
                 </article>
             </div>
             <div class="col-sm-6 col-md-5 col-lg-3">
@@ -69,6 +84,9 @@
                                 <path fill="#161616" d="M202.085,0C193.477,28.912,166.708,50,135,50S76.523,28.912,67.915,0H0v70h270V0H202.085z"></path>
                             </g>
                         </svg>
+                    </div>
+                    <div class="team-modern-caption">
+                        <h6 class="team-modern-name"><a href="#">Austria</a></h6>
                     </div>
                 </article>
             </div>
@@ -82,6 +100,9 @@
                             </g>
                         </svg>
                     </div>
+                    <div class="team-modern-caption">
+                        <h6 class="team-modern-name"><a href="#">USA</a></h6>
+                    </div>
                 </article>
             </div>
             <div class="col-sm-6 col-md-5 col-lg-3">
@@ -93,6 +114,9 @@
                                 <path fill="#161616" d="M202.085,0C193.477,28.912,166.708,50,135,50S76.523,28.912,67.915,0H0v70h270V0H202.085z"></path>
                             </g>
                         </svg>
+                    </div>
+                    <div class="team-modern-caption">
+                        <h6 class="team-modern-name"><a href="#">Germany</a></h6>
                     </div>
                 </article>
             </div>

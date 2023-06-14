@@ -5,7 +5,7 @@ function seleccionarIntinerario($paquete)
         case 'basico':
             echo '
                 <section>
-                    <h1>Intenerario</h1>
+                    <h1>Itinerario</h1>
                     <div class="tbl-header">
                         <table cellpadding="0" cellspacing="0" border="0">
                             <thead>
@@ -88,7 +88,7 @@ function seleccionarIntinerario($paquete)
         case 'familiar':
             echo '
                     <section>
-                        <h1>Intenerario</h1>
+                        <h1>Itinerario</h1>
                         <div class="tbl-header">
                             <table cellpadding="0" cellspacing="0" border="0">
                                 <thead>
@@ -187,7 +187,7 @@ function seleccionarIntinerario($paquete)
         case 'retirados':
             echo '
                         <section>
-                            <h1>Intenerario</h1>
+                            <h1>Itinerario</h1>
                             <div class="tbl-header">
                                 <table cellpadding="0" cellspacing="0" border="0">
                                     <thead>
@@ -286,7 +286,7 @@ function seleccionarIntinerario($paquete)
         case 'aventura':
             echo '
                             <section>
-                                <h1>Intenerario</h1>
+                                <h1>Itinerario</h1>
                                 <div class="tbl-header">
                                     <table cellpadding="0" cellspacing="0" border="0">
                                         <thead>
@@ -386,7 +386,7 @@ function seleccionarIntinerario($paquete)
         case 'playas':
             echo '
                                 <section>
-                                    <h1>Intenerario</h1>
+                                    <h1>Itinerario</h1>
                                     <div class="tbl-header">
                                         <table cellpadding="0" cellspacing="0" border="0">
                                             <thead>

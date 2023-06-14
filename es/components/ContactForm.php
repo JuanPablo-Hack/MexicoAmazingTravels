@@ -82,7 +82,7 @@ $result2 = mysqli_query($conexion, $sql2);
                         <option value="2023-05-09">3 de Marzo - 8 de Marzo</option>
                     </select>
                 </div>
-                <div class="col-md-3" id="cuposdisponibles" style="display: none;">
+                <div class="col-md-3">
                     <div class="form-wrap">
                         <input class="form-input" id="contact-phone-2" type="text" name="datos[]" placeholder="Cupos disponibles" />
                     </div>
@@ -124,10 +124,10 @@ $result2 = mysqli_query($conexion, $sql2);
                 </div>
             </div>
             <div class="contedor_botones">
-                <button class="button button-danger button-pipaluk" style="background-color: #151515; color:white;" onclick="calcularFormulario()">
+                <a class="button  button-pipaluk" style="background-color: #098CC1; color:white;" onclick="calcularFormulario()">
                     Calcular Precio
-                </button>
-                <button class="button button-primary button-pipaluk" type="submit">
+                </a>
+                <button class="button  button-pipaluk" style="background-color: #E8B11F; color:white;" type="submit">
                     Reservar Ahora
                 </button>
             </div>

@@ -648,7 +648,7 @@
                                     <strong>Experiencia interesante para personas que quieren disfrutar lo mejor de
                                         Oaxaca en 7 días y sin límite de edad.</strong>
                                 </p>
-                                <a href="intinerario.php?paquete=basico" target="_blank" rel="noopener noreferrer" class="button button-black-outline button-ujarak">Intinerario</a>
+                                <a href="intinerario.php?paquete=basico" target="_blank" rel="noopener noreferrer" class="button button-black-outline button-ujarak">Itinerario</a>
                             </div>
                         </div>
                     </div>
@@ -675,7 +675,7 @@
                                     <strong>Emocionante y para gozar con tu familia lo que ofrece Oaxaca en 10 días. No
                                         importa la edad.</strong>
                                 </p>
-                                <a href="intinerario.php?paquete=familiar" target="_blank" rel="noopener noreferrer" class="button button-black-outline button-ujarak">Intinerario</a>
+                                <a href="intinerario.php?paquete=familiar" target="_blank" rel="noopener noreferrer" class="button button-black-outline button-ujarak">Itinerario</a>
                             </div>
                         </div>
                     </div>
@@ -702,7 +702,7 @@
                                     <strong>Especial para personas mayores de edad o retiradas que desean conocer Oaxaca
                                         con calma en 10 días.</strong>
                                 </p>
-                                <a href="intinerario.php?paquete=retirados" target="_blank" rel="noopener noreferrer" class="button button-black-outline button-ujarak">Intinerario</a>
+                                <a href="intinerario.php?paquete=retirados" target="_blank" rel="noopener noreferrer" class="button button-black-outline button-ujarak">Itinerario</a>
                             </div>
                         </div>
                     </div>
@@ -730,7 +730,7 @@
                                         naturaleza y una buena dosis de adrenalina sin olvidar la esencia cultural de
                                         Oaxaca durante 10 días.</strong>
                                 </p>
-                                <a href="intinerario.php?paquete=aventura" target="_blank" rel="noopener noreferrer" class="button button-black-outline button-ujarak">Intinerario</a>
+                                <a href="intinerario.php?paquete=aventura" target="_blank" rel="noopener noreferrer" class="button button-black-outline button-ujarak">Itinerario</a>
                             </div>
                         </div>
                     </div>
@@ -758,7 +758,7 @@
                                         aventura, relajamiento y romanticismo. El paraíso de la región a tu alcance
                                         durante 10 días y para todas las edades.</strong>
                                 </p>
-                                <a href="intinerario.php?paquete=playas" target="_blank" rel="noopener noreferrer" class="button button-black-outline button-ujarak">Intinerario</a>
+                                <a href="intinerario.php?paquete=playas" target="_blank" rel="noopener noreferrer" class="button button-black-outline button-ujarak">Itinerario</a>
                             </div>
                         </div>
                     </div>
@@ -786,7 +786,7 @@
                                         de estos paquetes en pareja o solo para tu familia. La duración depende de ti, 7
                                         o 10 días y sin límite de edad.</strong>
                                 </p>
-                                <a class="button button-black-outline button-ujarak" href="contact-us.php">Intinerario</a>
+                                <a class="button button-black-outline button-ujarak" href="contact-us.php">Itinerario</a>
                             </div>
                         </div>
                     </div>
@@ -795,4 +795,4 @@
         </div>
     </div>
 </section>
-<a class="button button-lg button-primary button-ujarak" href="destinos.php">Regresar</a> <br><br><br>
+    <a class="button button-lg button-primary button-ujarak" href="destinos.php">Regresar</a> <br><br><br>

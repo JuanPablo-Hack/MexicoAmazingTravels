@@ -109,7 +109,7 @@
         </header>
         <!-- TODO: Poner los colores diferentes en los intinerarios de la base de datos -->
         <section>
-            <h1>Intenerario</h1>
+            <h1>Itinerario</h1>
             <div class="tbl-header">
                 <table cellpadding="0" cellspacing="0" border="0">
                     <thead>
