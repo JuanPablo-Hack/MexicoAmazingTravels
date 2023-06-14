@@ -9,12 +9,13 @@ $result2 = mysqli_query($conexion, $sql2);
     <div class="container">
         <article class="title-classic">
             <div class="title-classic-title">
-                <h3>Reservar</h3>
+                <h3>Riserva</h3>
             </div>
             <div class="title-classic-text">
                 <p>
-                    Para reservar con éxito por favor responde este
-                    formulario con tu información para poder contactarte.
+                    Per prenotare con successo, per favore rispondi a questo
+                    form con i tuoi dati per poterti ricontattare.
+
                 </p>
             </div>
         </article>
@@ -22,34 +23,34 @@ $result2 = mysqli_query($conexion, $sql2);
             <div class="row row-14 gutters-14">
                 <div class="col-md-6">
                     <div class="form-wrap">
-                        <input class="form-input" id="contact-your-name-2" type="text" name="datos[]" data-constraints="@Required" placeholder="Nombre" />
+                        <input class="form-input" id="contact-your-name-2" type="text" name="datos[]" data-constraints="@Required" placeholder="Nome" />
                     </div>
                 </div>
                 <div class="col-md-6">
                     <div class="form-wrap">
-                        <input class="form-input" id="contact-email-2" type="email" name="datos[]" data-constraints="@Email @Required" placeholder="Correo" />
+                        <input class="form-input" id="contact-email-2" type="email" name="datos[]" data-constraints="@Email @Required" placeholder="Posta" />
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="form-wrap">
-                        <input class="form-input" type="text" name="datos[]" data-constraints="@Required" placeholder="País de Origen" />
+                        <input class="form-input" type="text" name="datos[]" data-constraints="@Required" placeholder="Paese di origine" />
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="form-wrap">
-                        <input class="form-input" type="text" name="datos[]" data-constraints="@Required" placeholder="Ciudad" />
+                        <input class="form-input" type="text" name="datos[]" data-constraints="@Required" placeholder="Città" />
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="form-wrap">
-                        <input class="form-input" id="contact-phone-2" type="text" name="datos[]" data-constraints="@Numeric" placeholder="Número de telefono" />
+                        <input class="form-input" id="contact-phone-2" type="text" name="datos[]" data-constraints="@Numeric" placeholder="Numero di telefono" />
                     </div>
                 </div>
 
                 <div class="col-md-3">
                     <div class="form-wrap">
                         <select name="datos[]" class="form-input" data-constraints="@Selected">
-                            <option value="">-Seleccion un destino-</option>
+                            <option value="">-Seleziona una destinazione-</option>
                             <?php
                             while ($Row1 = mysqli_fetch_array($result2)) {
                             ?>
@@ -76,7 +77,7 @@ $result2 = mysqli_query($conexion, $sql2);
                 </div>
                 <div class="col-md-3">
                     <select name="datos[]" class="form-input" data-constraints="@Selected" onchange="cuposDisponibles()">
-                        <option value="">Fechas disponibles</option>
+                        <option value="">-Seleziona un pacchetto-</option>
                         <option value="2023-05-09">3 de Marzo - 8 de Marzo</option>
                         <option value="2023-05-09">3 de Marzo - 8 de Marzo</option>
                         <option value="2023-05-09">3 de Marzo - 8 de Marzo</option>
@@ -84,12 +85,12 @@ $result2 = mysqli_query($conexion, $sql2);
                 </div>
                 <div class="col-md-3" id="cuposdisponibles" style="display: none;">
                     <div class="form-wrap">
-                        <input class="form-input" id="contact-phone-2" type="text" name="datos[]" placeholder="Cupos disponibles" />
+                        <input class="form-input" id="contact-phone-2" type="text" name="datos[]" placeholder="Spazio disponibile" />
                     </div>
                 </div>
                 <div class="col-md-4">
                     <select name="datos[]" class="form-input" data-constraints="@Selected" id="numero_adultos">
-                        <option selected disabled>-Números de Adultos-</option>
+                        <option selected disabled>-Numero di adulti-</option>
                         <option value="1">1</option>
                         <option value="2">2</option>
                         <option value="3">3</option>
@@ -104,7 +105,7 @@ $result2 = mysqli_query($conexion, $sql2);
                 </div>
                 <div class="col-md-4">
                     <select name="datos[]" class="form-input" data-constraints="@Selected" id="numero_niños" onchange="calcularPersonas()">
-                        <option selected disabled>-Números de Niños-</option>
+                        <option selected disabled>-Numero di bambini-</option>
                         <option value="1">1</option>
                         <option value="2">2</option>
                         <option value="3">3</option>
@@ -119,16 +120,16 @@ $result2 = mysqli_query($conexion, $sql2);
                 </div>
                 <div class="col-md-4">
                     <div class="form-wrap">
-                        <input class="form-input-total" type="number" readonly placeholder="Total de personas" id="totalPersonas" style="background-color: #01b3a7; color: white;" />
+                        <input class="form-input-total" type="number" readonly placeholder="Totale persone" id="totalPersonas" style="background-color: #01b3a7; color: white;" />
                     </div>
                 </div>
             </div>
             <div class="contedor_botones">
                 <button class="button button-danger button-pipaluk" style="background-color: #151515; color:white;" onclick="calcularFormulario()">
-                    Calcular Precio
+                    Calcola prezzo
                 </button>
                 <button class="button button-primary button-pipaluk" type="submit">
-                    Reservar Ahora
+                    Prenota ora
                 </button>
             </div>
 
