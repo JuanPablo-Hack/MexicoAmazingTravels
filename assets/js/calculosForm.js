@@ -9,6 +9,3 @@ const calcularPersonas = () => {
 const calcularFormulario = () => {
   document.getElementById("contenedor_calcular").style.display = "inherit";
 };
-const cuposDisponibles = () => {
-  document.getElementById("cuposdisponibles").style.display = "inherit";
-};
