@@ -11,7 +11,7 @@
                                 <a class="nav-link active" href="#tabs-7-1" data-toggle="tab">Responsabilidad ecológica</a>
                             </li>
                             <li class="nav-item" role="presentation">
-                                <a class="nav-link" href="#tabs-7-2" data-toggle="tab">Libertad</a>
+                                <a class="nav-link" href="#tabs-7-2" data-toggle="tab">Libd</a>
                             </li>
                             <li class="nav-item" role="presentation">
                                 <a class="nav-link" href="#tabs-7-3" data-toggle="tab">Interacción</a>
