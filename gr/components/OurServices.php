@@ -9,7 +9,7 @@
                     </div>
                     <div class="content">
                         <h5 class="box-icon-classic-title" style="color: #fff">
-                            <a href="#">Flüge</a>
+                            Flüge
                         </h5>
                         <p class="box-icon-classic-text">
                             Der Hin- und Rückflug im Paket des von Ihnen gewählten Reiseziels ab den Städten Mexico DF und Guadalajara.
@@ -24,7 +24,7 @@
                     </div>
                     <div class="content">
                         <h5 class="box-icon-classic-title" style="color: #fff">
-                            <a href="#">Bodentransport</a>
+                            Bodentransport
                         </h5>
                         <p class="box-icon-classic-text">
                             Alle von México Amazing & Unforgettable für den Transport seiner Touristen zu den Sehenswürdigkeiten eingesetzten Einheiten sind sehr sicher und komfortabel.
@@ -39,7 +39,7 @@
                     </div>
                     <div class="content">
                         <h5 class="box-icon-classic-title" style="color: #fff">
-                            <a href="#">Hosting</a>
+                            Hosting
                         </h5>
                         <p class="box-icon-classic-text">
                             In Luxushotels während Ihres Aufenthaltes im von Ihnen gewählten Zielpaket.
@@ -54,7 +54,7 @@
                     </div>
                     <div class="content">
                         <h5 class="box-icon-classic-title" style="color: #fff">
-                            <a href="#">Touren</a>
+                            Touren
                         </h5>
                         <p class="box-icon-classic-text">
                             Mit zweisprachigen Reiseführern und Experten zu den zu besuchenden Orten, je nach Paket und Reiseziel, für das Sie sich entscheiden. Sie begleiten Sie und empfehlen Ihnen während Ihres Aufenthalts das Beste.
@@ -69,7 +69,7 @@
                     </div>
                     <div class="content">
                         <h5 class="box-icon-classic-title" style="color: #fff">
-                            <a href="#">Tickets für Veranstaltungen und Sehenswürdigkeiten</a>
+                            Tickets für Veranstaltungen und Sehenswürdigkeiten
                         </h5>
                         <p class="box-icon-classic-text">
                             Tickets und gut gelegene Sitzplätze bei traditionellen Veranstaltungen, Museen und archäologischen Stätten sind für Sie und Ihre Begleiter garantiert.
@@ -84,7 +84,7 @@
                     </div>
                     <div class="content">
                         <h5 class="box-icon-classic-title" style="color: #fff">
-                            <a href="#">Unterstützung beim Kauf von Kunsthandwerk</a>
+                            Unterstützung beim Kauf von Kunsthandwerk
                         </h5>
                         <p class="box-icon-classic-text">
                             An allen Reisezielen, die wir für Sie anbieten, können Sie Kunsthandwerk nach Ihrem Geschmack erwerben. </p>
@@ -94,11 +94,11 @@
             <div class="col-sm-4 col-lg-4">
                 <div class="box">
                     <div class="imgBox">
-                        <img src="https://mexicolu.gruposoca.com.mx/images/doctor.png" class="img-responsive" />
+                        <img src="../assets/images/doctora.jpg" class="img-responsive" />
                     </div>
                     <div class="content">
                         <h5 class="box-icon-classic-title" style="color: #fff">
-                            <a href="#">Medizinische Unterstützung</a>
+                            Medizinische Unterstützung
                         </h5>
                         <p class="box-icon-classic-text">
                             Wir verfügen über die medizinische Unterstützung von Spezialisten für Ihre Sicherheit und Ruhe, falls Sie diese benötigen.
@@ -113,7 +113,7 @@
                     </div>
                     <div class="content">
                         <h5 class="box-icon-classic-title" style="color: #fff">
-                            <a href="#">Essen</a>
+                            Essen
                         </h5>
                         <p class="box-icon-classic-text">
                             In allen unseren Paketen und Reisezielen bieten wir Ihnen Frühstück und Mahlzeiten an den Orten an, an denen wir Sie bewirten, und in renommierten Restaurants.
@@ -128,7 +128,7 @@
                     </div>
                     <div class="content">
                         <h5 class="box-icon-classic-title" style="color: #fff">
-                            <a href="#">Souvenirs</a>
+                            Souvenirs
                         </h5>
                         <p class="box-icon-classic-text">
                             Ein typisches Detail der von Ihnen gewählten Website und des von Ihnen gewählten Pakets wird dank Mexico Amazing & Unforgettable immer in angenehmer Erinnerung bleiben.
@@ -139,14 +139,14 @@
             <div class="col-sm-4 col-lg-4">
                 <div class="box">
                     <div class="imgBox">
-                        <img src="../assets/images/paqueteria.png" class="img-responsive" />
+                        <img src="../assets/images/cena_especial.jpg" class="img-responsive" />
                     </div>
                     <div class="content">
                         <h5 class="box-icon-classic-title" style="color: #fff">
-                            <a href="#">Unterstützung im Paketdienst</a>
+                            Besonderes Abendessen
                         </h5>
                         <p class="box-icon-classic-text">
-                            Wir transportieren die von Ihnen gekauften Kunsthandwerke verpackt zu den Paketagenturen, um sicherzustellen, dass sie ihr Ziel in gutem Zustand erreichen. Die Versandkosten tragen Sie selbst.
+                            Es wird immer schön sein, sie zu empfangen und mit einem besonderen Abendessen zu verabschieden. Eine gute Zeit zum Genießen und für ein Erinnerungsfoto mit freundlicher Genehmigung von Mexico Amazing & Unforgettable.
                         </p>
                     </div>
                 </div>
@@ -158,7 +158,7 @@
                     </div>
                     <div class="content">
                         <h5 class="box-icon-classic-title" style="color: #fff">
-                            <a href="#">Volksfest</a>
+                            Volksfest
                         </h5>
                         <p class="box-icon-classic-text">
                             Eine Auswahl der Folklore, die jedes Reiseziel auszeichnet, seine Musik, Kleidung, Tänze, Farben und Traditionen exklusiv für Sie.
@@ -169,14 +169,14 @@
             <div class="col-sm-4 col-lg-4">
                 <div class="box">
                     <div class="imgBox">
-                        <img src="../assets/images/table-g536d4fa9b_1280.jpg" class="img-responsive" />
+                        <img src="../assets/images/paqueteria.png" class="img-responsive" />
                     </div>
                     <div class="content">
                         <h5 class="box-icon-classic-title" style="color: #fff">
-                            <a href="#">Besonderes Abendessen</a>
+                            Unterstützung im Paketdienst
                         </h5>
                         <p class="box-icon-classic-text">
-                            Es wird immer schön sein, sie zu empfangen und mit einem besonderen Abendessen zu verabschieden. Eine gute Zeit zum Genießen und für ein Erinnerungsfoto mit freundlicher Genehmigung von Mexico Amazing & Unforgettable.
+                            Wir transportieren die von Ihnen gekauften Kunsthandwerke verpackt zu den Paketagenturen, um sicherzustellen, dass sie ihr Ziel in gutem Zustand erreichen. Die Versandkosten tragen Sie selbst.
                         </p>
                     </div>
                 </div>

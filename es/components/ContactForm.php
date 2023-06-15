@@ -116,7 +116,7 @@ $result2 = mysqli_query($conexion, $sql2);
                 </div>
                 <div class="col-md-4">
                     <div class="form-wrap">
-                        <input class="form-input-total" type="number" readonly placeholder="Total de personas" id="totalPersonas" style="background-color: #01b3a7; color: white;" />
+                        <input class="form-input-total" type="number" readonly placeholder="Total de personas" id="totalPersonas" style="background-color: #E8B11F; color: white;" />
                     </div>
                 </div>
             </div>
@@ -124,7 +124,7 @@ $result2 = mysqli_query($conexion, $sql2);
                 <a class="button  button-pipaluk" style="background-color: #098CC1; color:white;" onclick="calcularFormulario()">
                     Calcular Precio
                 </a>
-                <button class="button  button-pipaluk" style="background-color: #E8B11F; color:white;" type="submit">
+                <button class="button  button-pipaluk" style="background-color: #01b3a7; color:white;" type="submit">
                     Reservar Ahora
                 </button>
             </div>

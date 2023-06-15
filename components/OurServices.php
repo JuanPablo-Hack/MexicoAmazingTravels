@@ -94,7 +94,7 @@
             <div class="col-sm-4 col-lg-4">
                 <div class="box">
                     <div class="imgBox">
-                        <img src="https://mexicolu.gruposoca.com.mx/images/doctor.png" class="img-responsive" />
+                        <img src="assets/images/doctora.jpg" class="img-responsive" />
                     </div>
                     <div class="content">
                         <h5 class="box-icon-classic-title" style="color: #fff">
@@ -139,14 +139,14 @@
             <div class="col-sm-4 col-lg-4">
                 <div class="box">
                     <div class="imgBox">
-                        <img src="assets/images/paqueteria.png" class="img-responsive" />
+                        <img src="assets/images/cena_especial.jpg" class="img-responsive" />
                     </div>
                     <div class="content">
                         <h5 class="box-icon-classic-title" style="color: #fff">
-                            <a href="#">Support in parcel service</a>
+                            <a href="#">Special Dinner</a>
                         </h5>
                         <p class="box-icon-classic-text">
-                            We transport the crafts you purchase to the parcel agencies packaged to ensure that they reach their destination in good condition. The shipping cost is on your own.
+                            It will always be nice to receive them and send them off with a special dinner. A good time to enjoy and get a souvenir photo courtesy of Mexico Amazing & Unforgettable.
                         </p>
                     </div>
                 </div>
@@ -166,17 +166,18 @@
                     </div>
                 </div>
             </div>
+
             <div class="col-sm-4 col-lg-4">
                 <div class="box">
                     <div class="imgBox">
-                        <img src="assets/images/table-g536d4fa9b_1280.jpg" class="img-responsive" />
+                        <img src="assets/images/paqueteria.png" class="img-responsive" />
                     </div>
                     <div class="content">
                         <h5 class="box-icon-classic-title" style="color: #fff">
-                            <a href="#">Special Dinner</a>
+                            <a href="#">Support in parcel service</a>
                         </h5>
                         <p class="box-icon-classic-text">
-                            It will always be nice to receive them and send them off with a special dinner. A good time to enjoy and get a souvenir photo courtesy of Mexico Amazing & Unforgettable.
+                            We transport the crafts you purchase to the parcel agencies packaged to ensure that they reach their destination in good condition. The shipping cost is on your own.
                         </p>
                     </div>
                 </div>

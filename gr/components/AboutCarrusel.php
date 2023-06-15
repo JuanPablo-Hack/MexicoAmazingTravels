@@ -10,7 +10,7 @@
                             </h2>
                             <<h4 class="text-uppercase" data-caption-animate="fadeInRight" data-caption-delay="0" style="text-shadow: -2px -2px 1px #000, 2px 2px 1px #000, -2px 2px 1px #000, 2px -2px 1px #000;" style="text-shadow: -2px -2px 1px #000, 2px 2px 1px #000, -2px 2px 1px #000, 2px -2px 1px #000;">
                                 Das Beste liegt zum Greifen nah, mit einer warmen Atmosphäre
-                            </h4>
+                                </h4>
                         </div>
                     </div>
                 </div>
@@ -27,7 +27,7 @@
                             <<h4 class="text-uppercase" data-caption-animate="fadeInRight" data-caption-delay="0" style="text-shadow: -2px -2px 1px #000, 2px 2px 1px #000, -2px 2px 1px #000, 2px -2px 1px #000;" style="text-shadow: -2px -2px 1px #000, 2px 2px 1px #000, -2px 2px 1px #000, 2px -2px 1px #000;">
                                 Mit Ihren Händen die Prozesse der Ausarbeitung seiner riesigen
                                 handwerklicher Reichtum
-                            </h4>
+                                </h4>
                         </div>
                     </div>
                 </div>
@@ -44,7 +44,7 @@
                             <<h4 class="text-uppercase" data-caption-animate="fadeInRight" data-caption-delay="0" style="text-shadow: -2px -2px 1px #000, 2px 2px 1px #000, -2px 2px 1px #000, 2px -2px 1px #000;" style="text-shadow: -2px -2px 1px #000, 2px 2px 1px #000, -2px 2px 1px #000, 2px -2px 1px #000;">
                                 Die große kulinarische Vielfalt, die jede Region bietet, ist einzigartig
                                 Reichtum an Geschmacksrichtungen und Aromen
-                            </h4>
+                                </h4>
                         </div>
                     </div>
                 </div>
@@ -60,7 +60,7 @@
                             </h2>
                             <<h4 class="text-uppercase" data-caption-animate="fadeInRight" data-caption-delay="0" style="text-shadow: -2px -2px 1px #000, 2px 2px 1px #000, -2px 2px 1px #000, 2px -2px 1px #000;" style="text-shadow: -2px -2px 1px #000, 2px 2px 1px #000, -2px 2px 1px #000, 2px -2px 1px #000;">
                                 Wir rennen nicht, wir lassen es ruhig angehen, damit Sie das beste Erlebnis Ihres Lebens erleben können
-                            </h4>
+                                </h4>
                         </div>
                     </div>
                 </div>
@@ -77,7 +77,7 @@
                             <<h4 class="text-uppercase" data-caption-animate="fadeInRight" data-caption-delay="0" style="text-shadow: -2px -2px 1px #000, 2px 2px 1px #000, -2px 2px 1px #000, 2px -2px 1px #000;" style="text-shadow: -2px -2px 1px #000, 2px 2px 1px #000, -2px 2px 1px #000, 2px -2px 1px #000;">
                                 Die Naturschönheiten und Abenteuerorte, an denen die
                                 Adrenalin fließt in Strömen
-                            </h4>
+                                </h4>
                         </div>
                     </div>
                 </div>
@@ -94,13 +94,13 @@
                             <<h4 class="text-uppercase" data-caption-animate="fadeInRight" data-caption-delay="0" style="text-shadow: -2px -2px 1px #000, 2px 2px 1px #000, -2px 2px 1px #000, 2px -2px 1px #000;" style="text-shadow: -2px -2px 1px #000, 2px 2px 1px #000, -2px 2px 1px #000, 2px -2px 1px #000;">
                                 Die großen architektonischen Werke, archäologischen Stätten,
                                 Museen und Kunstwerke.
-                            </h4>
+                                </h4>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-        <div class="swiper-slide context-dark" data-slide-bg="../assets/images/folklore.jpg">
+        <div class="swiper-slide context-dark" data-slide-bg="../assets/images/festejar.jpg">
             <div class="swiper-slide-caption section-md">
                 <div class="container">
                     <div class="row">
@@ -113,7 +113,7 @@
                             <<h4 class="text-uppercase" data-caption-animate="fadeInRight" data-caption-delay="0" style="text-shadow: -2px -2px 1px #000, 2px 2px 1px #000, -2px 2px 1px #000, 2px -2px 1px #000;" style="text-shadow: -2px -2px 1px #000, 2px 2px 1px #000, -2px 2px 1px #000, 2px -2px 1px #000;">
                                 Mit den Menschen bei den folkloristischen Veranstaltungen, die gefeiert werden
                                 zu besonderen Terminen
-                            </h4>
+                                </h4>
                         </div>
                     </div>
                 </div>
@@ -131,7 +131,7 @@
                                 Sie werden feststellen, dass „Mexico Amazing & Unforgettable“ bleiben wird
                                 für immer in dein Herz eingraviert...
                                 <strong>und du wirst zurückkehren</strong>
-                            </h4>
+                                </h4>
                         </div>
                     </div>
                 </div>

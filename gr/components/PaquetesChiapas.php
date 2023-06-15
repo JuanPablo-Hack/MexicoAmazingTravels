@@ -567,10 +567,10 @@
             </div>
             <div class="item">
                 <div class="blog-entry">
-                    <a class="block-20 d-flex align-items-start" style="
+                    <p class="block-20 d-flex align-items-start" style="
                     background-image: url('https://mexicolu.gruposoca.com.mx/images/oaxaca/carussel/cena_despedida_tiemp%C3%B3.jpg');
                   ">
-                    </a>
+                    </p>
                     <div class="text border border-top-0 p-4">
                         <h3 class="heading">Abschiedsessen (besonderes Ereignis)</h3>
                         <p>
@@ -584,10 +584,10 @@
             </div>
             <div class="item">
                 <div class="blog-entry">
-                    <a class="block-20 d-flex align-items-start" style="
+                    <p class="block-20 d-flex align-items-start" style="
                     background-image: url('https://mexicolu.gruposoca.com.mx/images/oaxaca/carussel/Guelaguetza_tiempo.jpg');
                   ">
-                    </a>
+                    </p>
                     <div class="text border border-top-0 p-4">
                         <h3 class="heading">Guelaguetza (Sonderveranstaltung)</h3>
                         <p>
@@ -601,10 +601,10 @@
             </div>
             <div class="item">
                 <div class="blog-entry">
-                    <a class="block-20 d-flex align-items-start" style="
+                    <p class="block-20 d-flex align-items-start" style="
                     background-image: url('https://mexicolu.gruposoca.com.mx/images/oaxaca/carussel/Calendas.jpg');
                   ">
-                    </a>
+                    </p>
                     <div class="text border border-top-0 p-4">
                         <h3 class="heading">Kalenden (Besonderes Ereignis)</h3>
                         <p>
@@ -618,10 +618,10 @@
             </div>
             <div class="item">
                 <div class="blog-entry">
-                    <a class="block-20 d-flex align-items-start" style="
+                    <p class="block-20 d-flex align-items-start" style="
                     background-image: url('../assets/images/muertos.jpg');
                   ">
-                    </a>
+                    </p>
                     <div class="text border border-top-0 p-4">
                         <h3 class="heading">Tage der Toten (Sonderereignis)</h3>
                         <p>
@@ -663,7 +663,7 @@
                                     <strong>Interessante Erfahrung für Menschen, die das Beste genießen möchten
                                         Oaxaca in 7 Tagen und ohne Altersbeschränkung.</strong>
                                 </p>
-                                <a href="intinerario.php" target="_blank" rel="noopener noreferrer" class="button button-black-outline button-ujarak">Intinerario</a>
+                                <a href="intinerario.php" target="_blank" rel="noopener noreferrer" class="button button-black-outline button-ujarak">Route</a>
                             </div>
                         </div>
                     </div>
@@ -693,7 +693,7 @@
                                         Alter ist wichtig
                                     </strong>
                                 </p>
-                                <a class="button button-black-outline button-ujarak" href="contact-us.php">Intinerario</a>
+                                <a class="button button-black-outline button-ujarak" href="contact-us.php">Route</a>
                             </div>
                         </div>
                     </div>
@@ -722,7 +722,7 @@
                                     <strong>Speziell für volljährige Personen oder Rentner, die Oaxaca kennenlernen möchten
                                         ruhig in 10 Tagen.</strong>
                                 </p>
-                                <a class="button button-black-outline button-ujarak" href="contact-us.php">Intinerario</a>
+                                <a class="button button-black-outline button-ujarak" href="contact-us.php">Route</a>
                             </div>
                         </div>
                     </div>
@@ -752,7 +752,7 @@
                                         Oaxaca für 10 Tage.
                                     </strong>
                                 </p>
-                                <a class="button button-black-outline button-ujarak" href="contact-us.php">Intinerario</a>
+                                <a class="button button-black-outline button-ujarak" href="contact-us.php">Route</a>
                             </div>
                         </div>
                     </div>
@@ -780,7 +780,7 @@
                                         Abenteuer, Entspannung und Romantik. Das Paradies der Region zum Greifen nah
                                         für 10 Tage und für alle Altersgruppen.</strong>
                                 </p>
-                                <a class="button button-black-outline button-ujarak" href="contact-us.php">Intinerario</a>
+                                <a class="button button-black-outline button-ujarak" href="contact-us.php">Route</a>
                             </div>
                         </div>
                     </div>
@@ -808,7 +808,7 @@
                                         Buchen Sie eines dieser Pakete zu zweit oder einfach nur für Ihre Familie. Die Dauer hängt von Ihnen ab, 7
                                         oder 10 Tage und keine Altersbeschränkung.</strong>
                                 </p>
-                                <a class="button button-black-outline button-ujarak" href="contact-us.php">Intinerario</a>
+                                <a class="button button-black-outline button-ujarak" href="contact-us.php">Route</a>
                             </div>
                         </div>
                     </div>

@@ -10,7 +10,7 @@
                             </h2>
                             <<h4 class="text-uppercase" data-caption-animate="fadeInRight" data-caption-delay="0" style="text-shadow: -2px -2px 1px #000, 2px 2px 1px #000, -2px 2px 1px #000, 2px -2px 1px #000;" style="text-shadow: -2px -2px 1px #000, 2px 2px 1px #000, -2px 2px 1px #000, 2px -2px 1px #000;">
                                 Il meglio è a portata di mano, con una calda atmosfera
-                            </h4>
+                                </h4>
                         </div>
                     </div>
                 </div>
@@ -27,7 +27,7 @@
                             <<h4 class="text-uppercase" data-caption-animate="fadeInRight" data-caption-delay="0" style="text-shadow: -2px -2px 1px #000, 2px 2px 1px #000, -2px 2px 1px #000, 2px -2px 1px #000;" style="text-shadow: -2px -2px 1px #000, 2px 2px 1px #000, -2px 2px 1px #000, 2px -2px 1px #000;">
                                 Con le tue mani i processi di elaborazione del suo vasto
                                 ricchezza artigianale
-                            </h4>
+                                </h4>
                         </div>
                     </div>
                 </div>
@@ -44,7 +44,7 @@
                             <<h4 class="text-uppercase" data-caption-animate="fadeInRight" data-caption-delay="0" style="text-shadow: -2px -2px 1px #000, 2px 2px 1px #000, -2px 2px 1px #000, 2px -2px 1px #000;" style="text-shadow: -2px -2px 1px #000, 2px 2px 1px #000, -2px 2px 1px #000, 2px -2px 1px #000;">
                                 La grande diversità culinaria offerta da ogni regione, la sua
                                 ricchezza di sapori e profumi
-                            </h4>
+                                </h4>
                         </div>
                     </div>
                 </div>
@@ -60,7 +60,7 @@
                             </h2>
                             <<h4 class="text-uppercase" data-caption-animate="fadeInRight" data-caption-delay="0" style="text-shadow: -2px -2px 1px #000, 2px 2px 1px #000, -2px 2px 1px #000, 2px -2px 1px #000;" style="text-shadow: -2px -2px 1px #000, 2px 2px 1px #000, -2px 2px 1px #000, 2px -2px 1px #000;">
                                 Non corriamo, ce la prendiamo comoda, così potrai vivere la migliore esperienza della tua vita
-                            </h4>
+                                </h4>
                         </div>
                     </div>
                 </div>
@@ -71,13 +71,14 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-10">
+                            <!-- TODO: Traducir todo en italiano -->
                             <h2 class="oh font-weight-light" data-caption-animate="slideInUp" data-caption-delay="100">
                                 <span class="font-weight-bold" style="text-shadow: -2px -2px 1px #000, 2px 2px 1px #000, -2px 2px 1px #000, 2px -2px 1px #000;"> Disfrutarás </span>
                             </h2>
                             <<h4 class="text-uppercase" data-caption-animate="fadeInRight" data-caption-delay="0" style="text-shadow: -2px -2px 1px #000, 2px 2px 1px #000, -2px 2px 1px #000, 2px -2px 1px #000;" style="text-shadow: -2px -2px 1px #000, 2px 2px 1px #000, -2px 2px 1px #000, 2px -2px 1px #000;">
                                 Las bellezas naturales y los sitios de aventura donde la
                                 adrenalina fluye en torrente
-                            </h4>
+                                </h4>
                         </div>
                     </div>
                 </div>
@@ -94,13 +95,13 @@
                             <<h4 class="text-uppercase" data-caption-animate="fadeInRight" data-caption-delay="0" style="text-shadow: -2px -2px 1px #000, 2px 2px 1px #000, -2px 2px 1px #000, 2px -2px 1px #000;" style="text-shadow: -2px -2px 1px #000, 2px 2px 1px #000, -2px 2px 1px #000, 2px -2px 1px #000;">
                                 Le grandi opere architettoniche, i siti archeologici,
                                 musei e opere d'arte.
-                            </h4>
+                                </h4>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-        <div class="swiper-slide context-dark" data-slide-bg="../assets/images/folklore.jpg">
+        <div class="swiper-slide context-dark" data-slide-bg="../assets/images/festejar.jpg">
             <div class="swiper-slide-caption section-md">
                 <div class="container">
                     <div class="row">
@@ -113,7 +114,7 @@
                             <<h4 class="text-uppercase" data-caption-animate="fadeInRight" data-caption-delay="0" style="text-shadow: -2px -2px 1px #000, 2px 2px 1px #000, -2px 2px 1px #000, 2px -2px 1px #000;" style="text-shadow: -2px -2px 1px #000, 2px 2px 1px #000, -2px 2px 1px #000, 2px -2px 1px #000;">
                                 Con il popolo durante le manifestazioni folcloristiche che festeggiano
                                 in date speciali
-                            </h4>
+                                </h4>
                         </div>
                     </div>
                 </div>
@@ -131,7 +132,7 @@
                                 Scoprirai che “Mexico Amazing & Unforgettable” rimarrà
                                 scolpito nel tuo cuore per sempre...
                                 <strong>e tornerai</strong>
-                            </h4>
+                                </h4>
                         </div>
                     </div>
                 </div>

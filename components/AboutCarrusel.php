@@ -100,7 +100,7 @@
                 </div>
             </div>
         </div>
-        <div class="swiper-slide context-dark" data-slide-bg="assets/images/folklore.jpg">
+        <div class="swiper-slide context-dark" data-slide-bg="assets/images/festejar.jpg">
             <div class="swiper-slide-caption section-md">
                 <div class="container">
                     <div class="row">

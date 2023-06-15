@@ -9,7 +9,7 @@
                     </div>
                     <div class="content">
                         <h5 class="box-icon-classic-title" style="color: #fff">
-                            <a href="#">Vols</a>
+                            Vols
                         </h5>
                         <p class="box-icon-classic-text">
                             Le vol aller-retour dans le forfait de la destination que vous décidez à partir des villes de Mexico DF et Guadalajara.
@@ -24,7 +24,7 @@
                     </div>
                     <div class="content">
                         <h5 class="box-icon-classic-title" style="color: #fff">
-                            <a href="#">Transport terrestre</a>
+                            Transport terrestre
                         </h5>
                         <p class="box-icon-classic-text">
                             Toutes les unités utilisées par México Amazing & Unforgettable pour transporter ses touristes autour des sites sont très sûres et confortables.
@@ -39,7 +39,7 @@
                     </div>
                     <div class="content">
                         <h5 class="box-icon-classic-title" style="color: #fff">
-                            <a href="#">Hébergement</a>
+                            Hébergement
                         </h5>
                         <p class="box-icon-classic-text">
                             Dans des hôtels de luxe lors de votre séjour dans le package de destination que vous avez sélectionné.
@@ -54,7 +54,7 @@
                     </div>
                     <div class="content">
                         <h5 class="box-icon-classic-title" style="color: #fff">
-                            <a href="#">Visites guidées</a>
+                            Visites guidées
                         </h5>
                         <p class="box-icon-classic-text">
                             Avec des guides bilingues et des experts des sites à visiter selon le forfait et la destination que vous décidez. Ils sauront vous accompagner et vous recommander le meilleur lors de votre séjour.
@@ -69,7 +69,7 @@
                     </div>
                     <div class="content">
                         <h5 class="box-icon-classic-title" style="color: #fff">
-                            <a href="#">Billets pour les événements et monuments</a>
+                            Billets pour les événements et monuments
                         </h5>
                         <p class="box-icon-classic-text">
                             Les billets et les places bien situées lors d'événements traditionnels, de musées et de sites archéologiques sont garantis pour vous et vos accompagnants.
@@ -84,7 +84,7 @@
                     </div>
                     <div class="content">
                         <h5 class="box-icon-classic-title" style="color: #fff">
-                            <a href="#">Soutien à l'achat de produits artisanaux</a>
+                            Soutien à l'achat de produits artisanaux
                         </h5>
                         <p class="box-icon-classic-text">
                             Vous pourrez acquérir l'artisanat de votre choix dans toutes les destinations que nous avons pour vous. </p>
@@ -94,11 +94,11 @@
             <div class="col-sm-4 col-lg-4">
                 <div class="box">
                     <div class="imgBox">
-                        <img src="https://mexicolu.gruposoca.com.mx/images/doctor.png" class="img-responsive" />
+                        <img src="../assets/images/doctora.jpg" class="img-responsive" />
                     </div>
                     <div class="content">
                         <h5 class="box-icon-classic-title" style="color: #fff">
-                            <a href="#">Soutien médical</a>
+                            Soutien médical
                         </h5>
                         <p class="box-icon-classic-text">
                             Nous avons l'assistance médicale de spécialistes pour votre sécurité et votre tranquillité au cas où vous en auriez besoin.
@@ -113,7 +113,7 @@
                     </div>
                     <div class="content">
                         <h5 class="box-icon-classic-title" style="color: #fff">
-                            <a href="#">Nourriture</a>
+                            Nourriture
                         </h5>
                         <p class="box-icon-classic-text">
                             Dans tous nos forfaits et destinations nous vous proposons des petits déjeuners et repas où nous vous hébergerons et dans des restaurants prestigieux.
@@ -128,7 +128,7 @@
                     </div>
                     <div class="content">
                         <h5 class="box-icon-classic-title" style="color: #fff">
-                            <a href="#">Souvenir</a>
+                            Souvenir
                         </h5>
                         <p class="box-icon-classic-text">
                             Un détail typique du site et du forfait que vous choisissez sera toujours un souvenir agréable grâce à Mexico Amazing & Unforgettable.
@@ -139,14 +139,14 @@
             <div class="col-sm-4 col-lg-4">
                 <div class="box">
                     <div class="imgBox">
-                        <img src="../assets/images/paqueteria.png" class="img-responsive" />
+                        <img src="../assets/images/cena_especial.jpg" class="img-responsive" />
                     </div>
                     <div class="content">
                         <h5 class="box-icon-classic-title" style="color: #fff">
-                            <a href="#">Soutien au service de colis</a>
+                            Dîner spécial
                         </h5>
                         <p class="box-icon-classic-text">
-                            Nous transportons les objets artisanaux que vous achetez aux agences de colis emballés pour garantir qu'ils arrivent à destination en bon état. Les frais de port sont à votre charge.
+                            Ce sera toujours agréable de les recevoir et de les envoyer avec un dîner spécial. Un bon moment pour profiter et prendre une photo souvenir avec l'aimable autorisation de Mexico Amazing & Unforgettable.
                         </p>
                     </div>
                 </div>
@@ -158,7 +158,7 @@
                     </div>
                     <div class="content">
                         <h5 class="box-icon-classic-title" style="color: #fff">
-                            <a href="#">Fête folklorique</a>
+                            Fête folklorique
                         </h5>
                         <p class="box-icon-classic-text">
                             Un échantillon du folklore qui distingue chaque destination, sa musique, ses vêtements, ses danses, ses couleurs et ses traditions exclusivement pour vous.
@@ -169,14 +169,14 @@
             <div class="col-sm-4 col-lg-4">
                 <div class="box">
                     <div class="imgBox">
-                        <img src="../assets/images/table-g536d4fa9b_1280.jpg" class="img-responsive" />
+                        <img src="../assets/images/paqueteria.png" class="img-responsive" />
                     </div>
                     <div class="content">
                         <h5 class="box-icon-classic-title" style="color: #fff">
-                            <a href="#">Dîner spécial</a>
+                            Soutien au service de colis
                         </h5>
                         <p class="box-icon-classic-text">
-                            Ce sera toujours agréable de les recevoir et de les envoyer avec un dîner spécial. Un bon moment pour profiter et prendre une photo souvenir avec l'aimable autorisation de Mexico Amazing & Unforgettable.
+                            Nous transportons les objets artisanaux que vous achetez aux agences de colis emballés pour garantir qu'ils arrivent à destination en bon état. Les frais de port sont à votre charge.
                         </p>
                     </div>
                 </div>
