@@ -83,10 +83,10 @@
                     <div class="row">
                         <div class="col-md-10">
                             <h2 class="oh font-weight-light" data-caption-animate="slideInUp" data-caption-delay="100">
-                                <span class="font-weight-bold" style="text-shadow: -2px -2px 1px #000, 2px 2px 1px #000, -2px 2px 1px #000, 2px -2px 1px #000;"> Garantía de reservación </span>
+                                <span class="font-weight-bold" style="text-shadow: -2px -2px 1px #000, 2px 2px 1px #000, -2px 2px 1px #000, 2px -2px 1px #000;"> Reservation guarantee </span>
                             </h2>
                             <h5 class="text-uppercase" data-caption-animate="fadeInRight" data-caption-delay="0" style="text-shadow: -2px -2px 1px #000, 2px 2px 1px #000, -2px 2px 1px #000, 2px -2px 1px #000;">
-                                El cupo no es una limitante para nosotros, siempre hay un lugar para ti y tus acompañantes y la atención será siempre con la misma calidad y calidez.
+                                The quota is not a limitation for us, there is always a place for you and your companions and the attention will always be with the same quality and warmth.
                             </h5>
                         </div>
                     </div>

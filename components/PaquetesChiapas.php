@@ -552,10 +552,10 @@
             </div>
             <div class="item">
                 <div class="blog-entry">
-                    <a class="block-20 d-flex align-items-start" style="
+                    <div class="block-20 d-flex align-items-start" style="
                     background-image: url('https://mexicolu.gruposoca.com.mx/images/oaxaca/carussel/cena_despedida_tiemp%C3%B3.jpg');
                   ">
-                    </a>
+                    </div>
                     <div class="text border border-top-0 p-4">
                         <h3 class="heading">Cena de Despedida (Evento Especial)</h3>
                         <p>
@@ -569,10 +569,10 @@
             </div>
             <div class="item">
                 <div class="blog-entry">
-                    <a class="block-20 d-flex align-items-start" style="
+                    <div class="block-20 d-flex align-items-start" style="
                     background-image: url('https://mexicolu.gruposoca.com.mx/images/oaxaca/carussel/Guelaguetza_tiempo.jpg');
                   ">
-                    </a>
+                    </div>
                     <div class="text border border-top-0 p-4">
                         <h3 class="heading">Guelaguetza (Evento Especial)</h3>
                         <p>
@@ -586,10 +586,10 @@
             </div>
             <div class="item">
                 <div class="blog-entry">
-                    <a class="block-20 d-flex align-items-start" style="
+                    <div class="block-20 d-flex align-items-start" style="
                     background-image: url('https://mexicolu.gruposoca.com.mx/images/oaxaca/carussel/Calendas.jpg');
                   ">
-                    </a>
+                    </div>
                     <div class="text border border-top-0 p-4">
                         <h3 class="heading">Calendas (Evento Especial)</h3>
                         <p>
@@ -603,10 +603,10 @@
             </div>
             <div class="item">
                 <div class="blog-entry">
-                    <a class="block-20 d-flex align-items-start" style="
+                    <div class="block-20 d-flex align-items-start" style="
                     background-image: url('assets/images/muertos.jpg');
                   ">
-                    </a>
+                    </div>
                     <div class="text border border-top-0 p-4">
                         <h3 class="heading">Días de muertos (Evento Especial)</h3>
                         <p>
@@ -649,7 +649,7 @@
                                         Oaxaca in 7 days and without age limit.</strong>
                                 </p>
                                 <a href="intinerario.php?paquete=basico" target="_blank" rel="noopener noreferrer" class="button button-black-outline button-ujarak">itinerary
-</a>
+                                </a>
                             </div>
                         </div>
                     </div>
@@ -677,7 +677,7 @@
                                         age matters.</strong>
                                 </p>
                                 <a href="intinerario.php?paquete=familiar" target="_blank" rel="noopener noreferrer" class="button button-black-outline button-ujarak">itinerary
-</a>
+                                </a>
                             </div>
                         </div>
                     </div>
@@ -706,7 +706,7 @@
                                         calmly in 10 days.</strong>
                                 </p>
                                 <a href="intinerario.php?paquete=retirados" target="_blank" rel="noopener noreferrer" class="button button-black-outline button-ujarak">itinerary
-</a>
+                                </a>
                             </div>
                         </div>
                     </div>
@@ -735,7 +735,7 @@
                                         Oaxaca for 10 days.</strong>
                                 </p>
                                 <a href="intinerario.php?paquete=aventura" target="_blank" rel="noopener noreferrer" class="button button-black-outline button-ujarak">itinerary
-</a>
+                                </a>
                             </div>
                         </div>
                     </div>
@@ -764,7 +764,7 @@
                                         for 10 days and for all ages.</strong>
                                 </p>
                                 <a href="intinerario.php?paquete=playas" target="_blank" rel="noopener noreferrer" class="button button-black-outline button-ujarak">itinerary
-</a>
+                                </a>
                             </div>
                         </div>
                     </div>

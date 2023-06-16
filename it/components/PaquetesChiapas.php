@@ -553,10 +553,10 @@
             </div>
             <div class="item">
                 <div class="blog-entry">
-                    <a class="block-20 d-flex align-items-start" style="
+                    <div class="block-20 d-flex align-items-start" style="
                     background-image: url('https://mexicolu.gruposoca.com.mx/images/oaxaca/carussel/cena_despedida_tiemp%C3%B3.jpg');
                   ">
-                    </a>
+                    </div>
                     <div class="text border border-top-0 p-4">
                         <h3 class="heading">Cena de Despedida (Evento Especial)</h3>
                         <p>
@@ -570,10 +570,10 @@
             </div>
             <div class="item">
                 <div class="blog-entry">
-                    <a class="block-20 d-flex align-items-start" style="
+                    <div class="block-20 d-flex align-items-start" style="
                     background-image: url('https://mexicolu.gruposoca.com.mx/images/oaxaca/carussel/Guelaguetza_tiempo.jpg');
                   ">
-                    </a>
+                    </div>
                     <div class="text border border-top-0 p-4">
                         <h3 class="heading">Guelaguetza (Evento Especial)</h3>
                         <p>
@@ -587,10 +587,10 @@
             </div>
             <div class="item">
                 <div class="blog-entry">
-                    <a class="block-20 d-flex align-items-start" style="
+                    <div class="block-20 d-flex align-items-start" style="
                     background-image: url('https://mexicolu.gruposoca.com.mx/images/oaxaca/carussel/Calendas.jpg');
                   ">
-                    </a>
+                    </div>
                     <div class="text border border-top-0 p-4">
                         <h3 class="heading">Calendas (Evento Especial)</h3>
                         <p>
@@ -604,10 +604,10 @@
             </div>
             <div class="item">
                 <div class="blog-entry">
-                    <a class="block-20 d-flex align-items-start" style="
+                    <div class="block-20 d-flex align-items-start" style="
                     background-image: url('../assets/images/muertos.jpg');
                   ">
-                    </a>
+                    </div>
                     <div class="text border border-top-0 p-4">
                         <h3 class="heading">I giorni dei morti (evento speciale)</h3>
                         <p>
