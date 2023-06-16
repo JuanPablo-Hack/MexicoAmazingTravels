@@ -649,7 +649,7 @@
                                     <strong>Esperienza interessante per le persone che vogliono godersi il meglio di
                                         Oaxaca in 7 giorni e senza limiti di età.</strong>
                                 </p>
-                                <a href="intinerario.php?paquete=basico" target="_blank" rel="noopener noreferrer" class="button button-black-outline button-ujarak">Intinerario</a>
+                                <a href="intinerario.php?paquete=basico" target="_blank" rel="noopener noreferrer" class="button button-black-outline button-ujarak">Itinerario</a>
                             </div>
                         </div>
                     </div>
@@ -676,7 +676,7 @@
                                     <strong>Emocionante y para gozar con tu familia lo que ofrece Oaxaca en 10 días. No
                                         importa la edad.</strong>
                                 </p>
-                                <a href="intinerario.php?paquete=familiar" target="_blank" rel="noopener noreferrer" class="button button-black-outline button-ujarak">Intinerario</a>
+                                <a href="intinerario.php?paquete=familiar" target="_blank" rel="noopener noreferrer" class="button button-black-outline button-ujarak">Itinerario</a>
                             </div>
                         </div>
                     </div>
@@ -703,7 +703,7 @@
                                     <strong>Especial para personas mayores de edad o retiradas que desean conocer Oaxaca
                                         con calma en 10 días.</strong>
                                 </p>
-                                <a href="intinerario.php?paquete=retirados" target="_blank" rel="noopener noreferrer" class="button button-black-outline button-ujarak">Intinerario</a>
+                                <a href="intinerario.php?paquete=retirados" target="_blank" rel="noopener noreferrer" class="button button-black-outline button-ujarak">Itinerario</a>
                             </div>
                         </div>
                     </div>
@@ -731,7 +731,7 @@
                                         natura e una buona dose di adrenalina senza dimenticare l'essenza culturale di
                                         Oaxaca per 10 giorni.</strong>
                                 </p>
-                                <a href="intinerario.php?paquete=aventura" target="_blank" rel="noopener noreferrer" class="button button-black-outline button-ujarak">Intinerario</a>
+                                <a href="intinerario.php?paquete=aventura" target="_blank" rel="noopener noreferrer" class="button button-black-outline button-ujarak">Itinerario</a>
                             </div>
                         </div>
                     </div>
@@ -759,7 +759,7 @@
                                         aventura, relajamiento y romanticismo. El paraíso de la región a tu alcance
                                         durante 10 días y para todas las edades.</strong>
                                 </p>
-                                <a href="intinerario.php?paquete=playas" target="_blank" rel="noopener noreferrer" class="button button-black-outline button-ujarak">Intinerario</a>
+                                <a href="intinerario.php?paquete=playas" target="_blank" rel="noopener noreferrer" class="button button-black-outline button-ujarak">Itinerario</a>
                             </div>
                         </div>
                     </div>
@@ -787,7 +787,7 @@
                                         di questi pacchetti in coppia o solo per la tua famiglia. La durata dipende da te, 7
                                         o 10 giorni e nessun limite di età.</strong>
                                 </p>
-                                <a class="button button-black-outline button-ujarak" href="contact-us.php">Intinerario</a>
+                                <a class="button button-black-outline button-ujarak" href="contact-us.php">Itinerario</a>
                             </div>
                         </div>
                     </div>

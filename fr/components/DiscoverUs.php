@@ -6,28 +6,28 @@
             </div>
             <div class="col-lg-6 wow fadeInRight" data-wow-delay=".1s">
                 <div class="box-width-lg-470">
-                    <h3>Rencontrez-nous et voyagez avec nous</h3>
+                    <h3>Apprenez à nous connaître et voyagez avec nous</h3>
                     <div class="tabs-custom tabs-horizontal tabs-line tabs-line-big tabs-line-style-2 text-center text-md-left" id="tabs-7">
                         <ul class="nav nav-tabs">
-                            <li class="nav-item" role="présentation">
+                            <li class="nav-item" role="presentation">
                                 <a class="nav-link active" href="#tabs-7-1" data-toggle="tab">Définition</a>
                             </li>
-                            <li class="nav-item" role="présentation">
-                                <a class="nav-link" href="#tabs-7-2" data-toggle="tab">Missions</a>
+                            <li class="nav-item" role="presentation">
+                                <a class="nav-link" href="#tabs-7-2" data-toggle="tab">Mission</a>
                             </li>
-                            <li class="nav-item" role="présentation">
+                            <li class="nav-item" role="presentation">
                                 <a class="nav-link" href="#tabs-7-3" data-toggle="tab">Vision</a>
                             </li>
                         </ul>
                         <div class="tab-content">
-                            <div class="tab-pane fondu afficher actif" id="tabs-7-1">
+                            <div class="tab-pane fade show active" id="tabs-7-1">
                                 <p>
                                     <strong>"Mexico Amazing Travels"</strong> est une entreprise qui
                                     offre au touriste en général, les services et les moyens
                                     nécessaire pour eux de connaître et de vivre la chaleur de leur
                                     les gens, leur environnement et leur mode de vie afin qu'ils reviennent
                                     satisfaits chez eux et rappelez-vous qu'ils ont apprécié
-                                    Mexique via Mexique Lovely & Unforgettable.
+                                    Mexique via Mexico Lovely & Unforgettable.
                                 </p>
                             </div>
                             <div class="tab-pane fade" id="tabs-7-2">

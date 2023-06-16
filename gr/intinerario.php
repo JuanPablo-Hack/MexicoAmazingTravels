@@ -77,7 +77,7 @@
                             <div class="rd-navbar-panel">
                                 <button class="rd-navbar-toggle" data-rd-navbar-toggle=".rd-navbar-nav-wrap"><span></span></button>
                                 <div class="rd-navbar-brand">
-                                    <a class="brand" href="index.php"><img src="assets/images/logo-default-450x37.png" alt="" width="225" height="18" /></a>
+                                    <a class="brand" href="index.php"><img src="../assets/images/logo-default-450x37.png" alt="" width="225" height="18" /></a>
                                 </div>
                             </div>
                             <?php include "static/menu_lenguagues.php" ?>
@@ -87,18 +87,18 @@
                         <div class="rd-navbar-main">
                             <div class="rd-navbar-nav-wrap">
                                 <ul class="rd-navbar-nav">
-                                    <li class="rd-nav-item"><a class="rd-nav-link" href="index.php">Inicio</a>
+                                    <li class="rd-nav-item"><a class="rd-nav-link" href="index.php">Heim</a>
                                     </li>
-                                    <li class="rd-nav-item"><a class="rd-nav-link" href="about.php">Servicios</a>
+                                    <li class="rd-nav-item"><a class="rd-nav-link" href="about.php">Dienstleistungen</a>
                                     </li>
                                     <li class="rd-nav-item active">
-                                        <a class="rd-nav-link" href="destinos.php">Destinos</a>
+                                        <a class="rd-nav-link" href="destinos.php">Reiseziele</a>
                                     </li>
                                     <li class="rd-nav-item">
-                                        <a class="rd-nav-link" href="experiencias.php">Experiencias</a>
+                                        <a class="rd-nav-link" href="experiencias.php">Erfahrungen</a>
                                     </li>
                                     <li class="rd-nav-item">
-                                        <a class="rd-nav-link" href="contact-us.php">Reservaciones</a>
+                                        <a class="rd-nav-link" href="contact-us.php">Reservierungen</a>
                                     </li>
                                 </ul>
                             </div>
@@ -107,7 +107,6 @@
                 </nav>
             </div>
         </header>
-        <!-- TODO: Poner los colores diferentes en los intinerarios de la base de datos -->
         <section>
             <h1>Itinerario</h1>
             <div class="tbl-header">

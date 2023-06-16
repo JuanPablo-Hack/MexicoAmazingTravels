@@ -661,7 +661,7 @@
                                     <strong>intéressante pour les personnes qui veulent profiter du meilleur de
                                         Oaxaca en 7 jours et sans limite d'âge.</strong>
                                 </p>
-                                <a href="intinerario.php?paquete=basico" target="_blank" rel="noopener noreferrer" class="button button-black-outline button-ujarak">Intinerario</a>
+                                <a href="intinerario.php?paquete=basico" target="_blank" rel="noopener noreferrer" class="button button-black-outline button-ujarak">Itinéraire</a>
                             </div>
                         </div>
                     </div>
@@ -689,7 +689,7 @@
                                     <strong>Emocionante y para gozar con tu familia lo que ofrece Oaxaca en 10 días. No
                                         importa la edad.</strong>
                                 </p>
-                                <a href="intinerario.php?paquete=familiar" target="_blank" rel="noopener noreferrer" class="button button-black-outline button-ujarak">Intinerario</a>
+                                <a href="intinerario.php?paquete=familiar" target="_blank" rel="noopener noreferrer" class="button button-black-outline button-ujarak">Itinéraire</a>
                             </div>
                         </div>
                     </div>
@@ -717,7 +717,7 @@
                                     <strong>Spécial pour les personnes majeures ou les retraités qui veulent connaître Oaxaca
                                         calmement dans 10 jours.</strong>
                                 </p>
-                                <a href="intinerario.php?paquete=retirados" target="_blank" rel="noopener noreferrer" class="button button-black-outline button-ujarak">Intinerario</a>
+                                <a href="intinerario.php?paquete=retirados" target="_blank" rel="noopener noreferrer" class="button button-black-outline button-ujarak">Itinéraire</a>
                             </div>
                         </div>
                     </div>
@@ -746,7 +746,7 @@
                                         nature et une bonne dose d'adrénaline sans oublier l'essence culturelle de
                                         Oaxaca pendant 10 jours.</strong>
                                 </p>
-                                <a href="intinerario.php?paquete=aventura" target="_blank" rel="noopener noreferrer" class="button button-black-outline button-ujarak">Intinerario</a>
+                                <a href="intinerario.php?paquete=aventura" target="_blank" rel="noopener noreferrer" class="button button-black-outline button-ujarak">Itinéraire</a>
                             </div>
                         </div>
                     </div>
@@ -775,7 +775,7 @@
                                         aventure, détente et romance. Le paradis de la région à portée de main
                                         pendant 10 jours et pour tous les âges.</strong>
                                 </p>
-                                <a href="intinerario.php?paquete=playas" target="_blank" rel="noopener noreferrer" class="button button-black-outline button-ujarak">Intinerario</a>
+                                <a href="intinerario.php?paquete=playas" target="_blank" rel="noopener noreferrer" class="button button-black-outline button-ujarak">Itinéraire</a>
                             </div>
                         </div>
                     </div>
@@ -804,7 +804,7 @@
                                         de ces forfaits en couple ou simplement pour votre famille. La durée dépend de vous, 7
                                         ou 10 jours et sans limite d'âge.</strong>
                                 </p>
-                                <a class="button button-black-outline button-ujarak" href="contact-us.php">Intinerario</a>
+                                <a class="button button-black-outline button-ujarak" href="contact-us.php">Itinéraire</a>
                             </div>
                         </div>
                     </div>
