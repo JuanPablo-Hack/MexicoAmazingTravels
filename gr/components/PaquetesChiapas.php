@@ -663,7 +663,7 @@
                                     <strong>Interessante Erfahrung für Menschen, die das Beste genießen möchten
                                         Oaxaca in 7 Tagen und ohne Altersbeschränkung.</strong>
                                 </p>
-                                <a href="intinerario.php" target="_blank" rel="noopener noreferrer" class="button button-black-outline button-ujarak">Route</a>
+                                <a href="intinerario.php?paquete=basico" target="_blank" rel="noopener noreferrer" class="button button-black-outline button-ujarak">Route</a>
                             </div>
                         </div>
                     </div>
@@ -693,7 +693,7 @@
                                         Alter ist wichtig
                                     </strong>
                                 </p>
-                                <a class="button button-black-outline button-ujarak" href="contact-us.php">Route</a>
+                                <a class="button button-black-outline button-ujarak" href="intinerario.php?paquete=familiar">Route</a>
                             </div>
                         </div>
                     </div>
@@ -722,7 +722,7 @@
                                     <strong>Speziell für volljährige Personen oder Rentner, die Oaxaca kennenlernen möchten
                                         ruhig in 10 Tagen.</strong>
                                 </p>
-                                <a class="button button-black-outline button-ujarak" href="contact-us.php">Route</a>
+                                <a class="button button-black-outline button-ujarak" href="intinerario.php?paquete=retirados">Route</a>
                             </div>
                         </div>
                     </div>
@@ -752,7 +752,7 @@
                                         Oaxaca für 10 Tage.
                                     </strong>
                                 </p>
-                                <a class="button button-black-outline button-ujarak" href="contact-us.php">Route</a>
+                                <a class="button button-black-outline button-ujarak" href="intinerario.php?paquete=aventura">Route</a>
                             </div>
                         </div>
                     </div>
@@ -780,7 +780,7 @@
                                         Abenteuer, Entspannung und Romantik. Das Paradies der Region zum Greifen nah
                                         für 10 Tage und für alle Altersgruppen.</strong>
                                 </p>
-                                <a class="button button-black-outline button-ujarak" href="contact-us.php">Route</a>
+                                <a class="button button-black-outline button-ujarak" href="intinerario.php?paquete=playas">Route</a>
                             </div>
                         </div>
                     </div>
@@ -808,7 +808,7 @@
                                         Buchen Sie eines dieser Pakete zu zweit oder einfach nur für Ihre Familie. Die Dauer hängt von Ihnen ab, 7
                                         oder 10 Tage und keine Altersbeschränkung.</strong>
                                 </p>
-                                <a class="button button-black-outline button-ujarak" href="contact-us.php">Route</a>
+                                <a class="button button-black-outline button-ujarak" href="intinerario.php?paquete=basico">Route</a>
                             </div>
                         </div>
                     </div>

@@ -107,96 +107,13 @@
                 </nav>
             </div>
         </header>
-        <section>
-            <h1>Itinerario</h1>
-            <div class="tbl-header">
-                <table cellpadding="0" cellspacing="0" border="0">
-                    <thead>
-                        <th>Día 1</th>
-                        <th>Día 2</th>
-                        <th>Día 3</th>
-                        <th>Día 4</th>
-                        <th>Día 5</th>
-                        <th>Día 6</th>
-                        <th>Día 7</th>
-                    </thead>
-                </table>
-            </div>
-            <div class="tbl-content">
-                <table cellpadding="0" cellspacing="0" border="0">
-                    <tbody>
-                        <tr>
-                            <td>
-                                <ol>
-                                    <li>Recepción</li>
-                                    <li>Comida de bienvenida</li>
-                                    <li>Tour por el Centro Histórico</li>
-                                    <li>Mercado de la Ciudad</li>
-                                </ol>
-                            </td>
-                            <td>
-                                <ol>
-                                    <li>Recepción</li>
-                                    <li>Comida de bienvenida</li>
-                                    <li>Tour por el Centro Histórico</li>
-                                    <li>Mercado de la Ciudad</li>
-                                </ol>
-                            </td>
-                            <td>
-                                <ol>
-                                    <li>Recepción</li>
-                                    <li>Comida de bienvenida</li>
-                                    <li>Tour por el Centro Histórico</li>
-                                    <li>Mercado de la Ciudad</li>
-                                </ol>
-                            </td>
-                            <td>
-                                <ol>
-                                    <li>Recepción</li>
-                                    <li>Comida de bienvenida</li>
-                                    <li>Tour por el Centro Histórico</li>
-                                    <li>Mercado de la Ciudad</li>
-                                </ol>
-                            </td>
-                            <td>
-                                <ol>
-                                    <li>Recepción</li>
-                                    <li>Comida de bienvenida</li>
-                                    <li>Tour por el Centro Histórico</li>
-                                    <li>Mercado de la Ciudad</li>
-                                </ol>
-                            </td>
-                            <td>
-                                <ol>
-                                    <li>Recepción</li>
-                                    <li>Comida de bienvenida</li>
-                                    <li>Tour por el Centro Histórico</li>
-                                    <li>Mercado de la Ciudad</li>
-                                </ol>
-                            </td>
-                            <td>
-                                <ol>
-                                    <li>Recepción</li>
-                                    <li>Comida de bienvenida</li>
-                                    <li>Tour por el Centro Histórico</li>
-                                    <li>Mercado de la Ciudad</li>
-                                </ol>
-                            </td>
-                            <td>
-                                <ol>
-                                    <li>Recepción</li>
-                                    <li>Comida de bienvenida</li>
-                                    <li>Tour por el Centro Histórico</li>
-                                    <li>Mercado de la Ciudad</li>
-                                </ol>
-                            </td>
-                        </tr>
-                    </tbody>
-                </table>
-            </div>
-        </section>
-        <?php include "static/footer.php"; ?>
+        <?php
+        include "./components/Itinerarios.php";
+        seleccionarIntinerario($_GET['paquete']);
+        echo '<a class="button button-lg button-danger button-ujarak" style="background-color:red; color:white;" href="paquetes.php?destino=chiapas">Regresar</a> <br><br><br>';
+        include "static/footer.php"; ?>
     </div>
+    <!-- TODO: Programar los itinerarios y traducir -->
 </body>
 
 </html>

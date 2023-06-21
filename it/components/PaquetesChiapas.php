@@ -585,6 +585,7 @@
                     </div>
                 </div>
             </div>
+            <!-- TODO: Kevin traducir todo en inglés -->
             <div class="item">
                 <div class="blog-entry">
                     <div class="block-20 d-flex align-items-start" style="

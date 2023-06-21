@@ -53,6 +53,7 @@
         <?php
         include "components/Intinerarios.php";
         seleccionarIntinerario($_GET['paquete']);
+        echo '<a class="button button-lg button-danger button-ujarak" style="background-color:red; color:white;" href="paquetes.php?destino=chiapas">Torna indietro</a> <br><br><br>';
         include "static/footer.php";
         ?>
     </div>

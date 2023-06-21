@@ -48,6 +48,7 @@
             </div>
         </header>
         <?php include "components/ExperienciasBanner.php" ?>
+        <!-- TODO: Checar la imagen de USA   -->
         <?php include "components/ExperienciasLenguas.php" ?>
         <?php include "static/footer.php"; ?>
     </div>

@@ -1,4 +1,5 @@
 <?php
+// TODO: Poner toda esta parte en inglés kevin
 function seleccionarIntinerario($paquete)
 {
     switch ($paquete) {

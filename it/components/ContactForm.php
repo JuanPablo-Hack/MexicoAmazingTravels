@@ -64,7 +64,7 @@ $result2 = mysqli_query($conexion, $sql2);
                 <div class="col-md-3">
                     <div class="form-wrap">
                         <select name="datos[]" class="form-input" data-constraints="@Selected" id="paquteSeleccionado">
-                            <option value="0">-Selecciona un paquete-</option>
+                            <option value="0">-Seleziona un pacchetto-</option>
                             <?php
                             while ($Row1 = mysqli_fetch_array($result)) {
                             ?>
@@ -77,12 +77,13 @@ $result2 = mysqli_query($conexion, $sql2);
                 </div>
                 <div class="col-md-3">
                     <select name="datos[]" class="form-input" data-constraints="@Selected" onchange="cuposDisponibles()">
-                        <option value="">-Seleziona un pacchetto-</option>
+                        <option value="">-Seleziona una data disponibile-</option>
                         <option value="2023-05-09">3 de Marzo - 8 de Marzo</option>
                         <option value="2023-05-09">3 de Marzo - 8 de Marzo</option>
                         <option value="2023-05-09">3 de Marzo - 8 de Marzo</option>
                     </select>
                 </div>
+                <!-- TODO: Poner calcular precio en el idioma que es kevin   -->
                 <div class="col-md-3" id="cuposdisponibles" style="display: none;">
                     <div class="form-wrap">
                         <input class="form-input" id="contact-phone-2" type="text" name="datos[]" placeholder="Spazio disponibile" />

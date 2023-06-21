@@ -9,7 +9,7 @@
                     </div>
                     <div class="content">
                         <h5 class="box-icon-classic-title" style="color: #fff">
-                            <a href="#">Flights</a>
+                            Flights
                         </h5>
                         <p class="box-icon-classic-text">
                             The round flight in the package of the destination that you decide starting from the cities of Mexico DF and Guadalajara.
@@ -24,7 +24,7 @@
                     </div>
                     <div class="content">
                         <h5 class="box-icon-classic-title" style="color: #fff">
-                            <a href="#">Ground transportation</a>
+                            Ground transportation
                         </h5>
                         <p class="box-icon-classic-text">
                             All the units used by México Amazing & Unforgettable to transport its tourists around the sites are very safe and comfortable.
@@ -39,7 +39,7 @@
                     </div>
                     <div class="content">
                         <h5 class="box-icon-classic-title" style="color: #fff">
-                            <a href="#">Hosting</a>
+                            Hosting
                         </h5>
                         <p class="box-icon-classic-text">
                             In luxury hotels during your stay in the destination package you have selected.
@@ -54,7 +54,7 @@
                     </div>
                     <div class="content">
                         <h5 class="box-icon-classic-title" style="color: #fff">
-                            <a href="#">Tours</a>
+                            Tours
                         </h5>
                         <p class="box-icon-classic-text">
                             With bilingual guides and experts in the sites to visit according to the package and destination you decide. They will accompany you and recommend the best during your stay.
@@ -69,7 +69,7 @@
                     </div>
                     <div class="content">
                         <h5 class="box-icon-classic-title" style="color: #fff">
-                            <a href="#">Tickets to events and landmarks</a>
+                            Tickets to events and landmarks
                         </h5>
                         <p class="box-icon-classic-text">
                             Tickets and well-located seats at traditional events, museums and archaeological sites are guaranteed for you and your companions.
@@ -84,7 +84,7 @@
                     </div>
                     <div class="content">
                         <h5 class="box-icon-classic-title" style="color: #fff">
-                            <a href="#">Support in the purchase of handicrafts</a>
+                            Support in the purchase of handicrafts
                         </h5>
                         <p class="box-icon-classic-text">
                             You will be able to acquire the crafts of your liking in all the Destinations that we have for you. </p>
@@ -98,7 +98,7 @@
                     </div>
                     <div class="content">
                         <h5 class="box-icon-classic-title" style="color: #fff">
-                            <a href="#">Medical Support</a>
+                            Medical Support
                         </h5>
                         <p class="box-icon-classic-text">
                             We have the medical assistance of specialists for your safety and tranquility in case you require it.
@@ -113,7 +113,7 @@
                     </div>
                     <div class="content">
                         <h5 class="box-icon-classic-title" style="color: #fff">
-                            <a href="#">Food</a>
+                            Food
                         </h5>
                         <p class="box-icon-classic-text">
                             In all our packages and destinations we offer you breakfasts and meals where we will host you and in prestigious restaurants.
@@ -128,7 +128,7 @@
                     </div>
                     <div class="content">
                         <h5 class="box-icon-classic-title" style="color: #fff">
-                            <a href="#">Souvenirs</a>
+                            Souvenirs
                         </h5>
                         <p class="box-icon-classic-text">
                             A typical detail of the site and package you choose will always be a pleasant memory courtesy of Mexico Amazing & Unforgettable.
@@ -143,7 +143,7 @@
                     </div>
                     <div class="content">
                         <h5 class="box-icon-classic-title" style="color: #fff">
-                            <a href="#">Special Dinner</a>
+                            Special Dinner
                         </h5>
                         <p class="box-icon-classic-text">
                             It will always be nice to receive them and send them off with a special dinner. A good time to enjoy and get a souvenir photo courtesy of Mexico Amazing & Unforgettable.
@@ -158,7 +158,7 @@
                     </div>
                     <div class="content">
                         <h5 class="box-icon-classic-title" style="color: #fff">
-                            <a href="#">Folk Festival</a>
+                            Folk Festival
                         </h5>
                         <p class="box-icon-classic-text">
                             A sample of the folklore that distinguishes each destination, its music, clothing, dances, colors and traditions exclusively for you.
@@ -174,7 +174,7 @@
                     </div>
                     <div class="content">
                         <h5 class="box-icon-classic-title" style="color: #fff">
-                            <a href="#">Support in parcel service</a>
+                            Support in parcel service
                         </h5>
                         <p class="box-icon-classic-text">
                             We transport the crafts you purchase to the parcel agencies packaged to ensure that they reach their destination in good condition. The shipping cost is on your own.

@@ -278,6 +278,7 @@
                     background-image: url('assets/images/tapetes.jpg');
                   ">
                     </a>
+                    <!-- TODO: Kevin cambiar desde esta parte al inglés  -->
                     <div class="text border border-top-0 p-4">
                         <h3 class="heading">
                             Elaboración de Tapetes de Lana </h3>
@@ -624,7 +625,7 @@
 <section class="section section-sm bg-default">
     <div class="container">
         <h3 class="oh-desktop">
-            <span class="d-inline-block wow slideInDown">Essential</span>
+            <span class="d-inline-block wow slideInDown">Packages</span>
         </h3>
         <div class="row row-sm row-40 row-md-50">
             <div class="col-sm-6 col-md-12 wow fadeInRight">
@@ -793,7 +794,7 @@
                                         of these packages as a couple or just for your family. The duration depends on you, 7
                                         or 10 days and no age limit.</strong>
                                 </p>
-                                <a class="button button-black-outline button-ujarak" href="contact-us.php">itinerary
+                                <a class="button button-black-outline button-ujarak" href="intinerario.php?paquete=basico">itinerary
                                 </a>
                             </div>
                         </div>

@@ -49,7 +49,7 @@ $result2 = mysqli_query($conexion, $sql2);
                 <div class="col-md-3">
                     <div class="form-wrap">
                         <select name="datos[]" class="form-input" data-constraints="@Selected">
-                            <option value="">-Seleccion un destino-</option>
+                            <option value="">-Wähle ein Reiseziel-</option>
                             <?php
                             while ($Row1 = mysqli_fetch_array($result2)) {
                             ?>
@@ -133,7 +133,7 @@ $result2 = mysqli_query($conexion, $sql2);
                 </div>
                 <div class="col-md-4">
                     <div class="form-wrap">
-                        <input class="form-input-total" type="number" readonly placeholder="Total de personas" id="totalPersonas" style="background-color: #01b3a7; color: white;" />
+                        <input class="form-input-total" type="number" readonly placeholder="Total Leute" id="totalPersonas" style="background-color: #01b3a7; color: white;" />
                     </div>
                 </div>
             </div>
