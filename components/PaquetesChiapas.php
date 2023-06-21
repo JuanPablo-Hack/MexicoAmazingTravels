@@ -281,10 +281,10 @@
                     <!-- TODO: Kevin cambiar desde esta parte al inglés  -->
                     <div class="text border border-top-0 p-4">
                         <h3 class="heading">
-                            Elaboración de Tapetes de Lana </h3>
+                            Manufacture of Wool Rugs </h3>
                         <p>
-                            Recorrido con explicación sobre la forma en que los habitantes elaboran los tapetes de lana
-                            virgen utilizando técnicas antiguas y pigmentación con elementos naturales. Interactivo.
+                            Tour with explanation of the way in which the inhabitants make woolen rugs
+                            virgin using ancient techniques and pigmentation with natural elements. Interactive.
                             <br />
 
                         </p>
@@ -299,12 +299,12 @@
                     </a>
                     <div class="text border border-top-0 p-4">
                         <h3 class="heading">
-                            Sitio Arqueológico de Yagul
+                            Yagul Archaeological Site
                         </h3>
                         <p>
-                            Visita al complejo de construcciones precolombinas de origen Zapoteca construidas sobre un
-                            valle con explicación de las costumbres, ceremonias y práctica de oficios de esa
-                            civilización. <br>
+                            Visit to the complex of pre-Columbian constructions of Zapotec origin built on a
+                            valley with an explanation of the customs, ceremonies and practice of trades of that
+                            civilization. <br>
 
                         </p>
                     </div>
@@ -318,10 +318,10 @@
                     </a>
                     <div class="text border border-top-0 p-4">
                         <h3 class="heading">
-                            Visita al Museo Rufino Tamayo </h3>
+                            Visit to the Rufino Tamayo Museum </h3>
                         <p>
-                            Visita y recorrido en el museo Tamayo con exhibición de una gran variedad de piezas
-                            arqueológicas encontradas en la zona.
+                            Visit and tour of the Tamayo museum with an exhibition of a wide variety of pieces
+                            archeology found in the area.
                             <br /> <br>
                         </p>
                     </div>
@@ -334,10 +334,10 @@
                   ">
                     </a>
                     <div class="text border border-top-0 p-4">
-                        <h3 class="heading">Puente Colgante (Aventura)</h3>
+                        <h3 class="heading">Suspension Bridge (Adventure)</h3>
                         <p>
-                            Recorrido por el puente que une dos montañas con más de 100 metros de largo en medio del
-                            bosque. Especialmente sobrecogedor cuando lo cubre la niebla.
+                            Tour of the bridge that joins two mountains with more than 100 meters long in the middle of the
+                            forest. Especially daunting when covered in mist.
                             <br /><br />
                         </p>
                     </div>
@@ -350,10 +350,10 @@
                   ">
                     </a>
                     <div class="text border border-top-0 p-4">
-                        <h3 class="heading">Elaboración de Chocolate</h3>
+                        <h3 class="heading">Chocolate Making</h3>
                         <p>
-                            Explicación sobre la forma en que sus habitantes elaboran el Chocolate con las mismas
-                            técnicas que utilizaban los indígenas de la zona. Interactivo <br /> <br>
+                            Explanation about the way in which its inhabitants make chocolate with the same
+                            techniques used by the natives of the area. Interactive <br /> <br>
 
                         </p>
                     </div>
@@ -366,11 +366,11 @@
                   ">
                     </a>
                     <div class="text border border-top-0 p-4">
-                        <h3 class="heading">Sitio de Hongos (aventura)</h3>
+                        <h3 class="heading">Mushroom Site (adventure)</h3>
                         <p>
-                            Recorrido en un bosque repleto de una gran variedad de hongos silvestres utilizados por los
-                            habitantes de la región para efectos medicinales, sobre todo. Aprenderás a distinguir entre
-                            hongos benéficos y venenosos <br />
+                            Tour in a forest full of a great variety of wild mushrooms used by the
+                            inhabitants of the region for medicinal purposes, especially. You will learn to distinguish between
+                            beneficial and poisonous mushrooms
                         </p>
                     </div>
                 </div>
@@ -383,10 +383,10 @@
                     </a>
                     <div class="text border border-top-0 p-4">
                         <h3 class="heading">
-                            Recorrido por el Centro Histórico </h3>
+                            Tour of the Historic Center </h3>
                         <p>
-                            Recorrido por los lugares importantes que dan ejemplo de arquitectura y costumbres de sus
-                            habitantes
+                            Tour of the important places that give an example of architecture and customs of their
+                            population
                             <br /> <br /> <br />
                         </p>
                     </div>
@@ -399,10 +399,10 @@
                   ">
                     </a>
                     <div class="text border border-top-0 p-4">
-                        <h3 class="heading">Visita y participación del Columpio (aventura)</h3>
+                        <h3 class="heading">Visit and participation in the Swing (adventure)</h3>
                         <p>
-                            Disfruta la sensación de balancearte sobre un columpio a la orilla de un risco donde no
-                            tienes contacto con el piso sino con el aire durante unos minutos que parecerán horas.
+                            Enjoy the sensation of swinging on a swing at the edge of a cliff where you
+                            you do not have contact with the floor but with the air for a few minutes that will seem like hours.
                             <br />
                         </p>
                     </div>
@@ -416,11 +416,11 @@
                     </a>
                     <div class="text border border-top-0 p-4">
                         <h3 class="heading">
-                            Elaboración de Miel Multiflora
+                            Preparation of Multiflora Honey
                         </h3>
                         <p>
-                            Explicación sobre la forma en que los habitantes elaboran las velas y crean figuras de
-                            flores multicolores con las técnicas heredadas de sus ancestros. Interactivo.
+                            Explanation about the way in which the inhabitants make candles and create figures of
+                            multicolored flowers with the techniques inherited from their ancestors. Interactive.
                             <br /> <br />
                         </p>
                     </div>
@@ -434,10 +434,10 @@
                     </a>
                     <div class="text border border-top-0 p-4">
                         <h3 class="heading">
-                            Visita a las Grutas (Aventura) </h3>
+                            Visit to the Caves (Adventure) </h3>
                         <p>
-                            Recorrido por el interior de las grutas con explicación de las figuras caprichosas que
-                            forman las estalactitas y estalagmitas del lugar.
+                            Tour inside the caves with an explanation of the whimsical figures that
+                            form the stalactites and stalagmites of the place.
                             <br /> <br />
                         </p>
                     </div>
@@ -450,11 +450,11 @@
                   ">
                     </a>
                     <div class="text border border-top-0 p-4">
-                        <h3 class="heading">Elaboración del Quesillo</h3>
+                        <h3 class="heading">Preparation of the Quesillo</h3>
                         <p>
-                            Explicación sobre la forma en que los habitantes elaboran el queso originario de la región
-                            con las técnicas que heredaron de sus ancestros. El turista participa en la elaboración y
-                            degustación del quesillo
+                            Explanation on the way in which the inhabitants make the cheese originating in the region
+                            with the techniques they inherited from their ancestors. The tourist participates in the elaboration and
+                            cheese tasting
                             <br />
                         </p>
                     </div>
@@ -468,12 +468,12 @@
                     </a>
                     <div class="text border border-top-0 p-4">
                         <h3 class="heading">
-                            Elaboración de Molinillos
+                            Elaboration of Mills
                         </h3>
                         <p>
-                            Explicación sobre la manera en que los habitantes elaboran los utensilios para batir el
-                            chocolate con madera con los mismos procedimientos que utilizaban los indígenas de la zona.
-                            Interactivo.
+                            Explanation on the way in which the inhabitants elaborate the utensils to beat the
+                            chocolate with wood with the same procedures used by the natives of the area.
+                            Interactive.
                             <br />
                         </p>
                     </div>
@@ -487,11 +487,11 @@
                     </a>
                     <div class="text border border-top-0 p-4">
                         <h3 class="heading">
-                            Visita y participación de Tirolesa (aventura)
+                            Visit and participation in Zipline (adventure)
                         </h3>
                         <p>
-                            Experimentarás durante el recorrido la sensación extrema de viajar sobre una cuerda desde un
-                            risco hasta la zona plana del valle. <br />
+                            During the tour you will experience the extreme sensation of traveling on a rope from a
+                            cliff to the flat area of ​​the valley. <br />
 
                         </p>
                     </div>
@@ -505,11 +505,11 @@
                     </a>
                     <div class="text border border-top-0 p-4">
                         <h3 class="heading">
-                            Elaboración del Pan Serrano </h3>
+                            Elaboration of Serrano Bread </h3>
                         <p>
-                            Explicación sobre la forma en que los habitantes elaboran el pan hecho para ocasiones
-                            especiales de los habitantes de la región con las técnicas que heredaron de sus ancestros.
-                            Interactivo.
+                            Explanation on the way in which the inhabitants prepare the bread made for occasions
+                            of the inhabitants of the region with the techniques they inherited from their ancestors.
+                            Interactive.
                             <br />
 
                         </p>
@@ -524,9 +524,9 @@
                     </a>
                     <div class="text border border-top-0 p-4">
                         <h3 class="heading">
-                            Playas </h3>
+                            Beaches </h3>
                         <p>
-                            Ademas de la gran diversidad de playas, cada una tiene su encanto y atractivo.
+                            In addition to the great diversity of beaches, each one has its charm and attraction.
                             <br>
                             <br> <br>
                         </p>
@@ -541,11 +541,11 @@
                     </a>
                     <div class="text border border-top-0 p-4">
                         <h3 class="heading">
-                            Visita al Cañón del Sabino (Aventura)
+                            Visit to the Sabino Canyon (Adventure)
                         </h3>
                         <p>
-                            Recorrido por el cañón para disfrutar de la majestuosa formación natural y la vista
-                            panorámica de la zona
+                            Canyon tour to enjoy the majestic natural formation and view
+                            panorama of the area
                             <br /> <br> <br>
                         </p>
                     </div>
@@ -558,12 +558,12 @@
                   ">
                     </div>
                     <div class="text border border-top-0 p-4">
-                        <h3 class="heading">Cena de Despedida (Evento Especial)</h3>
+                        <h3 class="heading">Farewell Dinner (Special Event)</h3>
                         <p>
-                            Al término de nuestro viaje lo mejor es una muestra de
-                            agradecimiento hacia ustedes. Es la mejor oportunidad que
-                            tenemos para dejarles un buen sabor de boca y con la
-                            seguridad de que volverán.
+                            At the end of our trip the best thing is a sample of
+                            thanks to you. It's the best chance
+                            we have to leave a good taste in your mouth and with the
+                            sure they will come back.
                         </p>
                     </div>
                 </div>
@@ -575,12 +575,12 @@
                   ">
                     </div>
                     <div class="text border border-top-0 p-4">
-                        <h3 class="heading">Guelaguetza (Evento Especial)</h3>
+                        <h3 class="heading">Guelaguetza (Special Event)</h3>
                         <p>
-                            En este evento las 8 regiones se reúnen una vez
-                            al año, comparten su patrimonio cultural con sus bailes,
-                            música, comida y costumbres que los distinguen entre ellos
-                            con gran alegría y colorido.
+                            In this event the 8 regions meet once
+                            a year, share their cultural heritage with their dances,
+                            music, food and customs that distinguish them from each other
+                            with great joy and color.
                         </p>
                     </div>
                 </div>
@@ -592,12 +592,12 @@
                   ">
                     </div>
                     <div class="text border border-top-0 p-4">
-                        <h3 class="heading">Calendas (Evento Especial)</h3>
+                        <h3 class="heading">Kalends (Special Event)</h3>
                         <p>
-                            Es una fiesta por las calles de Oaxaca donde se
-                            manifiesta la alegría. En este desfile se disfruta de la
-                            música regional, los bailes, Fuegos pirotécnicos y figuras
-                            enormes hechas con papel.
+                            It is a party through the streets of Oaxaca where
+                            manifest joy. In this parade you can enjoy the
+                            regional music, dances, fireworks and figures
+                            huge made out of paper.
                         </p>
                     </div>
                 </div>
@@ -609,12 +609,12 @@
                   ">
                     </div>
                     <div class="text border border-top-0 p-4">
-                        <h3 class="heading">Días de muertos (Evento Especial)</h3>
+                        <h3 class="heading">Days of the Dead (Special Event)</h3>
                         <p>
-                            Este evento se realiza en fecha determinada de acuerdo al
-                            calendario anual en México. En Oaxaca, la tradición de recordar a
-                            los seres queridos bajo un ambiente de desfile y color para compartir
-                            con todos.
+                            This event is held on a certain date according to the
+                            annual calendar in Mexico. In Oaxaca, the tradition of remembering
+                            loved ones under an atmosphere of parade and color to share
+                            With everyone.
                         </p>
                     </div>
                 </div>

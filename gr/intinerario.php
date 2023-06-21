@@ -113,7 +113,6 @@
         echo '<a class="button button-lg button-danger button-ujarak" style="background-color:red; color:white;" href="paquetes.php?destino=chiapas">Regresar</a> <br><br><br>';
         include "static/footer.php"; ?>
     </div>
-    <!-- TODO: Programar los itinerarios y traducir -->
 </body>
 
 </html>

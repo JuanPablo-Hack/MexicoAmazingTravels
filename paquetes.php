@@ -60,7 +60,7 @@
                 break;
         }
         ?>
-        <a class="button button-lg button-primary button-ujarak" href="destinos.php">Regresar</a>
+        <a class="button button-lg button-primary button-ujarak" href="destinos.php">Go back</a>
         <br><br>
         <?php include "static/footer.php"; ?>
         <script src=" https://mexicolu.gruposoca.com.mx/destinos/oaxaca/caroussel/js/popper.js"></script>

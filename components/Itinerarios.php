@@ -6,17 +6,17 @@ function seleccionarIntinerario($paquete)
         case 'basico':
             echo '
                 <section>
-                    <h1>Itinerario</h1>
+                    <h1>Itinerary</h1>
                     <div class="tbl-header">
                         <table cellpadding="0" cellspacing="0" border="0">
                             <thead>
-                                <th>Día 1</th>
-                                <th>Día 2</th>
-                                <th>Día 3</th>
-                                <th>Día 4</th>
-                                <th>Día 5</th>
-                                <th>Día 6</th>
-                                <th>Día 7</th>
+                                <th>Day 1</th>
+                                <th>Day 2</th>
+                                <th>Day 3</th>
+                                <th>Day 4</th>
+                                <th>Day 5</th>
+                                <th>Day 6</th>
+                                <th>Day 7</th>
                             </thead>
                         </table>
                     </div>
@@ -26,58 +26,58 @@ function seleccionarIntinerario($paquete)
                                 <tr>
                                     <td>
                                         <ol>
-                                            <li>Recepción</li>
-                                            <li>Comida de bienvenida</li>
-                                            <li>Tour por el Centro Histórico</li>
-                                            <li>Mercado de la Ciudad</li>
+                                            <li>Reception</li>
+                                            <li>Welcome meal</li>
+                                            <li>Tour through the Historic Center</li>
+                                            <li>City Market</li>
                                         </ol>
                                     </td>
                                     <td>
                                         <ol>
-                                            <li>Recepción</li>
-                                            <li>Comida de bienvenida</li>
-                                            <li>Tour por el Centro Histórico</li>
-                                            <li>Mercado de la Ciudad</li>
+                                            <li>Reception</li>
+                                            <li>Welcome meal</li>
+                                            <li>Tour through the Historic Center</li>
+                                            <li>City Market</li>
                                         </ol>
                                     </td>
                                     <td>
                                         <ol>
-                                            <li>Recepción</li>
-                                            <li>Comida de bienvenida</li>
-                                            <li>Tour por el Centro Histórico</li>
-                                            <li>Mercado de la Ciudad</li>
+                                            <li>Reception</li>
+                                            <li>Welcome meal</li>
+                                            <li>Tour through the Historic Center</li>
+                                            <li>City Market</li>
                                         </ol>
                                     </td>
                                     <td>
                                         <ol>
-                                            <li>Recepción</li>
-                                            <li>Comida de bienvenida</li>
-                                            <li>Tour por el Centro Histórico</li>
-                                            <li>Mercado de la Ciudad</li>
+                                            <li>Reception</li>
+                                            <li>Welcome meal</li>
+                                            <li>Tour through the Historic Center</li>
+                                            <li>City Market</li>
                                         </ol>
                                     </td>
                                     <td>
                                         <ol>
-                                            <li>Recepción</li>
-                                            <li>Comida de bienvenida</li>
-                                            <li>Tour por el Centro Histórico</li>
-                                            <li>Mercado de la Ciudad</li>
+                                            <li>Reception</li>
+                                            <li>Welcome meal</li>
+                                            <li>Tour through the Historic Center</li>
+                                            <li>City Market</li>
                                         </ol>
                                     </td>
                                     <td>
                                         <ol>
-                                            <li>Recepción</li>
-                                            <li>Comida de bienvenida</li>
-                                            <li>Tour por el Centro Histórico</li>
-                                            <li>Mercado de la Ciudad</li>
+                                            <li>Reception</li>
+                                            <li>Welcome meal</li>
+                                            <li>Tour through the Historic Center</li>
+                                            <li>City Market</li>
                                         </ol>
                                     </td>
                                     <td>
                                         <ol>
-                                            <li>Recepción</li>
-                                            <li>Comida de bienvenida</li>
-                                            <li>Tour por el Centro Histórico</li>
-                                            <li>Mercado de la Ciudad</li>
+                                            <li>Reception</li>
+                                            <li>Welcome meal</li>
+                                            <li>Tour through the Historic Center</li>
+                                            <li>City Market</li>
                                         </ol>
                                     </td>
                                 </tr>
@@ -89,20 +89,20 @@ function seleccionarIntinerario($paquete)
         case 'familiar':
             echo '
                     <section>
-                        <h1>Itinerario</h1>
+                        <h1>Itinerary</h1>
                         <div class="tbl-header">
                             <table cellpadding="0" cellspacing="0" border="0">
                                 <thead>
-                                    <th>Día 1</th>
-                                    <th>Día 2</th>
-                                    <th>Día 3</th>
-                                    <th>Día 4</th>
-                                    <th>Día 5</th>
-                                    <th>Día 6</th>
-                                    <th>Día 7</th>
-                                    <th>Día 8</th>
-                                    <th>Día 9</th>
-                                    <th>Día 10</th>
+                                    <th>Day 1</th>
+                                    <th>Day 2</th>
+                                    <th>Day 3</th>
+                                    <th>Day 4</th>
+                                    <th>Day 5</th>
+                                    <th>Day 6</th>
+                                    <th>Day 7</th>
+                                    <th>Day 8</th>
+                                    <th>Day 9</th>
+                                    <th>Day 10</th>
                                 </thead>
                             </table>
                         </div>
@@ -112,8 +112,8 @@ function seleccionarIntinerario($paquete)
                                     <tr>
                                         <td>
                                             <ol>
-                                                <li>Recepción</li>
-                                                <li>Comida de bienvenida</li>
+                                                <li>Reception</li>
+                                                <li>Welcome meal</li>
                                             </ol>
                                         </td>
                                         <td>
@@ -133,7 +133,7 @@ function seleccionarIntinerario($paquete)
                                         </td>
                                         <td>
                                             <ol>
-                                                <li>Libre</li>
+                                                <li>Free</li>
                                             </ol>
                                         </td>
                                         <td>
@@ -142,12 +142,12 @@ function seleccionarIntinerario($paquete)
                                                 <li>Tapetes de Lana</li>
                                                 <li>Velas de Concha</li>
                                                 <li>Sitio Arqueológico de Mitla</li>
-                                                <li>Cascadas Pétreas de Hierve el Agua</li>
+                                                <li>waterfalls Pétreas de Hierve el Agua</li>
                                             </ol>
                                         </td>
                                         <td>
                                             <ol>
-                                                <li>Libre</li>
+                                                <li>Free</li>
                                             </ol>
                                         </td>
                                         <td>
@@ -155,28 +155,28 @@ function seleccionarIntinerario($paquete)
                                                 <li>Mirador de Cristal</li>
                                                 <li>Guelatao</li>
                                                 <li>Ixtepeji</li>
-                                                <li>Fabricación de Molinillos</li>
-                                                <li>Chocolate Artesanal</li>
-                                                <li>Tirolesa</li>
+                                                <li>Manufacture of grinders</li>
+                                                <li>Artisan chocolate</li>
+                                                <li>zip line</li>
                                             </ol>
                                         </td>
                                         <td>
                                             <ol>
-                                                <li>Libre</li>
+                                                <li>Free</li>
                                             </ol>
                                         </td>
                                         <td>
                                             <ol>
                                                 <li>Peñas Gemelas</li>
-                                                <li>Pïnturas Rupestres</li>
-                                                <li>Grutas</li>
-                                                <li>Cascadas</li>
-                                                <li>Laguna Azul</li>
+                                                <li>Paintings</li>
+                                                <li>caves</li>
+                                                <li>waterfalls</li>
+                                                <li>blue Lagoon</li>
                                             </ol>
                                         </td>
                                         <td>
                                             <ol>
-                                                <li>Despedida</li>
+                                                <li>Farewell</li>
                                             </ol>
                                         </td>
                                     </tr>
@@ -188,20 +188,20 @@ function seleccionarIntinerario($paquete)
         case 'retirados':
             echo '
                         <section>
-                            <h1>Itinerario</h1>
+                            <h1>Itinerary</h1>
                             <div class="tbl-header">
                                 <table cellpadding="0" cellspacing="0" border="0">
                                     <thead>
-                                        <th>Día 1</th>
-                                        <th>Día 2</th>
-                                        <th>Día 3</th>
-                                        <th>Día 4</th>
-                                        <th>Día 5</th>
-                                        <th>Día 6</th>
-                                        <th>Día 7</th>
-                                        <th>Día 8</th>
-                                        <th>Día 9</th>
-                                        <th>Día 10</th>
+                                        <th>Day 1</th>
+                                        <th>Day 2</th>
+                                        <th>Day 3</th>
+                                        <th>Day 4</th>
+                                        <th>Day 5</th>
+                                        <th>Day 6</th>
+                                        <th>Day 7</th>
+                                        <th>Day 8</th>
+                                        <th>Day 9</th>
+                                        <th>Day 10</th>
                                     </thead>
                                 </table>
                             </div>
@@ -211,8 +211,8 @@ function seleccionarIntinerario($paquete)
                                         <tr>
                                             <td>
                                                 <ol>
-                                                    <li>Recepción</li>
-                                                    <li>Comida de bienvenida</li>
+                                                    <li>Reception</li>
+                                                    <li>Welcome meal</li>
                                                 </ol>
                                             </td>
                                             <td>
@@ -232,7 +232,7 @@ function seleccionarIntinerario($paquete)
                                             </td>
                                             <td>
                                                 <ol>
-                                                    <li>Libre</li>
+                                                    <li>Free</li>
                                                 </ol>
                                             </td>
                                             <td>
@@ -241,12 +241,12 @@ function seleccionarIntinerario($paquete)
                                                     <li>Tapetes de Lana</li>
                                                     <li>Velas de Concha</li>
                                                     <li>Sitio Arqueológico de Mitla</li>
-                                                    <li>Cascadas Pétreas de Hierve el Agua</li>
+                                                    <li>waterfalls Pétreas de Hierve el Agua</li>
                                                 </ol>
                                             </td>
                                             <td>
                                                 <ol>
-                                                    <li>Libre</li>
+                                                    <li>Free</li>
                                                 </ol>
                                             </td>
                                             <td>
@@ -254,28 +254,28 @@ function seleccionarIntinerario($paquete)
                                                     <li>Mirador de Cristal</li>
                                                     <li>Guelatao</li>
                                                     <li>Ixtepeji</li>
-                                                    <li>Fabricación de Molinillos</li>
-                                                    <li>Chocolate Artesanal</li>
-                                                    <li>Tirolesa</li>
+                                                    <li>Manufacture of grinders</li>
+                                                    <li>Artisan chocolate</li>
+                                                    <li>zip line</li>
                                                 </ol>
                                             </td>
                                             <td>
                                                 <ol>
-                                                    <li>Libre</li>
+                                                    <li>Free</li>
                                                 </ol>
                                             </td>
                                             <td>
                                                 <ol>
                                                     <li>Peñas Gemelas</li>
-                                                    <li>Pïnturas Rupestres</li>
-                                                    <li>Grutas</li>
-                                                    <li>Cascadas</li>
-                                                    <li>Laguna Azul</li>
+                                                    <li>Paintings</li>
+                                                    <li>caves</li>
+                                                    <li>waterfalls</li>
+                                                    <li>blue Lagoon</li>
                                                 </ol>
                                             </td>
                                             <td>
                                                 <ol>
-                                                    <li>Despedida</li>
+                                                    <li>Farewell</li>
                                                 </ol>
                                             </td>
                                         </tr>
@@ -287,20 +287,20 @@ function seleccionarIntinerario($paquete)
         case 'aventura':
             echo '
                             <section>
-                                <h1>Itinerario</h1>
+                                <h1>Itinerary</h1>
                                 <div class="tbl-header">
                                     <table cellpadding="0" cellspacing="0" border="0">
                                         <thead>
-                                            <th>Día 1</th>
-                                            <th>Día 2</th>
-                                            <th>Día 3</th>
-                                            <th>Día 4</th>
-                                            <th>Día 5</th>
-                                            <th>Día 6</th>
-                                            <th>Día 7</th>
-                                            <th>Día 8</th>
-                                            <th>Día 9</th>
-                                            <th>Día 10</th>
+                                            <th>Day 1</th>
+                                            <th>Day 2</th>
+                                            <th>Day 3</th>
+                                            <th>Day 4</th>
+                                            <th>Day 5</th>
+                                            <th>Day 6</th>
+                                            <th>Day 7</th>
+                                            <th>Day 8</th>
+                                            <th>Day 9</th>
+                                            <th>Day 10</th>
                                         </thead>
                                     </table>
                                 </div>
@@ -310,13 +310,13 @@ function seleccionarIntinerario($paquete)
                                             <tr>
                                                 <td>
                                                     <ol>
-                                                        <li>Recepción</li>
-                                                        <li>Comida de bienvenida</li>
+                                                        <li>Reception</li>
+                                                        <li>Welcome meal</li>
                                                     </ol>
                                                 </td>
                                                 <td>
                                                     <ol>
-                                                        <li>Tour de cultura a elección</li>
+                                                        <li>Culture tour of your choice</li>
                                                     </ol>
                                                 </td>
                                                 <td>
@@ -324,43 +324,43 @@ function seleccionarIntinerario($paquete)
                                                         <li>Mirador de Cristal</li>
                                                         <li>Guelatao</li>
                                                         <li>Ixtepeji</li>
-                                                        <li>Fabricación de Molinillos</li>
-                                                        <li>Chocolate Artesanal</li>
-                                                        <li>Tirolesa</li>
+                                                        <li>Manufacture of grinders</li>
+                                                        <li>Artisan chocolate</li>
+                                                        <li>zip line</li>
                                                     </ol>
                                                 </td>
                                                 <td>
                                                     <ol>
-                                                        <li>Libre</li>
+                                                        <li>Free</li>
                                                     </ol>
                                                 </td>
                                                 <td>
                                                     <ol>
                                                         <li>Miradores</li>
-                                                        <li>Puentes Colgantes</li>
-                                                        <li>Péndulos</li>
-                                                        <li>Tirolesas</li>
-                                                        <li>Hongos Alucinógenos</li>
+                                                        <li>Hanging bridges</li>
+                                                        <li>pendulums</li>
+                                                        <li>zip lines</li>
+                                                        <li>hallucinogenic mushrooms</li>
                                                     </ol>
                                                 </td>
                                                 <td>
                                                     <ol>
-                                                        <li>Libre</li>
+                                                        <li>Free</li>
                                                     </ol>
                                                 </td>
                                                 <td>
                                                     <ol>
-                                                        <li>Senderismo</li>
+                                                        <li>Hiking</li>
                                                         <li>Peñas Gemelas</li>
                                                         <li>Pinturas Rupestres</li>
-                                                        <li>Grutas</li>
-                                                        <li>Cascadas</li>
-                                                        <li>Laguna Azul</li>
+                                                        <li>caves</li>
+                                                        <li>waterfalls</li>
+                                                        <li>blue Lagoon</li>
                                                     </ol>
                                                 </td>
                                                 <td>
                                                     <ol>
-                                                        <li>Libre</li>
+                                                        <li>Free</li>
                                                     </ol>
                                                 </td>
                                                 <td>
@@ -368,14 +368,14 @@ function seleccionarIntinerario($paquete)
                                                         <li>Cuajimoloyas</li>
                                                         <li>Benito Juárez</li>
                                                         <li>Cañón del Coyote</li>
-                                                        <li>Tirolesas</li>
-                                                        <li>Puente Colgante</li>
-                                                        <li>Senderismo</li>
+                                                        <li>zip lines</li>
+                                                        <li>Suspension bridge</li>
+                                                        <li>Hiking</li>
                                                     </ol>
                                                 </td>
                                                 <td>
                                                     <ol>
-                                                        <li>Despedida</li>
+                                                        <li>Farewell</li>
                                                     </ol>
                                                 </td>
                                             </tr>
@@ -387,20 +387,20 @@ function seleccionarIntinerario($paquete)
         case 'playas':
             echo '
                                 <section>
-                                    <h1>Itinerario</h1>
+                                    <h1>Itinerary</h1>
                                     <div class="tbl-header">
                                         <table cellpadding="0" cellspacing="0" border="0">
                                             <thead>
-                                                <th>Día 1</th>
-                                                <th>Día 2</th>
-                                                <th>Día 3</th>
-                                                <th>Día 4</th>
-                                                <th>Día 5</th>
-                                                <th>Día 6</th>
-                                                <th>Día 7</th>
-                                                <th>Día 8</th>
-                                                <th>Día 9</th>
-                                                <th>Día 10</th>
+                                                <th>Day 1</th>
+                                                <th>Day 2</th>
+                                                <th>Day 3</th>
+                                                <th>Day 4</th>
+                                                <th>Day 5</th>
+                                                <th>Day 6</th>
+                                                <th>Day 7</th>
+                                                <th>Day 8</th>
+                                                <th>Day 9</th>
+                                                <th>Day 10</th>
                                             </thead>
                                         </table>
                                     </div>
@@ -410,18 +410,18 @@ function seleccionarIntinerario($paquete)
                                                 <tr>
                                                     <td>
                                                         <ol>
-                                                            <li>Recepción</li>
-                                                            <li>Comida de bienvenida</li>
+                                                            <li>Reception</li>
+                                                            <li>Welcome meal</li>
                                                         </ol>
                                                     </td>
                                                     <td>
                                                         <ol>
-                                                            <li>Transportación</li>
+                                                            <li>Transportation</li>
                                                         </ol>
                                                     </td>
                                                     <td>
                                                         <ol>
-                                                            <li>Bahías de Huatulco</li>
+                                                            <li>Huatulco bays</li>
                                                         </ol>
                                                     </td>
                                                     <td>
@@ -456,7 +456,7 @@ function seleccionarIntinerario($paquete)
                                                     </td>
                                                     <td>
                                                         <ol>
-                                                            <li>Despedida</li>
+                                                            <li>Farewell</li>
                                                         </ol>
                                                     </td>
                                                 </tr>

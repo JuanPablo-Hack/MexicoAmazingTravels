@@ -9,12 +9,12 @@ $result2 = mysqli_query($conexion, $sql2);
     <div class="container">
         <article class="title-classic">
             <div class="title-classic-title">
-                <h3>Reservar</h3>
+                <h3>Book now</h3>
             </div>
             <div class="title-classic-text">
                 <p>
-                    Para reservar con éxito por favor responde este
-                    formulario con tu información para poder contactarte.
+                    To book successfully please answer this
+                    form with your information to be able to contact you.
                 </p>
             </div>
         </article>
@@ -63,7 +63,7 @@ $result2 = mysqli_query($conexion, $sql2);
                 <div class="col-md-3">
                     <div class="form-wrap">
                         <select name="datos[]" class="form-input" data-constraints="@Selected" id="paquteSeleccionado">
-                            <option value="0">-Selecciona un paquete-</option>
+                            <option value="0">-Select a package-</option>
                             <?php
                             while ($Row1 = mysqli_fetch_array($result)) {
                             ?>
@@ -76,7 +76,7 @@ $result2 = mysqli_query($conexion, $sql2);
                 </div>
                 <div class="col-md-3">
                     <select name="datos[]" class="form-input" data-constraints="@Selected" onchange="cuposDisponibles()">
-                        <option value="">Fechas disponibles</option>
+                        <option value="">Available dates</option>
                         <option value="2023-05-09">3 de Marzo - 8 de Marzo</option>
                         <option value="2023-05-09">3 de Marzo - 8 de Marzo</option>
                         <option value="2023-05-09">3 de Marzo - 8 de Marzo</option>
@@ -89,7 +89,7 @@ $result2 = mysqli_query($conexion, $sql2);
                 </div>
                 <div class="col-md-4">
                     <select name="datos[]" class="form-input" data-constraints="@Selected" id="numero_adultos">
-                        <option selected disabled>-Números de Adultos-</option>
+                        <option selected disabled>-Adult Numbers-</option>
                         <option value="1">1</option>
                         <option value="2">2</option>
                         <option value="3">3</option>
@@ -104,7 +104,7 @@ $result2 = mysqli_query($conexion, $sql2);
                 </div>
                 <div class="col-md-4">
                     <select name="datos[]" class="form-input" data-constraints="@Selected" id="numero_niños" onchange="calcularPersonas()">
-                        <option selected disabled>-Números de Niños-</option>
+                        <option selected disabled>-Children's Numbers-</option>
                         <option value="1">1</option>
                         <option value="2">2</option>
                         <option value="3">3</option>
@@ -119,16 +119,16 @@ $result2 = mysqli_query($conexion, $sql2);
                 </div>
                 <div class="col-md-4">
                     <div class="form-wrap">
-                        <input class="form-input-total" type="number" readonly placeholder="Total de personas" id="totalPersonas" style="background-color: #01b3a7; color: white;" />
+                        <input class="form-input-total" type="number" readonly placeholder="Total people" id="totalPersonas" style="background-color: #01b3a7; color: white;" />
                     </div>
                 </div>
             </div>
             <div class="contedor_botones">
                 <button class="button button-danger button-pipaluk" style="background-color: #151515; color:white;" onclick="calcularFormulario()">
-                    Calcular Precio
+                    Calculate Price
                 </button>
                 <button class="button button-primary button-pipaluk" type="submit">
-                    Reservar Ahora
+                    Reserve now
                 </button>
             </div>
 
