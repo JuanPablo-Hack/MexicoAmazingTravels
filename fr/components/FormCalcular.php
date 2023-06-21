@@ -2,39 +2,39 @@
     <div class="container">
         <div style="display: none;" id="contenedor_calcular">
             <article class="title-classic">
-                <div class="title-classic-title">
-                    <h3>Calculo de Precio</h3>
+                <div class="titre-titre-classique">
+                    <h3>Calcul du prix</h3>
                 </div>
                 <div class="title-classic-text">
                     <p>
-                        Te damos aqui el precio total de lo que se debe de pagar.
+                        Nous vous donnons ici le prix total de ce qui doit être payé.
                     </p>
                 </div>
             </article>
             <div class="row row-14 gutters-14">
                 <div class="col-md-6">
                     <div class="form-wrap">
-                        <input class="form-input" id="contact-your-name-2" readonly value="Paquete Básico" />
+                        <input class="form-input" id="contact-your-name-2" readonly value="Paquet de base" />
                     </div>
                 </div>
                 <div class="col-md-6">
                     <div class="form-wrap">
-                        <input class="form-input" id="contact-your-name-2" readonly value="Número de Adultos: 4" />
+                        <input class="form-input" id="contact-your-name-2" readonly value="Nombre d'adultes : 4" />
                     </div>
                 </div>
                 <div class="col-md-6">
                     <div class="form-wrap">
-                        <input class="form-input" id="contact-your-name-2" readonly value="Número de Adultos: 3" />
+                        <input class="form-input" id="contact-your-name-2" readonly value="Nombre d'enfants : 3" />
                     </div>
                 </div>
                 <div class="col-md-6">
                     <div class="form-wrap">
-                        <input class="form-input" id="contact-your-name-2" readonly value="Precio por persona: $ 3,500 USD" />
+                        <input class="form-input" id="contact-your-name-2" readonly value="Prix ​​par personne : 3 500 $ US" />
                     </div>
                 </div>
                 <div class="col-md-6">
                     <div class="form-wrap">
-                        <input class="form-input" id="contact-your-name-2" readonly value="Total: $ 24,500 USD" />
+                        <input class="form-input" id="contact-your-name-2" readonly value="Total : 24 500 USD" />
                     </div>
                 </div>
             </div>
