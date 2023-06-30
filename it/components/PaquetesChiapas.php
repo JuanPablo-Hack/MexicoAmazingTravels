@@ -1,4 +1,5 @@
 <section class="section section-sm">
+    <!-- TODO: Wey hacer bien esta traducción no mames, titulo y texto  !! -->
     <div class="col-md-12">
         <div class="featured-carousel owl-carousel">
             <div class="item">
@@ -558,7 +559,7 @@
                   ">
                     </div>
                     <div class="text border border-top-0 p-4">
-                        <h3 class="heading">Cena de Despedida (Evento Especial)</h3>
+                        <h3 class="heading">Cena d'addio (evento speciale)</h3>
                         <p>
                             Al término de nuestro viaje lo mejor es una muestra de
                             agradecimiento hacia ustedes. Es la mejor oportunidad que
@@ -665,7 +666,7 @@
                         <div class="unit-body">
                             <div class="product-big-body">
                                 <h5 class="product-big-title">
-                                    <a href="#">Familiar y emocionante</a>
+                                    <a href="#">Familiare ed emozionante</a>
                                 </h5>
                                 <div class="group-sm group-middle justify-content-start">
                                     <div class="product-big-rating">
@@ -674,8 +675,7 @@
                                     <a class="product-big-reviews" href="#">5 customer reviews</a>
                                 </div>
                                 <p class="product-big-text">
-                                    <strong>Emocionante y para gozar con tu familia lo que ofrece Oaxaca en 10 días. No
-                                        importa la edad.</strong>
+                                    <strong>Emozionante e per goderti con la tua famiglia ciò che Oaxaca offre in 10 giorni. L'età non conta.</strong>
                                 </p>
                                 <a href="intinerario.php?paquete=familiar" target="_blank" rel="noopener noreferrer" class="button button-black-outline button-ujarak">Itinerario</a>
                             </div>
@@ -701,8 +701,8 @@
                                     <a class="product-big-reviews" href="#">5 customer reviews</a>
                                 </div>
                                 <p class="product-big-text">
-                                    <strong>Especial para personas mayores de edad o retiradas que desean conocer Oaxaca
-                                        con calma en 10 días.</strong>
+                                    <strong>Speciale per persone maggiorenni o pensionati che vogliono conoscere Oaxaca
+                                        tranquillamente in 10 giorni.</strong>
                                 </p>
                                 <a href="intinerario.php?paquete=retirados" target="_blank" rel="noopener noreferrer" class="button button-black-outline button-ujarak">Itinerario</a>
                             </div>
@@ -756,9 +756,7 @@
                                     <a class="product-big-reviews" href="contact-us.html">4 customer reviews</a>
                                 </div>
                                 <p class="product-big-text">
-                                    <strong>Están a tu alcance las playas que tiene Oaxaca con una combinación de
-                                        aventura, relajamiento y romanticismo. El paraíso de la región a tu alcance
-                                        durante 10 días y para todas las edades.</strong>
+                                    <strong>Le spiagge di Oaxaca sono alla tua portata con una combinazione di avventura, relax e romanticismo. Il paradiso della regione a portata di mano per 10 giorni e per tutte le età.</strong>
                                 </p>
                                 <a href="intinerario.php?paquete=playas" target="_blank" rel="noopener noreferrer" class="button button-black-outline button-ujarak">Itinerario</a>
                             </div>
@@ -775,7 +773,7 @@
                         <div class="unit-body">
                             <div class="product-big-body">
                                 <h5 class="product-big-title">
-                                    <a href="#"> Especial y a tu medida</a>
+                                    <a href="#"> Speciale e su misura</a>
                                 </h5>
                                 <div class="group-sm group-middle justify-content-start">
                                     <div class="product-big-rating">
@@ -788,7 +786,7 @@
                                         di questi pacchetti in coppia o solo per la tua famiglia. La durata dipende da te, 7
                                         o 10 giorni e nessun limite di età.</strong>
                                 </p>
-                                <a class="button button-black-outline button-ujarak" href="contact-us.php">Itinerario</a>
+                                <a class="button button-black-outline button-ujarak" href="intinerario.php?paquete=basico">Itinerario</a>
                             </div>
                         </div>
                     </div>

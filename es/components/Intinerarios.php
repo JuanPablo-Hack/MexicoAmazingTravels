@@ -20,68 +20,72 @@ function seleccionarIntinerario($paquete)
                         </table>
                     </div>
                     <div class="tbl-content">
-                        <table cellpadding="0" cellspacing="0" border="0">
-                            <tbody>
-                                <tr>
-                                    <td>
-                                        <ol>
-                                            <li>Recepción</li>
-                                            <li>Comida de bienvenida</li>
-                                            <li>Tour por el Centro Histórico</li>
-                                            <li>Mercado de la Ciudad</li>
-                                        </ol>
-                                    </td>
-                                    <td>
-                                        <ol>
-                                            <li>Recepción</li>
-                                            <li>Comida de bienvenida</li>
-                                            <li>Tour por el Centro Histórico</li>
-                                            <li>Mercado de la Ciudad</li>
-                                        </ol>
-                                    </td>
-                                    <td>
-                                        <ol>
-                                            <li>Recepción</li>
-                                            <li>Comida de bienvenida</li>
-                                            <li>Tour por el Centro Histórico</li>
-                                            <li>Mercado de la Ciudad</li>
-                                        </ol>
-                                    </td>
-                                    <td>
-                                        <ol>
-                                            <li>Recepción</li>
-                                            <li>Comida de bienvenida</li>
-                                            <li>Tour por el Centro Histórico</li>
-                                            <li>Mercado de la Ciudad</li>
-                                        </ol>
-                                    </td>
-                                    <td>
-                                        <ol>
-                                            <li>Recepción</li>
-                                            <li>Comida de bienvenida</li>
-                                            <li>Tour por el Centro Histórico</li>
-                                            <li>Mercado de la Ciudad</li>
-                                        </ol>
-                                    </td>
-                                    <td>
-                                        <ol>
-                                            <li>Recepción</li>
-                                            <li>Comida de bienvenida</li>
-                                            <li>Tour por el Centro Histórico</li>
-                                            <li>Mercado de la Ciudad</li>
-                                        </ol>
-                                    </td>
-                                    <td>
-                                        <ol>
-                                            <li>Recepción</li>
-                                            <li>Comida de bienvenida</li>
-                                            <li>Tour por el Centro Histórico</li>
-                                            <li>Mercado de la Ciudad</li>
-                                        </ol>
-                                    </td>
-                                </tr>
-                            </tbody>
-                        </table>
+                    <table cellpadding="0" cellspacing="0" border="0">
+                    <tbody>
+                        <tr>
+                            <td>
+                                <ol>
+                                    <li>Recepción</li>
+                                    <li>Comida de bienvenida</li>
+                                    <li>Tour por el Centro Histórico</li>
+                                    <li>Mercado de la Ciudad</li>
+                                </ol>
+                            </td>
+                            <td>
+                                <ol>
+                                    <li>Monte Albán</li>
+                                    <li>Elaboración de Alebrijes</li>
+                                    <li>Artesanías en Barro negro</li>
+                                    <li>Templo Inconcluso de Cuilapam</li>
+                                    <li>Fábrica de Mezcal Artesanal</li>
+                                </ol>
+                            </td>
+                            <td>
+                                <ol>
+                                    <li>Sitio del Árbol del Tule</li>
+                                    <li>Tapetes de Lana</li>
+                                    <li>Velas de Concha</li>
+                                    <li>Sitio Arqueológico de Mitla</li>
+                                    <li>Cascadas Pétreas de Hierve el Agua</li>
+                                </ol>
+                            </td>
+                            <td>
+                                <ol>
+                                    <li>Mirador de Cristal</li>
+                                    <li>Guelatao</li>
+                                    <li>Ixtepeji</li>
+                                    <li>Fabricación de Molinillos</li>
+                                    <li>Chocolate Artesanal</li>
+                                    <li>Tirolesa</li>
+                                </ol>
+                            </td>
+                            <td>
+                                <ol>
+                                    <li>Grutas de San Sebastián</li>
+                                    <li>Ríos Subterráneos</li>
+                                    <li>Cenote</li>
+                                </ol>
+                            </td>
+                            <td>
+                                <ol>
+                                    <li>Peñas Gemelas</li>
+                                    <li>Pinturas Rupestres</li>
+                                    <li>Grutas</li>
+                                    <li>Cascadas</li>
+                                    <li>Laguna Azul</li>
+                                </ol>
+                            </td>
+                            <td>
+                                <ol>
+                                    <li>Despedida</li>
+                                    <li>Comida</li>
+                                    <li>Evento Folklórico</li>
+                                </ol>
+                            </td>
+                            
+                        </tr>
+                    </tbody>
+                    </table>
                     </div>
                 </section>';
             break;

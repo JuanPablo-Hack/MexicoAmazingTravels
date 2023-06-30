@@ -21,68 +21,72 @@ function seleccionarIntinerario($paquete)
                         </table>
                     </div>
                     <div class="tbl-content">
-                        <table cellpadding="0" cellspacing="0" border="0">
-                            <tbody>
-                                <tr>
-                                    <td>
-                                        <ol>
-                                            <li>Reception</li>
-                                            <li>Welcome meal</li>
-                                            <li>Tour through the Historic Center</li>
-                                            <li>City Market</li>
-                                        </ol>
-                                    </td>
-                                    <td>
-                                        <ol>
-                                            <li>Reception</li>
-                                            <li>Welcome meal</li>
-                                            <li>Tour through the Historic Center</li>
-                                            <li>City Market</li>
-                                        </ol>
-                                    </td>
-                                    <td>
-                                        <ol>
-                                            <li>Reception</li>
-                                            <li>Welcome meal</li>
-                                            <li>Tour through the Historic Center</li>
-                                            <li>City Market</li>
-                                        </ol>
-                                    </td>
-                                    <td>
-                                        <ol>
-                                            <li>Reception</li>
-                                            <li>Welcome meal</li>
-                                            <li>Tour through the Historic Center</li>
-                                            <li>City Market</li>
-                                        </ol>
-                                    </td>
-                                    <td>
-                                        <ol>
-                                            <li>Reception</li>
-                                            <li>Welcome meal</li>
-                                            <li>Tour through the Historic Center</li>
-                                            <li>City Market</li>
-                                        </ol>
-                                    </td>
-                                    <td>
-                                        <ol>
-                                            <li>Reception</li>
-                                            <li>Welcome meal</li>
-                                            <li>Tour through the Historic Center</li>
-                                            <li>City Market</li>
-                                        </ol>
-                                    </td>
-                                    <td>
-                                        <ol>
-                                            <li>Reception</li>
-                                            <li>Welcome meal</li>
-                                            <li>Tour through the Historic Center</li>
-                                            <li>City Market</li>
-                                        </ol>
-                                    </td>
-                                </tr>
-                            </tbody>
-                        </table>
+                                <table cellpadding="0" cellspacing="0" border="0">
+                                <tbody>
+                                    <tr>
+                                        <td>
+                                            <ol>
+                                                <li>Reception</li>
+                                                <li>Welcome meal</li>
+                                                <li>Tour of the Historic Center</li>
+                                                <li>City Market</li>
+                                            </ol>
+                                        </td>
+                                        <td>
+                                            <ol>
+                                                <li>Monte Albán</li>
+                                                <li>Elaboration of Alebrijes</li>
+                                                <li>Black Clay Crafts</li>
+                                                <li>Unfinished temple of Cuilapam</li>
+                                                <li>Ancestral Mezcal Factory</li>
+                                            </ol>
+                                        </td>
+                                        <td>
+                                            <ol>
+                                                <li>Site of the Tule Tree</li>
+                                                <li>Wool rugs</li>
+                                                <li>Shell candles</li>
+                                                <li>Mitla Archaeological Site</li>
+                                                <li>Waterfalls Pétreas de Hierve el Agua</li>
+                                            </ol>
+                                        </td>
+                                        <td>
+                                            <ol>
+                                                <li>Crystal gazebo</li>
+                                                <li>Guelatao</li>
+                                                <li>Ixtepeji</li>
+                                                <li>Manufacture of grinders</li>
+                                                <li>Artisan chocolate</li>
+                                                <li>zip line</li>
+                                            </ol>
+                                        </td>
+                                        <td>
+                                            <ol>
+                                                <li>Grottoes of San Sebastian</li>
+                                                <li>Underground rivers</li>
+                                                <li>Cenote</li>
+                                            </ol>
+                                        </td>
+                                        <td>
+                                            <ol>
+                                                <li>Peñas Gemelas</li>
+                                                <li>Paintings</li>
+                                                <li>Caves</li>
+                                                <li>Waterfalls</li>
+                                                <li>Blue Lagoon</li>
+                                            </ol>
+                                        </td>
+                                        <td>
+                                            <ol>
+                                                <li>Farewell</li>
+                                                <li>Meal</li>
+                                                <li>Folk Event</li>
+                                            </ol>
+                                        </td>
+                                        
+                                    </tr>
+                                </tbody>
+                                </table>
                     </div>
                 </section>';
             break;
@@ -108,80 +112,80 @@ function seleccionarIntinerario($paquete)
                         </div>
                         <div class="tbl-content">
                             <table cellpadding="0" cellspacing="0" border="0">
-                                <tbody>
-                                    <tr>
-                                        <td>
-                                            <ol>
-                                                <li>Reception</li>
-                                                <li>Welcome meal</li>
-                                            </ol>
-                                        </td>
-                                        <td>
-                                            <ol>
-                                                <li>Tour por el Centro Histórico</li>
-                                                <li>Mercado de la Ciudad</li>
-                                            </ol>
-                                        </td>
-                                        <td>
-                                            <ol>
-                                                <li>Monte Albán</li>
-                                                <li>Elaboración de Alebrijes</li>
-                                                <li>Artesanías de Barro Negro</li>
-                                                <li>Templo inconcluso de Cuilapam</li>
-                                                <li>Fábrica de Mezcal Ancestral</li>
-                                            </ol>
-                                        </td>
-                                        <td>
-                                            <ol>
-                                                <li>Free</li>
-                                            </ol>
-                                        </td>
-                                        <td>
-                                            <ol>
-                                                <li>Sitio del Árbol del Tule</li>
-                                                <li>Tapetes de Lana</li>
-                                                <li>Velas de Concha</li>
-                                                <li>Sitio Arqueológico de Mitla</li>
-                                                <li>waterfalls Pétreas de Hierve el Agua</li>
-                                            </ol>
-                                        </td>
-                                        <td>
-                                            <ol>
-                                                <li>Free</li>
-                                            </ol>
-                                        </td>
-                                        <td>
-                                            <ol>
-                                                <li>Mirador de Cristal</li>
-                                                <li>Guelatao</li>
-                                                <li>Ixtepeji</li>
-                                                <li>Manufacture of grinders</li>
-                                                <li>Artisan chocolate</li>
-                                                <li>zip line</li>
-                                            </ol>
-                                        </td>
-                                        <td>
-                                            <ol>
-                                                <li>Free</li>
-                                            </ol>
-                                        </td>
-                                        <td>
-                                            <ol>
-                                                <li>Peñas Gemelas</li>
-                                                <li>Paintings</li>
-                                                <li>caves</li>
-                                                <li>waterfalls</li>
-                                                <li>blue Lagoon</li>
-                                            </ol>
-                                        </td>
-                                        <td>
-                                            <ol>
-                                                <li>Farewell</li>
-                                            </ol>
-                                        </td>
-                                    </tr>
-                                </tbody>
-                            </table>
+                            <tbody>
+                                <tr>
+                                    <td>
+                                        <ol>
+                                            <li>Reception</li>
+                                            <li>Welcome meal</li>
+                                        </ol>
+                                    </td>
+                                    <td>
+                                        <ol>
+                                            <li>Tour of the Historic Center</li>
+                                            <li>City Market</li>
+                                        </ol>
+                                    </td>
+                                    <td>
+                                        <ol>
+                                            <li>Monte Albán</li>
+                                            <li>Elaboration of Alebrijes</li>
+                                            <li>Black Clay Crafts</li>
+                                            <li>Unfinished temple of Cuilapam</li>
+                                            <li>Ancestral Mezcal Factory</li>
+                                        </ol>
+                                    </td>
+                                    <td>
+                                        <ol>
+                                            <li>Free</li>
+                                        </ol>
+                                    </td>
+                                    <td>
+                                        <ol>
+                                            <li>Site of the Tule Tree</li>
+                                            <li>Wool rugs</li>
+                                            <li>Shell candles</li>
+                                            <li>Mitla Archaeological Site</li>
+                                            <li>Waterfalls Pétreas de Hierve el Agua</li>
+                                        </ol>
+                                    </td>
+                                    <td>
+                                        <ol>
+                                            <li>Free</li>
+                                        </ol>
+                                    </td>
+                                    <td>
+                                        <ol>
+                                            <li>Crystal gazebo</li>
+                                            <li>Guelatao</li>
+                                            <li>Ixtepeji</li>
+                                            <li>Manufacture of grinders</li>
+                                            <li>Artisan chocolate</li>
+                                            <li>zip line</li>
+                                        </ol>
+                                    </td>
+                                    <td>
+                                        <ol>
+                                            <li>Free</li>
+                                        </ol>
+                                    </td>
+                                    <td>
+                                        <ol>
+                                            <li>Peñas Gemelas</li>
+                                            <li>Paintings</li>
+                                            <li>Caves</li>
+                                            <li>Waterfalls</li>
+                                            <li>Blue Lagoon</li>
+                                        </ol>
+                                    </td>
+                                    <td>
+                                        <ol>
+                                            <li>Farewell</li>
+                                        </ol>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
                         </div>
                     </section>';
             break;
@@ -217,17 +221,17 @@ function seleccionarIntinerario($paquete)
                                             </td>
                                             <td>
                                                 <ol>
-                                                    <li>Tour por el Centro Histórico</li>
-                                                    <li>Mercado de la Ciudad</li>
+                                                    <li>Tour of the Historic Center</li>
+                                                    <li>City Market</li>
                                                 </ol>
                                             </td>
                                             <td>
                                                 <ol>
                                                     <li>Monte Albán</li>
-                                                    <li>Elaboración de Alebrijes</li>
-                                                    <li>Artesanías de Barro Negro</li>
-                                                    <li>Templo inconcluso de Cuilapam</li>
-                                                    <li>Fábrica de Mezcal Ancestral</li>
+                                                    <li>Elaboration of Alebrijes</li>
+                                                    <li>Black Clay Crafts</li>
+                                                    <li>Unfinished temple of Cuilapam</li>
+                                                    <li>Ancestral Mezcal Factory</li>
                                                 </ol>
                                             </td>
                                             <td>
@@ -237,11 +241,11 @@ function seleccionarIntinerario($paquete)
                                             </td>
                                             <td>
                                                 <ol>
-                                                    <li>Sitio del Árbol del Tule</li>
-                                                    <li>Tapetes de Lana</li>
-                                                    <li>Velas de Concha</li>
-                                                    <li>Sitio Arqueológico de Mitla</li>
-                                                    <li>waterfalls Pétreas de Hierve el Agua</li>
+                                                    <li>Site of the Tule Tree</li>
+                                                    <li>Wool rugs</li>
+                                                    <li>Shell candles</li>
+                                                    <li>Mitla Archaeological Site</li>
+                                                    <li>Waterfalls Pétreas de Hierve el Agua</li>
                                                 </ol>
                                             </td>
                                             <td>
@@ -251,7 +255,7 @@ function seleccionarIntinerario($paquete)
                                             </td>
                                             <td>
                                                 <ol>
-                                                    <li>Mirador de Cristal</li>
+                                                    <li>Crystal gazebo</li>
                                                     <li>Guelatao</li>
                                                     <li>Ixtepeji</li>
                                                     <li>Manufacture of grinders</li>
@@ -268,9 +272,9 @@ function seleccionarIntinerario($paquete)
                                                 <ol>
                                                     <li>Peñas Gemelas</li>
                                                     <li>Paintings</li>
-                                                    <li>caves</li>
-                                                    <li>waterfalls</li>
-                                                    <li>blue Lagoon</li>
+                                                    <li>Caves</li>
+                                                    <li>Waterfalls</li>
+                                                    <li>Blue Lagoon</li>
                                                 </ol>
                                             </td>
                                             <td>
@@ -321,7 +325,7 @@ function seleccionarIntinerario($paquete)
                                                 </td>
                                                 <td>
                                                     <ol>
-                                                        <li>Mirador de Cristal</li>
+                                                        <li>Crystal gazebo</li>
                                                         <li>Guelatao</li>
                                                         <li>Ixtepeji</li>
                                                         <li>Manufacture of grinders</li>
@@ -336,7 +340,7 @@ function seleccionarIntinerario($paquete)
                                                 </td>
                                                 <td>
                                                     <ol>
-                                                        <li>Miradores</li>
+                                                        <li>Viewpoints</li>
                                                         <li>Hanging bridges</li>
                                                         <li>pendulums</li>
                                                         <li>zip lines</li>
@@ -352,10 +356,10 @@ function seleccionarIntinerario($paquete)
                                                     <ol>
                                                         <li>Hiking</li>
                                                         <li>Peñas Gemelas</li>
-                                                        <li>Pinturas Rupestres</li>
-                                                        <li>caves</li>
-                                                        <li>waterfalls</li>
-                                                        <li>blue Lagoon</li>
+                                                        <li>Paintings</li>
+                                                        <li>Caves</li>
+                                                        <li>Waterfalls</li>
+                                                        <li>Blue Lagoon</li>
                                                     </ol>
                                                 </td>
                                                 <td>

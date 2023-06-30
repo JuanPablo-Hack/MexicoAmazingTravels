@@ -39,7 +39,7 @@
                     </div>
                     <div class="content">
                         <h5 class="box-icon-classic-title" style="color: #fff">
-                            Hosting
+                            Alloggio
                         </h5>
                         <p class="box-icon-classic-text">
                             In hotel di lusso durante il tuo soggiorno nel pacchetto di destinazione che hai selezionato.

@@ -39,7 +39,7 @@
                     </div>
                     <div class="content">
                         <h5 class="box-icon-classic-title" style="color: #fff">
-                            Hosting
+                            Unterkunft
                         </h5>
                         <p class="box-icon-classic-text">
                             In Luxushotels während Ihres Aufenthaltes im von Ihnen gewählten Zielpaket.

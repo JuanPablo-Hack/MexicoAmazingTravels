@@ -11,13 +11,13 @@
                     <div class="tabs-custom tabs-horizontal tabs-line tabs-line-big tabs-line-style-2 text-center text-md-left" id="tabs-7">
                         <ul class="nav nav-tabs">
                             <li class="nav-item" role="presentation">
-                                <a class="nav-link active" href="#tabs-7-1" data-toggle="tab">Definición</a>
+                                <a class="nav-link active" href="#tabs-7-1" data-toggle="tab">Definition</a>
                             </li>
                             <li class="nav-item" role="presentation">
-                                <a class="nav-link" href="#tabs-7-2" data-toggle="tab">Misión</a>
+                                <a class="nav-link" href="#tabs-7-2" data-toggle="tab">Mission</a>
                             </li>
                             <li class="nav-item" role="presentation">
-                                <a class="nav-link" href="#tabs-7-3" data-toggle="tab">Visión</a>
+                                <a class="nav-link" href="#tabs-7-3" data-toggle="tab">Vision</a>
                             </li>
                         </ul>
                         <div class="tab-content">

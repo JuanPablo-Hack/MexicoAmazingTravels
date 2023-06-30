@@ -116,7 +116,7 @@
                   ">
                     </a>
                     <div class="text border border-top-0 p-4">
-                        <h3 class="heading">Herstellung von Kunsthandwerk im Barro Negro</h3>
+                        <h3 class="heading">Herstellung von Kunsthandwerk im Schwarzer Schlamm</h3>
                         <p>
                             Rundgang mit Erklärung zur Herstellung der schwarzen Tonfiguren mit dem
                             Techniken, die von ihren Vorfahren geerbt wurden. Interaktiv
@@ -660,7 +660,7 @@
                                     <a class="product-big-reviews" href="contact-us.html">4 Kundenrezensionen</a>
                                 </div>
                                 <p class="product-big-text">
-                                    <strong>Interessante Erfahrung für Menschen, die das Beste genießen möchten
+                                    <strong>Interessant Erfahrung für Menschen, die das Beste genießen möchten
                                         Oaxaca in 7 Tagen und ohne Altersbeschränkung.</strong>
                                 </p>
                                 <a href="intinerario.php?paquete=basico" target="_blank" rel="noopener noreferrer" class="button button-black-outline button-ujarak">Route</a>

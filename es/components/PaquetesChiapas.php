@@ -786,7 +786,7 @@
                                         de estos paquetes en pareja o solo para tu familia. La duración depende de ti, 7
                                         o 10 días y sin límite de edad.</strong>
                                 </p>
-                                <a class="button button-black-outline button-ujarak" href="contact-us.php">Itinerario</a>
+                                <a class="button button-black-outline button-ujarak" href="intinerario.php?paquete=basico">Itinerario</a>
                             </div>
                         </div>
                     </div>
@@ -795,4 +795,4 @@
         </div>
     </div>
 </section>
-    <a class="button button-lg button-primary button-ujarak" href="destinos.php">Regresar</a> <br><br><br>
+<a class="button button-lg button-primary button-ujarak" href="destinos.php">Regresar</a> <br><br><br>

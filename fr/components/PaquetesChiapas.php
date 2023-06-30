@@ -676,7 +676,7 @@
                         <div class="unit-body">
                             <div class="product-big-body">
                                 <h5 class="product-big-title">
-                                    <a href="#">Familiar y emocionante</a>
+                                    <a href="#">Familier et passionnant</a>
                                 </h5>
                                 <div class="group-sm group-middle justify-content-start">
                                     <div class="product-big-rating">
@@ -686,8 +686,8 @@
                                         Expérience </a>
                                 </div>
                                 <p class="product-big-text">
-                                    <strong>Emocionante y para gozar con tu familia lo que ofrece Oaxaca en 10 días. No
-                                        importa la edad.</strong>
+                                    <strong>Excitant et pour profiter en famille de ce que Oaxaca offre en 10 jours. Non
+                                        l'âge compte.</strong>
                                 </p>
                                 <a href="intinerario.php?paquete=familiar" target="_blank" rel="noopener noreferrer" class="button button-black-outline button-ujarak">Itinéraire</a>
                             </div>
@@ -804,7 +804,7 @@
                                         de ces forfaits en couple ou simplement pour votre famille. La durée dépend de vous, 7
                                         ou 10 jours et sans limite d'âge.</strong>
                                 </p>
-                                <a class="button button-black-outline button-ujarak" href="contact-us.php">Itinéraire</a>
+                                <a class="button button-black-outline button-ujarak" href="intinerario.php?paquete=basico">Itinéraire</a>
                             </div>
                         </div>
                     </div>
