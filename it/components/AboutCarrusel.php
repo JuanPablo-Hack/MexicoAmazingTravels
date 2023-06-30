@@ -71,7 +71,6 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-10">
-                            <!-- TODO: Traducir todo en italiano -->
                             <h2 class="oh font-weight-light" data-caption-animate="slideInUp" data-caption-delay="100">
                                 <span class="font-weight-bold" style="text-shadow: -2px -2px 1px #000, 2px 2px 1px #000, -2px 2px 1px #000, 2px -2px 1px #000;"> Ti divertirai </span>
                             </h2>

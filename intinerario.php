@@ -48,7 +48,6 @@
                 </nav>
             </div>
         </header>
-        <!-- TODO: Poner lo colores que me mando -->
         <?php
         include "./components/Itinerarios.php";
         seleccionarIntinerario($_GET['paquete']);

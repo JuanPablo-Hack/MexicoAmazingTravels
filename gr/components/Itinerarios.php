@@ -1,10 +1,8 @@
 <?php
-// TODO: Poner toda esta parte en inglés kevin
 function seleccionarIntinerario($paquete)
 {
     switch ($paquete) {
         case 'basico':
-            // TODO: Traducir en alemán aquí
             echo '
                 <section>
                     <h1>Route</h1>
@@ -27,43 +25,43 @@ function seleccionarIntinerario($paquete)
                             <tr>
                                 <td>
                                     <ol>
-                                        <li>Reception</li>
-                                        <li>Welcome meal</li>
-                                        <li>Tour of the Historic Center</li>
-                                        <li>City Market</li>
+                                        <li>Rezeption</li>
+                                        <li>Willkommensessen</li>
+                                        <li>Rundgang durch das historische Zentrum</li>
+                                        <li>Stadtmarkt</li>
                                     </ol>
                                 </td>
                                 <td>
                                     <ol>
                                         <li>Monte Albán</li>
-                                        <li>Elaboration of Alebrijes</li>
-                                        <li>Black Clay Crafts</li>
-                                        <li>Unfinished temple of Cuilapam</li>
-                                        <li>Ancestral Mezcal Factory</li>
+                                        <li>Ausarbeitung von Alebrijes</li>
+                                        <li>Kunsthandwerk aus schwarzem Ton</li>
+                                        <li>Unvollendeter Tempel von Cuilapam</li>
+                                        <li>Mezcal-Fabrik der Vorfahren</li>
                                     </ol>
                                 </td>
                                 <td>
                                     <ol>
-                                        <li>Site of the Tule Tree</li>
-                                        <li>Wool rugs</li>
-                                        <li>Shell candles</li>
-                                        <li>Mitla Archaeological Site</li>
-                                        <li>Waterfalls Pétreas de Hierve el Agua</li>
+                                        <li>Standort des Tule-Baums</li>
+                                        <li>Wollteppiche</li>
+                                        <li>Muschelkerzen</li>
+                                        <li>Archäologische Stätte Mitla</li>
+                                        <li>Wasserfälle Pétreas de Hierve el Agua</li>
                                     </ol>
                                 </td>
                                 <td>
                                     <ol>
-                                        <li>Crystal gazebo</li>
+                                        <li>Kristallpavillon</li>
                                         <li>Guelatao</li>
                                         <li>Ixtepeji</li>
                                         <li>Manufacture of grinders</li>
-                                        <li>Artisan chocolate</li>
-                                        <li>zip line</li>
+                                        <li>Handwerklich hergestellte Schokolade</li>
+                                        <li>Seilrutsche</li>
                                     </ol>
                                 </td>
                                 <td>
                                     <ol>
-                                        <li>Grottoes of San Sebastian</li>
+                                        <li>Grotten von San Sebastian</li>
                                         <li>Underground rivers</li>
                                         <li>Cenote</li>
                                     </ol>
@@ -71,17 +69,17 @@ function seleccionarIntinerario($paquete)
                                 <td>
                                     <ol>
                                         <li>Peñas Gemelas</li>
-                                        <li>Paintings</li>
-                                        <li>Caves</li>
-                                        <li>Waterfalls</li>
-                                        <li>Blue Lagoon</li>
+                                        <li>Gemälde</li>
+                                        <li>Höhlen</li>
+                                        <li>Wasserfälle</li>
+                                        <li>Blaue Lagune</li>
                                     </ol>
                                 </td>
                                 <td>
                                     <ol>
-                                        <li>Farewell</li>
-                                        <li>Meal</li>
-                                        <li>Folk Event</li>
+                                        <li>Lebewohl</li>
+                                        <li>Mahlzeit</li>
+                                        <li>Volksveranstaltung</li>
                                     </ol>
                                 </td>
                                 

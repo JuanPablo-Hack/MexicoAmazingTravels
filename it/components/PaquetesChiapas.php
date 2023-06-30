@@ -1,5 +1,4 @@
 <section class="section section-sm">
-    <!-- TODO: Wey hacer bien esta traducción no mames, titulo y texto  !! -->
     <div class="col-md-12">
         <div class="featured-carousel owl-carousel">
             <div class="item">
@@ -9,7 +8,7 @@
                   ">
                     </a>
                     <div class="text border border-top-0 p-4">
-                        <h3 class="heading">Cena de Bienvenida (Evento Especial)</h3>
+                        <h3 class="heading">Cena di benvenuto (evento speciale)</h3>
                         <p>
                             All'inizio delle nostre attività offriamo la cena con a
                             campione della ricchezza culinaria di Oaxaca. È un'opportunità per
@@ -43,10 +42,10 @@
                   ">
                     </a>
                     <div class="text border border-top-0 p-4">
-                        <h3 class="heading">Visita recorrida por la Cascada (aventura</h3>
+                        <h3 class="heading">Visita tour della Cascata (avventura</h3>
                         <p>
-                            Recorrido a las cascadas con una vista espectacular en donde podrás disfrutar del lago y su
-                            entorno natural.
+                            Tour alle cascate con una vista spettacolare dove puoi goderti il ​​lago e i suoi
+                            ambiente naturale.
                             <br />
                             <br /> <br>
                         </p>
@@ -79,10 +78,10 @@
                     </a>
                     <div class="text border border-top-0 p-4">
                         <h3 class="heading">
-                            Sitio del Árbol del Tule
+                            Sito dell'albero di Tule
                         </h3>
                         <p>
-                            Visita e cammina per la città di El Tule, luogo dell'albero più longevo del mondo, con
+                            Visita e cammina per la città di El Tule, luogo dell'albero più antico del mondo, con
                             spiegazione delle figure capricciose che ne formano le radici e la corteccia
                             <br /> <br>
                         </p>
@@ -113,10 +112,10 @@
                   ">
                     </a>
                     <div class="text border border-top-0 p-4">
-                        <h3 class="heading">Elaboración de artesanías en Barro Negro</h3>
+                        <h3 class="heading">Elaborazione di manufatti in Argilla Nera</h3>
                         <p>
-                            Recorrido con explicación sobre la elaboración de las figuras de barro negro con las
-                            técnicas heredadas de sus ancestros. Interactivo
+                            Tour con spiegazione sull'elaborazione delle figure in argilla nera con il
+                            tecniche ereditate dai loro antenati. Interattivo
                             <br />
                             <br />
                         </p>
@@ -149,8 +148,8 @@
                     <div class="text border border-top-0 p-4">
                         <h3 class="heading">Visita al Museo e Tempio di Santo Domingo</h3>
                         <p>
-                            Con explicación de las etapas históricas de Oaxaca y sus objetos más preciados. En el
-                            interior del Templo se apreciará la riqueza arquitectónica, y ornamental del lugar.
+                            Con spiegazione delle tappe storiche di Oaxaca e dei suoi oggetti più preziosi. Dentro
+                            All'interno del Tempio apprezzerete la ricchezza architettonica e ornamentale del luogo.
                         </p>
                     </div>
                 </div>
@@ -162,10 +161,10 @@
                   ">
                     </a>
                     <div class="text border border-top-0 p-4">
-                        <h3 class="heading">Elaboración de Velas de Concha</h3>
+                        <h3 class="heading">Fare candele di conchiglie</h3>
                         <p>
-                            Explicación sobre la forma en que los habitantes elaboran las famosas velas de concha con
-                            técnicas heredadas. Interactivo <br />
+                            Spiegazione del modo in cui gli abitanti realizzano le famose candele a conchiglia
+                            tecniche ereditarie. <br /> interattivo
                             <br />
                         </p>
                     </div>
@@ -182,7 +181,7 @@
                             Sito archeologico di Mitla
                         </h3>
                         <p>
-                            Visita al complesso di edifici di origine zapoteca costruiti come luogo cerimoniale
+                            Visita al complesso di edifici di originale Zapotec costruiti come luogo di cerimonie
                             con spiegazione degli usi, delle cerimonie e dei riti svolti nel sito.
                             <br /> <br>
                         </p>
@@ -196,7 +195,7 @@
                   ">
                     </a>
                     <div class="text border border-top-0 p-4">
-                        <h3 class="heading">Artesanías en Barro de Atzompa</h3>
+                        <h3 class="heading">Artigianato in Atzompa Clay</h3>
                         <p>
                             Spiegazione sul modo in cui gli abitanti elaborano le figure fittili con il
                             tecniche ereditate dai loro antenati. Interattivo. <br> <br>
@@ -229,7 +228,7 @@
                     </a>
                     <div class="text border border-top-0 p-4">
                         <h3 class="heading">
-                            Mercado de la ciudad </h3>
+                            Mercato cittadino </h3>
                         <p>
                             Passeggiata e degustazione del cibo quotidiano degli abitanti, la varietà e la molteplicità
                             sapori offerti in loco.
@@ -262,9 +261,9 @@
                     </a>
                     <div class="text border border-top-0 p-4">
                         <h3 class="heading">
-                            Visita a fábrica de Mezcal </h3>
+                            Visita alla fabbrica Mezcal </h3>
                         <p>
-                            Visita di una fabbrica di produzione di Mezcal con spiegazione del processo produttivo
+                            Visita di una fabbrica di produzione di Mezcal con ispezione del processo produttivo
                             dei diversi tipi di mezcal
                             <br />
                             <br />
@@ -281,10 +280,10 @@
                     </a>
                     <div class="text border border-top-0 p-4">
                         <h3 class="heading">
-                            Elaboración de Tapetes de Lana </h3>
+                            Fabbricazione di tappeti di lana </h3>
                         <p>
                             Visita con spiegazione del modo in cui gli abitanti realizzano i tappeti di lana
-                            vergine utilizzando tecniche antiche e pigmentazione con elementi naturali. Interattivo.
+                            Vergine utilizzando tecniche antiche e pigmentazione con elementi naturali. Interattivo.
                             <br />
 
                         </p>
@@ -302,8 +301,8 @@
                             Sito archeologico di Yagul
                         </h3>
                         <p>
-                            Visita al complesso di costruzioni precolombiane di origine zapoteca edificato su a
-                            valle con una spiegazione degli usi, delle cerimonie e della pratica dei mestieri di quella
+                            Visita al complesso di costruzioni precolombiane di origine zapoteca sorto sul suo a
+                            valley con una spiegazione degli usi, delle cerimonie e della pratica dei mestieri di quella
                             civiltà. <br>
 
                         </p>
@@ -321,7 +320,7 @@
                             Visita al Museo Rufino Tamayo
                         </h3>
                         <p>
-                            Visita e tour del museo Tamayo con un'esposizione di una grande varietà di pezzi
+                            Visita e tour del museo Tamayo con esposizione di una grande varietà di pesci
                             archeologia rinvenuti nella zona.
                             <br /> <br>
                         </p>
@@ -351,10 +350,10 @@
                   ">
                     </a>
                     <div class="text border border-top-0 p-4">
-                        <h3 class="heading">Elaboración de Chocolate</h3>
+                        <h3 class="heading">Fare il cioccolato</h3>
                         <p>
-                            Explicación sobre la forma en que sus habitantes elaboran el Chocolate con las mismas
-                            técnicas que utilizaban los indígenas de la zona. Interactivo <br /> <br>
+                            Spiegazione sul modo in cui i suoi abitanti fanno il cioccolato con lo stesso
+                            tecniche utilizzate dagli indigeni della zona. <br /> <br> interattivo
 
                         </p>
                     </div>
@@ -400,7 +399,7 @@
                   ">
                     </a>
                     <div class="text border border-top-0 p-4">
-                        <h3 class="heading">Visita y participación del Columpio (aventura)</h3>
+                        <h3 class="heading">Visita e partecipazione allo Swing (avventura)</h3>
                         <p>
                             Goditi la sensazione di oscillare su un'altalena sul bordo di una scogliera dove ti trovi
                             non hai contatto con il pavimento ma con l'aria per pochi minuti che ti sembreranno ore.
@@ -451,7 +450,7 @@
                   ">
                     </a>
                     <div class="text border border-top-0 p-4">
-                        <h3 class="heading">Elaboración del Quesillo</h3>
+                        <h3 class="heading">Preparazione del Quesillo</h3>
                         <p>
                             Spiegazione sul modo in cui gli abitanti producono il formaggio originario della regione
                             con le tecniche che hanno ereditato dai loro antenati. Il turista partecipa all'elaborazione e
@@ -469,7 +468,7 @@
                     </a>
                     <div class="text border border-top-0 p-4">
                         <h3 class="heading">
-                            Elaboración de Molinillos
+                            Elaborazione di mulini
                         </h3>
                         <p>
                             Spiegazione sul modo in cui gli abitanti elaborano gli utensili per battere il
@@ -488,7 +487,7 @@
                     </a>
                     <div class="text border border-top-0 p-4">
                         <h3 class="heading">
-                            Visita y participación de Tirolesa (aventura)
+                            Visita e partecipazione a Zipline (avventura)
                         </h3>
                         <p>
                             Durante il tour proverai l'estrema sensazione di viaggiare su una corda da a
@@ -525,7 +524,7 @@
                     </a>
                     <div class="text border border-top-0 p-4">
                         <h3 class="heading">
-                            Playas </h3>
+                            Spiagge </h3>
                         <p>
                             Oltre alla grande diversità di spiagge, ognuna ha il suo fascino e la sua attrazione.
                             <br>
@@ -576,7 +575,7 @@
                   ">
                     </div>
                     <div class="text border border-top-0 p-4">
-                        <h3 class="heading">Guelaguetza (Evento Especial)</h3>
+                        <h3 class="heading">Guelaguetza (Evento Speciale)</h3>
                         <p>
                             In questo evento le 8 regioni si incontrano una volta
                             un anno, condividere il loro patrimonio culturale con le loro danze,
@@ -586,7 +585,6 @@
                     </div>
                 </div>
             </div>
-            <!-- TODO: Kevin traducir todo en inglés -->
             <div class="item">
                 <div class="blog-entry">
                     <div class="block-20 d-flex align-items-start" style="
@@ -594,7 +592,7 @@
                   ">
                     </div>
                     <div class="text border border-top-0 p-4">
-                        <h3 class="heading">Calendas (Evento Especial)</h3>
+                        <h3 class="heading">Calende (Evento Speciale)</h3>
                         <p>
                             Es una fiesta por las calles de Oaxaca donde se
                             manifiesta la alegría. En este desfile se disfruta de la

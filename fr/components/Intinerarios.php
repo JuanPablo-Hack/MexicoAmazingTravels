@@ -2,7 +2,6 @@
 function seleccionarIntinerario($paquete)
 {
     switch ($paquete) {
-            // TODO: Traducir esta parte en francés
         case 'basico':
             echo '
                 <section>
@@ -26,61 +25,61 @@ function seleccionarIntinerario($paquete)
                         <tr>
                             <td>
                                 <ol>
-                                    <li>Reception</li>
-                                    <li>Welcome meal</li>
+                                    <li>Réception</li>
+                                    <li>Repas de bienvenue</li>
                                     <li>Tour of the Historic Center</li>
-                                    <li>City Market</li>
+                                    <li>Marché de la ville</li>
                                 </ol>
                             </td>
                             <td>
                                 <ol>
                                     <li>Monte Albán</li>
                                     <li>Elaboration of Alebrijes</li>
-                                    <li>Black Clay Crafts</li>
-                                    <li>Unfinished temple of Cuilapam</li>
-                                    <li>Ancestral Mezcal Factory</li>
+                                    <li>Artisanat dargile noire</li>
+                                    <li>Temple inachevé de Cuilapam</li>
+                                    <li>Usine ancestrale de mezcal</li>
                                 </ol>
                             </td>
                             <td>
                                 <ol>
-                                    <li>Site of the Tule Tree</li>
-                                    <li>Wool rugs</li>
-                                    <li>Shell candles</li>
-                                    <li>Mitla Archaeological Site</li>
+                                    <li>Site de lArbre de Tule</li>
+                                    <li>Tapis en laine</li>
+                                    <li>Bougies coquille</li>
+                                    <li>Site archéologique de Mitla</li>
                                     <li>Waterfalls Pétreas de Hierve el Agua</li>
                                 </ol>
                             </td>
                             <td>
                                 <ol>
-                                    <li>Crystal gazebo</li>
+                                    <li>Belvédère en cristal</li>
                                     <li>Guelatao</li>
                                     <li>Ixtepeji</li>
-                                    <li>Manufacture of grinders</li>
-                                    <li>Artisan chocolate</li>
-                                    <li>zip line</li>
+                                    <li>Fabrication de broyeurs</li>
+                                    <li>Chocolat artisanal</li>
+                                    <li>tyrolienne</li>
                                 </ol>
                             </td>
                             <td>
                                 <ol>
-                                    <li>Grottoes of San Sebastian</li>
-                                    <li>Underground rivers</li>
+                                    <li>Grottes de Saint-Sébastien</li>
+                                    <li>Rivières souterraines</li>
                                     <li>Cenote</li>
                                 </ol>
                             </td>
                             <td>
                                 <ol>
                                     <li>Peñas Gemelas</li>
-                                    <li>Paintings</li>
-                                    <li>Caves</li>
+                                    <li>Peintures</li>
+                                    <li>Grottes</li>
                                     <li>Waterfalls</li>
                                     <li>Blue Lagoon</li>
                                 </ol>
                             </td>
                             <td>
                                 <ol>
-                                    <li>Farewell</li>
-                                    <li>Meal</li>
-                                    <li>Folk Event</li>
+                                    <li>Adieu</li>
+                                    <li>Repas</li>
+                                    <li>Événement folklorique</li>
                                 </ol>
                             </td>
                             

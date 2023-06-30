@@ -278,7 +278,6 @@
                     background-image: url('assets/images/tapetes.jpg');
                   ">
                     </a>
-                    <!-- TODO: Kevin cambiar desde esta parte al inglés  -->
                     <div class="text border border-top-0 p-4">
                         <h3 class="heading">
                             Manufacture of Wool Rugs </h3>

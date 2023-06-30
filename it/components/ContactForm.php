@@ -83,7 +83,6 @@ $result2 = mysqli_query($conexion, $sql2);
                         <option value="2023-05-09">3 de Marzo - 8 de Marzo</option>
                     </select>
                 </div>
-                <!-- TODO: Poner calcular precio en el idioma que es kevin   -->
                 <div class="col-md-3" id="cuposdisponibles" style="display: none;">
                     <div class="form-wrap">
                         <input class="form-input" id="contact-phone-2" type="text" name="datos[]" placeholder="Spazio disponibile" />
