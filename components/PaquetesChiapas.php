@@ -108,7 +108,7 @@
             <div class="item">
                 <div class="blog-entry">
                     <a href="#" class="block-20 d-flex align-items-start" style="
-                    background-image: url('assets/images/barro_negro.png');
+                    background-image: url('https://mexicolu.gruposoca.com.mx/images/oaxaca/carussel/barro_tiempo.jpg');
                   ">
                     </a>
                     <div class="text border border-top-0 p-4">

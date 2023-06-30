@@ -49,7 +49,7 @@
                 </div>
             </div>
         </div>
-        <div class="swiper-slide context-dark" data-slide-bg="https://mexicolu.gruposoca.com.mx/images/oaxaca/carussel/barro_tiempo.jpg">
+        <div class="swiper-slide context-dark" data-slide-bg="../assets/images/huicholes.jpg">
             <div class="swiper-slide-caption section-md">
                 <div class="container">
                     <div class="row">
