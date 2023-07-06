@@ -20,8 +20,8 @@
                     </p>
                 </div>
                 <div class="col-sm-6 col-md-4 text-md-right">
-                    <p class="rights" style="font-size: 15px;"><a href="#">Notice of Privacy</a></p>
-                    <p class="rights" style="font-size: 15px;"><a href="#">Terms and Conditions</a></p>
+                    <p class="rights" style="font-size: 15px;"><a href="https://mexicoamazingtravels.com/assets/docs/avisos_privacidad/aviso_privacidad_ing.pdf">Notice of Privacy</a></p>
+                    <p class="rights" style="font-size: 15px;"><a href="https://mexicoamazingtravels.com/assets/docs/terminos_condiciones/terminos_ing.pdf">Terms and Conditions</a></p>
                 </div>
             </div>
         </div>

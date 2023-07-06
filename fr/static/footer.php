@@ -20,8 +20,8 @@
                     </p>
                 </div>
                 <div class="col-sm-6 col-md-4 text-md-right">
-                    <p class="rights" style="font-size: 15px;"><a href="#">Avis de confidentialité</a></p>
-                    <p class="rights" style="font-size: 15px;"><a href="#">Termes et conditions</a></p>
+                    <p class="rights" style="font-size: 15px;"><a href="https://mexicoamazingtravels.com/assets/docs/avisos_privacidad/aviso_privacidad_fra.pdf">Avis de confidentialité</a></p>
+                    <p class="rights" style="font-size: 15px;"><a href="https://mexicoamazingtravels.com/assets/docs/terminos_condiciones/terminos_fra.pdf">Termes et conditions</a></p>
                 </div>
             </div>
         </div>
