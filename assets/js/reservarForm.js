@@ -39,15 +39,16 @@ async function crearReservacion(e) {
       confirmButton: "btn btn-success",
       cancelButton: "btn btn-danger",
     },
-    buttonsStyling: true,
+    buttonsStyling: false,
   });
 
   swalWithBootstrapButtons
     .fire({
-      title: "Estas seguro que la información es la correcta?",
+      title: "Antes de continuar, asegurese que ha calculado el precio de su reservación en caso de lo contrario, lo invitamos a que calcule el precio de su reservación.",
+      text: "¡No podrás revertir esto!",
       icon: "warning",
       showCancelButton: true,
-      confirmButtonText: "Si, reservar ahora",
+      confirmButtonText: "Si, he revisado el precio de mi reservación",
       cancelButtonText: "No, cancelar!",
       reverseButtons: true,
     })
@@ -56,7 +57,7 @@ async function crearReservacion(e) {
         var form = document.getElementById("FormReservar");
         const fd = new FormData(form);
         fd.append("accion", "alta");
-        fetch("models/ReservarModel.php", {
+        fetch("../models/ReservarModel.php", {
           method: "POST",
           body: fd,
         })
@@ -64,30 +65,31 @@ async function crearReservacion(e) {
           .then((result) => {
             if (result == 1) {
               swalWithBootstrapButtons.fire(
-                "Agregado!",
-                "Su reservación ha sido enviada con éxito, se le envíara un correo con las instrucciones del pago.",
+                "Reserva exitosa!",
+                "Su reserva ha sido realizada.",
                 "success"
               );
-              // form.reset();
-              // setTimeout(function () {
-              //   location.reload();
-              // }, 2000);
+              setTimeout(function () {
+                location.reload();
+              }, 3000);
             } else {
               swalWithBootstrapButtons.fire(
                 "Error",
                 "Hemos tenido un error a la base de datos o la conexión.",
                 "error"
               );
-              // form.reset();
               // setTimeout(function () {
               //   location.reload();
-              // }, 2000);
+              // }, 3000);
             }
           });
-      } else if (result.dismiss === Swal.DismissReason.cancel) {
+      } else if (
+        /* Read more about handling dismissals below */
+        result.dismiss === Swal.DismissReason.cancel
+      ) {
         swalWithBootstrapButtons.fire(
           "Cancelado",
-          "Revise su información de nuevo",
+          "Por favor calcula el precio de tu reservación",
           "error"
         );
       }
