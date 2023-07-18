@@ -14,14 +14,19 @@
                 </div>
                 <div class="col-sm-6 col-md-4 order-sm-first">
                     <p class="rights">
-                        <span>&copy;&nbsp;</span><span class="copyright-year"></span><span>&nbsp;</span><span>Mexico Amazing Travels</span>.Tous les droits
+                        <span>&copy;&nbsp;</span><span class="copyright-year"></span><span>&nbsp;</span><span>Mexico
+                            Amazing Travels</span>.Tous les droits
                         réservé. Élaboré par
                         <a href="https://jupitersoft.tech/">JupiterSoft</a>
                     </p>
                 </div>
                 <div class="col-sm-6 col-md-4 text-md-right">
-                    <p class="rights" style="font-size: 15px;"><a href="https://mexicoamazingtravels.com/assets/docs/avisos_privacidad/aviso_privacidad_fra.pdf">Avis de confidentialité</a></p>
-                    <p class="rights" style="font-size: 15px;"><a href="https://mexicoamazingtravels.com/assets/docs/terminos_condiciones/terminos_fra.pdf">Termes et conditions</a></p>
+                    <p class="rights" style="font-size: 15px;"><a
+                            href="https://mexicoamazingtravels.com/assets/docs/avisos_privacidad/aviso_privacidad_fran.pdf">Avis
+                            de confidentialité</a></p>
+                    <p class="rights" style="font-size: 15px;"><a
+                            href="https://mexicoamazingtravels.com/assets/docs/terminos_condiciones/terminos_fra.pdf">Termes
+                            et conditions</a></p>
                 </div>
             </div>
         </div>
