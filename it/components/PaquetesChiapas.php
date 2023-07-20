@@ -63,8 +63,7 @@
                             Tempio incompiuto di Cuilapam
                         </h3>
                         <p>
-                            Recorrido por el templo inconcluso de estilo Dominico con relato popular acerca del porqué
-                            no se concluyó
+                            Tour del tempio incompiuto in stile domenicano con una storia popolare sul motivo per cui non è stato completato
                             <br /> <br> <br>
                         </p>
                     </div>
@@ -96,7 +95,7 @@
                     </a>
                     <div class="text border border-top-0 p-4">
                         <h3 class="heading">
-                            Sitio Arqueológico de Monte Albán
+                            Sitio Arqueológico di Monte Albán
                         </h3>
                         <p>
                             Visita al complesso di costruzioni di origine zapoteca sorte su un colle con
@@ -214,8 +213,8 @@
                             Riserva Ara Verde (Avventura)
                         </h3>
                         <p>
-                            Recorrido al santuario de la Guacamaya Verde, sitio donde estas coloridas aves utilizan para
-                            anidar. Disfrutará del entorno natural de la zona.
+                            Visita al Green Macaw Sanctuary, sito in cui questi uccelli colorati sono abituati
+                            nido. Godrai dell'ambiente naturale della zona.
                         </p>
                     </div>
                 </div>
@@ -368,9 +367,9 @@
                     <div class="text border border-top-0 p-4">
                         <h3 class="heading">Sito dei funghi (avventura)</h3>
                         <p>
-                            Recorrido en un bosque repleto de una gran variedad de hongos silvestres utilizados por los
-                            habitantes de la región para efectos medicinales, sobre todo. Aprenderás a distinguir entre
-                            hongos benéficos y venenosos <br />
+                            Tour in un bosco ricco di una grande varietà di funghi selvatici utilizzati dal
+                            abitanti della regione per scopi medicinali, in particolare. Imparerai a distinguere tra
+                            funghi benefici e velenosi <br />
                         </p>
                     </div>
                 </div>
@@ -385,8 +384,8 @@
                         <h3 class="heading">
                             Tour del Centro Storico </h3>
                         <p>
-                            Recorrido por los lugares importantes que dan ejemplo de arquitectura y costumbres de sus
-                            habitantes
+                            Tour dei luoghi importanti che danno un esempio di architettura e costumi del loro
+                            popolazione
                             <br /> <br /> <br />
                         </p>
                     </div>
@@ -560,10 +559,10 @@
                     <div class="text border border-top-0 p-4">
                         <h3 class="heading">Cena d'addio (evento speciale)</h3>
                         <p>
-                            Al término de nuestro viaje lo mejor es una muestra de
-                            agradecimiento hacia ustedes. Es la mejor oportunidad que
-                            tenemos para dejarles un buen sabor de boca y con la
-                            seguridad de que volverán.
+                            Alla fine del nostro viaggio la cosa migliore è un assaggio di
+                            grazie a te. È la migliore possibilità
+                            dobbiamo lasciare un buon gusto in bocca e con il
+                            certo che torneranno.
                         </p>
                     </div>
                 </div>
@@ -594,10 +593,10 @@
                     <div class="text border border-top-0 p-4">
                         <h3 class="heading">Calende (Evento Speciale)</h3>
                         <p>
-                            Es una fiesta por las calles de Oaxaca donde se
-                            manifiesta la alegría. En este desfile se disfruta de la
-                            música regional, los bailes, Fuegos pirotécnicos y figuras
-                            enormes hechas con papel.
+                            È una festa per le strade di Oaxaca dove
+                            gioia manifesta. In questa sfilata puoi goderti il
+                            musica regionale, balli, fuochi d'artificio e figure
+                            enorme fatto di carta.
                         </p>
                     </div>
                 </div>
@@ -745,7 +744,7 @@
                         <div class="unit-body">
                             <div class="product-big-body">
                                 <h5 class="product-big-title">
-                                    <a href="#"> Playas inolvidables</a>
+                                    <a href="#"> Spiagge indimenticabili</a>
                                 </h5>
                                 <div class="group-sm group-middle justify-content-start">
                                     <div class="product-big-rating">
