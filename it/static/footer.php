@@ -21,11 +21,9 @@
                     </p>
                 </div>
                 <div class="col-sm-6 col-md-4 text-md-right">
-                    <p class="rights" style="font-size: 15px;"><a
-                            href="https://mexicoamazingtravels.com/assets/docs/avisos_privacidad/aviso_privacidad_ita.pdf">Informativa
+                    <p class="rights" style="font-size: 15px;"><a href="privacy.php">Informativa
                             sulla privacy</a></p>
-                    <p class="rights" style="font-size: 15px;"><a
-                            href="https://mexicoamazingtravels.com/assets/docs/terminos_condiciones/terminos_it.pdf">Termini
+                    <p class="rights" style="font-size: 15px;"><a href="terms.php">Termini
                             e Condizioni</a></p>
                 </div>
             </div>
