@@ -36,18 +36,20 @@
                         <div class="rd-navbar-main">
                             <div class="rd-navbar-nav-wrap">
                                 <ul class="rd-navbar-nav">
-                                    <li class="rd-nav-item"><a class="rd-nav-link" href="index.php">Home</a>
+                                    <li class="rd-nav-item "><a class="rd-nav-link" href="index.php">Début
+                                        </a>
                                     </li>
-                                    <li class="rd-nav-item"><a class="rd-nav-link" href="about.php">Services</a>
+                                    <li class="rd-nav-item"><a class="rd-nav-link" href="about.php">Prestations de service
+                                        </a>
                                     </li>
                                     <li class="rd-nav-item">
                                         <a class="rd-nav-link" href="destinos.php">Destinations</a>
                                     </li>
                                     <li class="rd-nav-item">
-                                        <a class="rd-nav-link" href="experiencias.php">Experiences</a>
+                                        <a class="rd-nav-link" href="experiencias.php">Expériences</a>
                                     </li>
                                     <li class="rd-nav-item">
-                                        <a class="rd-nav-link" href="contact-us.php">Reservations</a>
+                                        <a class="rd-nav-link" href="contact-us.php">Réservations</a>
                                     </li>
                                 </ul>
                             </div>
@@ -120,8 +122,8 @@
                                 autorisé. <br>
                                 C) Pour enquêter sur une fraude qui s'est déjà produite. <br>
                                 D) À la demande des autorités publiques, de la sécurité nationale ou des forces de l'ordre. <br>
-                            </strong>
-                            <br>
+                                </strong>
+                                <br>
                         </p>
                         <h4>Comment nous utilisons les données personnelles</h4>
                         <p>

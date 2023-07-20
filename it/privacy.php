@@ -36,18 +36,19 @@
                         <div class="rd-navbar-main">
                             <div class="rd-navbar-nav-wrap">
                                 <ul class="rd-navbar-nav">
-                                    <li class="rd-nav-item"><a class="rd-nav-link" href="index.php">Home</a>
+                                    <li class="rd-nav-item"><a class="rd-nav-link" href="index.php">Inizio</a>
                                     </li>
-                                    <li class="rd-nav-item"><a class="rd-nav-link" href="about.php">Services</a>
-                                    </li>
-                                    <li class="rd-nav-item">
-                                        <a class="rd-nav-link" href="destinos.php">Destinations</a>
+                                    <li class="rd-nav-item"><a class="rd-nav-link" href="about.php">Servizi</a>
                                     </li>
                                     <li class="rd-nav-item">
-                                        <a class="rd-nav-link" href="experiencias.php">Experiences</a>
+                                        <a class="rd-nav-link" href="destinos.php">Destinazioni
+                                        </a>
                                     </li>
                                     <li class="rd-nav-item">
-                                        <a class="rd-nav-link" href="contact-us.php">Reservations</a>
+                                        <a class="rd-nav-link" href="experiencias.php">Esperienze</a>
+                                    </li>
+                                    <li class="rd-nav-item">
+                                        <a class="rd-nav-link" href="contact-us.php">Prenotazioni</a>
                                     </li>
                                 </ul>
                             </div>
