@@ -17,7 +17,7 @@
               <div class="rd-navbar-panel">
                 <button class="rd-navbar-toggle" data-rd-navbar-toggle=".rd-navbar-nav-wrap"><span></span></button>
                 <div class="rd-navbar-brand">
-                  <a class="brand" href="index.php"><img src="../assets/images/logo-default-450x37.png" alt="" width="225" height="18" /></a>
+                  <a class="brand" href="index.php"><img src="../assets/images/logo.png" alt="" width="300" height="25" /></a>
                 </div>
               </div>
               <?php include "static/menu_lenguagues.php" ?>

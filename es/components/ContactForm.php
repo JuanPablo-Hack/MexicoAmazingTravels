@@ -18,35 +18,117 @@ $result2 = mysqli_query($conexion, $sql2);
                 </p>
             </div>
         </article>
-        <form class="rd-form rd-form-variant-2 rd-mailform" data-form-output="form-output-global" data-form-type="contact" id="FormReservar">
+        <form class="rd-form rd-form-variant-2 rd-mailform" data-form-output="form-output-global"
+            data-form-type="contact" id="FormReservar">
             <div class="row row-14 gutters-14">
                 <div class="col-md-6">
                     <div class="form-wrap">
-                        <input class="form-input" id="contact-your-name-2" type="text" name="datos[]" data-constraints="@Required" placeholder="Nombre" />
+                        <input class="form-input" id="contact-your-name-2" type="text" name="datos[]"
+                            data-constraints="@Required" placeholder="Nombre" />
                     </div>
                 </div>
                 <div class="col-md-6">
                     <div class="form-wrap">
-                        <input class="form-input" id="contact-email-2" type="email" name="datos[]" data-constraints="@Email @Required" placeholder="Correo" />
+                        <input class="form-input" id="contact-email-2" type="email" name="datos[]"
+                            data-constraints="@Email @Required" placeholder="Correo" />
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="form-wrap">
-                        <input class="form-input" type="text" name="datos[]" data-constraints="@Required" placeholder="País de Origen" />
+                        <input class="form-input" type="text" name="datos[]" data-constraints="@Required"
+                            placeholder="País de Origen" />
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="form-wrap">
-                        <input class="form-input" type="text" name="datos[]" data-constraints="@Required" placeholder="Ciudad" />
+                        <input class="form-input" type="text" name="datos[]" data-constraints="@Required"
+                            placeholder="Ciudad" />
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="form-wrap">
-                        <input class="form-input" id="contact-phone-2" type="text" name="datos[]" data-constraints="@Numeric" placeholder="Número de telefono" />
+                        <input class="form-input" id="contact-phone-2" type="text" name="datos[]"
+                            data-constraints="@Numeric" placeholder="Número de telefono" />
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <select name="datos[]" class="form-input" data-constraints="@Selected" id="numero_adultos">
+                        <option selected disabled>-Números de Adultos-</option>
+                        <option value="0">0</option>
+                        <option value="1">1</option>
+                        <option value="2">2</option>
+                        <option value="3">3</option>
+                        <option value="4">4</option>
+                        <option value="5">5</option>
+                        <option value="6">6</option>
+                        <option value="7">7</option>
+                        <option value="8">8</option>
+                        <option value="9">9</option>
+                        <option value="10">10</option>
+                    </select>
+                </div>
+                <div class="col-md-4">
+                    <select name="datos[]" class="form-input" data-constraints="@Selected" id="numero_niños"
+                        onchange="calcularPersonas()">
+                        <option selected disabled>-Números de Niños-</option>
+                        <option value="0">0</option>
+                        <option value="1">1</option>
+                        <option value="2">2</option>
+                        <option value="3">3</option>
+                        <option value="4">4</option>
+                        <option value="5">5</option>
+                        <option value="6">6</option>
+                        <option value="7">7</option>
+                        <option value="8">8</option>
+                        <option value="9">9</option>
+                        <option value="10">10</option>
+                    </select>
+                </div>
+                <div class="col-md-4">
+                    <div class="form-wrap">
+                        <input class="form-input-total" type="number" readonly placeholder="Total de personas"
+                            id="totalPersonas" style="background-color: #E8B11F; color: white;" />
                     </div>
                 </div>
 
+                <div class="col-md-3">
+                    <div class="form-wrap">
+                        <select name="datos[]" class="form-input" data-constraints="@Selected">
+                            <option value="">-Seleccion un destino-</option>
+                            <?php
+                            while ($Row1 = mysqli_fetch_array($result2)) {
+                            ?>
+                                <option value=<?php echo $Row1['id']; ?>><?php echo $Row1['nombre']; ?></option>
+                            <?php
+                            }
+                            ?>
+                        </select>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="form-wrap">
+                        <select name="datos[]" class="form-input" data-constraints="@Selected" id="paquteSeleccionado" onchange="fechasDisponibles()">
+                            <option value="0">-Selecciona un paquete-</option>
+                            <?php
+                            while ($Row1 = mysqli_fetch_array($result)) {
+                            ?>
+                                <option value=<?php echo $Row1['id']; ?>><?php echo $Row1['nombre']; ?></option>
+                            <?php
+                            }
+                            ?>
+                        </select>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <select name="datos[]" class="form-input" data-constraints="@Selected" disabled id="fechas_disponibles" onchange="cuposDisponibles()">
+                        <option selected>-Fechas disponibles-</option>
+                    </select>
+                </div>
+                <div class="col-md-3">
+                    <div class="form-wrap" id="cuposdisponibles">
 
+                    </div>
+                </div>
                 <div class="col-md-4">
                     <select name="datos[]" class="form-input" data-constraints="@Selected" id="numero_adultos">
                         <option selected disabled>-Números de Adultos-</option>
@@ -82,48 +164,10 @@ $result2 = mysqli_query($conexion, $sql2);
                         <input class="form-input-total" type="number" readonly placeholder="Total de personas" id="totalPersonas" style="background-color: #E8B11F; color: white;" />
                     </div>
                 </div>
-                <div class="col-md-3">
-                    <div class="form-wrap">
-                        <select name="datos[]" class="form-input" data-constraints="@Selected">
-                            <option value="">-Seleccion un destino-</option>
-                            <?php
-                            while ($Row1 = mysqli_fetch_array($result2)) {
-                            ?>
-                                <option value=<?php echo $Row1['id']; ?>><?php echo $Row1['nombre']; ?></option>
-                            <?php
-                            }
-                            ?>
-                        </select>
-                    </div>
-                </div>
-                <div class="col-md-3">
-                    <div class="form-wrap">
-                        <select name="datos[]" class="form-input" data-constraints="@Selected" id="paquteSeleccionado" onchange="fechasDisponibles()">
-                            <option value="0">-Selecciona un paquete-</option>
-                            <?php
-                            while ($Row1 = mysqli_fetch_array($result)) {
-                            ?>
-                                <option value=<?php echo $Row1['id']; ?>><?php echo $Row1['nombre']; ?></option>
-                            <?php
-                            }
-                            ?>
-                        </select>
-                    </div>
-                </div>
-                <div class="col-md-3">
-                    <select name="datos[]" class="form-input" data-constraints="@Selected" disabled id="fechas_disponibles" onchange="cuposDisponibles()">
-                        <option selected>-Fechas disponibles-</option>
-                    </select>
-                </div>
-                <!-- TODO: Hacer disponibles lugares disponibles -->
-                <div class="col-md-3">
-                    <div class="form-wrap" id="cuposdisponibles">
-
-                    </div>
-                </div>
             </div>
             <div class="contedor_botones">
-                <a class="button  button-pipaluk" style="background-color: #098CC1; color:white;" onclick="calcularFormulario()">
+                <a class="button  button-pipaluk" style="background-color: #098CC1; color:white;"
+                    onclick="calcularFormulario()">
                     Calcular Precio
                 </a>
                 <button class="button  button-pipaluk" style="background-color: #01b3a7; color:white;" type="submit">

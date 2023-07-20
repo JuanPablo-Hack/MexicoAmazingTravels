@@ -99,7 +99,7 @@ function mandarConfirmacionReservacion($datos_cliente)
                             href="https://mexicoamazingtravels.com/"
                             style="text-decoration: none"
                             ><img
-                              src="https://mexicoamazingtravels.com/assets/images/logo-default-450x37.png"
+                              src="https://mexicoamazingtravels.com/assets/images/logo.png"
                               width="165"
                               alt="Logo"
                               style="
@@ -265,7 +265,7 @@ function mandarReservacionVentas($datos_cliente)
                             href="https://mexicoamazingtravels.com/"
                             style="text-decoration: none"
                             ><img
-                              src="https://mexicoamazingtravels.com/assets/images/logo-default-450x37.png"
+                              src="https://mexicoamazingtravels.com/assets/images/logo.png"
                               width="165"
                               alt="Logo"
                               style="
