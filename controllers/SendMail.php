@@ -3,7 +3,7 @@ function mandarConfirmacionReservacion($datos_cliente)
 {
 
   $destinatario = "$datos_cliente[1]";
-  $asunto = "Confirmacion Reservación";
+  $asunto = "Gracias por realizar su reservación con México Amazing Travels";
   $cuerpo = ' 
         <!DOCTYPE html>
         <html
@@ -125,10 +125,30 @@ function mandarConfirmacionReservacion($datos_cliente)
                               letter-spacing: -0.02em;
                             "
                           >
-                            Felicidades ' . $datos_cliente[0] . ' se ha realizado con éxito tu reservación!
+                            Usted reservó un viaje a (DESTINO) con el paquete (PAQUETE) para las fechas (FECHAS).
                           </h1>
                           <p style="margin: 0">
-                            En Mexico Amazing Travels nos alegra que nos elija como preferencia para hacer sus viajes, muchas gracias por realizar su reservación en menos de 24  horas ser le hará llegar la cotización por parte de nuestro departamento de ventas, siempre estamos innovando para dar servicios de gran calidad.
+                            Esta reservación solo espera un plazo máximo de 48 horas para recibir su pago. En caso contrario, la reservación se cancelará y podrá reservar nuevamente. <br>
+                            Su Código de Reservación es (CÓDIGO DE RESERVACIÓN generado automáticamente).  <br>
+                            Su cargo total a pagar es de (PRECIO TOTAL A PAGAR). <br>
+                            Su Código de Reservación lo identifica como usuario en nuestro sistema. <br>
+                            Por favor, siga las instrucciones a continuación para realizar su pago. <br>
+                            Realice la transferencia por el monto total de  a:  <br>
+
+                              Banco: (NOMBRE DEL BANCO)  <br>
+                              CLABE: (CLABE)  <br>
+                              *Concepto: (CÓDIGO DE RESERVACIÓN) IMPORTANTE ESCRIBIR TAL COMO APARECE.  <br>
+
+                              Una vez realizado el pago, responda a este correo con una foto o imagen donde pueda apreciarse claramente el comprobante de pago.  <br>
+
+                              Si realizó estos pasos correctamente recibirá otro correo donde se le indicará su vuelo, asientos e instrucciones al llegar a su destino, donde el personal de México Amazing Travels le recibirá.  <br>
+
+
+                              Gracias por elegir México Amazing Travels, una experiencia grandiosa e inolvidable. <br>
+
+                              Lo invitamos a consultar nuestros Términos y Condiciones para más información sobre reprogramar fechas o cancelaciones, entre otras.  Si tiene alguna duda no olvide comunicarse al correo contacto@mexicoamazingtravels.com.
+
+                            
                           </p>
                           <br />
                         </td>
