@@ -128,26 +128,19 @@ function mandarConfirmacionReservacion($datos_cliente)
                             Usted reservó un viaje a (DESTINO) con el paquete (PAQUETE) para las fechas (FECHAS).
                           </h1>
                           <p style="margin: 0">
-                            Esta reservación solo espera un plazo máximo de 48 horas para recibir su pago. En caso contrario, la reservación se cancelará y podrá reservar nuevamente. <br>
-                            Su Código de Reservación es (CÓDIGO DE RESERVACIÓN generado automáticamente).  <br>
-                            Su cargo total a pagar es de (PRECIO TOTAL A PAGAR). <br>
-                            Su Código de Reservación lo identifica como usuario en nuestro sistema. <br>
-                            Por favor, siga las instrucciones a continuación para realizar su pago. <br>
-                            Realice la transferencia por el monto total de  a:  <br>
-
-                              Banco: (NOMBRE DEL BANCO)  <br>
-                              CLABE: (CLABE)  <br>
-                              *Concepto: (CÓDIGO DE RESERVACIÓN) IMPORTANTE ESCRIBIR TAL COMO APARECE.  <br>
-
-                              Una vez realizado el pago, responda a este correo con una foto o imagen donde pueda apreciarse claramente el comprobante de pago.  <br>
-
-                              Si realizó estos pasos correctamente recibirá otro correo donde se le indicará su vuelo, asientos e instrucciones al llegar a su destino, donde el personal de México Amazing Travels le recibirá.  <br>
-
-
-                              Gracias por elegir México Amazing Travels, una experiencia grandiosa e inolvidable. <br>
-
-                              Lo invitamos a consultar nuestros Términos y Condiciones para más información sobre reprogramar fechas o cancelaciones, entre otras.  Si tiene alguna duda no olvide comunicarse al correo contacto@mexicoamazingtravels.com.
-
+                            Esta reservación solo espera un plazo máximo de 48 horas para recibir su pago. En caso contrario, la reservación se cancelará y podrá reservar nuevamente. <br><br>
+                            Su código de reservación es: <strong>FFG89201</strong>.  <br><br>
+                            Su cargo total a pagar es de: <strong> $6,800.00</strong>. <br><br>
+                            Su código de Reservación lo identifica como usuario en nuestro sistema. <br><br>
+                            Por favor, siga las instrucciones a continuación para realizar su pago. <br><br>
+                            Realice la transferencia por el monto total de  a:  <br><br>
+                              Banco: SANTANDER  <br><br>
+                              CLABE: 014589678936  <br><br>
+                              *Concepto: <strong>FFG89201</strong> IMPORTANTE ESCRIBIR TAL COMO APARECE.  <br><br>
+                              Una vez realizado el pago, responda a este correo con una foto o imagen donde pueda apreciarse claramente el comprobante de pago.  <br><br>
+                              Si realizó estos pasos correctamente recibirá otro correo donde se le indicará su vuelo, asientos e instrucciones al llegar a su destino, donde el personal de México Amazing Travels le recibirá.  <br><br
+                              Gracias por elegir México Amazing Travels, una experiencia grandiosa e inolvidable. <br><br>
+                              Lo invitamos a consultar nuestros Términos y Condiciones para más información sobre reprogramar fechas o cancelaciones, entre otras.  Si tiene alguna duda no olvide comunicarse al correo contacto@mexicoamazingtravels.com
                             
                           </p>
                           <br />
@@ -314,12 +307,12 @@ function mandarReservacionVentas($datos_cliente)
                             Hemos tenido una nueva peticion de reservacion atender a la brevedad administrador!
                           </h1>
                           <p style="margin: 0">
-                              Administrador ha llegado una nueva reservacion a nombre de: ' . utf8_encode($datos_cliente[0]) . ', numero de telefono ' . utf8_encode($datos_cliente[4]) . '. <br>
-                              Destino: ' . utf8_encode($datos_cliente[5]) . ' <br>
-                              Tipo de paquete: ' . $datos_cliente[6] . ' <br>
-                              Numero de adultos: ' . $datos_cliente[7] . ' <br>
-                              Numero de menores: ' . $datos_cliente[8] . ' <br>
-                              Fecha de seleccionadas: ' . $datos_cliente[9] . ' <br>
+                              Administrador ha llegado una nueva reservacion a nombre de: ' . utf8_encode($datos_cliente[0]) . ', numero de telefono ' . utf8_encode($datos_cliente[4]) . '. <br><br>
+                              Destino: ' . utf8_encode($datos_cliente[5]) . ' <br><br>
+                              Tipo de paquete: ' . $datos_cliente[6] . ' <br><br>
+                              Numero de adultos: ' . $datos_cliente[7] . ' <br><br>
+                              Numero de menores: ' . $datos_cliente[8] . ' <br><br>
+                              Fecha de seleccionadas: ' . $datos_cliente[9] . ' <br><br>
                           </p>
                           <br />
                         </td>
