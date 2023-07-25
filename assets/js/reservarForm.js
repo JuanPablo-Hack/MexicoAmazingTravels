@@ -41,57 +41,33 @@ async function crearReservacion(e) {
     },
     buttonsStyling: false,
   });
-
-  swalWithBootstrapButtons
-    .fire({
-      title: "Antes de continuar, asegurese que ha calculado el precio de su reservación en caso de lo contrario, lo invitamos a que calcule el precio de su reservación.",
-      text: "¡No podrás revertir esto!",
-      icon: "warning",
-      showCancelButton: true,
-      confirmButtonText: "Si, he revisado el precio de mi reservación",
-      cancelButtonText: "No, cancelar!",
-      reverseButtons: true,
-    })
+  var form = document.getElementById("FormReservar");
+  const fd = new FormData(form);
+  fd.append("accion", "alta");
+  fetch("../models/ReservarModel.php", {
+    method: "POST",
+    body: fd,
+  })
+    .then((result) => result.text())
     .then((result) => {
-      if (result.isConfirmed) {
-        var form = document.getElementById("FormReservar");
-        const fd = new FormData(form);
-        fd.append("accion", "alta");
-        fetch("../models/ReservarModel.php", {
-          method: "POST",
-          body: fd,
-        })
-          .then((result) => result.text())
-          .then((result) => {
-            if (result == 1) {
-              swalWithBootstrapButtons.fire(
-                "Reserva exitosa!",
-                "Su reserva ha sido realizada.",
-                "success"
-              );
-              setTimeout(function () {
-                location.reload();
-              }, 3000);
-            } else {
-              swalWithBootstrapButtons.fire(
-                "Error",
-                "Hemos tenido un error a la base de datos o la conexión.",
-                "error"
-              );
-              // setTimeout(function () {
-              //   location.reload();
-              // }, 3000);
-            }
-          });
-      } else if (
-        /* Read more about handling dismissals below */
-        result.dismiss === Swal.DismissReason.cancel
-      ) {
+      if (result == 1) {
         swalWithBootstrapButtons.fire(
-          "Cancelado",
-          "Por favor calcula el precio de tu reservación",
+          "Reserva exitosa!",
+          "Su reserva ha sido realizada.",
+          "success"
+        );
+        setTimeout(function () {
+          location.reload();
+        }, 3000);
+      } else {
+        swalWithBootstrapButtons.fire(
+          "Error",
+          "Hemos tenido un error a la base de datos o la conexión.",
           "error"
         );
+        // setTimeout(function () {
+        //   location.reload();
+        // }, 3000);
       }
     });
 }
