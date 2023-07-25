@@ -125,7 +125,7 @@ function mandarConfirmacionReservacion($datos_cliente)
                               letter-spacing: -0.02em;
                             "
                           >
-                            Usted reservó un viaje a (DESTINO) con el paquete (PAQUETE) para las fechas (FECHAS).
+                            Usted reservó un viaje a OAXACA con el paquete BÁSICO para las fechas 23 DE AGOSTO 2023.
                           </h1>
                           <p style="margin: 0">
                             Esta reservación solo espera un plazo máximo de 48 horas para recibir su pago. En caso contrario, la reservación se cancelará y podrá reservar nuevamente. <br><br>
