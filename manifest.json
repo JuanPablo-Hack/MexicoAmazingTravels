@@ -1,0 +1,52 @@
+{
+  "name": "Mexico Amazing Travels",
+  "shortname": "Mexico Amazing Travels",
+  "starturl": "index.php",
+  "display": "standalone",
+  "backgroundcolor": "#86B5B9",
+  "themecolor": "#007882",
+  "orientation": "portrait-primary",
+  "description": "Los mejores viajes, a los mejores precios.",
+  "icons": [
+    {
+      "src": "assets/images/logos/logo72x72.png",
+      "type": "image/png",
+      "sizes": "72x72"
+    },
+    {
+      "src": "assets/images/logos/logo96x96.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "assets/images/logos/logo128x128.png",
+      "type": "image/png",
+      "sizes": "128x128"
+    },
+    {
+      "src": "assets/images/logos/logo142x142.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "assets/images/logos/logo152x152.png",
+      "type": "image/png",
+      "sizes": "152x152"
+    },
+    {
+      "src": "assets/images/logos/logo192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "assets/images/logos/logo384x384.png",
+      "type": "image/png",
+      "sizes": "384x384"
+    },
+    {
+      "src": "assets/images/logos/logo512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
