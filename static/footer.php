@@ -30,3 +30,4 @@
 <div class="snackbars" id="form-output-global"></div>
 <script src="assets/js/core.min.js"></script>
 <script src="assets/js/script.js"></script>
+<script src="pwa/app.js"></script>
