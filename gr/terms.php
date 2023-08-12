@@ -90,7 +90,7 @@
                             Mexiko Erstaunlich &amp; Unforgettable behält sich das Recht vor, während der Dauer Fotos und Videos aufzunehmen
                             Reise oder einen Teil davon zu versenden und die Fotos und Videos zur Werbung für die Dienstleistungen Mexikos zu verwenden
                             Erstaunlich &amp; unvergesslich. Mit der Buchung erklärt sich der Reisenutzer mit der Verwendung seiner Bilder einverstanden
-                            besagte Fotos und Videos sowie Ihre Meinung über Ihre Reise und die Qualität der erbrachten Dienstleistung.
+                            besagte Fotos und Videos sowie Ihre Meinung über Ihre Reise und die Qualität der erbrachten Dienstleistung. <br> <br>
                             Diese Website kann Links zu anderen Websites enthalten. Falls enthalten, können diese Links sein
                             Dem Benutzer zur Verfügung stellen, um ihn bequemer zu machen und weitere Informationen zu erhalten. Das bedeutet nicht, dass
                             Wir stehen hinter den Websites. Mexiko Erstaunlich &amp; Unforgettable übernimmt keine Verantwortung dafür
@@ -125,7 +125,7 @@
                             Programm. Es ist nicht erforderlich, in den Schaltflächen „Gesamtzahl der Personen“ oder „Verfügbare Orte“ etwas anzugeben
                             (gelb markiert), das Ergebnis erscheint automatisch. <br><br>
                             Bevor Sie auf die Schaltfläche „Preis berechnen“ klicken, stellen Sie sicher, dass Sie die Allgemeinen Geschäftsbedingungen akzeptiert haben
-                            hier angegeben. Wenn Sie diese nicht akzeptieren oder diesen Schritt vergessen, wird die Reservierung automatisch storniert.
+                            hier angegeben. Wenn Sie diese nicht akzeptieren oder diesen Schritt vergessen, wird die Reservierung automatisch storniert. <br><br>
                             Wenn Sie auf die Schaltfläche „Preis berechnen“ klicken, werden unten die Informationen angezeigt, die die Menge bestätigen
                             Anzahl der Personen, das Paket, das Reiseziel, das ausgewählte Datum und es werden der Preis pro Person und die Gesamtkosten angezeigt
                             Von der Reise. <br><br>
@@ -138,7 +138,7 @@
                             Wenn Sie die Zahlung getätigt und das Foto der Anzahlung gesendet haben, erhält der Benutzer eine weitere E-Mail als Antwort
                             Angabe der Fluggesellschaft, Abflugzeit, Ticket (QR zum Einsteigen für jede Begleitperson), Sitzplätze
                             reserviert, Zugangstür zum Flugzeug und Empfangsbestätigung durch unsere Mitarbeiter bei Ankunft am
-                            Ziel. Von diesem Zeitpunkt an bringen Sie unsere Mitarbeiter zum Hotel und geben Ihnen grundlegende Anweisungen für die Tour.
+                            Ziel. Von diesem Zeitpunkt an bringen Sie unsere Mitarbeiter zum Hotel und geben Ihnen grundlegende Anweisungen für die Tour. <br><br>
                             Die Reservierungsdaten unterliegen der Verfügbarkeit. Wenn der Platz ausgebucht ist, haben Sie immer einen Platz
                             die Möglichkeit, ein anderes Datum auszuwählen. <br><br>
                             <b>Reservierungszeitplanung</b>. Um Ihren Platz und den Ihrer Begleiter Mexiko zu sichern
@@ -180,13 +180,13 @@
                             Vermeiden Sie Preisschwankungen. <br><br>
                             Bei der Zahlung des ausgewählten Pakets müssen Sie keine zusätzlichen Zahlungen leisten (mit Ausnahme der
                             Namensänderung einer Begleitperson) haben Sie bereits die gesamte Reise zurückgelegt. <br><br>
-                            Zahlungsarten. Der Nutzer kann seine Reise per elektronischer Überweisung bezahlen. <br><br>
-                            Von den Diensten. Für die von México Amazing &amp; Überhaupt unvergesslich
+                            <strong>Zahlungsmethoden.</strong> Der Nutzer kann seine Reise per elektronischer Überweisung bezahlen. <br><br>
+                            <strong>Von den Diensten.</strong> Für die von México Amazing &amp; Überhaupt unvergesslich
                             die Ziele. <br><br>
                             <u>Flug</u>: Nach Erhalt Ihrer Flugdaten wird Mexico Amazing &amp; Unforgettable übernimmt keine Verantwortung, wenn der Benutzer
                             Sie kommen nicht pünktlich an und verpassen Ihren Ausgang. Es ist wichtig, dass Sie eine Benachrichtigung senden, um einen anderen Flug zu finden, aber der
                             Der Kauf neuer Tickets liegt in der Verantwortung des Benutzers. <br><br>
-                            Transport: Die von Mexico Amazing &amp; Unvergesslich sind komfortabel, sicher und
+                            <u>Transport:</u> Die von México Amazing &amp; Unvergesslich sind komfortabel, sicher und
                             Sie sind versichert. Etwaige durch den Nutzer verursachte Schäden an den Geräten gehen zu Lasten des Käufers
                             Selbstbehalt. <br><br>
                             <u>Unterkunft</u>: Ihre Reservierung beinhaltet Unterkunft und Frühstück. Alle anderen vom Hotel angebotenen Dienstleistungen
@@ -194,7 +194,7 @@
                             durch den Benutzer verursacht. <br><br>
                             <u>Tickets für besondere Veranstaltungen</u>: Sie sind für den Benutzer und seine Begleiter auf seiner Reise inbegriffen. Tickets
                             Extras müssen vom Nutzer bezahlt werden. <br><br>
-                            Kunsthandwerk einkaufen: Die Mitarbeiter von México Amazing &amp; Unforgettable wird Sie dabei unterstützen, Sie an Orte der Welt zu bringen
+                            <u>Kunsthandwerk kaufen:</u> Die Mitarbeiter von México Amazing &amp; Unforgettable wird Sie dabei unterstützen, Sie an Orte der Welt zu bringen
                             bessere Qualität bei der Herstellung von Kunsthandwerk, aber der Preis ist eine direkte Vereinbarung zwischen Ihnen und dem Handwerker. <br><br>
 
                             <u>Medizinische Unterstützung</u>: Wir verfügen über eine Reiseversicherung für Unfälle, die im Paket enthalten ist.
@@ -220,7 +220,7 @@
                             Gewerbliches Eigentum und Urheberrecht von Mexiko Amazing &amp; Unvergesslich, verstanden als: das
                             Marken, die in Mexiko oder im Ausland von Mexico Amazing &amp; eingetragen und verwendet werden. unvergesslich; Die
                             Rechte an Erfindungen (patentiert oder nicht), Industriedesigns, Gebrauchsmustern, vertraulichen Informationen,
-                            Handelsnamen, Geheimnisse, kommerzielle Bekanntmachungen, Rechtsvorbehalte, Domainnamen; ebenso gut wie
+                            Handelsnamen, Geheimnisse, kommerzielle Bekanntmachungen, Rechtsvorbehalte, Domainnamen; sowie
                             alle Arten von wirtschaftlichen Rechten an Werken und Schöpfungen, die durch Urheberrechte und andere geschützt sind
                             Formen des gewerblichen oder geistigen Eigentums, die gesetzlich anerkannt sind oder anerkannt werden können
                             dazugehörigen. <br><br>

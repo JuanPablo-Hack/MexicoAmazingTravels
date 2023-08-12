@@ -81,7 +81,7 @@
                             Lesen Sie sich bei jedem Besuch der Website die Datenschutzrichtlinie durch, um sicherzustellen, dass Sie verstehen, wie
                             wird die von Ihnen bereitgestellten personenbezogenen Daten verwenden. <br><br>
                             Wir stellen klar, dass die auf dieser Website festgelegten Datenschutzrichtlinien nur für diese Website gelten. Ob
-                            Wenn Sie Links zu anderen Websites verwenden, empfehlen wir Ihnen, die auf diesen Websites veröffentlichten Datenschutzrichtlinien zu lesen.
+                            Wenn Sie Links zu anderen Websites verwenden, empfehlen wir Ihnen, die auf diesen Websites veröffentlichten Datenschutzrichtlinien zu lesen. <br> <br>
                             Ihre persönlichen Daten werden sicher aufbewahrt. Nur unsere Mitarbeiter und autorisierten Vertreter (die
                             haben die Verpflichtung unterzeichnet, die Informationen sicher und vertraulich zu behandeln) haben Zugriff auf die
                             Information. Sie haben die Möglichkeit, E-Mails und Newsletter auf dieser Website abzubestellen.
@@ -93,21 +93,24 @@
                         <p>
                             Wir können personenbezogene Daten (wie Namen, Postanschriften, E-Mail-Adressen) erfassen
                             E-Mail usw.), direkt von Ihnen, von Dritten oder öffentlich zugänglichen Daten oder wann
-                            Nutzen Sie die Website und übermitteln Sie sie freiwillig.
+                            Nutzen Sie die Website und übermitteln Sie sie freiwillig. <br> <br>
                             Die von Ihnen gemachten Angaben werden ausschließlich zur Bearbeitung Ihrer konkreten Anfrage verwendet
                             es sei denn, Sie erteilen uns die Erlaubnis, es auf andere Weise zu verwenden, beispielsweise um es zu einem unserer Daten hinzuzufügen
-                            unsere Mailinglisten. Die Daten werden auf unbestimmte Zeit gespeichert, es sei denn, Sie verlangen eine Löschung.
-                            Cookie-Technologie
-                            Die Website kann Cookies und Tracking-Technologie (z. B. Kommunikationsprotokolle) verwenden
-                            Elektronik, Cookies, Widget-Buttons oder Tools), abhängig von den angebotenen Funktionen.
+                            unsere Mailinglisten. Die Daten werden auf unbestimmte Zeit gespeichert, es sei denn, Sie verlangen eine Löschung. <br> <br>
+                        <h4>Cookie-Technologie</h4>
+
+                        <p>
+                            Die Website verwendet möglicherweise Cookies und Tracking-Technologien (z. B. Kommunikationsprotokolle).
+                            Elektronik, Cookies, Widget-Buttons oder Tools), abhängig von den angebotenen Funktionen. <br><br>
                             Cookies und Tracking-Technologie sind nützlich, um Informationen wie die Art zu sammeln
                             Browser und Betriebssystem, verfolgen Sie die Anzahl der Besucher der Website und verstehen Sie, wie
-                            Besucher nutzen die Website.
+                            Besucher nutzen die Website. <br> <br>
 
                             Sie können auch dabei helfen, die Website für Besucher zu personalisieren. Personenbezogene Daten sind es nicht
                             können durch Cookies und andere Tracking-Technologien gesammelt werden, wenn Sie dies jedoch zuvor getan haben
                             Werden personenbezogene Daten bereitgestellt, können Cookies damit verknüpft sein
                             Information. <br> <br>
+                        </p>
                         </p>
                         <h4> Informationsverteilung</h4>
                         <p>
@@ -116,7 +119,7 @@
                             Betrugsermittlung. Wir können dies in den folgenden Fällen tun: <br> <br>
                             <strong>
                                 A) Wenn gesetzlich zulässig oder erforderlich. <br>
-                                B) Zum Schutz vor oder zur Verhinderung von tatsächlichem oder potenziellem Betrug oder nicht autorisierten Transaktionen.
+                                B) Zum Schutz vor oder zur Verhinderung von tatsächlichem oder potenziellem Betrug oder unbefugten Transaktionen.
                                 autorisiert. <br>
                                 C) Um einen bereits begangenen Betrug zu untersuchen. <br>
                                 D) Auf Anfrage von Behörden, der nationalen Sicherheit oder Strafverfolgungsbehörden. <br>
@@ -126,14 +129,16 @@
                         <h4>Wie wir personenbezogene Daten verwenden</h4>
                         <p>
                             Wir werden Ihre personenbezogenen Daten nur dann verwenden, wenn hierfür eine gesetzliche Grundlage besteht. Speziell,
-                            Wir verwenden Ihre personenbezogenen Daten gemäß Ihren Anweisungen oder wie folgt:
-                            Bereitstellung und Personalisierung unserer Website. Um die Website zu betreiben und zu verwalten und
+                            Wir verwenden Ihre personenbezogenen Daten gemäß Ihren Anweisungen oder wie folgt: <br><br>
+
+                            <u><strong>Um unsere Website bereitzustellen und zu personalisieren.</strong></u> Um die Website zu betreiben und zu verwalten und
                             Bereitstellung von Inhalten, auf die Sie zugreifen oder die Sie anfordern möchten; Webinhalte so anzupassen, dass
                             Wir zeigen an, um eine Standortanpassung anzubieten (z. B. das Einstellen einer Sprache).
                             Standard) und personalisieren Sie Ihr Erlebnis bei der Nutzung der Website. Wir können Cookies und Technologien verwenden
                             ähnliche Tracking-Methoden, um Ihre personenbezogenen Daten zu diesem Zweck automatisch zu erfassen (vgl
                             unseren Cookie-Hinweis). <br> <br>
-                            Eventanpassung. Um Einladungen zu Veranstaltungen zu personalisieren
+
+                            <u><strong>Event-Anpassung.</strong></u> Zum Anpassen von Event-Einladungen, die Sie benötigen
                             Wir hosten oder zeigen Inhalte an, damit wir den Ort personalisieren können (z. B. lokale Veranstaltungsangebote).
                             Wir können Cookies und ähnliche Tracking-Technologien verwenden, um Ihre Daten automatisch zu erfassen
                             personenbezogene Daten zu diesem Zweck (siehe unsere Cookie-Hinweise).
@@ -141,23 +146,28 @@
                             Potenzial durch Tools wie Facebook, Youtube, Instagram, Tik Tok, LinkedIn usw. Und
                             um mit Menschen zu interagieren, die auf Webinhalte reagieren, die von México Amazing &amp;
                             unvergesslich. <br> <br>
-                            Versenden von Marketingmitteilungen. Für Direktmarketing, Werbeaktionen und anderes
+
+                            <u><strong>Versenden von Marketingmitteilungen.</strong></u> Für Direktmarketing, Werbeaktionen und anderes
                             Nicht-transaktionale Kommunikation wie Newsletter, Anrufe oder Push-Benachrichtigungen für
                             Informationen über Sonderangebote, Werbeaktionen und Veranstaltungen auszutauschen oder mit ihnen zu kommunizieren
-                            Wir informieren Sie entsprechend Ihren Präferenzen über Informationen, von denen wir glauben, dass sie für Sie von Interesse sein könnten.
-                            Verwaltung der Registrierung von Veranstaltungen und Wettbewerben. Zum Planen und Organisieren von Veranstaltungen bzw
+                            Wir informieren Sie entsprechend Ihren Präferenzen über Informationen, von denen wir glauben, dass sie für Sie von Interesse sein könnten. <br><br>
+
+
+                            <u><strong>Verwaltung von Veranstaltungs- und Wettbewerbsanmeldungen.</strong></u> Zur Planung und Organisation von Veranstaltungen bzw
                             Seminare, für die Sie sich angemeldet oder an denen Sie teilgenommen haben (einschließlich des Versendens von Mitteilungen).
                             verwandten Themen) und um Werbeaktionen bereitzustellen, an denen Sie teilnehmen möchten. <br> <br>
 
-                            Analytische Forschung und Verbesserung. Um besser zu verstehen, wie Sie auf die Website zugreifen und sie nutzen
-                            um die Qualität unserer Dienstleistungen zu bewerten, diese zu optimieren und neue Dienstleistungen zu entwickeln.
-                            Schutz gesetzlicher Rechte und Vermeidung von Missbrauch. Zum Schutz der Website, der Angebote und
+                            <u><strong>Analytische Forschung und Verbesserung.</strong></u> Um besser zu verstehen, wie Sie auf die Website zugreifen und diese nutzen
+                            um die Qualität unserer Dienstleistungen zu bewerten, diese zu optimieren und neue Dienstleistungen zu entwickeln. <br> <br>
+
+                            <u><strong>Schutz der gesetzlichen Rechte und Vermeidung von Missbrauch.</strong></u> Zum Schutz der Website, Angebote und
                             die Rechte von Benutzern und anderen Personen; um unbefugten Zugriff und andere Nutzungen zu verhindern
                             unangemessen; und wenn wir glauben, dass es notwendig ist, diesbezüglich Untersuchungen, Vorbeugungen oder Maßnahmen zu ergreifen
                             illegale Aktivitäten, mutmaßlicher Betrug, Situationen mit potenziellen Bedrohungen für die
                             Sicherheit von Personen oder Verstöße gegen unsere Nutzungsbedingungen oder diesen Hinweis. Kann
                             Verwenden Sie für diese Zwecke maschinelle oder Deep-Learning-Technologien (z. B. für die
                             Betrugsprävention oder -erkennung). <br><br>
+
                         </p>
                         <h4>Personenbezogene Daten erfassen wir NICHT</h4>
                         <p>
@@ -196,15 +206,15 @@
                         <p>
                             Die Rechte im Zusammenhang mit Ihren personenbezogenen Daten gemäß den Datenschutzgesetzen,
                             umfassen: <br><br>
-                            <b>Zugriff</b>. Sie können von uns eine Bestätigung darüber verlangen, ob wir Ihre personenbezogenen Daten verarbeiten,
+                            <b><u>Zugriff</u></b>. Sie können von uns eine Bestätigung darüber verlangen, ob wir Ihre personenbezogenen Daten verarbeiten,
                             Ihnen Einzelheiten zu dieser Verarbeitung mitzuteilen und Ihnen eine Kopie Ihrer personenbezogenen Daten auszuhändigen. Es gibt kein
                             Für die Kopieanforderung fallen keine Kosten an. <br><br>
-                            <b>Löschen</b>. Sie können von uns die Löschung Ihrer personenbezogenen Daten verlangen, wenn folgende Voraussetzungen erfüllt sind:
+                            <b><u>Löschen</u></b>. Sie können von uns die Löschung Ihrer personenbezogenen Daten verlangen, wenn folgende Voraussetzungen erfüllt sind:
                             Bedingungen. Wir sind nicht verpflichtet, Ihrer Aufforderung zur Löschung Ihrer personenbezogenen Daten nachzukommen, wenn dies der Fall ist
                             Die Verarbeitung Ihrer personenbezogenen Daten ist zur Erfüllung einer rechtlichen Verpflichtung erforderlich
                             (siehe Informationsverteilungsstelle) oder zur Gründung, Ausübung oder Verteidigung
                             von Rechtsansprüchen. <br><br>
-                            <b>Einspruch</b>. Sie können der Verarbeitung Ihrer personenbezogenen Daten schriftlich widersprechen,
+                            <b><u>Einspruch</u></b>. Sie können der Verarbeitung Ihrer personenbezogenen Daten schriftlich widersprechen,
                             Dies geschieht auf der Grundlage unserer berechtigten Interessen, wenn Sie davon ausgehen, dass Ihre Rechte und Freiheiten verletzt werden
                             Grundsätzliches überwiegt unsere berechtigten Interessen. <br></br>
                             Wenn Sie der Verarbeitung Ihrer personenbezogenen Daten durch uns schriftlich widersprechen, haben wir die Möglichkeit dazu
@@ -213,18 +223,18 @@
                             Sie können der Verarbeitung Ihrer personenbezogenen Daten zu Direktmarketingzwecken widersprechen
                             Dazu gehört auch das Profiling, soweit es mit solcher Direktwerbung in Verbindung steht.
                             Wir werden dann die Verarbeitung Ihrer personenbezogenen Daten für Direktmarketingzwecke einstellen. <br><br>
-                            <b>Portabilität</b>. Sie können uns bitten, Ihnen Ihre personenbezogenen Daten in einem Format zur Verfügung zu stellen
+                            <b><u>Portabilität</u></b>. Sie können uns bitten, Ihnen Ihre personenbezogenen Daten in einem Format zur Verfügung zu stellen
                             strukturiert, allgemein gebräuchlich und maschinenlesbar, oder Sie können die direkte Übermittlung anfordern
                             an einen anderen Datenverantwortlichen, jedoch nur, wenn unsere Verarbeitung auf Ihrer Einwilligung beruht.
                             Die Verarbeitung erfolgt automatisiert. Dies ist nicht möglich, wenn es in Bearbeitung ist
                             einer der im Informationsverteilungspunkt angegebenen Unterabsätze. <br><br>
-                            <b>Berichtigung</b>. Sie können uns bitten, Ihrer Meinung nach Informationen zu aktualisieren oder zu korrigieren
+                            <b><u>Berichtigung</u></b>. Sie können uns bitten, Ihrer Meinung nach Informationen zu aktualisieren oder zu korrigieren
                             ungenau oder Ihrer Meinung nach unvollständig sind; Wir können die Richtigkeit der Daten vorher überprüfen
                             sie korrigieren. <br><br>
-                            <b>Einschränkung</b>. Sie können uns bitten, die Daten einzuschränken (d. h. beizubehalten, aber nicht zu verwenden).
-                            Ihre personenbezogenen Daten, es sei denn, es handelt sich um die Anwendung der Vertriebsstelle des
-                            Information.
-                            <b>Widerruf der Einwilligung</b>. Sie können Ihre Einwilligung widerrufen, wenn die Verarbeitung erfolgt
+                            <b><u>Einschränkung</u></b>. Sie können uns bitten, die Daten einzuschränken (d. h. beizubehalten, aber nicht zu verwenden).
+                            Ihre persönlichen Daten, es sei denn, es handelt sich um die Anwendung der Vertriebsstelle der
+                            Information. <br><br>
+                            <b><u>Widerruf der Einwilligung</u></b>. Sie können Ihre Einwilligung widerrufen, wenn die Verarbeitung erfolgt
                             auf Grundlage einer zuvor von Ihnen erteilten Einwilligung. Ihr Widerruf der Einwilligung gilt nicht
                             Auswirkungen auf die Rechtmäßigkeit der Verarbeitung haben, die vor Wirksamwerden Ihres Widerrufs der Einwilligung durchgeführt wurde
                             Gültigkeit. <br><br>
