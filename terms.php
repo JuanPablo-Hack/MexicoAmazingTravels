@@ -64,19 +64,19 @@
                         <h2>Terms and Conditions</h2>
                         <br> <br>
                         <p>
-                            Welcome to our website. This is a technological tool from Mexico Amazing &amp; unforgettable
+                            Welcome to our website. This is a technological tool from Mexico Amazing &amp; Unforgettable
                             designed for the purpose of allowing the User to search, request and book tours. Destinations and packages of the
                             different regions of the country under a range of services with activities of all kinds and travel experiences. <br> <br>
                         </p>
                         <h4>Terms</h4>
                         <p>
-                            Mexico Amazing &amp; Unforgettable is the legitimate owner or authorized to market and use the Website
+                            Incredible Mexico &amp; Unforgettable is the legitimate owner or authorized to market and use the Website
                             with email address and other offers you make. <br><br>
-                            If you continue browsing and using this website, you confer the character of Customer and agree to comply with and be
+                            If you continue browsing and using this website, you will grant the status of Customer and agree to comply with and be
                             subject to the following terms and conditions, which together with our privacy policy govern the relationship
-                            between Mexico Amazing &amp; Unforgettable and you in connection with this site. <br><br>
+                            between Incredible Mexico &amp; Unforgettable and you in relation to this site. <br><br>
                             The acceptance of these Terms regulates the access and use of the Site and establishes a contractual relationship between the
-                            Client and Mexico Amazing &amp; unforgettable. If the Client does not accept these Terms and Conditions, the Client will not
+                            Client and Mexico Amazing &amp; Unforgettable. If the Client does not accept these Terms and Conditions, the Client will not
                             may access or use the Site and México Amazing &amp; Unforgettable may terminate these Terms or
                             any of the Services concerning the Client or, in general, stop offering or deny access to the
                             Place. <br><br>
@@ -90,7 +90,7 @@
                             Mexico Amazing &amp; Unforgettable reserves the right to take photographs and videos during the duration of the
                             trip or part of it, and to use the photographs and videos for the promotion of the services of Mexico
                             Amazing &amp; unforgettable. By booking, trip users agree to allow their images to be used in
-                            said photographs and videos as well as giving your opinion about your trip and quality of the service provided.
+                            said photographs and videos as well as giving your opinion about your trip and quality of the service provided. <br> <br>
                             This site may include links to other websites. If included, these links can be
                             provide to the user for their convenience and to obtain more information. This does not mean that
                             we stand behind the websites. Mexico Amazing &amp; Unforgettable has no responsibility for the
@@ -125,7 +125,7 @@
                             program. It is not necessary to indicate anything in the Total people or Available Places buttons
                             (marked in yellow), the result will appear automatically. <br><br>
                             Before pressing the Calculate Price button, make sure you have accepted the Terms and Conditions
-                            indicated here. If you do not accept them or forget this step, the reservation is automatically cancelled.
+                            indicated here. If you do not accept them or forget this step, the reservation is automatically cancelled. <br><br>
                             By pressing the Calculate the Price button, the information that confirms the quantity will appear at the bottom
                             of people, the Package, Destination, Selected date and it will indicate the price per person and the total cost
                             From the trip. <br><br>
@@ -138,7 +138,7 @@
                             If you have made the payment and sent the photograph of the deposit, the user will receive another email in response
                             indicating the airline, departure time, ticket (QR to board for each companion), seats
                             reserved, access door to the plane and confirmation of receipt by our staff upon arrival at the
-                            Destination. From those moments, our staff will take you to the hotel and give basic instructions of the tour.
+                            Destination. From those moments, our staff will take you to the hotel and give basic instructions of the tour. <br><br>
                             The reservation dates are subject to availability and if the space is full, you will always have
                             the option to select another date. <br><br>
                             <b>Reservation time scheduling</b>. To ensure your place and that of your companions Mexico
@@ -180,13 +180,13 @@
                             avoid price fluctuations. <br><br>
                             When making the payment of the selected package, you do not need to make extra payments (except for the
                             change of name of a companion), you have already covered the entirety of your trip. <br><br>
-                            Payment methods. The user can pay for his trip with electronic transfer. <br><br>
-                            Of the Services. There are conditions in the services offered by México Amazing &amp; Unforgettable at all
+                            <strong>Payment methods.</strong> The user can pay for his trip with electronic transfer. <br><br>
+                            <strong>Of the Services.</strong> There are conditions in the services offered by México Amazing &amp; Unforgettable at all
                             the destinations. <br><br>
                             <u>Flight</u>: Upon receiving your flight details, Mexico Amazing &amp; Unforgettable is not responsible if the user
                             You don't arrive on time and miss your exit. It is important that you send notification to locate another flight, but the
                             purchase of new tickets is the responsibility of the user. <br><br>
-                            Transportation: The transportation units used by Mexico Amazing &amp; Unforgettable are comfortable, safe and
+                            <u>Transportation:</u> The transport units used by México Amazing &amp; Unforgettable are comfortable, safe and
                             they have insurance. Any damage to the units caused by the user is borne by the payment of the
                             deductible. <br><br>
                             <u>Lodging</u>: Your reservation includes lodging and breakfast. Any other service offered by the hotel
@@ -194,7 +194,7 @@
                             caused by the user. <br><br>
                             <u>Tickets to special events</u>: They are included for the user and their companions on their trip. Tickets
                             Extras must be paid by the user. <br><br>
-                            Shopping for Handicrafts: The staff at México Amazing &amp; Unforgettable will support you in taking you to places of
+                            <u>Buying Crafts:</u> The staff at México Amazing &amp; Unforgettable will support you in taking you to places of
                             better quality in manufacturing of crafts, but the price is a direct deal between you and the craftsman. <br><br>
 
                             <u>Medical Support</u>: We have Travel Insurance for accidents and it is included in the package.
@@ -224,7 +224,7 @@
                             all kinds of economic rights over works and creations protected by copyright and other
                             forms of industrial or intellectual property recognized or that may be recognized by law
                             corresponding. <br><br>
-                            Los clientes reconocen y aceptan que México Amazing &amp; Unforgettable es el propietario legítimo o tiene los
+                            Clients acknowledge and accept that Mexico Amazing &amp; Unforgettable is the rightful owner or has the
                             necessary rights on the Site, including trade names, trademarks, service marks,
                             logos, domain names and others from Mexico Amazing &amp; Unforgettable for being distinctive features
                             trademarks contained therein, whether those rights are registered or not. in any part of
