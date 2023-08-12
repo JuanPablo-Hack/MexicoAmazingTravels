@@ -63,207 +63,207 @@
                 <ul class="list-xl box-typography">
                     <li>
                         <br><br>
-                        <h2>Conditions d'utilisation</h2>
+                        <h2>Términos y Condiciones</h2>
                         <br> <br>
                         <p>
-                            Bienvenue sur notre site. Il s'agit d'un outil technologique du Mexique Amazing &amp; inoubliable
-                            conçu dans le but de permettre à l'utilisateur de rechercher, demander et réserver des visites. Destinations et forfaits du
-                            différentes régions du pays sous une gamme de services avec des activités de toutes sortes et des expériences de voyage. <br> <br>
+                            Bienvenido a nuestro sitio web. Ésta es una herramienta tecnológica de México Amazing &amp; Unforgettable
+                            diseñada con el propósito de permitirle al Usuario buscar, solicitar y reservar tours. Destinos y paquetes de las
+                            distintas regiones del País bajo una gama de servicios con actividades de todo tipo y experiencias de viaje. <br> <br>
                         </p>
-                        <h4>Conditions</h4>
+                        <h4>Términos</h4>
                         <p>
-                            Mexique Incroyable &amp; Unforgettable est le propriétaire légitime ou autorisé à commercialiser et à utiliser le site Web
-                            avec l'adresse e-mail et d'autres offres que vous faites. <br><br>
-                            Si vous continuez à naviguer et à utiliser ce site Web, vous confèrez la qualité de Client et acceptez de vous conformer et d'être
-                            sous réserve des termes et conditions suivants, qui, avec notre politique de confidentialité, régissent la relation
-                            entre le Mexique Incroyable &amp; Inoubliable et vous en rapport avec ce site. <br><br>
-                            L'acceptation des présentes Conditions réglemente l'accès et l'utilisation du Site et établit une relation contractuelle entre le
-                            Client et Mexique Incroyable &amp; inoubliable. Si le Client n'accepte pas ces Termes et Conditions, le Client ne
-                            peut accéder ou utiliser le Site et México Amazing &amp; Unforgettable peut résilier les présentes Conditions ou
-                            l'un quelconque des Services concernant le Client ou, d'une manière générale, cesser de proposer ou refuser l'accès au
-                            Lieu. <br><br>
-                            Le contenu de ce site Web est uniquement destiné à votre information générale et à votre utilisation. Il est susceptible d'être modifié sans
-                            préavis. <br><br>
-                            Ce site contient du matériel appartenant à México Amazing &amp; inoubliable ou que nous sommes licenciés. Ce
-                            le matériel comprend, sans s'y limiter, la conception, la mise en page, l'apparence, l'apparence et les graphiques. la lecture est
-                            interdit sauf autorisation de México Amazing &amp; Inoubliable conformément à l'avis de
-                            droit d'auteur. L'utilisation non autorisée de ce site peut donner lieu à une demande de dommages et intérêts
-                            et être une infraction pénale. <br><br>
-                            Mexique Incroyable &amp; Unforgettable se réserve le droit de prendre des photos et des vidéos pendant la durée de la
-                            voyage ou une partie de celui-ci, et d'utiliser les photographies et vidéos pour la promotion des services du Mexique
-                            Incroyable &amp; inoubliable. En réservant, les utilisateurs du voyage acceptent que leurs images soient utilisées dans
-                            lesdites photographies et vidéos ainsi que donner votre avis sur votre voyage et la qualité de la prestation fournie.
-                            Ce site peut inclure des liens vers d'autres sites Web. S'ils sont inclus, ces liens peuvent être
-                            fournir à l'utilisateur pour sa commodité et pour obtenir plus d'informations. Cela ne veut pas dire que
-                            nous sommes derrière les sites Web. Mexique Incroyable &amp; Unforgettable n'a aucune responsabilité pour
-                            contenu des sites liés. Il n'est pas autorisé de créer un lien vers ce site à partir d'un autre site ou
-                            document sans le consentement écrit préalable de Mexico Amazing &amp; Inoubliable <br><br>
-                            L'utilisation de toute information ou matériel sur ce site est à vos propres risques et dont les conséquences
-                            Mexique incroyable &amp; Unforgettable ne sera pas responsable. Il incombera à l'utilisateur de s'assurer que
-                            tout produit, service ou information disponible sur ce site Web répond à vos exigences
-                            spécifique. <br><br>
-                            L'utilisation de toute image en dehors du cadre de la promotion et de la commercialisation du Mexique est interdite
-                            Incroyable &amp; inoubliable. L'utilisation de toute image sur le site pour commercialiser ou représenter tout
-                            produit en dehors de celui qui représente México Amazing &amp; Unforgettable constitue une violation de cet accord.
-                            Toutes les marques reproduites sur ce site sans l'accord écrit préalable de
-                            México Amazing Unforgettable ou qui ne vous appartiennent pas, sont reconnus sur le site Web. <br> <br>
-                            Dans le cas où Mexico Amazing &amp; Inoubliable d'agir comme intermédiaire dans les services fournis
-                            par des Tiers Autorisés, les informations relatives à ces services seront de leur responsabilité, pour quoi
-                            Mexique Incroyable &amp; Unforgettable n'est pas directement ou indirectement obligé d'exécuter le Service et est
-                            décline toute responsabilité quant aux Services ou au développement de la relation commerciale entre eux tels qu'ils sont
-                            uniquement un facilitateur d'information et de relation commerciale entre l'Utilisateur et les Tiers Autorisés. <br><br>
-                            Ni le Mexique Incroyable &amp; Ni Unforgettable ni les Tiers Autorisés n'offrent de garantie quant à la
-                            l'exactitude, l'actualité, la performance et l'exhaustivité des informations trouvées ou proposées sur ce site
-                            dans un but particulier. Vous reconnaissez que ces informations peuvent contenir des inexactitudes ou
-                            erreurs et nous ne déclinons pas la responsabilité de ces inexactitudes ou erreurs dans toute la mesure
-                            autorisé par la loi. <br><br>
+                            México Amazing &amp; Unforgettable es el legítimo titular o autorizado para comercializar y utilizar el Sitio Web
+                            con dirección de correo electrónico y demás ofertas que realice. <br><br>
+                            Si continúa navegando y utilizando este sitio web, le confiere el carácter de Cliente y acepta cumplir y estar
+                            sujeto a los siguientes términos y condiciones, que junto con nuestra política de privacidad rigen la relación
+                            entre México Amazing &amp; Unforgettable y usted en relación con este sitio. <br><br>
+                            La aceptación de estos Términos regula el acceso y uso del Sitio y establece una relación contractual entre el
+                            Cliente y México Amazing &amp; Unforgettable. Si el Cliente no acepta estos Términos y Condiciones, el Cliente no
+                            puede acceder o utilizar el Sitio y México Amazing &amp; Unforgettable podrá dar por terminados estos Términos o
+                            cualquiera de los Servicios concernientes al Cliente o, en general, dejar de ofrecer o denegar el acceso al
+                            Sitio. <br><br>
+                            El contenido de este sitio web es únicamente para su información general y uso. Está sujeto a cambios sin
+                            previo aviso. <br><br>
+                            Este sitio contiene material que pertenece a México Amazing &amp; unforgettable o que tenemos licencia. Este
+                            material incluye, sin limitarse al diseño, presentación, aspecto, apariencia y gráficos. La reproducción está
+                            prohibida excepto cuando exista autorización de México Amazing &amp; Unforgettable conforme al aviso de
+                            derechos de autor. El uso no autorizado de este sitio puede dar lugar a una reclamación por daños y perjuicios
+                            y ser un delito penal. <br><br>
+                            México Amazing &amp; Unforgettable se reserva el derecho de tomar fotografías y videos durante la duración del
+                            viaje o parte del mismo, y de utilizar las fotografías y videos para la promoción de los servicios de México
+                            Amazing &amp; Unforgettable. Al reservar, los usuarios del viaje aceptan permitir que sus imágenes se utilicen en
+                            dichas fotografías y videos así como dar su opinión acerca de su viaje y calidad en el servicio proporcionado. <br> <br>
+                            Este sitio puede incluir enlaces a otros sitios web. En caso de estar incluidos, estos enlaces se pueden
+                            proporcionar al usuario para su conveniencia y para obtener más información. Esto no significa que
+                            respaldamos los sitios web. México Amazing &amp; Unforgettable no tiene ninguna responsabilidad por el
+                            contenido de los sitios vinculados. No se autoriza crear un enlace a este sitio web desde otro sitio web o
+                            documento sin el consentimiento previo por escrito de México Amazing &amp; Unforgettable <br><br>
+                            El uso de cualquier información o material en este sitio es bajo su propio riesgo y de cuyas consecuencias
+                            México amazing &amp; Unforgettable no será responsable. Será responsabilidad del usuario asegurarse de que
+                            cualquier producto, servicio o información disponible a través de este sitio web cumpla con sus requisitos
+                            específicos. <br><br>
+                            Se prohíbe el uso de cualquier imagen fuera del alcance de la promoción y comercialización de México
+                            Amazing &amp; Unforgettable. El uso de cualquier imagen del sitio para comercializar o representar cualquier
+                            producto fuera del que representa México Amazing &amp; Unforgettable constituye una violación de este acuerdo.
+                            Todas las marcas comerciales que se reproduzcan en este sitio sin el consentimiento previo por escrito de
+                            México Amazing Unforgettable o que no son de su propiedad, se reconocen en el sitio web. <br> <br>
+                            En el caso de que México Amazing &amp; Unforgettable fungiera como intermediario en servicios proporcionados
+                            por Terceros Autorizados, la información sobre esos servicios serán responsabilidad de ellos por lo que
+                            México Amazing &amp; Unforgettable no está obligada directa o indirectamente a la realización del Servicio y se
+                            deslinda de responsabilidades por los Servicios ni del desarrollo de la relación comercial entre ellos al ser
+                            únicamente un facilitador de información y relación comercial entre el Usuario y Terceros Autorizados. <br><br>
+                            Ni México Amazing &amp; Unforgettable ni Terceros Autorizados brindamos ninguna garantía en cuanto a la
+                            exactitud, puntualidad, rendimiento e integridad de la información que se encuentran u ofrecen en este sitio
+                            para cualquier propósito en particular. Usted reconoce que dicha información puede contener inexactitudes o
+                            errores y no deslindamos de la responsabilidad por tales inexactitudes o errores en la máxima medida
+                            permitida por la ley. <br><br>
                         </p>
-                        <h4> Conditions </h4>
+                        <h4> Condiciones</h4>
                         <p>
-                            <b>Procédures de réservation</b>. L'Utilisateur, pour demander une réservation dans l'une des Destinations et
-                            forfaits proposés sur le Site, vous devez remplir le formulaire indiqué dans l'espace de réservation. La
-                            Les informations demandées sont : nom, e-mail, pays d'origine, ville d'origine, téléphone
-                            Contact, Compagnons adultes, Compagnons mineurs (si pris en compte), Destination, Forfait et Date de
-                            programme. Il n'est pas nécessaire d'indiquer quoi que ce soit dans les boutons Nombre total de personnes ou Places disponibles
-                            (marqué en jaune), le résultat apparaîtra automatiquement. <br><br>
-                            Avant d'appuyer sur le bouton Calculer le prix, assurez-vous d'avoir accepté les Termes et Conditions
-                            indiqué ici. Si vous ne les acceptez pas ou oubliez cette étape, la réservation est automatiquement annulée.
-                            En appuyant sur le bouton Calculer le prix, les informations qui confirment la quantité apparaîtront en bas
-                            de personnes, le forfait, la destination, la date sélectionnée et il indiquera le prix par personne et le coût total
-                            du voyage. <br><br>
-                            En appuyant sur le bouton Réserver maintenant et en confirmant, vous recevrez un message avec votre code de réservation (généré
-                            automatiquement) et les instructions de paiement. <br><br>
-                            <b>Confirmation de réservation</b>. Une fois que nous avons votre confirmation de voyage, l'utilisateur dispose de 48 heures. pour
-                            effectuer le paiement de réservation indiqué dans le message. La photo de votre dépôt que vous envoyez au courrier de
-                            Mexique Incroyable &amp; Inoubliable aidera la confirmation. Si après 48h. n'a pas effectué le paiement
-                            réservation et le code seront annulés automatiquement, mais vous pourrez effectuer une autre réservation. <br><br>
-                            Si vous avez effectué le paiement et envoyé la photo du dépôt, l'utilisateur recevra un autre e-mail en réponse
-                            indiquant la compagnie aérienne, l'heure de départ, le billet (QR à bord pour chaque accompagnateur), les sièges
-                            réservée, porte d'accès à l'avion et confirmation de réception par notre personnel à l'arrivée à l'aéroport
-                            Destination. À partir de ces moments, notre personnel vous conduira à l'hôtel et vous donnera les instructions de base de la visite.
-                            Les dates de réservation sont soumises à disponibilité et si l'espace est complet, vous aurez toujours
-                            la possibilité de sélectionner une autre date. <br><br>
-                            <b>Planification des heures de réservation</b>. Pour assurer votre place et celle de vos compagnons Mexique
-                            Incroyable &amp; Unforgettable exige qu'ils soient faits au moins 45 jours à l'avance. Cela vous permettra de faire le
-                            réservations de vols, achat de billets pour des événements spéciaux et des sites archéologiques, réservations de
-                            restaurants et hébergement surtout avec sécurité. <br><br>
-                            <b>Annulation de réservation</b>. Si vous effectuez le paiement dans ces 45 jours, vous disposez de 15 jours
-                            décide d'annuler le voyage, mais accepte de recevoir un remboursement de 40% du total car le
-                            les frais de réservation indiqués au point précédent ont été effectués et 60% est considéré
-                            compensation des dépenses. <br><br>
-                            Pour annuler et recevoir un remboursement, vous devez d'abord envoyer un courrier à México Amazing &amp; inoubliable
-                            l'informant de votre décision ainsi que vos coordonnées bancaires pour effectuer le virement retour. fait le
-                            virement de 40% du total convenu, vous recevrez dans votre courrier la feuille de dépôt bancaire qui confirme le
-                            retour et vous acceptez que vous l'avez reçu à votre satisfaction et renoncez à toute réclamation légale ultérieure. <br><br>
+                            <b>Procedimientos de Reservación</b>. El Usuario, para solicitar reservación en cualquiera de los Destinos y
+                            paquetes ofrecidos en el Sitio, deberá completar el formulario indicado en el espacio de reservaciones. La
+                            información solicitada es: Nombre, Correo electrónico, País de Origen, Ciudad de origen, Teléfono de
+                            contacto, Acompañantes adultos, Acompañantes menores (si los considera), Destino, Paquete y Fecha a
+                            programar. No es necesario indicar nada en los botones de Total de personas ni Lugares Disponibles
+                            (marcados en color amarillo), el resultado aparecerá en automático. <br><br>
+                            Antes de oprimir el botón Calcular el Precio, asegúrese de haber aceptado los Términos y condiciones
+                            indicados aquí. Si no las acepta o se olvida de este paso, se cancela en automático la reservación. <br><br>
+                            Al oprimir el botón de Calcular el Precio aparecerá en la parte inferior la información que confirma la cantidad
+                            de personas, el Paquete, Destino, Fecha seleccionada y te indicará el precio por persona y el total de costo
+                            del viaje. <br><br>
+                            Al oprimir el botón de Reservar Ahora y confirmar, recibirá el mensaje con su código de reservación (generado
+                            automáticamente) e instrucciones de pago. <br><br>
+                            <b>Confirmación de Reservación</b>. Una vez que tengamos su Confirmación de Viaje el usuario tiene 48 hrs. para
+                            hacer el pago de la reservación indicado en el mensaje. La fotografía de su depósito que envíe al correo de
+                            México Amazing &amp; Unforgettable ayudará a la confirmación. Si al pasar las 48 hrs. no ha hecho el pago, la
+                            reservación y el código se cancelará automáticamente, pero podrá hacer otra reservación. <br><br>
+                            Si ha hecho el pago y enviado la fotografía del depósito, el usuario recibirá otro correo en respuesta
+                            indicándole La aerolínea, la hora de partida, el boleto (QR para abordar por cada acompañante), asientos
+                            reservados, puerta de acceso al avión y la confirmación de recepción por nuestro personal a su llegada al
+                            Destino. A partir de esos momentos, nuestro personal lo llevará al hotel y dará instrucciones básicas del tour. <br><br>
+                            Las Fechas de reservación están sujetas a disponibilidad y en caso de estar completo el cupo, siempre tendrá
+                            la opción de seleccionar otra fecha. <br><br>
+                            <b>Programación de tiempo de la Reservación</b>. Para asegurar su lugar y el de sus acompañantes México
+                            Amazing &amp; Unforgettable requiere que se hagan al menos con 45 días de anticipación. Esto permitirá hacer la
+                            reservación de vuelos, compra de entradas a eventos especiales y sitios arqueológicos, reservaciones de
+                            restaurantes y de hospedaje especialmente con seguridad. <br><br>
+                            <b>Cancelación de Reservación</b>. Si usted dentro de esos 45 días y ha efectuado el pago, cuenta con 15 días
+                            naturales decide cancelar el viaje, pero acepta que recibirá el reembolso del 40% del total porque ya los
+                            gastos de reservaciones indicados en el punto anterior se han efectuado y el 60% es considerado
+                            indemnización por gastos. <br><br>
+                            Para cancelar y recibir el reembolso debe primero enviar correo a México Amazing &amp; Unforgettable
+                            informando de su decisión junto con sus datos bancarios para hacer la transferencia de devolución. Hecha la
+                            transferencia del 40% del total acordado, recibirá en su correo la ficha de depósito bancario que confirma la
+                            devolución y acepta usted que lo ha recibido a satisfacción y renuncia a reclamos legales posteriores. <br><br>
 
-                            <b>Annulation après la formalisation du voyage</b>. Mexique Incroyable &amp; Inoubliable doit sécuriser tous
-                            les services qui comprennent, en plus de ceux indiqués au point (Programmation horaire de réservation) le
-                            paiement du transport, chauffeurs, guides touristiques, dépenses d'assurance maladie, service de dîner
-                            spéciaux et ballet folklorique. <br><br>
-                            En raison de ce qui précède, le délai pour annuler le voyage avec droit à un remboursement est de 30 jours calendaires avant
-                            dès le début du voyage. Après le premier des 30 jours à l'avance, si vous décidez d'annuler votre voyage, vous acceptez
-                            qu'il n'y a pas de remboursement. 100% est considéré comme une compensation pour les dépenses. <br><br>
-                            La sanction et l'indemnisation en cas d'annulation avant 30 jours et après 30 jours
-                            elles ne seront pas applicables lorsque le client remplacera une autre personne à sa place. tant qu'il ne dépasse pas le montant
-                            de personnes incluses dans la réservation et d'envoyer un courrier informant du changement de personnes à au moins 30
-                            jours calendaires avant le début du voyage. Dans ce cas, l'utilisateur indemnisera Mexico Amazing &amp;
-                            Inoubliable avec 10 % du voyage total de cette personne comme dépenses engagées pour effectuer le remplacement
-                            sur le vol. <br><br>
-                            <b>Itinéraire du forfait sélectionné</b>. Au Mexique Incroyable &amp; Inoubliable nous n'envoyons pas d'itinéraires
-                            improvisé. Notre système de Tours est conçu pour que depuis le Site vous puissiez analyser l'itinéraire vers
-                            suivre en fonction du forfait que vous souhaitez. Dans l'espace Destinations, vous verrez ce qui nous caractérise et les
-                            différentes destinations que nous proposons. En entrant dans chaque destination, vous trouverez les différents forfaits de voyage et dans
-                            chaque forfait l'itinéraire conçu pour ce type de forfait. Cet avantage vous permet d'analyser quel package vous
-                            plus d'intérêts, évitez des frais inutiles et parfois inexistants et surtout, la certitude de ce que vous obtiendrez
-                            dans chaque destination et chaque forfait avant même de prendre une décision. <br><br>
-                            <b>Prix des forfaits</b>. Les prix et tarifs sont indiqués dans chaque Destination et chaque forfait sur ce Site.
-                            Considérez qu'il existe des variations de valeur entre les devises, les prix sont donc susceptibles de changer jusqu'à ce que
-                            que vous confirmiez la réservation et effectuiez le paiement. N'oubliez pas que vous disposez de 48 heures. pour confirmer et ainsi de suite
-                            éviter les fluctuations de prix. <br><br>
-                            Lors du paiement du forfait sélectionné, vous n'avez pas besoin d'effectuer de paiements supplémentaires (à l'exception du
-                            changement de nom d'un accompagnateur), vous avez déjà effectué l'intégralité de votre voyage. <br><br>
-                            Moyen de paiement. L'usager peut régler son trajet par virement électronique. <br><br>
-                            Des Prestations. Il y a des conditions dans les services offerts par México Amazing &amp; Inoubliable du tout
-                            les destinations. <br><br>
-                            <u>Vol</u> : dès réception des détails de votre vol, Mexico Amazing &amp ; Unforgettable n'est pas responsable si l'utilisateur
-                            Vous n'arrivez pas à l'heure et manquez votre sortie. Il est important que vous envoyiez une notification pour localiser un autre vol, mais le
-                            l'achat de nouveaux billets est à la charge de l'utilisateur. <br><br>
-                            Transport : Les unités de transport utilisées par Mexico Amazing &AMP ; Inoubliables sont confortables, sûrs et
-                            ils ont une assurance. Tout dommage aux unités causé par l'utilisateur est supporté par le paiement de la
-                            déductible. <br><br>
-                            <u>Hébergement</u> : votre réservation comprend l'hébergement et le petit-déjeuner. Tout autre service offert par l'hôtel
-                            et en fait usage, est à la charge de l'utilisateur. Aussi si les chambres subissent une détérioration
-                            causé par l'utilisateur. <br><br>
-                            <u>Billets pour des événements spéciaux</u> : ils sont inclus pour l'utilisateur et ses accompagnateurs lors de son voyage. billets
-                            Les extras doivent être payés par l'utilisateur. <br><br>
-                            Shopping pour l'artisanat : Le personnel de México Amazing &amp; Unforgettable vous accompagne pour vous emmener dans des lieux de
-                            meilleure qualité dans la fabrication de l'artisanat, mais le prix est un accord direct entre vous et l'artisan. <br><br>
+                            <b>Cancelación Posterior a la Formalización del Viaje</b>. México Amazing &amp; Unforgettable debe asegurar todos
+                            los servicios que incluyen además de los indicados en el punto (Programación de Tiempo de Reservación) el
+                            pago de transportación, conductores, guías de turistas, gastos de seguro médico, servicio de cenas
+                            especiales y ballet folklórico. <br><br>
+                            Por lo anterior, la fecha límite para cancelar el viaje con derecho a reembolso es de 30 días naturales antes
+                            del inicio del viaje. Pasado el primero de los 30 días de anticipación, si usted decide cancelar su viaje, acepta
+                            que no hay reembolso. El 100% es considerado indemnización de gastos. <br><br>
+                            Tanto la sanción e indemnización en la cancelación con fecha anterior a los 30 días y posterior a los 30 días
+                            no serán aplicables cuando el cliente sustituya a otra persona en su lugar. siempre que no exceda la cantidad
+                            de personas incluidas en la reservación y que envíe correo avisando del cambio de personas al menos 30
+                            días naturales antes del inicio del viaje. En este caso el usuario compensará a México Amazing &amp;
+                            Unforgettable con el 10% del total del viaje de esa persona como gastos incurridos para hacer la sustitución
+                            en el vuelo. <br><br>
+                            <b>Itinerario del paquete seleccionado</b>. En México Amazing &amp; Unforgettable no enviamos itinerarios
+                            improvisados. Nuestro sistema de Tours está diseñado para que desde el Sitio puedas analizar el itinerario a
+                            seguir dependiendo del paquete que desees. En el espacio de Destinos verás lo que nos caracteriza y los
+                            diferentes destinos que ofrecemos. Al entrar a cada destino encontrarás los diferentes paquetes de viaje y en
+                            cada paquete el itinerario diseñado para ese tipo de paquete. Esta ventaja te permite analizar que paquete te
+                            interesa más, evitar cargos innecesarios y a veces inexistentes y sobre todo, la certeza de lo que obtendrás
+                            en cada destino y cada paquete aún antes de tomar una decisión. <br><br>
+                            <b>Precios de los paquetes</b>. Los precios y tarifas están indicados en cada Destino y cada paquete de este Sitio.
+                            Considere que hay variaciones de valor entre las divisas por eso los precios están sujetos a cambios hasta
+                            que usted confirme la reservación y efectúe el pago. Recuerde que cuenta con 48 hrs. para confirmar y así
+                            evitar variaciones en el precio. <br><br>
+                            Al efectuar el pago del paquete seleccionado, usted no necesita efectuar pagos extras (a excepción del
+                            cambio de nombre de algún acompañante), ya ha cubierto la totalidad de su viaje. <br><br>
+                            <strong>Métodos de pago.</strong> El usuario puede pagar su viaje con transferencia electrónica. <br><br>
+                            <strong>De los Servicios.</strong> Existen condiciones en los servicios que ofrece México Amazing &amp; Unforgettable en todos
+                            los destinos. <br><br>
+                            <u>Vuelo</u>: Al recibir los datos de su vuelo, México Amazing &amp; Unforgettable no se hace responsable si el usuario
+                            no llega a tiempo y pierda su salida. Es importante que envíe notificación para localizar otro vuelo, pero la
+                            compra de nuevos boletos corre por cuenta del usuario. <br><br>
+                            <u>Transporte:</u> Las unidades de transporte que utiliza México Amazing &amp; Unforgettable son cómodas, seguras y
+                            tienen seguro. Cualquier daño a las unidades causado por el usuario corre por su cuenta el pago del
+                            deducible. <br><br>
+                            <u>Hospedaje</u>: Su reservación le incluye el hospedaje y los desayunos. Cualquier otro servicio que ofrece el hotel
+                            y hace uso de alguno, corre por cuenta del usuario. También si las habitaciones sufren algún deterioro
+                            ocasionado por el usuario. <br><br>
+                            <u>Entradas a eventos especiales</u>: Están incluidas para el usuario y sus acompañantes en su viaje. Entradas
+                            extras deberán ser pagadas por el usuario. <br><br>
+                            <u>Compra de Artesanías:</u> El personal de México Amazing &amp; Unforgettable le apoyará en llevarlo a los lugares de
+                            mejor calidad en manufactura de artesanías, pero el precio es un trato directo entre usted y el artesano. <br><br>
 
-                            <u>Assistance médicale</u> : nous avons une assurance voyage pour les accidents et elle est incluse dans le forfait.
-                            Si le patient nécessite, en plus de l'hospitalisation, un traitement pour des cas graves tels que des problèmes cardiaques,
-                            le service médical est à votre charge. <br><br>
-                            <u>Nourriture</u> : Les petits-déjeuners et les repas sont inclus dans le forfait pendant votre séjour et celui de votre
-                            compagnons. Si vous décidez d'aller manger ailleurs en dehors de l'itinéraire, les frais sont à votre charge. <br><br>
-                            <u>Accompagnement en colis</u> : Si vous avez fait des achats notamment d'objets qui peuvent être délicats comme
-                            objets d'artisanat, Mexique Amazing &amp; Unforgettable s'engage à vous accompagner dans le transfert et
-                            l'emballage de vos articles, mais l'expédition est à votre charge. <br><br>
+                            <u>Soporte Médico</u>: Contamos con el Seguro de Viajero para casos de accidentes y está incluido en el paquete.
+                            Si el enfermo requiere además de hospitalización, tratamiento para casos graves como problemas cardiacos,
+                            el servicio médico corre por su cuenta. <br><br>
+                            <u>Alimentos</u>: Los desayunos y las comidas se incluyen en el paquete durante su estancia y la de sus
+                            acompañantes. Si usted decide ir a comer a otro sitio fuera del itinerario, el gasto corre por su cuenta. <br><br>
+                            <u>Apoyo en paquetería</u>: Si usted ha hecho compras especialmente de objetos que pueden ser delicados como
+                            artículos de artesanía, México Amazing &amp; Unforgettable se compromete a apoyarlo en el traslado y
+                            empaquetado de sus artículos, pero el pago por el envío corre por cuenta de usted. <br><br>
                         </p>
-                        <h4> Fondamentaux juridiques</h4>
+                        <h4> Fundamentos Legales</h4>
                         <p>
-                            <b>Acceptation des Termes et Conditions</b>. En acceptant ces Termes et Conditions, les Utilisateurs
-                            Ils renoncent expressément à toute réclamation, demande ou poursuite judiciaire. devant toute autorité
-                            Mexicain ou étranger contre le Mexique Amazing &amp; Inoubliable, ainsi que toute personne liée et
-                            affilié au Mexique Amazing &amp; Inoubliable, y compris, sans s'y limiter, les administrateurs, les mandataires,
-                            mandataires, administrateurs, salariés et actionnaires, présents ou passés, pour tout acte
-                            découle ou peut découler de l'utilisation du Site et des Services, ou de tout service dérivé de cette utilisation. <br><br>
-                            <b>Propriété industrielle et droit d'auteur</b>. Mexique Incroyable &amp; Unforgettable autorise ses Clients à
-                            utiliser le Site exclusivement dans les termes exprimés ici, sans impliquer qu'il accorde le
-                            Clients licence, autorisation ou tout autre droit que ceux mentionnés ci-dessus, relatifs à la
-                            Propriété industrielle et droit d'auteur du Mexique Amazing &amp; Inoubliable, entendu comme : le
-                            marques déposées et utilisées au Mexique ou à l'étranger par Mexico Amazing &amp; inoubliable; Les
-                            les droits sur les inventions (brevetées ou non), les dessins et modèles industriels, les modèles d'utilité, les informations confidentielles,
-                            noms commerciaux, secrets, avis commerciaux, réserves de droits, noms de domaine ; ainsi que
-                            toutes sortes de droits patrimoniaux sur les œuvres et créations protégées par le droit d'auteur et autres
-                            les formes de propriété industrielle ou intellectuelle reconnues ou pouvant être reconnues par la loi
-                            correspondant. <br><br>
-                            Les clients reconnaissent et acceptent que Mexico Amazing &amp; Unforgettable est le propriétaire légitime ou a le
-                            droits nécessaires sur le Site, y compris les noms commerciaux, les marques de commerce, les marques de service,
-                            logos, noms de domaine et autres du Mexique Amazing &amp; Inoubliable pour être des caractéristiques distinctives
-                            des marques qui y sont contenues, que ces droits soient enregistrés ou non. dans n'importe quelle partie de
-                            monde, de tels droits peuvent exister et sont protégés par le droit d'auteur international et les lois internationales sur le droit d'auteur et
-                            traités de propriété industrielle. Par conséquent, le Client accepte que les Marques du Mexique Amazing &amp;
-                            Unforgettable ne peut être copié, reproduit, modifié, publié, téléchargé, posté,
-                            transmis ou distribué de quelque manière que ce soit. Sauf indication contraire dans le présent document, le Mexique
-                            Incroyable &amp; Unforgettable n'accorde aux Clients aucun droit exprès ou implicite en vertu d'un quelconque brevet,
-                            informations sur le droit d'auteur, la marque ou le secret commercial. Les clients reconnaissent et conviennent que
-                            le Site et tous ses designs sont et resteront à tout moment la propriété de México Amazing &amp;
-                            inoubliable. <br><br>
-                            <b>Autorisation des commentaires</b>. Lorsque les clients fournissent des commentaires à Mexico Amazing &amp; inoubliable
-                            concernant la fonctionnalité du Site, ses performances (y compris l'identification d'éventuelles erreurs et améliorations),
-                            expériences et opinions des services. Dans ce cas, les Clients, de ce fait, autorisent
-                            Mexique Incroyable &amp; Inoubliable à utiliser, sans restriction les commentaires exprimés. Sans que cela soit considéré
-                            comme un droit moral des Clients d'exiger toute participation ou compensation monétaire, ou
-                            restriction sur l'utilisation de tels commentaires pour l'exploitation par México Amazing &amp; Inoubliable.<br><br>
-                            <b>Formulaire numérique, électronique et communication imprimée</b>. Le Client accepte que l'accord avec le Mexique
-                            Incroyable &amp; Inoubliable est le format Digital, Electronique ou Online, où il suffira d'exprimer votre volonté
+                            <b>Aceptación de los Términos y Condiciones</b>. Al aceptar estos Términos y Condiciones, los Usuarios
+                            renuncian expresamente a cualquier reclamo, demanda o procedimiento judicial. ante cualquier autoridad
+                            mexicana o extranjera contra México Amazing &amp; Unforgettable, así como cualquier persona relacionada y
+                            afiliada a México Amazing &amp; Unforgettable, incluyendo, sin limitarse a, directores, apoderados,
+                            representantes, administradores, empleados y accionistas, presentes o pasados, por cualquier acto que se
+                            derive, o pueda derivarse, del uso del Sitio y los Servicios, o cualquier servicio derivado de dicho uso. <br><br>
+                            <b>Propiedad Industrial y Derechos de Autor</b>. México Amazing &amp; Unforgettable autoriza a sus Clientes a
+                            utilizar el Sitio exclusivamente bajo las términos aquí expresados, sin que ello implique que otorga a los
+                            Clientes licencia, autorización o derecho alguno distintas de las mencionadas anteriormente, relativas a la
+                            Propiedad Industrial y Derechos de Autor de México Amazing &amp; Unforgettable, entendiéndose como: las
+                            marcas registradas y utilizadas en México o en el extranjero por México Amazing &amp; Unforgettable; los
+                            derechos sobre inventos (patentados o no), diseños industriales, modelos de utilidad, información confidencial,
+                            nombres comerciales, secretos, avisos comerciales, reservas de derechos, nombres de dominio; así como
+                            toda clase de derechos patrimoniales sobre las obras y creaciones protegidas por derechos de autor y otras
+                            formas de propiedad industrial o intelectual reconocidas o que podrán ser reconocidos por las leyes
+                            correspondientes. <br><br>
+                            Los clientes reconocen y aceptan que México Amazing &amp; Unforgettable es el propietario legítimo o tiene los
+                            derechos necesarios en el Sitio, incluidos los nombres comerciales, marcas registradas, marcas de servicio,
+                            logotipos, nombres de dominio y otros de México Amazing &amp; Unforgettable por ser características distintivas
+                            de marca contenidas en el mismo, ya sea que esos derechos estén registrados O no. En cualquier parte del
+                            mundo, esos derechos pueden existir y están protegidos por derechos de autor internacionales y leyes y
+                            tratados de propiedad industrial. Por lo tanto, el Cliente acepta que las Marcas de México Amazing &amp;
+                            Unforgettable no pueden ser copiados, reproducidos, modificados, publicados, cargados, publicados,
+                            transmitidos o distribuidos de ninguna manera. Excepto como establecido en este documento, México
+                            Amazing &amp; Unforgettable no otorga a los Clientes ningún derecho expreso o implícito bajo ninguna patente,
+                            derechos de autor, marcas registradas o información comercial secreta. Los clientes reconocen y aceptan que
+                            el Sitio y todos sus diseños son y seguirán siendo en todo momento propiedad de México Amazing &amp;
+                            Unforgettable. <br><br>
+                            <b>Autorización de Comentarios</b>. Cuando los Clientes brindan comentarios a México Amazing &amp; Unforgettable
+                            con respecto a la funcionalidad del Sitio, rendimiento (incluida la identificación de posibles errores y mejoras),
+                            experiencias y opiniones de los servicios. En ese caso, los Clientes, como resultado de esto, autorizan a
+                            México Amazing &amp; Unforgettable a usar, sin restricción los comentarios expresados. Sin que ello se considere
+                            como un derecho moral de los Clientes a exigir cualquier participación o compensación monetaria, o
+                            restricción en el uso de tales comentarios para la explotación por México Amazing &amp; Unforgettable.<br><br>
+                            <b>Formulario Digital, Electrónico y Comunicación Impresa</b>. El Cliente acepta que el acuerdo con México
+                            Amazing &amp; Unforgettable es el formato Digital, Electrónico u Online, donde bastará manifestar su voluntad
 
-                            en acceptant les Termes et Conditions, ainsi qu'en fournissant des données personnelles, le
-                            informations demandées sur le Site et la réservation de voyage, sans qu'il soit nécessaire de signer un quelconque document.
-                            De même, le client accepte qu'une version imprimée de ces Termes et Conditions tout
-                            communication envoyée et reçue par voie électronique sera recevable comme preuve dans toute
-                            procédure judiciaire et administrative.<br><br>
-                            <b>Modification et Mise à jour des Conditions Générales d'Utilisation du Site</b>. Mexique Incroyable &amp;
-                            Unforgettable se réserve le droit, à tout moment, de modifier et mettre à jour les termes et conditions
-                            d'utilisation du Site. Si un point contenu dans ces Termes et Conditions est jugé inefficace,
-                            inadapté ou inapplicable, peut être séparé du corps des présentes, et le reste restera en vigueur et de plein effet.
-                            effet dans toute la mesure permise par la loi.<br><br>
-                            <b>Droit applicable et juridiction</b>. Dans tout ce qui touche à l'interprétation et à l'accomplissement du présent, le
-                            Le client accepte de se soumettre à la législation fédérale du Mexique et à la juridiction des tribunaux compétents
-                            à Mexico, renonçant à toute autre juridiction qui, en raison de leurs domiciles présents ou
-                            futur, cela pourrait vous correspondre.<br><br>
-                            <b>Accord définitif</b>. Le client reconnaît et accepte que Mexico Amazing &amp; Inoubliable a mis à disposition
-                            toutes les informations nécessaires à la compréhension de l'étendue et des caractéristiques du Site et de ses Services. Pour le
-                            qui déclare avoir analysé les caractéristiques du Site et y donner son accord.<br><br>
+                            mediante la aceptación de los Términos y Condiciones, así como a proporcionar los datos personales, la
+                            información solicitada en el Sitio y la reserva de viaje, sin que sea necesaria la firma en ningún documento.
+                            Así mismo, El cliente acepta que una versión impresa de estos Términos y Condiciones cualquier
+                            comunicación enviada y recibida en forma electrónica serán admisibles como prueba en cualquier
+                            procedimiento judicial y administrativo.<br><br>
+                            <b>Modificación y Actualización de los Términos y Condiciones de Uso del Sitio</b>. México Amazing &amp;
+                            Unforgettable se reserva el derecho, en cualquier tiempo, a modificar y actualizar los términos y condiciones
+                            de uso del Sitio. Si se determina que algún punto contenido en estos Términos y Condiciones es ineficaz,
+                            inadecuado o inejecutable, puede ser separado del cuerpo del presente, y el resto continuará en pleno vigor y
+                            efecto en la mayor medida permitida por la ley.<br><br>
+                            <b>Ley Aplicable y Jurisdicción</b>. En todo lo relativo a la interpretación y cumplimiento de la presente, el
+                            Cliente acepta someterse a la legislación federal de México y a la jurisdicción de los tribunales competentes
+                            en Ciudad de México, con renuncia a cualquier otro fuero que, por razón de sus domicilios presentes o
+                            futuros, pudiera corresponderle.<br><br>
+                            <b>Acuerdo Final</b>. El cliente reconoce y acepta que México Amazing &amp; Unforgettable ha puesto a su disposición
+                            toda la información necesaria para comprender el alcance y las características del Sitio y sus Servicios. Por lo
+                            que declara que, ha analizado las características del Sitio y está de acuerdo con el mismo.<br><br>
                         </p>
                     </li>
             </div>
