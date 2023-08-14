@@ -91,7 +91,8 @@
                             Messico Incredibile &amp; Unforgettable si riserva il diritto di effettuare fotografie e video durante la durata del
                             viaggio o parte di esso e utilizzare le fotografie e i video per la promozione dei servizi del Messico
                             Incredibile e fantastico indimenticabile. Prenotando, gli utenti del viaggio accettano di consentire l'utilizzo delle loro immagini
-                            suddette fotografie e video, oltre a dare la tua opinione sul tuo viaggio e sulla qualità del servizio fornito.
+                            suddette fotografie e video, oltre a dare la tua opinione sul tuo viaggio e sulla qualità del servizio fornito. <br> <br>
+
                             Questo sito può includere link ad altri siti web. Se inclusi, questi collegamenti possono essere
                             fornire all'utente per sua comodità e per ottenere maggiori informazioni. Questo non significa questo
                             sosteniamo i siti web. Messico Incredibile &amp; Indimenticabile non ha alcuna responsabilità per il
@@ -106,6 +107,7 @@
                             prodotto al di fuori di quello che rappresenta México Amazing &amp; Unforgettable costituisce una violazione del presente accordo.
                             Tutti i marchi riprodotti su questo sito senza il preventivo consenso scritto di
                             México Amazing Unforgettable o che non sono di tua proprietà, sono riconosciuti sul sito web. <br> <br>
+
                             Nel caso in cui Mexico Amazing &amp; Indimenticabile agire come intermediario nei servizi forniti
                             da Terze parti autorizzate, le informazioni su questi servizi saranno di loro responsabilità, per quanto
                             Messico Incredibile &amp; Unforgettable non è direttamente o indirettamente obbligato a fornire il Servizio e lo è
@@ -126,7 +128,7 @@
                             programma. Non è necessario indicare nulla nei pulsanti Totale persone o Posti disponibili
                             (contrassegnato in giallo), il risultato apparirà automaticamente. <br><br>
                             Prima di premere il pulsante Calcola prezzo, assicurati di aver accettato i Termini e condizioni
-                            qui indicato. Se non li accetti o dimentichi questo passaggio, la prenotazione viene automaticamente cancellata.
+                            qui indicato. Se non li accetti o dimentichi questo passaggio, la prenotazione viene automaticamente cancellata. <br><br>
                             Premendo il pulsante Calcola il Prezzo, in basso compariranno le informazioni che confermano la quantità
                             di persone, il Pacchetto, Destinazione, Data selezionata e indicherà il prezzo per persona e il costo totale
                             Dal viaggio. <br><br>
@@ -139,13 +141,14 @@
                             Se hai effettuato il pagamento e inviato la fotografia dell'acconto, l'utente riceverà un'altra email di risposta
                             indicando la compagnia aerea, l'orario di partenza, il biglietto (QR di imbarco per ogni accompagnatore), i posti
                             riservato, porta di accesso all'aereo e conferma di avvenuta ricezione da parte del nostro personale all'arrivo in aeroporto
-                            Destinazione. Da quei momenti, il nostro staff ti accompagnerà in hotel e ti darà le istruzioni di base del tour.
+                            Destinazione. Da quei momenti, il nostro staff ti accompagnerà in hotel e ti darà le istruzioni di base del tour. <br><br>
                             Le date di prenotazione sono soggette a disponibilità e se lo spazio è pieno, avrai sempre
                             l'opzione per selezionare un'altra data. <br><br>
                             <b>Pianificazione dell'orario di prenotazione</b>. Per garantire il tuo posto e quello dei tuoi compagni Messico
                             Incredibile e fantastico Indimenticabili richiede che vengano effettuati con almeno 45 giorni di anticipo. Questo ti permetterà di fare il
                             prenotazioni voli, acquisto biglietti per eventi speciali e siti archeologici, prenotazioni di
                             ristoranti e alloggi soprattutto con sicurezza. <br><br>
+
                             <b>Annullamento della prenotazione</b>. Se effettui il pagamento entro quei 45 giorni, hai 15 giorni di tempo
                             decide di annullare il viaggio, ma accetta che riceverà un rimborso del 40% del totale perché il
                             le spese di prenotazione indicate al punto precedente sono state effettuate e si considera il 60%.
@@ -159,6 +162,7 @@
                             i servizi che comprendono, oltre a quelli indicati al punto (Programmazione Orari di Prenotazione) l'
                             pagamento del trasporto, autisti, guide turistiche, spese di assicurazione sanitaria, servizio cena
                             speciali e balletto folcloristico. <br><br>
+
                             A causa di quanto sopra, il termine per annullare il viaggio con diritto al rimborso è di 30 giorni di calendario prima
                             dall'inizio del viaggio. Dopo il primo dei 30 giorni di anticipo, se decidi di cancellare il tuo viaggio, accetti
                             che non c'è alcun rimborso. Il 100% è considerato un compenso per le spese. <br><br>
@@ -175,19 +179,21 @@
                             ogni pacchetto l'itinerario progettato per quel tipo di pacchetto. Questo vantaggio ti consente di analizzare quale pacchetto desideri
                             interessi di più, evitare oneri inutili e talvolta inesistenti e soprattutto, la certezza di quello che otterrai
                             in ogni destinazione e in ogni pacchetto ancor prima di prendere una decisione. <br><br>
+
                             <b>Prezzi dei pacchetti</b>. I prezzi e le tariffe sono indicati in ogni Destinazione e in ogni pacchetto su questo Sito.
                             Considera che ci sono variazioni di valore tra le valute, quindi i prezzi sono soggetti a modifiche fino al
                             di confermare la prenotazione ed effettuare il pagamento. Ricorda che hai 48 ore. per confermare e così
                             evitare fluttuazioni di prezzo. <br><br>
                             Quando si effettua il pagamento del pacchetto selezionato, non è necessario effettuare pagamenti extra (ad eccezione del
                             cambio di nome di un accompagnatore), hai già coperto la totalità del tuo viaggio. <br><br>
-                            Modalità di pagamento. L'utente può pagare il viaggio con bonifico elettronico. <br><br>
-                            Dei Servizi. Ci sono condizioni nei servizi offerti da México Amazing &amp; Indimenticabile a tutti
+                            <strong>Metodi di pagamento.</strong> L'utente può pagare il viaggio con bonifico elettronico. <br><br>
+                            <strong>Dei servizi.</strong> Ci sono delle condizioni nei servizi offerti da México Amazing &amp; Indimenticabile a tutti
                             le destinazioni. <br><br>
+
                             <u>Volo</u>: dopo aver ricevuto i dettagli del volo, Mexico Amazing &amp; Unforgettable non è responsabile se l'utente
                             Non arrivi in ​​orario e perdi l'uscita. È importante inviare una notifica per individuare un altro volo, ma il
                             l'acquisto di nuovi biglietti è a carico dell'utente. <br><br>
-                            Trasporti: le unità di trasporto utilizzate da Mexico Amazing &amp; Indimenticabili sono comodi, sicuri e
+                            <u>Trasporto:</u> le unità di trasporto utilizzate da México Amazing &amp; Indimenticabili sono comodi, sicuri e
                             hanno l'assicurazione. Eventuali danni alle unità causati dall'utente sono a carico del pagamento della
                             deducibile. <br><br>
                             <u>Alloggio</u>: la tua prenotazione include alloggio e colazione. Qualsiasi altro servizio offerto dall'hotel
@@ -195,7 +201,7 @@
                             causato dall'utente. <br><br>
                             <u>Biglietti per eventi speciali</u>: sono inclusi per l'utente e i suoi accompagnatori durante il viaggio. Biglietti
                             Gli extra devono essere pagati dall'utente. <br><br>
-                            Shopping per l'artigianato: lo staff di México Amazing &amp; Unforgettable ti supporterà nel portarti nei luoghi di
+                            <u>Acquisto di artigianato:</u> Lo staff di México Amazing &amp; Unforgettable ti supporterà nel portarti nei luoghi di
                             migliore qualità nella produzione di artigianato, ma il prezzo è un affare diretto tra te e l'artigiano. <br><br>
 
                             <u>Assistenza medica</u>: abbiamo un'assicurazione di viaggio per incidenti ed è inclusa nel pacchetto.
@@ -225,6 +231,7 @@
                             tutti i tipi di diritti economici su opere e creazioni protette dal diritto d'autore e altro
                             forme di proprietà industriale o intellettuale riconosciute o riconoscibili dalla legge
                             corrispondente. <br><br>
+
                             I clienti riconoscono e accettano che Mexico Amazing &amp; Indimenticabile è il legittimo proprietario o ha il
                             diritti necessari sul Sito, inclusi nomi commerciali, marchi commerciali, marchi di servizio,
                             loghi, nomi di dominio e altri dal Messico Amazing &amp; Indimenticabili per essere tratti distintivi
@@ -237,13 +244,14 @@
                             informazioni su copyright, marchi o segreti commerciali. I clienti lo riconoscono e lo accettano
                             il Sito e tutti i suoi design sono e rimarranno sempre di proprietà di México Amazing &amp;
                             indimenticabile. <br><br>
+
                             <b>Autorizzazione dei commenti</b>. Quando i clienti forniscono feedback a Mexico Amazing &amp; indimenticabile
                             per quanto riguarda la funzionalità del Sito, le prestazioni (compresa l'identificazione di possibili errori e miglioramenti),
                             esperienze e opinioni dei servizi. In tal caso, i Clienti, a seguito di ciò, autorizzano
                             Messico Incredibile &amp; Indimenticabile da usare, senza restrizioni i commenti espressi. Senza che venga considerato
                             come diritto morale dei Clienti a richiedere qualsiasi partecipazione o compenso monetario, o
                             restrizione sull'uso di tali commenti per lo sfruttamento da parte di México Amazing &amp; Indimenticabile.<br><br>
-                            <b>Comunicazione digitale, elettronica e stampata</b>. Il Cliente accetta che l'accordo con il Messico
+                            <b>Comunicazione digitale, elettronica e cartacea</b>. Il Cliente accetta che l'accordo con il Messico
                             Incredibile e fantastico Indimenticabile il formato Digitale, Elettronico o Online, dove basterà esprimere la propria volontà
 
                             accettando i Termini e Condizioni, nonché fornendo i propri dati personali, il

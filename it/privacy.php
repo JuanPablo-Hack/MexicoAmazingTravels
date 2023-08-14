@@ -82,7 +82,7 @@
                             l'informativa sulla privacy ogni volta che visiti il ​​sito per assicurarti di aver compreso come
                             utilizzerà le informazioni personali fornite. <br><br>
                             Chiariamo che le politiche sulla privacy stabilite su questo sito sono solo per questo sito. Se
-                            collegamenti ad altri siti, si consiglia di rivedere le politiche sulla privacy pubblicate su tali siti.
+                            collegamenti ad altri siti, si consiglia di rivedere le politiche sulla privacy pubblicate su tali siti. <br> <br>
                             Le tue informazioni personali sono al sicuro. Solo i nostri dipendenti e agenti autorizzati (who
                             hanno firmato l'impegno a mantenere le informazioni sicure e riservate) hanno accesso al
                             informazione. Le e-mail e le newsletter su questo sito consentono di scegliere di non riceverle.
@@ -94,21 +94,24 @@
                         <p>
                             Potremmo raccogliere dati personali (come nomi, indirizzi postali, indirizzi e-mail
                             e-mail, ecc.), direttamente da te, da terze parti o dati pubblicamente disponibili, o quando
-                            utilizzare il Sito e inviarlo volontariamente.
+                            utilizzare il Sito e inviarlo volontariamente. <br> <br>
                             I dati da Lei forniti sono utilizzati esclusivamente per adempiere a Sua specifica richiesta, a
                             a meno che tu non ci dia il permesso di usarlo in un altro modo, ad esempio, per aggiungerlo a uno di
-                            le nostre mailing list. Le informazioni vengono memorizzate a tempo indeterminato a meno che non si richieda la cancellazione.
-                            tecnologia dei cookie
-                            Il Sito può utilizzare cookie e tecnologie di tracciamento (come i protocolli di comunicazione
-                            elettronica, cookie, pulsanti widget o strumenti), a seconda delle funzionalità offerte.
+                            le nostre mailing list. Le informazioni vengono memorizzate a tempo indeterminato a meno che non si richieda la cancellazione. <br> <br>
+                        <h4>Tecnologia dei cookie</h4>
+
+                        <p>
+                            Il sito potrebbe utilizzare cookie e tecnologie di tracciamento (come i protocolli di comunicazione
+                            elettronica, cookie, pulsanti widget o strumenti), a seconda delle funzionalità offerte. <br><br>
                             I cookie e la tecnologia di tracciamento sono utili per raccogliere informazioni come il tipo di
                             browser e sistema operativo, tenere traccia del numero di visitatori del Sito e capire come
-                            i visitatori utilizzano il Sito.
+                            i visitatori utilizzano il Sito. <br> <br>
 
                             Possono anche aiutare a personalizzare il sito per i visitatori. Le informazioni personali non lo sono
                             può raccogliere tramite cookie e altre tecnologie di tracciamento, ma, se in precedenza
                             fornite informazioni di identificazione personale, i cookie possono essere collegati a queste
                             informazione. <br> <br>
+                        </p>
                         </p>
                         <h4> Distribuzione delle informazioni</h4>
                         <p>
@@ -127,14 +130,16 @@
                         <h4>Come utilizziamo i dati personali</h4>
                         <p>
                             Utilizzeremo i tuoi dati personali solo se abbiamo una base legale per farlo. Nello specifico,
-                            utilizziamo i tuoi dati personali secondo le tue istruzioni o come segue:
-                            Fornire e personalizzare il nostro sito. Per gestire e amministrare il Sito e
+                            utilizziamo i tuoi dati personali secondo le tue istruzioni o come segue: <br><br>
+
+                            <u><strong>Per fornire e personalizzare il nostro Sito.</strong></u> Per gestire e amministrare il Sito e
                             fornirti i contenuti a cui scegli di accedere o che richiedi; per adattare i contenuti web che
                             mostriamo per offrire la personalizzazione della posizione (ad esempio, l'impostazione di una lingua
                             predefinito) e personalizzare la tua esperienza utilizzando il sito. Possiamo utilizzare cookie e tecnologie
                             metodi di tracciamento simili per raccogliere automaticamente i tuoi dati personali a tale scopo (cfr
                             la nostra Informativa sui cookie). <br> <br>
-                            Personalizzazione dell'evento. Per personalizzare gli inviti agli eventi che
+
+                            <u><strong>Personalizzazione dell'evento.</strong></u> Per personalizzare gli inviti agli eventi che tu
                             ospitiamo o mostriamo in modo da poter personalizzare la posizione (ad esempio, offerte di eventi locali).
                             Potremmo utilizzare cookie e tecnologie di tracciamento simili per raccogliere automaticamente i tuoi dati
                             dati personali per questo scopo (vedere la nostra Informativa sui cookie).
@@ -142,23 +147,28 @@
                             potenziale attraverso strumenti come Facebook, Youtube, Instagram, Tik Tok, LinkedIn, ecc. E
                             per interagire con le persone che rispondono ai contenuti web prodotti da México Amazing &amp;
                             indimenticabile. <br> <br>
-                            Invio di comunicazioni di marketing. Per marketing diretto, promozioni e altro
+
+                            <u><strong>Invio di comunicazioni di marketing.</strong></u> Per marketing diretto, promozioni e altro
                             comunicazioni non transazionali come newsletter, chiamate o notifiche push per
                             condividere informazioni su offerte speciali, promozioni ed eventi o con cui comunicare
-                            informazioni che riteniamo possano essere di tuo interesse, in base alle tue preferenze.
-                            Gestione iscrizioni eventi e concorsi. Per pianificare e organizzare eventi o
+                            informazioni che riteniamo possano essere di tuo interesse, in base alle tue preferenze. <br><br>
+
+
+                            <u><strong>Gestione delle iscrizioni a eventi e concorsi.</strong></u> Per pianificare e organizzare eventi o
                             seminari a cui ti sei iscritto o a cui hai partecipato (compreso l'invio di comunicazioni
                             correlati) e per fornire promozioni a cui hai scelto di partecipare. <br> <br>
 
-                            Ricerca analitica e miglioramento. Per comprendere meglio come accedi e utilizzi il Sito con il
-                            per valutare la qualità dei nostri servizi, ottimizzarli e sviluppare nuovi servizi.
-                            Tutela dei diritti legali ed evitare abusi. Per proteggere il Sito, le Offerte e
+                            <u><strong>Ricerca analitica e miglioramento.</strong></u> Per comprendere meglio come accedi e utilizzi il Sito con il
+                            al fine di valutare la qualità dei nostri servizi, ottimizzarli e sviluppare nuovi servizi. <br> <br>
+
+                            <u><strong>Tutela dei diritti legali ed evitare abusi.</strong></u> Per proteggere il Sito, le Offerte e
                             i diritti degli utenti e di altre persone; per impedire l'accesso non autorizzato e altri usi
                             improprio; e quando riteniamo che sia necessario indagare, prevenire o agire in merito a
                             attività illecite, sospetta frode, situazioni che comportano potenziali minacce per il
                             sicurezza di qualsiasi persona o violazioni dei nostri termini di utilizzo o di questo avviso. Potere
                             utilizzare tecnologie di machine learning o deep learning per questi scopi (ad esempio, per il
                             prevenzione o rilevamento di frodi). <br><br>
+
                         </p>
                         <h4>Dati personali che NON raccogliamo</h4>
                         <p>
@@ -197,35 +207,35 @@
                         <p>
                             I diritti relativi ai tuoi dati personali ai sensi delle leggi sulla protezione dei dati,
                             includono: <br><br>
-                            <b>Accesso</b>. Puoi chiederci di confermare se stiamo elaborando i tuoi dati personali,
+                            <b><u>Accesso</u></b>. Puoi chiederci di confermare se stiamo elaborando i tuoi dati personali,
                             fornirti dettagli su tale trattamento e fornirti una copia dei tuoi dati personali. Non c'è
                             nessun addebito per la richiesta di copia. <br><br>
-                            <b>Elimina</b>. Puoi chiederci di cancellare i tuoi dati personali se sono soddisfatte le seguenti condizioni:
+                            <b><u>Elimina</u></b>. Puoi chiederci di cancellare i tuoi dati personali se sono soddisfatte le seguenti condizioni:
                             condizioni. Non siamo tenuti a soddisfare la tua richiesta di cancellazione dei tuoi dati personali se il
                             il trattamento dei Suoi dati personali è necessario per adempiere ad un obbligo legale
                             (vedi punto di distribuzione delle informazioni) o per l'istituzione, l'esercizio o la difesa
                             delle pretese legali. <br><br>
-                            <b>Obiezione</b>. Puoi opporti per iscritto a qualsiasi trattamento dei tuoi dati personali,
+                            <b><u>Obiezione</u></b>. Puoi opporti per iscritto a qualsiasi trattamento dei tuoi dati personali,
                             che viene fatto sulla base dei nostri interessi legittimi, se ritieni che i tuoi diritti e libertà
-                            I fondamenti superano i nostri legittimi interessi. <br></br>
+                            I fondamenti superano i nostri interessi legittimi. <br></br>
                             Se ti opponi per iscritto al nostro trattamento dei tuoi dati personali, avremo l'opportunità di farlo
                             dimostrare che abbiamo interessi legittimi convincenti che prevalgono sulla tua richiesta (come uno qualsiasi dei
                             paragrafi indicati al punto Distribuzione delle informazioni). <br><br>
                             Puoi opporti al trattamento dei tuoi dati personali per finalità di marketing diretto, che
                             include la profilazione nella misura in cui è correlata a tale marketing diretto.
                             Interromperemo quindi il trattamento dei tuoi dati personali per scopi di marketing diretto. <br><br>
-                            <b>Portabilità</b>. Puoi chiederci di fornirti i tuoi dati personali in un formato
+                            <b><u>Portabilità</u></b>. Puoi chiederci di fornirti i tuoi dati personali in un formato
                             strutturati, di uso comune e leggibili da dispositivo automatico, oppure puoi richiederne direttamente il trasferimento
                             ad un altro titolare del trattamento, ma solo laddove il nostro trattamento sia basato sul tuo consenso.
                             Il trattamento è effettuato con mezzi automatizzati. Non può essere fatto se è in corso
                             uno qualsiasi dei sottoparagrafi indicati nel punto di distribuzione delle informazioni. <br><br>
-                            <b>Rettifica</b>. Puoi chiederci di aggiornare o correggere le informazioni che ritieni
+                            <b><u>Rettifica</u></b>. Puoi chiederci di aggiornare o correggere le informazioni che ritieni
                             imprecisi o ritenuti incompleti; Potremmo verificare l'esattezza dei dati prima
                             rettificarli. <br><br>
-                            <b>Restrizione</b>. Puoi chiederci di limitare (ovvero, conservare, ma non utilizzare)
+                            <b><u>Vincolo</u></b>. Puoi chiederci di limitare (ovvero, conservare, ma non utilizzare)
                             i tuoi dati personali tranne quando comporta l'applicazione del punto di distribuzione del
-                            Informazione.
-                            <b>Revoca del consenso</b>. Puoi revocare il tuo consenso quando il trattamento è
+                            Informazione. <br><br>
+                            <b><u>Revoca del consenso</u></b>. Puoi revocare il tuo consenso quando il trattamento è
                             sulla base di un consenso che hai fornito in precedenza. Il tuo ritiro del consenso non lo farà
                             pregiudicare la liceità del trattamento effettuato prima della revoca del consenso
                             validità. <br><br>
