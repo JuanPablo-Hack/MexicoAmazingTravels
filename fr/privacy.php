@@ -215,47 +215,47 @@
                             le traitement de vos données personnelles est nécessaire au respect d'une obligation légale
                             (voir point de diffusion de l'information) ou pour l'établissement, l'exercice ou la défense
                             de réclamations légales. <br><br>
-                            <b><u>Objeción</u></b>. Puede oponerse por escrito a cualquier procesamiento de sus datos personales,
-                            que se realiza sobre la base de nuestros intereses legítimos, si cree que sus derechos y libertades
-                            fundamentales superan nuestros intereses legítimos. <br></br>
-                            Si se opone por escrito a que procesemos sus datos personales, tendremos la oportunidad de
-                            demostrar que tenemos intereses legítimos imperiosos que anulan su solicitud (como alguno de los
-                            incisos indicados en el punto Distribución de la Información). <br><br>
-                            Puede oponerse al procesamiento de sus datos personales con fines de marketing directo, lo que
-                            incluye la elaboración de perfiles en la medida en que esté relacionado con dicho marketing directo.
-                            Entonces dejaremos de procesar sus datos personales con fines de marketing directo. <br><br>
-                            <b><u>Portabilidad</u></b>. Puede solicitarnos que le proporcionemos sus datos personales en un formato
-                            estructurado, de uso común y legible por máquina, o puede solicitar que se transfieran directamente
-                            a otro controlador de datos, pero solo cuando nuestro procesamiento se base en su consentimiento.
-                            El tratamiento se lleva a cabo por medios automatizados. No se podrá hacer si está en proceso
-                            alguno de los incisos indicados en el punto Distribución de la Información. <br><br>
-                            <b><u>Rectificación</u></b>. Puede solicitarnos que actualicemos o corrijamos la información que considere
-                            inexacta o si cree que está incompleta; podremos verificar la exactitud de los datos antes de
-                            rectificarlos. <br><br>
-                            <b><u>Restricción</u></b>. Puede solicitarnos que restrinjamos (es decir, conservemos, pero no usemos)
-                            sus datos personales a excepto cuando implique la aplicación del punto Distribución de la
-                            Información. <br><br>
-                            <b><u>Retiro del Consentimiento</u></b>. Puede retirar su consentimiento cuando el procesamiento se
-                            base en un consentimiento que haya proporcionado previamente. Su retiro del consentimiento no
-                            afectará la legalidad del procesamiento realizado antes de que su retiro del consentimiento entre en
-                            vigencia. <br><br>
+                            <b><u>Objection</u></b>. Vous pouvez vous opposer par écrit à tout traitement de vos données personnelles,
+                            qui est fait sur la base de nos intérêts légitimes, si vous pensez que vos droits et libertés
+                            Les fondamentaux l'emportent sur nos intérêts légitimes. <br></br>
+                            Si vous vous opposez par écrit au traitement de vos données personnelles, nous aurons la possibilité de
+                            démontrer que nous avons des intérêts légitimes impérieux qui l'emportent sur votre demande (comme l'un des
+                            paragraphes indiqués au point Diffusion des informations). <br><br>
+                            Vous pouvez vous opposer au traitement de vos données personnelles à des fins de marketing direct, ce qui
+                            comprend le profilage dans la mesure où il est lié à ce marketing direct.
+                            Nous cesserons alors de traiter vos données personnelles à des fins de marketing direct. <br><br>
+                            <b><u>Portabilité</u></b>. Vous pouvez nous demander de vous fournir vos données personnelles dans un format
+                            structurés, couramment utilisés et lisibles par machine, ou vous pouvez demander qu'ils soient transférés directement
+                            à un autre responsable du traitement, mais uniquement lorsque notre traitement est basé sur votre consentement.
+                            Le traitement est effectué par des moyens automatisés. Cela ne peut pas être fait si c'est en cours
+                            l'un des sous-paragraphes indiqués dans le point de distribution de l'information. <br><br>
+                            <b><u>Rectification</u></b>. Vous pouvez nous demander de mettre à jour ou de corriger les informations que vous pensez
+                            inexactes ou que vous pensez incomplètes ; Nous pouvons vérifier l'exactitude des données avant
+                            les rectifier. <br><br>
+                            <b><u>Contrainte</u></b>. Vous pouvez nous demander de restreindre (c'est-à-dire de conserver, mais pas d'utiliser)
+                            vos données personnelles sauf lorsqu'il s'agit de l'application du Point de distribution du
+                            Information. <br><br>
+                            <b><u>Retrait du consentement</u></b>. Vous pouvez retirer votre consentement lorsque le traitement est
+                            sur la base d'un consentement que vous avez préalablement fourni. Votre retrait de consentement ne sera pas
+                            affecter la licéité du traitement effectué avant l'entrée en vigueur de votre retrait de consentement
+                            validité. <br><br>
                         </p>
                         <h4>
-                            Ejercicio de Derechos
+                            Exercice des droits
                         </h4>
                         <p>
-                            Para ejercer sus derechos, comuníquese con nosotros utilizando el correo electrónico de México
-                            Amazing &amp; Unforgettable. No discriminamos en función de si elige ejercer sus opciones y derechos y,
-                            en función de su ejercicio de derechos, no le negaremos las Ofertas; cobrarle tarifas diferentes
-                            (incluso a través de multas o descuentos/beneficios); proporcionar un nivel o calidad diferente de
-                            Ofertas; o sugerir que puede recibir un trato tan diferente. <br><br>
-                            Procesaremos cualquier solicitud de acuerdo con las leyes aplicables dentro de un período de tiempo
-                            razonable. Para procesar correctamente una solicitud, es posible que debamos verificar su identidad
-                            antes de tomar cualquier medida relacionada con la solicitud. <br><br>
-                            Si tiene alguna pregunta, inquietud o comentario sobre nuestra política de privacidad, puede
-                            comunicarse con nosotros utilizando la información de contacto de México Amazing &amp; Unforgettable.
-                            Nos reservamos el derecho de hacer cambios a estas políticas. Cualquier cambio a estas políticas
-                            serán publicadas. <br><br>
+                            Pour exercer vos droits, contactez-nous en utilisant l'email du Mexique
+                            Incroyable &amp; inoubliable. Nous ne discriminons pas selon que vous choisissez d'exercer vos options et droits et,
+                            sur la base de votre exercice des droits, nous ne vous refuserons pas les Offres ; vous facturer des tarifs différents
+                            (y compris par le biais de pénalités ou de remises/avantages) ; fournir un niveau ou une qualité différente de
+                            Des offres; ou suggérer que vous pourriez être traité si différemment. <br><br>
+                            Nous traiterons toute demande conformément aux lois applicables dans un délai
+                            raisonnable. Afin de traiter avec succès une demande, nous devrons peut-être vérifier votre identité
+                            avant de prendre toute mesure liée à la demande. <br><br>
+                            Si vous avez des questions, des préoccupations ou des commentaires concernant notre politique de confidentialité, vous pouvez
+                            communiquez avec nous en utilisant les coordonnées de México Amazing &amp; inoubliable.
+                            Nous nous réservons le droit d'apporter des modifications à ces politiques. Toute modification de ces politiques
+                            sera publié. <br><br>
                         </p>
                     </li>
                     <li>
