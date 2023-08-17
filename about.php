@@ -2,11 +2,11 @@
 <html class="wide wow-animation" lang="en">
 
 <head>
-  <?php include "static/head.php" ?>
+  <?php include 'static/head.php'; ?>
 </head>
 
 <body>
-  <?php include "components/Loader.php" ?>
+  <?php include 'components/Loader.php'; ?>
   <div class="page">
     <header class="section page-header">
       <div class="rd-navbar-wrap">
@@ -20,7 +20,7 @@
                   <a class="brand" href="index.php"><img src="assets/images/logo.png" alt="" width="225" height="18" /></a>
                 </div>
               </div>
-              <?php include "static/menu_lenguagues.php" ?>
+              <?php include 'static/menu_lenguagues.php'; ?>
             </div>
           </div>
           <div class="rd-navbar-main-outer">
@@ -47,9 +47,9 @@
         </nav>
       </div>
     </header>
-    <?php include "components/OurServices.php" ?>
-    <?php include "components/AliancesTeams.php" ?>
-    <?php include "static/footer.php" ?>
+    <?php include 'components/OurServices.php'; ?>
+    <?php include 'components/AliancesTeams.php'; ?>
+    <?php include 'static/footer.php'; ?>
   </div>
 </body>
 

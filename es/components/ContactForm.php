@@ -1,8 +1,8 @@
 <?php
 include '../config/DataBase.php';
-$sql = "SELECT * FROM paquetes";
+$sql = 'SELECT * FROM paquetes';
 $result = mysqli_query($conexion, $sql);
-$sql2 = "SELECT * FROM destinos";
+$sql2 = 'SELECT * FROM destinos';
 $result2 = mysqli_query($conexion, $sql2);
 ?>
 <section class="section section-sm section-last bg-default text-left">
@@ -87,13 +87,13 @@ $result2 = mysqli_query($conexion, $sql2);
                     <div class="form-wrap">
                         <select name="datos[]" class="form-input" data-constraints="@Selected">
                             <option value="">-Seleccion un destino-</option>
-                            <?php
-                            while ($Row1 = mysqli_fetch_array($result2)) {
-                            ?>
-                                <option value=<?php echo $Row1['id']; ?>><?php echo $Row1['nombre']; ?></option>
-                            <?php
-                            }
-                            ?>
+                            <?php while (
+                                $Row1 = mysqli_fetch_array($result2)
+                            ) { ?>
+                                <option value=<?php echo $Row1[
+                                    'id'
+                                ]; ?>><?php echo $Row1['nombre']; ?></option>
+                            <?php } ?>
                         </select>
                     </div>
                 </div>
@@ -101,13 +101,13 @@ $result2 = mysqli_query($conexion, $sql2);
                     <div class="form-wrap">
                         <select name="datos[]" class="form-input" data-constraints="@Selected" id="paquteSeleccionado" onchange="fechasDisponibles()">
                             <option value="0">-Selecciona un paquete-</option>
-                            <?php
-                            while ($Row1 = mysqli_fetch_array($result)) {
-                            ?>
-                                <option value=<?php echo $Row1['id']; ?>><?php echo $Row1['nombre']; ?></option>
-                            <?php
-                            }
-                            ?>
+                            <?php while (
+                                $Row1 = mysqli_fetch_array($result)
+                            ) { ?>
+                                <option value=<?php echo $Row1[
+                                    'id'
+                                ]; ?>><?php echo $Row1['nombre']; ?></option>
+                            <?php } ?>
                         </select>
                     </div>
                 </div>
@@ -118,15 +118,21 @@ $result2 = mysqli_query($conexion, $sql2);
                 </div>
                 <div class="col-md-3">
                     <div class="form-wrap" id="cuposdisponibles">
-
+                        <input class="form-input-total" type="number" readonly placeholder="Cupos disponibles: " id="totalPersonas" style="background-color: #E8B11F; color: white;" />
                     </div>
                 </div>
             </div>
+            <br> <br>
+          
             <div class="contedor_botones">
+                <div class="btn-group">
+                    <a class="button  button-pipaluk" style="background-color: #098CC1; color:white;" onclick="aceptarTerminos()">
+                        Aceptar Términos
+                    </a>
+                </div>
                 <a class="button  button-pipaluk" style="background-color: #098CC1; color:white;" onclick="calcularFormulario()">
                     Calcular Precio
                 </a>
-                <!-- TODO: Poner la confirmación y el mensaje de las 48 horas -->
                 <button class="button  button-pipaluk" style="background-color: #098CC1; color:white;" type="submit">
                     Reservar Ahora
                 </button>

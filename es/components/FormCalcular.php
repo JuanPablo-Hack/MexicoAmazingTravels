@@ -12,19 +12,24 @@
                 </div>
             </article>
             <div class="row row-14 gutters-14">
-                <div class="col-md-6">
-                    <div class="form-wrap">
-                        <input class="form-input" id="contact-your-name-2" readonly value="Paquete Básico" />
-                    </div>
-                </div>
-                <div class="col-md-6">
+                <div class="col-md-12">
                     <div class="form-wrap">
                         <input class="form-input" id="contact-your-name-2" readonly value="Número de Adultos: 4" />
                     </div>
                 </div>
-                <div class="col-md-6">
+                <div class="col-md-4">
                     <div class="form-wrap">
-                        <input class="form-input" id="contact-your-name-2" readonly value="Número de Adultos: 3" />
+                        <input class="form-input" id="contact-your-name-2" readonly value="Destino: Oaxaca" />
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="form-wrap">
+                        <input class="form-input" id="contact-your-name-2" readonly value="Paquete:  Básico" />
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="form-wrap">
+                        <input class="form-input" id="contact-your-name-2" readonly value="Fecha seleccionada: 22/03/2023" />
                     </div>
                 </div>
                 <div class="col-md-6">
@@ -34,7 +39,7 @@
                 </div>
                 <div class="col-md-6">
                     <div class="form-wrap">
-                        <input class="form-input" id="contact-your-name-2" readonly value="Total: $ 24,500 USD" />
+                        <input class="form-input" id="contact-your-name-2" readonly value="Total: $ 14,000 USD" />
                     </div>
                 </div>
             </div>
