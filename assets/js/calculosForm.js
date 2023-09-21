@@ -7,7 +7,23 @@ const calcularPersonas = () => {
   document.getElementById("totalPersonas").value = totalPersonas;
 };
 const calcularFormulario = () => {
-  document.getElementById("contenedor_calcular").style.display = "inherit";
+  var id_destino = $("#destinoSeleccionado").val();
+  var id_paquete = $("#paquteSeleccionado").val();
+  var id_viaje = $("#fechas_disponibles").val();
+  var totalPersonas = $("#totalPersonas").val();
+  $.ajax({
+    url: "../models/CalcularPrecio.php",
+    method: "POST",
+    data: {
+      id_destino: id_destino,
+      id_paquete: id_paquete,
+      totalPersonas: totalPersonas,
+      id_viaje: id_viaje,
+    },
+    success: function (respuesta) {
+      $("#formCalcular").html(respuesta);
+    },
+  });
 };
 
 aceptarTerminos = () => {

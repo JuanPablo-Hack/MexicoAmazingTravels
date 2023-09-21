@@ -85,7 +85,7 @@ $result2 = mysqli_query($conexion, $sql2);
 
                 <div class="col-md-3">
                     <div class="form-wrap">
-                        <select name="datos[]" class="form-input" data-constraints="@Selected">
+                        <select name="datos[]" class="form-input" data-constraints="@Selected" id="destinoSeleccionado">
                             <option value="">-Seleccion un destino-</option>
                             <?php while (
                                 $Row1 = mysqli_fetch_array($result2)
@@ -132,6 +132,9 @@ $result2 = mysqli_query($conexion, $sql2);
                         Reservar Ahora
                     </button>
         </form>
+        <div id="formCalcular">
+            
+        </div>
     </div>
 </section>
 
