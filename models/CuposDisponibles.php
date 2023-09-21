@@ -1,5 +1,9 @@
 <?php
-
-echo '
-<input class="form-input" id="contact-phone-2" type="text" name="datos[]" value="Cupos disponibles   4" readonly id="cuposdisponibles" />
-';
+include '../config/DataBase.php';
+$id = $_POST['id'];
+$sql = "SELECT cupos_disponibles FROM viajes WHERE id = '$id'";
+$result = $conexion->query($sql);
+$row = $result->fetch_assoc();
+?>
+<input class="form-input" id="contact-phone-2" type="text" name="datos[]" value="<?php echo 'Cupos Disponibles: ' .
+    $row['cupos_disponibles']; ?>" readonly id="cuposdisponibles" />

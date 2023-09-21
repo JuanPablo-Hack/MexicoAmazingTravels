@@ -15,12 +15,12 @@ const fechasDisponibles = () => {
   });
 };
 const cuposDisponibles = () => {
-  var id_paquete = $("#paquteSeleccionado").val();
+  var id_viaje = $("#fechas_disponibles").val();
   $.ajax({
     url: "../models/CuposDisponibles.php",
     method: "POST",
     data: {
-      id: id_paquete,
+      id: id_viaje,
     },
     success: function (respuesta) {
       $("#cuposdisponibles").html(respuesta);

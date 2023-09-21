@@ -18,7 +18,6 @@
             <div class="az-content-body">
                 <?php include "components/NavPanel.php" ?>
                 <?php include "components/TablaReservaciones.php" ?>
-                <?php include "components/PanelStats.php" ?>
             </div>
         </div>
     </div>

@@ -1,12 +1,13 @@
 <?php
 include '../config/DataBase.php';
-// $id = 1;
-// $SQL = "SELECT fechas_disponibles from paquetes where id = 1";
-// $result  = $conexion->query($SQL);
-// $fechas =
-//     explode(',', $result['fechas_disponibles']);
-echo '
-<option value="">22-03-2023</option>
-<option value="">22-06-2023</option>
-<option value="">22-09-2023</option>
-';
+$id = $_POST['id'];
+$SQL = "SELECT * from viajes where id_paquete  = $id";
+$result = $conexion->query($SQL);
+while ($row = mysqli_fetch_array($result)) { ?>
+   <option value="<?php echo $row['id']; ?>"><?php echo $row[
+    'fecha_disponible'
+]; ?></option>
+
+   <?php }
+
+?>
