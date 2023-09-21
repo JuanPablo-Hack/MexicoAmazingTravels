@@ -39,7 +39,7 @@ function actualizarCuposDisponibles($id, $cantidad_personas)
 {
     include '../config/DataBase.php';
     $cupos_restantes = obtenerCuposDisponibles($id) - $cantidad_personas;
-    $SQL = "UPDATE viajes SET cupos_disponibles = '$cupos_restantes' WHERE id = $id";
+    $SQL = "UPDATE `viajes` SET `cupos_disponibles` = '$cupos_restantes' WHERE `viajes`.`id` = $id";
     $result = $conexion->query($SQL);
 }
 
