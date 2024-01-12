@@ -42,7 +42,7 @@ $totalPagar = obtenerPrecioPaquete($id_paquete, $conexion) * $totalPersonas;
 
 echo '<section class="section section-sm section-last bg-default text-left">
     <div class="container">
-        <div style="display: none;" id="contenedor_calcular">
+        <div id="contenedor_calcular">
             <article class="title-classic">
                 <div class="title-classic-title">
                     <h3>Calculo de Precio</h3>

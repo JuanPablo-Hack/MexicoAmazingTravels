@@ -46,9 +46,8 @@ $result2 = mysqli_query($conexion, $sql2);
                     </div>
                 </div>
                 <div class="col-md-4">
-                    <select name="datos[]" class="form-input" data-constraints="@Selected" id="numero_adultos">
-                        <option selected disabled>-Números de Adultos-</option>
-                        <option value="0">0</option>
+                    <select name="datos[]" class="form-input" data-constraints="@Selected" id="numero_adultos" onchange="calcularPersonas()">
+                        <option selected disabled value="0">-Números de Adultos-</option>
                         <option value="1">1</option>
                         <option value="2">2</option>
                         <option value="3">3</option>
@@ -63,8 +62,7 @@ $result2 = mysqli_query($conexion, $sql2);
                 </div>
                 <div class="col-md-4">
                     <select name="datos[]" class="form-input" data-constraints="@Selected" id="numero_niños" onchange="calcularPersonas()">
-                        <option selected disabled>-Números de Niños-</option>
-                        <option value="0">0</option>
+                        <option selected disabled value="0">-Números de Niños-</option>
                         <option value="1">1</option>
                         <option value="2">2</option>
                         <option value="3">3</option>
@@ -79,7 +77,7 @@ $result2 = mysqli_query($conexion, $sql2);
                 </div>
                 <div class="col-md-4">
                     <div class="form-wrap">
-                        <input class="form-input-total" type="number" readonly placeholder="Total de personas" id="totalPersonas" style="background-color: #E8B11F; color: white;" />
+                        <input class="form-input-total" type="text" readonly placeholder="Total de personas" id="totalPersonas" style="background-color: #E8B11F; color: white;" />
                     </div>
                 </div>
 
