@@ -84,7 +84,7 @@ echo '<section class="section section-sm section-last bg-default text-left">
                 <div class="col-md-4">
                     <div class="form-wrap">
                         <input class="form-input" id="contact-your-name-2" readonly value="Precio por persona: $ ' .
-    obtenerPrecioPaquete($id_paquete, $conexion) .
+                        number_format(obtenerPrecioPaquete($id_paquete, $conexion), 2, '.', ',') .
     ' USD" />
                     </div>
                 </div>
