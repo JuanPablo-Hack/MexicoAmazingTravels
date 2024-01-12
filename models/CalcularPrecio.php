@@ -41,7 +41,7 @@ function obtenerPrecioPaquete($id, $conexion)
 $precio = obtenerPrecioPaquete($id_paquete, $conexion);
 $totalPagar =  $totalPersonas;
 
-echo $precio;
+echo $totalPersonas;
 
 echo '<section class="section section-sm section-last bg-default text-left">
     <div class="container">
