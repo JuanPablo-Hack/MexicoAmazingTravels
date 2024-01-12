@@ -38,9 +38,10 @@ function obtenerPrecioPaquete($id, $conexion)
     return $fila['precio'];
 }
 
-$totalPagar = obtenerPrecioPaquete($id_paquete, $conexion) * $totalPersonas;
+$precio = obtenerPrecioPaquete($id_paquete, $conexion);
+$totalPagar =  $totalPersonas;
 
-echo $totalPagar;
+echo $precio;
 
 echo '<section class="section section-sm section-last bg-default text-left">
     <div class="container">
