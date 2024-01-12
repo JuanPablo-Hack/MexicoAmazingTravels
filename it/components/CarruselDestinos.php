@@ -126,7 +126,7 @@
                                 </span>
                             </h2>
                             <h5 class="text-uppercase" data-caption-animate="fadeInRight" data-caption-delay="0" style="text-shadow: -2px -2px 1px #000, 2px 2px 1px #000, -2px 2px 1px #000, 2px -2px 1px #000;">
-                                La nostra fondazione è un visitatore soddisfatto, felice ed entusiasta di viaggiare di nuovo con noi verso qualsiasi destinazione che offriamo. Ecco perché siamo "Mexico Amazing & Unforgettable". </h5>
+                                La nostra fondazione è un visitatore soddisfatto, felice ed entusiasta di viaggiare di nuovo con noi verso qualsiasi destinazione che offriamo. Ecco perché siamo "Mexico Amazing & Travels". </h5>
                         </div>
                     </div>
                 </div>

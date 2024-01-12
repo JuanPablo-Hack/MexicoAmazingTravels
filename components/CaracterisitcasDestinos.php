@@ -67,7 +67,7 @@
                             </div>
                             <div class="tab-pane fade" id="tabs-7-3">
                                 <p>
-                                    Nuestro fundamento es un visitante satisfecho, feliz y emocionado por viajar de nuevo con nosotros a cualquier destino que ofrecemos. Por eso somos “México Amazing & Unforgettable”.
+                                    Nuestro fundamento es un visitante satisfecho, feliz y emocionado por viajar de nuevo con nosotros a cualquier destino que ofrecemos. Por eso somos “México Amazing & Travels”.
                                 </p>
                             </div>
                         </div>

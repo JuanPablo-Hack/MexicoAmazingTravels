@@ -65,7 +65,7 @@
                         <br> <br>
                         <h4>Who we are</h4>
                         <p>
-                            Mexico Amazing &amp; Unforgettable is a company dedicated to showing the international tourist what
+                            Mexico Amazing &amp; Travels is a company dedicated to showing the international tourist what
                             best of Mexico under a natural, friendly, fun and safe environment. We know that you can
                             be a frequent visitor to our website to book and travel to the different destinations that
                             we offer. We understand that you need peace of mind knowing how and for what your
@@ -145,7 +145,7 @@
                             Identification of customer opportunities. To identify and evaluate new users
                             potential through tools such as Facebook, Youtube, Instagram, Tik Tok, LinkedIn, etc. and
                             to interact with people who respond to web content produced by México Amazing &amp;
-                            unforgettable. <br> <br>
+                            Travels. <br> <br>
 
                             <u><strong>Sending marketing communications.</strong></u> For direct marketing, promotions and other
                             non-transactional communications such as newsletters, calls or push notifications for
@@ -243,7 +243,7 @@
                         </h4>
                         <p>
                             To exercise your rights, contact us using the Mexico email
-                            Amazing &amp; unforgettable. We do not discriminate based on whether you choose to exercise your options and rights and,
+                            Amazing &amp; Travels. We do not discriminate based on whether you choose to exercise your options and rights and,
                             based on your exercise of rights, we will not deny you Offers; charge you different rates
                             (including through penalties or discounts/benefits); provide a different level or quality of
                             Offers; or suggest that you may be treated so differently. <br><br>
@@ -251,7 +251,7 @@
                             reasonable. In order to successfully process a request, we may need to verify your identity
                             before taking any action related to the request. <br><br>
                             If you have any questions, concerns, or comments about our privacy policy, you can
-                            communicate with us using the contact information of México Amazing &amp; unforgettable.
+                            communicate with us using the contact information of México Amazing &amp; Travels.
                             We reserve the right to make changes to these policies. Any changes to these policies
                             will be published. <br><br>
                         </p>

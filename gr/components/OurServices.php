@@ -27,7 +27,7 @@
                             Bodentransport
                         </h5>
                         <p class="box-icon-classic-text">
-                            Alle von México Amazing & Unforgettable für den Transport seiner Touristen zu den Sehenswürdigkeiten eingesetzten Einheiten sind sehr sicher und komfortabel.
+                            Alle von México Amazing & Travels für den Transport seiner Touristen zu den Sehenswürdigkeiten eingesetzten Einheiten sind sehr sicher und komfortabel.
                         </p>
                     </div>
                 </div>
@@ -131,7 +131,7 @@
                             Souvenirs
                         </h5>
                         <p class="box-icon-classic-text">
-                            Ein typisches Detail der von Ihnen gewählten Website und des von Ihnen gewählten Pakets wird dank Mexico Amazing & Unforgettable immer in angenehmer Erinnerung bleiben.
+                            Ein typisches Detail der von Ihnen gewählten Website und des von Ihnen gewählten Pakets wird dank Mexico Amazing & Travels immer in angenehmer Erinnerung bleiben.
                         </p>
                     </div>
                 </div>
@@ -146,7 +146,7 @@
                             Besonderes Abendessen
                         </h5>
                         <p class="box-icon-classic-text">
-                            Es wird immer schön sein, sie zu empfangen und mit einem besonderen Abendessen zu verabschieden. Eine gute Zeit zum Genießen und für ein Erinnerungsfoto mit freundlicher Genehmigung von Mexico Amazing & Unforgettable.
+                            Es wird immer schön sein, sie zu empfangen und mit einem besonderen Abendessen zu verabschieden. Eine gute Zeit zum Genießen und für ein Erinnerungsfoto mit freundlicher Genehmigung von Mexico Amazing & Travels.
                         </p>
                     </div>
                 </div>

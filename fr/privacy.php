@@ -67,7 +67,7 @@
                         <br> <br>
                         <h4>Qui sommes-nous</h4>
                         <p>
-                            Mexique Incroyable &amp; Unforgettable est une entreprise dédiée à montrer au touriste international ce que
+                            Mexique Incroyable &amp; Travels est une entreprise dédiée à montrer au touriste international ce que
                             meilleur du Mexique dans un environnement naturel, convivial, amusant et sûr. Nous savons que vous pouvez
                             être un visiteur fréquent de notre site Web pour réserver et voyager vers les différentes destinations qui
                             nous offrons. Nous comprenons que vous avez besoin de tranquillité d'esprit en sachant comment et pour quoi votre

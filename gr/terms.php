@@ -77,7 +77,7 @@
                             zwischen Mexiko Erstaunlich &amp; Unvergesslich und Sie im Zusammenhang mit dieser Seite. <br><br>
                             Die Annahme dieser Bedingungen regelt den Zugriff und die Nutzung der Website und begründet ein Vertragsverhältnis zwischen den
                             Kunde und Mexiko Amazing &amp; unvergesslich. Wenn der Kunde diese Allgemeinen Geschäftsbedingungen nicht akzeptiert, wird er dies nicht tun
-                            darf auf die Website zugreifen oder diese nutzen und México Amazing &amp; Unforgettable kann diese Bedingungen kündigen oder
+                            darf auf die Website zugreifen oder diese nutzen und México Amazing &amp; Travels kann diese Bedingungen kündigen oder
                             jegliche den Kunden betreffende Dienstleistungen zu erteilen oder ganz allgemein das Angebot einzustellen oder den Zugriff darauf zu verweigern
                             Ort. <br><br>
                             Der Inhalt dieser Website dient ausschließlich Ihrer allgemeinen Information und Nutzung. Änderungen vorbehalten
@@ -87,13 +87,13 @@
                             verboten, außer mit Genehmigung von México Amazing &amp; Unvergesslich gemäß Mitteilung von
                             Urheberrechte ©. Die unbefugte Nutzung dieser Website kann zu einem Schadensersatzanspruch führen
                             und eine Straftat darstellen. <br><br>
-                            Mexiko Erstaunlich &amp; Unforgettable behält sich das Recht vor, während der Dauer Fotos und Videos aufzunehmen
+                            Mexiko Erstaunlich &amp; Travels behält sich das Recht vor, während der Dauer Fotos und Videos aufzunehmen
                             Reise oder einen Teil davon zu versenden und die Fotos und Videos zur Werbung für die Dienstleistungen Mexikos zu verwenden
                             Erstaunlich &amp; unvergesslich. Mit der Buchung erklärt sich der Reisenutzer mit der Verwendung seiner Bilder einverstanden
                             besagte Fotos und Videos sowie Ihre Meinung über Ihre Reise und die Qualität der erbrachten Dienstleistung. <br> <br>
                             Diese Website kann Links zu anderen Websites enthalten. Falls enthalten, können diese Links sein
                             Dem Benutzer zur Verfügung stellen, um ihn bequemer zu machen und weitere Informationen zu erhalten. Das bedeutet nicht, dass
-                            Wir stehen hinter den Websites. Mexiko Erstaunlich &amp; Unforgettable übernimmt keine Verantwortung dafür
+                            Wir stehen hinter den Websites. Mexiko Erstaunlich &amp; Travels übernimmt keine Verantwortung dafür
                             Inhalte der verlinkten Seiten. Es ist nicht gestattet, von einer anderen Website aus einen Link zu dieser Website zu erstellen oder
                             Dokument ohne vorherige schriftliche Zustimmung von Mexico Amazing &amp; Unvergesslich <br><br>
                             Die Nutzung jeglicher Informationen oder Materialien auf dieser Website erfolgt auf Ihr eigenes Risiko und verursacht keine Konsequenzen
@@ -104,13 +104,13 @@
                             Erstaunlich &amp; unvergesslich. Die Verwendung von Bildern auf der Website zur Vermarktung oder Darstellung solcher
                             Produkt außerhalb desjenigen, das México Amazing &amp; Unvergesslich stellt einen Verstoß gegen diese Vereinbarung dar.
                             Alle auf dieser Website reproduzierten Markenzeichen bedürfen der vorherigen schriftlichen Zustimmung von
-                            México Amazing Unforgettable oder solche, die nicht Ihr Eigentum sind, werden auf der Website erwähnt. <br> <br>
+                            México Amazing Travels oder solche, die nicht Ihr Eigentum sind, werden auf der Website erwähnt. <br> <br>
                             Für den Fall, dass Mexico Amazing &amp; Unvergesslich, als Vermittler der erbrachten Dienstleistungen aufzutreten
                             durch autorisierte Dritte, die Informationen über diese Dienste liegen in deren Verantwortung, wofür
-                            Mexiko Erstaunlich &amp; Unforgettable ist weder direkt noch indirekt zur Erbringung der Dienstleistung verpflichtet und ist dies auch
+                            Mexiko Erstaunlich &amp; Travels ist weder direkt noch indirekt zur Erbringung der Dienstleistung verpflichtet und ist dies auch
                             lehnt jegliche Verantwortung für die Dienste oder die Entwicklung der Geschäftsbeziehung zwischen ihnen in ihrer jetzigen Form ab
                             lediglich ein Vermittler der Informations- und Geschäftsbeziehung zwischen dem Benutzer und autorisierten Dritten. <br><br>
-                            Noch Mexiko Erstaunlich &amp; Weder Unforgettable noch autorisierte Dritte übernehmen eine Garantie dafür
+                            Noch Mexiko Erstaunlich &amp; Weder Travels noch autorisierte Dritte übernehmen eine Garantie dafür
                             Genauigkeit, Aktualität, Leistung und Vollständigkeit der auf dieser Website gefundenen oder angebotenen Informationen
                             für einen bestimmten Zweck. Sie erkennen an, dass diese Informationen möglicherweise Ungenauigkeiten enthalten
                             Fehler und wir lehnen die Verantwortung für solche Ungenauigkeiten oder Fehler nicht im vollen Umfang ab
@@ -183,7 +183,7 @@
                             <strong>Zahlungsmethoden.</strong> Der Nutzer kann seine Reise per elektronischer Überweisung bezahlen. <br><br>
                             <strong>Von den Diensten.</strong> Für die von México Amazing &amp; Überhaupt unvergesslich
                             die Ziele. <br><br>
-                            <u>Flug</u>: Nach Erhalt Ihrer Flugdaten wird Mexico Amazing &amp; Unforgettable übernimmt keine Verantwortung, wenn der Benutzer
+                            <u>Flug</u>: Nach Erhalt Ihrer Flugdaten wird Mexico Amazing &amp; Travels übernimmt keine Verantwortung, wenn der Benutzer
                             Sie kommen nicht pünktlich an und verpassen Ihren Ausgang. Es ist wichtig, dass Sie eine Benachrichtigung senden, um einen anderen Flug zu finden, aber der
                             Der Kauf neuer Tickets liegt in der Verantwortung des Benutzers. <br><br>
                             <u>Transport:</u> Die von México Amazing &amp; Unvergesslich sind komfortabel, sicher und
@@ -194,7 +194,7 @@
                             durch den Benutzer verursacht. <br><br>
                             <u>Tickets für besondere Veranstaltungen</u>: Sie sind für den Benutzer und seine Begleiter auf seiner Reise inbegriffen. Tickets
                             Extras müssen vom Nutzer bezahlt werden. <br><br>
-                            <u>Kunsthandwerk kaufen:</u> Die Mitarbeiter von México Amazing &amp; Unforgettable wird Sie dabei unterstützen, Sie an Orte der Welt zu bringen
+                            <u>Kunsthandwerk kaufen:</u> Die Mitarbeiter von México Amazing &amp; Travels wird Sie dabei unterstützen, Sie an Orte der Welt zu bringen
                             bessere Qualität bei der Herstellung von Kunsthandwerk, aber der Preis ist eine direkte Vereinbarung zwischen Ihnen und dem Handwerker. <br><br>
 
                             <u>Medizinische Unterstützung</u>: Wir verfügen über eine Reiseversicherung für Unfälle, die im Paket enthalten ist.
@@ -203,7 +203,7 @@
                             <u>Essen</u>: Frühstück und Mahlzeiten sind während Ihres Aufenthalts und Ihres Aufenthaltes im Paket enthalten
                             Gefährten. Wenn Sie sich dazu entschließen, außerhalb des Reiseplans woanders essen zu gehen, gehen die Kosten zu Ihren Lasten. <br><br>
                             <u>Unterstützung bei Paketen</u>: Wenn Sie insbesondere Gegenstände gekauft haben, die empfindlich sein können, z
-                            Kunsthandwerk, Mexiko Amazing &amp; Unforgettable ist bestrebt, Sie bei der Übertragung zu unterstützen
+                            Kunsthandwerk, Mexiko Amazing &amp; Travels ist bestrebt, Sie bei der Übertragung zu unterstützen
                             Verpackung Ihrer Artikel, der Versand liegt jedoch in Ihrer Verantwortung. <br><br>
                         </p>
                         <h4>Rechtliche Grundlagen</h4>
@@ -214,7 +214,7 @@
                             verbunden mit Mexico Amazing &amp; Unvergesslich, einschließlich, aber nicht beschränkt auf Direktoren, Stimmrechtsvertreter,
                             Vertreter, Verwalter, Mitarbeiter und Anteilseigner, ob gegenwärtig oder in der Vergangenheit, für jede Handlung, die vorliegt
                             entstehen oder entstehen können, aus der Nutzung der Website und der Dienste oder aller aus dieser Nutzung abgeleiteten Dienste. <br><br>
-                            <b>Gewerbliches Eigentum und Urheberrecht</b>. Mexiko Erstaunlich &amp; Unforgettable ermächtigt seine Kunden dazu
+                            <b>Gewerbliches Eigentum und Urheberrecht</b>. Mexiko Erstaunlich &amp; Travels ermächtigt seine Kunden dazu
                             Nutzen Sie die Website ausschließlich gemäß den hierin dargelegten Bedingungen, ohne dass damit impliziert wird, dass dies gewährt wird
                             Lizenzen, Genehmigungen oder andere als die oben genannten Rechte des Kunden im Zusammenhang mit dem
                             Gewerbliches Eigentum und Urheberrecht von Mexiko Amazing &amp; Unvergesslich, verstanden als: das
@@ -230,9 +230,9 @@
                             darin enthaltene Marken, unabhängig davon, ob diese Rechte eingetragen sind oder nicht. in irgendeinem Teil von
                             Weltweit können solche Rechte bestehen und durch internationales Urheberrecht und internationale Urheberrechtsgesetze geschützt sein
                             Verträge über gewerbliches Eigentum. Daher akzeptiert der Kunde, dass die Brands of Mexico Amazing &amp;
-                            Unforgettable darf nicht kopiert, reproduziert, verändert, veröffentlicht, hochgeladen, gepostet,
+                            Travels darf nicht kopiert, reproduziert, verändert, veröffentlicht, hochgeladen, gepostet,
                             in irgendeiner Weise übermittelt oder verbreitet werden. Sofern in diesem Dokument nichts anderes bestimmt ist, Mexiko
-                            Erstaunlich &amp; Unforgettable gewährt seinen Kunden keine ausdrücklichen oder stillschweigenden Rechte aus Patenten,
+                            Erstaunlich &amp; Travels gewährt seinen Kunden keine ausdrücklichen oder stillschweigenden Rechte aus Patenten,
                             Urheberrechts-, Marken- oder Geschäftsgeheimnisinformationen. Die Kunden nehmen dies zur Kenntnis und stimmen dem zu
                             Die Website und alle ihre Designs sind und bleiben jederzeit Eigentum von México Amazing &amp;
                             unvergesslich. <br><br>
@@ -251,7 +251,7 @@
                             Auf elektronischem Weg gesendete und empfangene Mitteilungen sind in jedem Fall als Beweismittel zulässig
                             Gerichts- und Verwaltungsverfahren.<br><br>
                             <b>Änderung und Aktualisierung der Nutzungsbedingungen der Website</b>. Mexiko Erstaunlich &amp;
-                            Unforgettable behält sich das Recht vor, die Allgemeinen Geschäftsbedingungen jederzeit zu ändern und zu aktualisieren
+                            Travels behält sich das Recht vor, die Allgemeinen Geschäftsbedingungen jederzeit zu ändern und zu aktualisieren
                             der Nutzung der Website. Sollte sich herausstellen, dass ein Punkt dieser Allgemeinen Geschäftsbedingungen unwirksam ist,
                             ungeeignet oder nicht durchsetzbar sind, können vom Hauptteil der Gegenwart abgetrennt werden, und der Rest bleibt in voller Kraft und Wirksamkeit bestehen.
                             Wirkung im größtmöglichen gesetzlich zulässigen Umfang.<br><br>

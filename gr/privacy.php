@@ -65,7 +65,7 @@
                         <br> <br>
                         <h4>Wer wir sind</h4>
                         <p>
-                            Mexiko Erstaunlich &amp; Unforgettable ist ein Unternehmen, das es sich zum Ziel gesetzt hat, dem internationalen Touristen alles zu zeigen
+                            Mexiko Erstaunlich &amp; Travels ist ein Unternehmen, das es sich zum Ziel gesetzt hat, dem internationalen Touristen alles zu zeigen
                             Das Beste von Mexiko in einer natürlichen, freundlichen, unterhaltsamen und sicheren Umgebung. Wir wissen, dass Sie es können
                             Seien Sie ein häufiger Besucher unserer Website, um die verschiedenen Reiseziele zu buchen und zu reisen
                             Wir bieten. Wir verstehen, dass Sie die Gewissheit brauchen, wie und wofür Sie sich entscheiden

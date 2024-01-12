@@ -128,7 +128,7 @@
                                 <span class="font-weight-bold" style="text-shadow: -2px -2px 1px #000, 2px 2px 1px #000, -2px 2px 1px #000, 2px -2px 1px #000;">Aber meistens</span>
                             </h2>
                             <<h4 class="text-uppercase" data-caption-animate="fadeInRight" data-caption-delay="0" style="text-shadow: -2px -2px 1px #000, 2px 2px 1px #000, -2px 2px 1px #000, 2px -2px 1px #000;" style="text-shadow: -2px -2px 1px #000, 2px 2px 1px #000, -2px 2px 1px #000, 2px -2px 1px #000;">
-                                Sie werden feststellen, dass „Mexico Amazing & Unforgettable“ bleiben wird
+                                Sie werden feststellen, dass „Mexico Amazing & Travels“ bleiben wird
                                 für immer in dein Herz eingraviert...
                                 <strong>und du wirst zurückkehren</strong>
                                 </h4>

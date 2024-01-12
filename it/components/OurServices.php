@@ -27,7 +27,7 @@
                             Trasporto via terra
                         </h5>
                         <p class="box-icon-classic-text">
-                            Tutte le unità utilizzate da México Amazing & Unforgettable per trasportare i suoi turisti nei siti sono molto sicure e confortevoli.
+                            Tutte le unità utilizzate da México Amazing & Travels per trasportare i suoi turisti nei siti sono molto sicure e confortevoli.
                         </p>
                     </div>
                 </div>
@@ -131,7 +131,7 @@
                             Souvenir
                         </h5>
                         <p class="box-icon-classic-text">
-                            Un dettaglio tipico del sito e del pacchetto che scegli sarà sempre un piacevole ricordo per gentile concessione di Mexico Amazing & Unforgettable.
+                            Un dettaglio tipico del sito e del pacchetto che scegli sarà sempre un piacevole ricordo per gentile concessione di Mexico Amazing & Travels.
                         </p>
                     </div>
                 </div>

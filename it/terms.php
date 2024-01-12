@@ -78,7 +78,7 @@
                             tra il Messico Amazing &amp; Indimenticabile e tu in connessione con questo sito. <br><br>
                             L'accettazione delle presenti Condizioni regola l'accesso e l'utilizzo del Sito e stabilisce un rapporto contrattuale tra il
                             Cliente e Messico Amazing &amp; indimenticabile. Se il Cliente non accetta questi Termini e Condizioni, non lo farà
-                            può accedere o utilizzare il Sito e México Amazing &amp; Unforgettable può risolvere i presenti Termini o
+                            può accedere o utilizzare il Sito e México Amazing &amp; Travels può risolvere i presenti Termini o
                             uno qualsiasi dei Servizi che riguardano il Cliente o, in generale, interrompere l'offerta o negare l'accesso al
                             Posto. <br><br>
                             Il contenuto di questo sito web è solo per vostra informazione generale e uso. È soggetto a modifiche senza
@@ -88,7 +88,7 @@
                             proibito tranne quando autorizzato da México Amazing &amp; Indimenticabile ai sensi dell'avviso di
                             diritto d'autore. L'uso non autorizzato di questo sito può dar luogo a una richiesta di risarcimento danni
                             ed essere un reato penale. <br><br>
-                            Messico Incredibile &amp; Unforgettable si riserva il diritto di effettuare fotografie e video durante la durata del
+                            Messico Incredibile &amp; Travels si riserva il diritto di effettuare fotografie e video durante la durata del
                             viaggio o parte di esso e utilizzare le fotografie e i video per la promozione dei servizi del Messico
                             Incredibile e fantastico indimenticabile. Prenotando, gli utenti del viaggio accettano di consentire l'utilizzo delle loro immagini
                             suddette fotografie e video, oltre a dare la tua opinione sul tuo viaggio e sulla qualità del servizio fornito. <br> <br>
@@ -104,16 +104,16 @@
                             specifica. <br><br>
                             È vietato l'uso di qualsiasi immagine al di fuori dell'ambito della promozione e commercializzazione del Messico
                             Incredibile e fantastico indimenticabile. L'uso di qualsiasi immagine sul sito per commercializzare o rappresentare qualsiasi
-                            prodotto al di fuori di quello che rappresenta México Amazing &amp; Unforgettable costituisce una violazione del presente accordo.
+                            prodotto al di fuori di quello che rappresenta México Amazing &amp; Travels costituisce una violazione del presente accordo.
                             Tutti i marchi riprodotti su questo sito senza il preventivo consenso scritto di
-                            México Amazing Unforgettable o che non sono di tua proprietà, sono riconosciuti sul sito web. <br> <br>
+                            México Amazing Travels o che non sono di tua proprietà, sono riconosciuti sul sito web. <br> <br>
 
                             Nel caso in cui Mexico Amazing &amp; Indimenticabile agire come intermediario nei servizi forniti
                             da Terze parti autorizzate, le informazioni su questi servizi saranno di loro responsabilità, per quanto
-                            Messico Incredibile &amp; Unforgettable non è direttamente o indirettamente obbligato a fornire il Servizio e lo è
+                            Messico Incredibile &amp; Travels non è direttamente o indirettamente obbligato a fornire il Servizio e lo è
                             declina ogni responsabilità per i Servizi o lo sviluppo del rapporto commerciale tra di loro così come sono
                             solo un facilitatore di rapporti informativi e commerciali tra l'Utente e le Terze Parti Autorizzate. <br><br>
-                            Né Messico Incredibile &amp; Né Unforgettable né terzi autorizzati rilasciano alcuna garanzia in merito al
+                            Né Messico Incredibile &amp; Né Travels né terzi autorizzati rilasciano alcuna garanzia in merito al
                             accuratezza, tempestività, performance e completezza delle informazioni reperite od offerte su questo sito
                             per qualsiasi scopo particolare. L'utente riconosce che tali informazioni possono contenere inesattezze o
                             errori e non decliniamo la responsabilità per tali inesattezze o errori nella misura massima
@@ -190,7 +190,7 @@
                             <strong>Dei servizi.</strong> Ci sono delle condizioni nei servizi offerti da México Amazing &amp; Indimenticabile a tutti
                             le destinazioni. <br><br>
 
-                            <u>Volo</u>: dopo aver ricevuto i dettagli del volo, Mexico Amazing &amp; Unforgettable non è responsabile se l'utente
+                            <u>Volo</u>: dopo aver ricevuto i dettagli del volo, Mexico Amazing &amp; Travels non è responsabile se l'utente
                             Non arrivi in ​​orario e perdi l'uscita. È importante inviare una notifica per individuare un altro volo, ma il
                             l'acquisto di nuovi biglietti è a carico dell'utente. <br><br>
                             <u>Trasporto:</u> le unità di trasporto utilizzate da México Amazing &amp; Indimenticabili sono comodi, sicuri e
@@ -201,7 +201,7 @@
                             causato dall'utente. <br><br>
                             <u>Biglietti per eventi speciali</u>: sono inclusi per l'utente e i suoi accompagnatori durante il viaggio. Biglietti
                             Gli extra devono essere pagati dall'utente. <br><br>
-                            <u>Acquisto di artigianato:</u> Lo staff di México Amazing &amp; Unforgettable ti supporterà nel portarti nei luoghi di
+                            <u>Acquisto di artigianato:</u> Lo staff di México Amazing &amp; Travels ti supporterà nel portarti nei luoghi di
                             migliore qualità nella produzione di artigianato, ma il prezzo è un affare diretto tra te e l'artigiano. <br><br>
 
                             <u>Assistenza medica</u>: abbiamo un'assicurazione di viaggio per incidenti ed è inclusa nel pacchetto.
@@ -210,7 +210,7 @@
                             <u>Cibo</u>: colazioni e pasti sono inclusi nel pacchetto durante il vostro soggiorno e quello del vostro
                             compagni. Se decidi di andare a mangiare da qualche altra parte al di fuori dell'itinerario, la spesa è a tuo carico. <br><br>
                             <u>Assistenza in pacchi</u>: Se hai effettuato acquisti soprattutto di oggetti che possono essere delicati come
-                            oggetti artigianali, Messico Amazing &amp; Unforgettable si impegna a supportarti nel trasferimento e
+                            oggetti artigianali, Messico Amazing &amp; Travels si impegna a supportarti nel trasferimento e
                             imballaggio dei tuoi articoli, ma la spedizione è sotto la tua responsabilità. <br><br>
                         </p>
                         <h4> Fondamenti legali</h4>
@@ -221,7 +221,7 @@
                             affiliato con Mexico Amazing &amp; Indimenticabili, inclusi, a titolo esemplificativo, amministratori, delegati,
                             rappresentanti, amministratori, dipendenti e azionisti, presenti o passati, per qualsiasi atto che sia
                             deriva, o può derivare, dall'uso del Sito e dei Servizi, o da qualsiasi servizio derivato da tale uso. <br><br>
-                            <b>Proprietà industriale e diritto d'autore</b>. Messico Incredibile &amp; Unforgettable autorizza i suoi Clienti a
+                            <b>Proprietà industriale e diritto d'autore</b>. Messico Incredibile &amp; Travels autorizza i suoi Clienti a
                             utilizzare il Sito esclusivamente secondo i termini espressi nel presente documento, senza che ciò comporti la concessione del
                             Licenza, autorizzazione o qualsiasi diritto del cliente diverso da quelli sopra menzionati, relativi al
                             Proprietà industriale e copyright del Messico Amazing &amp; Indimenticabile, inteso come: il
@@ -238,9 +238,9 @@
                             marchi in esso contenuti, indipendentemente dal fatto che tali diritti siano registrati o meno. in qualsiasi parte di
                             mondo, tali diritti possono esistere e sono protetti dal diritto d'autore internazionale e dalle leggi internazionali sul diritto d'autore e
                             trattati di proprietà industriale. Pertanto, il Cliente accetta che i Marchi di Mexico Amazing &amp;
-                            Unforgettable non può essere copiato, riprodotto, modificato, pubblicato, caricato, pubblicato,
+                            Travels non può essere copiato, riprodotto, modificato, pubblicato, caricato, pubblicato,
                             trasmessi o distribuiti in alcun modo. Ad eccezione di quanto stabilito nel presente documento, il Messico
-                            Incredibile e fantastico Unforgettable non concede ai Clienti alcun diritto esplicito o implicito su alcun brevetto,
+                            Incredibile e fantastico Travels non concede ai Clienti alcun diritto esplicito o implicito su alcun brevetto,
                             informazioni su copyright, marchi o segreti commerciali. I clienti lo riconoscono e lo accettano
                             il Sito e tutti i suoi design sono e rimarranno sempre di proprietà di México Amazing &amp;
                             indimenticabile. <br><br>
@@ -260,7 +260,7 @@
                             le comunicazioni inviate e ricevute per via telematica saranno ammissibili come prova in qualunque caso
                             procedura giudiziaria e amministrativa.<br><br>
                             <b>Modifica e aggiornamento dei Termini e Condizioni di Utilizzo del Sito</b>. Messico Incredibile &amp;
-                            Unforgettable si riserva il diritto, in qualsiasi momento, di modificare e aggiornare i termini e le condizioni
+                            Travels si riserva il diritto, in qualsiasi momento, di modificare e aggiornare i termini e le condizioni
                             di utilizzo del Sito. Se qualsiasi punto contenuto in questi Termini e Condizioni è ritenuto inefficace,
                             inadatto o inapplicabile, può essere separato dal corpo del presente, e il resto continuerà ad avere pieno vigore ed effetto.
                             effetto nella misura massima consentita dalla legge.<br><br>

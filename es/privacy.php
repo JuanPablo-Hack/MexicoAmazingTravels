@@ -65,7 +65,7 @@
             <br> <br>
             <h4>Quienes somos</h4>
             <p>
-              México Amazing &amp; Unforgettable Es una Empresa dedicada a mostrarle al turista internacional lo
+              México Amazing &amp; Travels Es una Empresa dedicada a mostrarle al turista internacional lo
               mejor de México bajo un ambiente natural, amigable, divertido y seguro. Sabemos que usted puede
               ser un visitante frecuente a nuestro sitio web para reservar y viajar a los diferentes destinos que
               ofrecemos. Entendemos que necesita tener tranquilidad al saber cómo y para qué se utilizan sus
@@ -145,7 +145,7 @@
               Identificación de oportunidades de clientes. Para identificar y evaluar nuevos usuarios
               potenciales a través de herramientas como Faceboock, Youtube, Instagram, Tik Tok, LinkedIn, etc. y
               para interactuar con personas que respondan al contenido web producido por México Amazing &amp;
-              Unforgettable. <br> <br>
+              Travels. <br> <br>
 
               <u><strong>Envío de comunicaciones de marketing.</strong></u> Para marketing directo, promociones y otras
               comunicaciones no transaccionales como boletines, llamadas o notificaciones automáticas para
@@ -244,7 +244,7 @@
             </h4>
             <p>
               Para ejercer sus derechos, comuníquese con nosotros utilizando el correo electrónico de México
-              Amazing &amp; Unforgettable. No discriminamos en función de si elige ejercer sus opciones y derechos y,
+              Amazing &amp; Travels. No discriminamos en función de si elige ejercer sus opciones y derechos y,
               en función de su ejercicio de derechos, no le negaremos las Ofertas; cobrarle tarifas diferentes
               (incluso a través de multas o descuentos/beneficios); proporcionar un nivel o calidad diferente de
               Ofertas; o sugerir que puede recibir un trato tan diferente. <br><br>
@@ -252,7 +252,7 @@
               razonable. Para procesar correctamente una solicitud, es posible que debamos verificar su identidad
               antes de tomar cualquier medida relacionada con la solicitud. <br><br>
               Si tiene alguna pregunta, inquietud o comentario sobre nuestra política de privacidad, puede
-              comunicarse con nosotros utilizando la información de contacto de México Amazing &amp; Unforgettable.
+              comunicarse con nosotros utilizando la información de contacto de México Amazing &amp; Travels.
               Nos reservamos el derecho de hacer cambios a estas políticas. Cualquier cambio a estas políticas
               serán publicadas. <br><br>
             </p>

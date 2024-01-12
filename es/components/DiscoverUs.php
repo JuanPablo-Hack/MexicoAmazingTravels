@@ -27,7 +27,7 @@
                                     necesarios para que conozcan y vivan la calidez de su
                                     gente su entorno y estilo de vida para que regresen
                                     satisfechos a sus hogares y recuerden que disfrutaron
-                                    México a través de Mexico Lovely & Unforgettable.
+                                    México a través de Mexico Lovely & Travels.
                                 </p>
                             </div>
                             <div class="tab-pane fade" id="tabs-7-2">
