@@ -29,7 +29,7 @@ const calcularFormulario = () => {
 aceptarTerminos = () => {
   Swal.fire(
     "Felicidades!",
-    "Haz aceptado nuestros términos y condiciones!",
+    "Has aceptado nuestros términos y condiciones!",
     "success"
   );
 };
