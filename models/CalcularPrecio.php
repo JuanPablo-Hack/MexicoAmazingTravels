@@ -91,7 +91,7 @@ echo '<section class="section section-sm section-last bg-default text-left">
                 <div class="col-md-4">
                     <div class="form-wrap">
                         <input class="form-input" id="contact-your-name-2" readonly value="Total: $ ' .
-    $totalPagar .
+                        number_format($totalPagar, 2, '.', ',') .
     ' USD" />
                     </div>
                 </div>
