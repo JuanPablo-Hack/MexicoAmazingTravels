@@ -40,6 +40,8 @@ function obtenerPrecioPaquete($id, $conexion)
 
 $totalPagar = obtenerPrecioPaquete($id_paquete, $conexion) * $totalPersonas;
 
+echo $totalPagar;
+
 echo '<section class="section section-sm section-last bg-default text-left">
     <div class="container">
         <div id="contenedor_calcular">
