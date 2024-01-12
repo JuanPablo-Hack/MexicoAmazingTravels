@@ -37,7 +37,8 @@ function obtenerPrecioPaquete($id, $conexion)
     $fila = mysqli_fetch_assoc($resultado);
     return $fila['precio'];
 }
-$totalPagar =  obtenerPrecioPaquete($id_paquete, $conexion) * $_POST['totalPersonas'];
+$precio = explode(":", $totalPersonas);
+$totalPagar =  obtenerPrecioPaquete($id_paquete, $conexion) * $precio[1];
 echo '<section class="section section-sm section-last bg-default text-left">
     <div class="container">
         <div id="contenedor_calcular">
