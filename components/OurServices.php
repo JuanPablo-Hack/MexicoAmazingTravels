@@ -12,7 +12,7 @@
                             Flights
                         </h5>
                         <p class="box-icon-classic-text">
-                            The round flight in the package of the destination that you decide starting from the cities of Mexico DF and Guadalajara.
+                            The round flight in the package of the destination that you decide starting from the cities of México DF, Guadalajara, Vallarta, Cancún & Manzanillo.
                         </p>
                     </div>
                 </div>

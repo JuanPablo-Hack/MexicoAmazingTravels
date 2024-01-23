@@ -12,7 +12,7 @@
                             <p>Vuelos</p>
                         </h5>
                         <p class="box-icon-classic-text">
-                            El Vuelo redondo en el paquete del destino que decidas partiendo de las ciudades de México DF y Guadalajara.
+                            El Vuelo redondo en el paquete del destino que decidas partiendo de las ciudades de México DF, Guadalajara, Vallarta, Cancún & Manzanillo.
                         </p>
                     </div>
                 </div>

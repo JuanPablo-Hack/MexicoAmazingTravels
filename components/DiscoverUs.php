@@ -28,7 +28,7 @@
                                     necessary for them to know and live the warmth of their
                                     people, their environment and lifestyle so that they return
                                     satisfied to their homes and remember that they enjoyed
-                                    Mexico via Mexico Lovely & Travels.
+                                    Mexico via "Mexico Amazing Travels.
                                 </p>
                             </div>
                             <div class="tab-pane fade" id="tabs-7-2">
