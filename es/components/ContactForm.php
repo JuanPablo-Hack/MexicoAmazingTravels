@@ -123,17 +123,35 @@ $result2 = mysqli_query($conexion, $sql2);
             </div>       
             <div class="row row-14 gutters-14">
                 <div class="col-md-4">
-                    <a class="button  button-pipaluk" style="background-color: #098CC1; color:white;" onclick="aceptarTerminos()">
+                    <a class="button  button-pipaluk" style="background-color: #098CC1; color:white; display: block;
+    width: 100%;
+    min-height: 60px;
+    padding: 17px 22px;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 24px;" onclick="aceptarTerminos()">
                         Aceptar Términos
                     </a>
                 </div>
                 <div class="col-md-4">
-                    <a class="button  button-pipaluk" style="background-color: #098CC1; color:white;" onclick="calcularFormulario()">
+                    <a class="button  button-pipaluk" style="background-color: #098CC1; color:white; display: block;
+    width: 100%;
+    min-height: 60px;
+    padding: 17px 22px;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 24px;" onclick="calcularFormulario()">
                         Calcular Precio
                     </a>
                 </div>
                 <div class="col-md-4">
-                    <button class="button  button-pipaluk" style="background-color: #098CC1; color:white;" type="submit">
+                    <button class="button  button-pipaluk" style="background-color: #098CC1; color:white;display: block;
+    width: 100%;
+    min-height: 60px;
+    padding: 17px 22px;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 24px;" type="submit">
                         Reservar Ahora
                     </button>
                 </div> 
