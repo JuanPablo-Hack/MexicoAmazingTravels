@@ -12,7 +12,7 @@
                             Vols
                         </h5>
                         <p class="box-icon-classic-text">
-                            Le vol aller-retour dans le forfait de la destination que vous décidez à partir des villes de México DF, Guadalajara, Vallarta, Cancún & Manzanillo.
+                            Le vol aller-retour dans le forfait de la destination que vous décidez à partir des villes de México DF, Guadalajara, Puerto Vallarta, Cancún & Manzanillo.
                         </p>
                     </div>
                 </div>
@@ -27,7 +27,7 @@
                             Transport terrestre
                         </h5>
                         <p class="box-icon-classic-text">
-                            Toutes les unités utilisées par México Amazing & Travels pour transporter ses touristes autour des sites sont très sûres et confortables.
+                            Toutes les unités utilisées par México Amazing Travels pour transporter ses touristes autour des sites sont très sûres et confortables.
                         </p>
                     </div>
                 </div>

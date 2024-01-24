@@ -12,7 +12,7 @@
                             <p>Vuelos</p>
                         </h5>
                         <p class="box-icon-classic-text">
-                            El Vuelo redondo en el paquete del destino que decidas partiendo de las ciudades de México DF, Guadalajara, Vallarta, Cancún & Manzanillo.
+                            El Vuelo redondo en el paquete del destino que decidas partiendo de las ciudades de México DF, Guadalajara, Puerto Vallarta, Cancún & Manzanillo.
                         </p>
                     </div>
                 </div>
@@ -27,7 +27,7 @@
                             <p>Transporte terrestre</p>
                         </h5>
                         <p class="box-icon-classic-text">
-                            Todas las unidades que utiliza México Amazing & Travels para el traslado de sus turistas por los sitios, son muy seguros y confortables.
+                            Todas las unidades que utiliza México Amazing Travels para el traslado de sus turistas por los sitios, son muy seguros y confortables.
                         </p>
                     </div>
                 </div>
@@ -131,7 +131,7 @@
                             <p>Souvenirs</p>
                         </h5>
                         <p class="box-icon-classic-text">
-                            Un detalle típico del sitio y paquete que elijas siempre será un grato recuerdo cortesía de México Amazing & Travels.
+                            Un detalle típico del sitio y paquete que elijas siempre será un grato recuerdo cortesía de México Amazing Travels.
                         </p>
                     </div>
                 </div>
@@ -146,7 +146,7 @@
                             <p>Cena Especial</p>
                         </h5>
                         <p class="box-icon-classic-text">
-                            Siempre será agradable recibirlos y despedirlos con una cena especial. Un buen momento para disfrutar y obtener una foto de recuerdo cortesía de México Amazing & Travels.
+                            Siempre será agradable recibirlos y despedirlos con una cena especial. Un buen momento para disfrutar y obtener una foto de recuerdo cortesía de México Amazing Travels.
                         </p>
                     </div>
                 </div>

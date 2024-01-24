@@ -12,7 +12,7 @@
                             Voli
                         </h5>
                         <p class="box-icon-classic-text">
-                            Il volo di andata e ritorno nel pacchetto della destinazione che decidi tu partendo dalle città del México DF, Guadalajara, Vallarta, Cancún & Manzanillo.
+                            Il volo di andata e ritorno nel pacchetto della destinazione che decidi tu partendo dalle città del México DF, Guadalajara, Puerto Vallarta, Cancún & Manzanillo.
                         </p>
                     </div>
                 </div>
@@ -27,7 +27,7 @@
                             Trasporto via terra
                         </h5>
                         <p class="box-icon-classic-text">
-                            Tutte le unità utilizzate da México Amazing & Travels per trasportare i suoi turisti nei siti sono molto sicure e confortevoli.
+                            Tutte le unità utilizzate da México Amazing Travels per trasportare i suoi turisti nei siti sono molto sicure e confortevoli.
                         </p>
                     </div>
                 </div>

@@ -14,32 +14,32 @@
             <div class="row row-14 gutters-14">
                 <div class="col-md-12">
                     <div class="form-wrap">
-                        <input class="form-input" id="contact-your-name-2" readonly value="Número de Adultos: 4" />
+                        <input class="form-input" id="contact-your-name-2" readonly value="" />
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="form-wrap">
-                        <input class="form-input" id="contact-your-name-2" readonly value="Destino: Oaxaca" />
+                        <input class="form-input" id="contact-your-name-2" readonly value="" />
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="form-wrap">
-                        <input class="form-input" id="contact-your-name-2" readonly value="Paquete:  Básico" />
+                        <input class="form-input" id="contact-your-name-2" readonly value="" />
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="form-wrap">
-                        <input class="form-input" id="contact-your-name-2" readonly value="Fecha seleccionada: 22/03/2023" />
+                        <input class="form-input" id="contact-your-name-2" readonly value="" />
                     </div>
                 </div>
                 <div class="col-md-6">
                     <div class="form-wrap">
-                        <input class="form-input" id="contact-your-name-2" readonly value="Precio por persona: $ 3,500 USD" />
+                        <input class="form-input" id="contact-your-name-2" readonly value="" />
                     </div>
                 </div>
                 <div class="col-md-6">
                     <div class="form-wrap">
-                        <input class="form-input" id="contact-your-name-2" readonly value="Total: $ 14,000 USD" />
+                        <input class="form-input" id="contact-your-name-2" readonly value="" />
                     </div>
                 </div>
             </div>

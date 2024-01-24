@@ -12,7 +12,7 @@
                             Flüge
                         </h5>
                         <p class="box-icon-classic-text">
-                            Der Hin- und Rückflug im Paket des von Ihnen gewählten Reiseziels ab den Städten México DF, Guadalajara, Vallarta, Cancún & Manzanillo.
+                            Der Hin- und Rückflug im Paket des von Ihnen gewählten Reiseziels ab den Städten México DF, Guadalajara, Puerto Vallarta, Cancún & Manzanillo.
                         </p>
                     </div>
                 </div>
@@ -27,7 +27,7 @@
                             Bodentransport
                         </h5>
                         <p class="box-icon-classic-text">
-                            Alle von México Amazing & Travels für den Transport seiner Touristen zu den Sehenswürdigkeiten eingesetzten Einheiten sind sehr sicher und komfortabel.
+                            Alle von México Amazing Travels für den Transport seiner Touristen zu den Sehenswürdigkeiten eingesetzten Einheiten sind sehr sicher und komfortabel.
                         </p>
                     </div>
                 </div>

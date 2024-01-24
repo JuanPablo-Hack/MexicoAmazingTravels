@@ -48,31 +48,32 @@ $result2 = mysqli_query($conexion, $sql2);
                 <div class="col-md-4">
                     <select name="datos[]" class="form-input" data-constraints="@Selected" id="numero_adultos" onchange="calcularPersonas()">
                         <option selected disabled value="0">-Números de Adultos-</option>
-                        <option value="1">1</option>
-                        <option value="2">2</option>
-                        <option value="3">3</option>
-                        <option value="4">4</option>
-                        <option value="5">5</option>
-                        <option value="6">6</option>
-                        <option value="7">7</option>
-                        <option value="8">8</option>
-                        <option value="9">9</option>
-                        <option value="10">10</option>
+                        <option value="1">Adultos 1</option>
+                        <option value="2">Adultos 2</option>
+                        <option value="3">Adultos 3</option>
+                        <option value="4">Adultos 4</option>
+                        <option value="5">Adultos 5</option>
+                        <option value="6">Adultos 6</option>
+                        <option value="7">Adultos 7</option>
+                        <option value="8">Adultos 8</option>
+                        <option value="9">Adultos 9</option>
+                        <option value="10">Adultos 10</option>
                     </select>
                 </div>
                 <div class="col-md-4">
                     <select name="datos[]" class="form-input" data-constraints="@Selected" id="numero_niños" onchange="calcularPersonas()">
                         <option selected disabled value="0">-Números de Niños-</option>
-                        <option value="1">1</option>
-                        <option value="2">2</option>
-                        <option value="3">3</option>
-                        <option value="4">4</option>
-                        <option value="5">5</option>
-                        <option value="6">6</option>
-                        <option value="7">7</option>
-                        <option value="8">8</option>
-                        <option value="9">9</option>
-                        <option value="10">10</option>
+                        <option value="0">Sin niños</option>
+                        <option value="1">Niños 1</option>
+                        <option value="2">Niños 2</option>
+                        <option value="3">Niños 3</option>
+                        <option value="4">Niños 4</option>
+                        <option value="5">Niños 5</option>
+                        <option value="6">Niños 6</option>
+                        <option value="7">Niños 7</option>
+                        <option value="8">Niños 8</option>
+                        <option value="9">Niños 9</option>
+                        <option value="10">Niños 10</option>
                     </select>
                 </div>
                 <div class="col-md-4">
@@ -119,16 +120,24 @@ $result2 = mysqli_query($conexion, $sql2);
                         <input class="form-input-total" type="number" readonly placeholder="Cupos disponibles: " id="totalPersonas" style="background-color: #E8B11F; color: white;" />
                     </div>
                 </div>
-            </div>              
+            </div>       
+            <div class="row row-14 gutters-14">
+                <div class="col-md-4">
                     <a class="button  button-pipaluk" style="background-color: #098CC1; color:white;" onclick="aceptarTerminos()">
                         Aceptar Términos
                     </a>
+                </div>
+                <div class="col-md-4">
                     <a class="button  button-pipaluk" style="background-color: #098CC1; color:white;" onclick="calcularFormulario()">
                         Calcular Precio
                     </a>
+                </div>
+                <div class="col-md-4">
                     <button class="button  button-pipaluk" style="background-color: #098CC1; color:white;" type="submit">
                         Reservar Ahora
                     </button>
+                </div> 
+            </div>         
         </form>
         <div id="formCalcular">
             

@@ -12,7 +12,7 @@
                             Flights
                         </h5>
                         <p class="box-icon-classic-text">
-                            The round flight in the package of the destination that you decide starting from the cities of México DF, Guadalajara, Vallarta, Cancún & Manzanillo.
+                            The round flight in the package of the destination that you decide starting from the cities of México DF, Guadalajara, Puerto Vallarta, Cancún & Manzanillo.
                         </p>
                     </div>
                 </div>
@@ -27,7 +27,7 @@
                             Ground transportation
                         </h5>
                         <p class="box-icon-classic-text">
-                            All the units used by México Amazing & Travels to transport its tourists around the sites are very safe and comfortable.
+                            All the units used by México Amazing Travels to transport its tourists around the sites are very safe and comfortable.
                         </p>
                     </div>
                 </div>
