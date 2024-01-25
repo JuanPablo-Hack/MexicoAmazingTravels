@@ -22,7 +22,7 @@
                         <div class="tab-content">
                             <div class="tab-pane fade show active" id="tabs-7-1">
                                 <p>
-                                    <strong>"Mexico Amazing Travels"</strong> è un'azienda che
+                                    <strong>Mexico Amazing Travels"</strong> è un'azienda che
                                     offre al turista in genere, i servizi ei mezzi
                                     necessario per loro di conoscere e vivere il calore della loro
                                     persone, il loro ambiente e stile di vita in modo che ritornino

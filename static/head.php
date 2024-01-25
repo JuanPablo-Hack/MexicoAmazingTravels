@@ -12,7 +12,7 @@
 <link rel="stylesheet" href="assets/sweetalert2/sweetalert2.min.css">
 <link rel="manifest" href="manifest.json" />
 <meta property="og:url" content="https://mexicoamazingtravels.com/" />
-<meta property="og:tittle" content="Mexico Amazing Travels" />
+<meta property="og:tittle" content=Mexico Amazing Travels" />
 <meta property="og:description" content="Los mejores viajes, a los mejores precios" />
 <meta property="og:image" content="assets/images/logos/logo72x72.png" />
 
