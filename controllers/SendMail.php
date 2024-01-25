@@ -125,23 +125,14 @@ function mandarConfirmacionReservacion($datos_cliente)
                               letter-spacing: -0.02em;
                             "
                           >
-                            Usted reservó un viaje a OAXACA con el paquete BÁSICO para las fechas 23 DE AGOSTO 2023.
+                            ¡Gracias por reservar en México Amazing Travels, donde vivirás la mejor experiencia!.
                           </h1>
                           <p style="margin: 0">
-                            Esta reservación solo espera un plazo máximo de 48 horas para recibir su pago. En caso contrario, la reservación se cancelará y podrá reservar nuevamente. <br><br>
-                            Su código de reservación es: <strong>FFG89201</strong>.  <br><br>
-                            Su cargo total a pagar es de: <strong> $6,800.00</strong>. <br><br>
-                            Su código de Reservación lo identifica como usuario en nuestro sistema. <br><br>
-                            Por favor, siga las instrucciones a continuación para realizar su pago. <br><br>
-                            Realice la transferencia por el monto total de  a:  <br><br>
-                              Banco: SANTANDER  <br><br>
-                              CLABE: 014589678936  <br><br>
-                              *Concepto: <strong>FFG89201</strong> IMPORTANTE ESCRIBIR TAL COMO APARECE.  <br><br>
-                              Una vez realizado el pago, responda a este correo con una foto o imagen donde pueda apreciarse claramente el comprobante de pago.  <br><br>
-                              Si realizó estos pasos correctamente recibirá otro correo donde se le indicará su vuelo, asientos e instrucciones al llegar a su destino, donde el personal de México Amazing Travels le recibirá.  <br><br
-                              Gracias por elegir México Amazing Travels, una experiencia grandiosa e inolvidable. <br><br>
-                              Lo invitamos a consultar nuestros Términos y Condiciones para más información sobre reprogramar fechas o cancelaciones, entre otras.  Si tiene alguna duda no olvide comunicarse al correo contacto@mexicoamazingtravels.com
-                            
+                              En breve recibirás mensaje de confirmación en tu correo electrónico con el código de reservación que te
+                              identificará en nuestro sistema, con las instrucciones de pago. Hecho el pago, recibirás tu IQ de reservación
+                              de vuelo con los asientos asignados y las fechas programadas.
+                              Si tienes alguna duda, no dudes en contactarnos en contacto@mexicoamazingtravels.com
+                              ¡Estaremos listos a responderte!  
                           </p>
                           <br />
                         </td>
