@@ -120,7 +120,7 @@
                                 </span>
                             </h2>
                             <h5 class="text-uppercase" data-caption-animate="fadeInRight" data-caption-delay="0" style="text-shadow: -2px -2px 1px #000, 2px 2px 1px #000, -2px 2px 1px #000, 2px -2px 1px #000;">
-                                Our foundation is a satisfied, happy and excited visitor to travel with us again to any destination we offer. That is why we are "Mexico Amazing & Travels".
+                                Our foundation is a satisfied, happy and excited visitor to travel with us again to any destination we offer. That is why we are "Mexico Amazing Travels".
                             </h5>
                         </div>
                     </div>

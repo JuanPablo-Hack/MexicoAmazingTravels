@@ -131,7 +131,7 @@
                             Souvenir
                         </h5>
                         <p class="box-icon-classic-text">
-                            Un détail typique du site et du forfait que vous choisissez sera toujours un souvenir agréable grâce à Mexico Amazing & Travels.
+                            Un détail typique du site et du forfait que vous choisissez sera toujours un souvenir agréable grâce à Mexico Amazing Travels.
                         </p>
                     </div>
                 </div>
@@ -146,7 +146,7 @@
                             Dîner spécial
                         </h5>
                         <p class="box-icon-classic-text">
-                            Ce sera toujours agréable de les recevoir et de les envoyer avec un dîner spécial. Un bon moment pour profiter et prendre une photo souvenir avec l'aimable autorisation de Mexico Amazing & Travels.
+                            Ce sera toujours agréable de les recevoir et de les envoyer avec un dîner spécial. Un bon moment pour profiter et prendre une photo souvenir avec l'aimable autorisation de Mexico Amazing Travels.
                         </p>
                     </div>
                 </div>

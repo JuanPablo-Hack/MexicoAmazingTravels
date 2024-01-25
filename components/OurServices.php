@@ -131,7 +131,7 @@
                             Souvenirs
                         </h5>
                         <p class="box-icon-classic-text">
-                            A typical detail of the site and package you choose will always be a pleasant memory courtesy of Mexico Amazing & Travels.
+                            A typical detail of the site and package you choose will always be a pleasant memory courtesy of Mexico Amazing Travels.
                         </p>
                     </div>
                 </div>
@@ -146,7 +146,7 @@
                             Special Dinner
                         </h5>
                         <p class="box-icon-classic-text">
-                            It will always be nice to receive them and send them off with a special dinner. A good time to enjoy and get a souvenir photo courtesy of Mexico Amazing & Travels.
+                            It will always be nice to receive them and send them off with a special dinner. A good time to enjoy and get a souvenir photo courtesy of Mexico Amazing Travels.
                         </p>
                     </div>
                 </div>

@@ -131,7 +131,7 @@
                             Souvenir
                         </h5>
                         <p class="box-icon-classic-text">
-                            Un dettaglio tipico del sito e del pacchetto che scegli sarà sempre un piacevole ricordo per gentile concessione di Mexico Amazing & Travels.
+                            Un dettaglio tipico del sito e del pacchetto che scegli sarà sempre un piacevole ricordo per gentile concessione di Mexico Amazing Travels.
                         </p>
                     </div>
                 </div>

@@ -120,7 +120,7 @@
                                 </span>
                             </h2>
                             <h5 class="text-uppercase" data-caption-animate="fadeInRight" data-caption-delay="0" style="text-shadow: -2px -2px 1px #000, 2px 2px 1px #000, -2px 2px 1px #000, 2px -2px 1px #000;">
-                                Unsere Grundlage ist ein zufriedener, glücklicher und begeisterter Besucher, der wieder mit uns zu jedem von uns angebotenen Ziel reist. Deshalb sind wir „Mexico Amazing & Travels“.
+                                Unsere Grundlage ist ein zufriedener, glücklicher und begeisterter Besucher, der wieder mit uns zu jedem von uns angebotenen Ziel reist. Deshalb sind wir „Mexico Amazing Travels“.
                             </h5>
                         </div>
                     </div>
