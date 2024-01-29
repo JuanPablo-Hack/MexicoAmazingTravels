@@ -135,9 +135,9 @@ function mandarConfirmacionReservacion($datos_cliente)
                           <center><strong>FFG89201</strong></center> .<br><br>
                           Por Favor realiza tu transferencia a: <br><br>
                           <center>
-                            <strong>Banco: INTERCAM</strong>
-                            <strong>CLABE: 014589678936</strong>
-                            <strong>Monto: $ 6,800 USD</strong>
+                            <strong>Banco: INTERCAM</strong> <br>
+                            <strong>CLABE: 014589678936</strong> <br>
+                            <strong>Monto: $ 6,800 USD</strong> <br>
                           </center> .<br><br>
                           Cuando hagas la transferencia, por favor envíanos foto del comprobante, eso ayudará a hacerte la reservación de vuelo y hospedaje a tu nombre y lugares asegurados con tiempo adecuado.
                           <br><br>
