@@ -127,19 +127,24 @@ function mandarConfirmacionReservacion($datos_cliente)
                             Usted reservó un viaje a OAXACA con el paquete BÁSICO para las fechas 23 DE AGOSTO 2023.
                           </h1>
                           <p style="margin: 0">
-                            Esta reservación solo espera un plazo máximo de 48 horas para recibir su pago. En caso contrario, la reservación se cancelará y podrá reservar nuevamente. <br><br>
-                            Su código de reservación es: <strong>FFG89201</strong>.  <br><br>
-                            Su cargo total a pagar es de: <strong> $6,800.00</strong>. <br><br>
-                            Su código de Reservación lo identifica como usuario en nuestro sistema. <br><br>
-                            Por favor, siga las instrucciones a continuación para realizar su pago. <br><br>
-                            Realice la transferencia por el monto total de  a:  <br><br>
-                              Banco: SANTANDER  <br><br>
-                              CLABE: 014589678936  <br><br>
-                              *Concepto: <strong>FFG89201</strong> IMPORTANTE ESCRIBIR TAL COMO APARECE.  <br><br>
-                              Una vez realizado el pago, responda a este correo con una foto o imagen donde pueda apreciarse claramente el comprobante de pago.  <br><br>
-                              Si realizó estos pasos correctamente recibirá otro correo donde se le indicará su vuelo, asientos e instrucciones al llegar a su destino, donde el personal de México Amazing Travels le recibirá.  <br><br
-                              Gracias por elegir México Amazing Travels, una experiencia grandiosa e inolvidable. <br><br>
-                              Lo invitamos a consultar nuestros Términos y Condiciones para más información sobre reprogramar fechas o cancelaciones, entre otras.  Si tiene alguna duda no olvide comunicarse al correo contacto@mexicoamazingtravels.com
+                          Has reservado tu viaje a Oaxaca con ' . $datos_cliente[7] . ' adultos y ' . $datos_cliente[8] . ' niños, para el 23 de Agosto del 2023 exitosamente,  <br><br>
+                          ¡Felicidades!
+                          . <br><br>
+                          Puedes cancelar si así lo deseas en un plazo no mayor a 48 hrs. a partir de este momento. <br><br>
+                          Si has decidido confirmar, tu código de reservación es: <br><br>
+                          <center><strong>FFG89201</strong></center> .<br><br>
+                          Por Favor realiza tu transferencia a: <br><br>
+                          <center>
+                            <strong>Banco: INTERCAM</strong>
+                            <strong>CLABE: 014589678936</strong>
+                            <strong>Monto: $ 6,800 USD</strong>
+                          </center> .<br><br>
+                          Cuando hagas la transferencia, por favor envíanos foto del comprobante, eso ayudará a hacerte la reservación de vuelo y hospedaje a tu nombre y lugares asegurados con tiempo adecuado.
+                          <br><br>
+                          Finalmente, recibirás correo con el aeropuerto, destino, la fecha, hora de vuelo y el IQ de reservación.
+                          <br><br>
+                          ¡Gracias por tu preferencia, sabemos que volverás a acompañarnos en otra aventura increíble!
+                          
                             
                           </p>
                           <br />
