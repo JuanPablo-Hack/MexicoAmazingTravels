@@ -101,8 +101,7 @@ function mandarConfirmacionReservacion($datos_cliente)
                               src="https://mexicoamazingtravels.com/assets/images/logo.png"
                               alt="Logo"
                               style="
-                                width: 250px;
-                                max-width: 100%;
+                                width: 100%;
                                 height: auto;
                                 border: none;
                                 text-decoration: none;
