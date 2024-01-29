@@ -1,10 +1,9 @@
 <?php
 function mandarConfirmacionReservacion($datos_cliente)
 {
-
-  $destinatario = "$datos_cliente[1]";
-  $asunto = "Gracias por realizar su reservación con México Amazing Travels";
-  $cuerpo = ' 
+    $destinatario = "$datos_cliente[1]";
+    $asunto = 'Gracias por realizar su reservación con México Amazing Travels';
+    $cuerpo = ' 
         <!DOCTYPE html>
         <html
           lang="en"
@@ -125,14 +124,23 @@ function mandarConfirmacionReservacion($datos_cliente)
                               letter-spacing: -0.02em;
                             "
                           >
-                            ¡Gracias por reservar en México Amazing Travels, donde vivirás la mejor experiencia!.
+                            Usted reservó un viaje a OAXACA con el paquete BÁSICO para las fechas 23 DE AGOSTO 2023.
                           </h1>
                           <p style="margin: 0">
-                              En breve recibirás mensaje de confirmación en tu correo electrónico con el código de reservación que te
-                              identificará en nuestro sistema, con las instrucciones de pago. Hecho el pago, recibirás tu IQ de reservación
-                              de vuelo con los asientos asignados y las fechas programadas.
-                              Si tienes alguna duda, no dudes en contactarnos en contacto@mexicoamazingtravels.com
-                              ¡Estaremos listos a responderte!  
+                            Esta reservación solo espera un plazo máximo de 48 horas para recibir su pago. En caso contrario, la reservación se cancelará y podrá reservar nuevamente. <br><br>
+                            Su código de reservación es: <strong>FFG89201</strong>.  <br><br>
+                            Su cargo total a pagar es de: <strong> $6,800.00</strong>. <br><br>
+                            Su código de Reservación lo identifica como usuario en nuestro sistema. <br><br>
+                            Por favor, siga las instrucciones a continuación para realizar su pago. <br><br>
+                            Realice la transferencia por el monto total de  a:  <br><br>
+                              Banco: SANTANDER  <br><br>
+                              CLABE: 014589678936  <br><br>
+                              *Concepto: <strong>FFG89201</strong> IMPORTANTE ESCRIBIR TAL COMO APARECE.  <br><br>
+                              Una vez realizado el pago, responda a este correo con una foto o imagen donde pueda apreciarse claramente el comprobante de pago.  <br><br>
+                              Si realizó estos pasos correctamente recibirá otro correo donde se le indicará su vuelo, asientos e instrucciones al llegar a su destino, donde el personal de México Amazing Travels le recibirá.  <br><br
+                              Gracias por elegir México Amazing Travels, una experiencia grandiosa e inolvidable. <br><br>
+                              Lo invitamos a consultar nuestros Términos y Condiciones para más información sobre reprogramar fechas o cancelaciones, entre otras.  Si tiene alguna duda no olvide comunicarse al correo contacto@mexicoamazingtravels.com
+                            
                           </p>
                           <br />
                         </td>
@@ -165,16 +173,18 @@ function mandarConfirmacionReservacion($datos_cliente)
           </body>
         </html>    
       ';
-  $headers = "MIME-Version: 1.0\r\n";
-  $headers .= "Content-type: text/html; charset=iso-8859-1\r\n";
-  $headers .= "From: Departamento de Ventas <contacto@mexicoamazingtravels.com>\r\n";
-  mail($destinatario, $asunto, $cuerpo, $headers);
+    $headers = "MIME-Version: 1.0\r\n";
+    $headers .= "Content-type: text/html; charset=iso-8859-1\r\n";
+    $headers .=
+        "From: Departamento de Ventas <contacto@mexicoamazingtravels.com>\r\n";
+    mail($destinatario, $asunto, $cuerpo, $headers);
 }
 function mandarReservacionVentas($datos_cliente)
 {
-  $destinatario = "contacto@mexicoamazingtravels.com";
-  $asunto = "Reservacion del sitio web";
-  $cuerpo = ' 
+    $destinatario = 'contacto@mexicoamazingtravels.com';
+    $asunto = 'Reservacion del sitio web';
+    $cuerpo =
+        ' 
         <!DOCTYPE html>
         <html
           lang="en"
@@ -298,12 +308,26 @@ function mandarReservacionVentas($datos_cliente)
                             Hemos tenido una nueva peticion de reservacion atender a la brevedad administrador!
                           </h1>
                           <p style="margin: 0">
-                              Administrador ha llegado una nueva reservacion a nombre de: ' . utf8_encode($datos_cliente[0]) . ', numero de telefono ' . utf8_encode($datos_cliente[4]) . '. <br><br>
-                              Destino: ' . utf8_encode($datos_cliente[5]) . ' <br><br>
-                              Tipo de paquete: ' . $datos_cliente[6] . ' <br><br>
-                              Numero de adultos: ' . $datos_cliente[7] . ' <br><br>
-                              Numero de menores: ' . $datos_cliente[8] . ' <br><br>
-                              Fecha de seleccionadas: ' . $datos_cliente[9] . ' <br><br>
+                              Administrador ha llegado una nueva reservacion a nombre de: ' .
+        utf8_encode($datos_cliente[0]) .
+        ', numero de telefono ' .
+        utf8_encode($datos_cliente[4]) .
+        '. <br><br>
+                              Destino: ' .
+        utf8_encode($datos_cliente[5]) .
+        ' <br><br>
+                              Tipo de paquete: ' .
+        $datos_cliente[6] .
+        ' <br><br>
+                              Numero de adultos: ' .
+        $datos_cliente[7] .
+        ' <br><br>
+                              Numero de menores: ' .
+        $datos_cliente[8] .
+        ' <br><br>
+                              Fecha de seleccionadas: ' .
+        $datos_cliente[9] .
+        ' <br><br>
                           </p>
                           <br />
                         </td>
@@ -336,8 +360,8 @@ function mandarReservacionVentas($datos_cliente)
           </body>
         </html>    
       ';
-  $headers = "MIME-Version: 1.0\r\n";
-  $headers .= "Content-type: text/html; charset=iso-8859-1\r\n";
-  $headers .= "From: Departamento de Ventas <$datos_cliente[1]>\r\n";
-  mail($destinatario, $asunto, $cuerpo, $headers);
+    $headers = "MIME-Version: 1.0\r\n";
+    $headers .= "Content-type: text/html; charset=iso-8859-1\r\n";
+    $headers .= "From: Departamento de Ventas <$datos_cliente[1]>\r\n";
+    mail($destinatario, $asunto, $cuerpo, $headers);
 }

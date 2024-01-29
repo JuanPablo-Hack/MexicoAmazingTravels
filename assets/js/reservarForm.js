@@ -52,8 +52,8 @@ async function crearReservacion(e) {
     .then((result) => {
       if (result == 1) {
         swalWithBootstrapButtons.fire(
-          "Reserva exitosa!",
-          "Su reserva ha sido realizada.",
+          "¡Gracias por reservar en México Amazing Travels, donde vivirás la mejor experiencia!",
+          "En breve recibirás mensaje de confirmación en tu correo electrónico con el código de reservación que te identificará en nuestro sistema, con las instrucciones de pago..",
           "success"
         );
         setTimeout(function () {
