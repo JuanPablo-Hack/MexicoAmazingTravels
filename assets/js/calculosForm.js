@@ -4,7 +4,8 @@ const calcularPersonas = () => {
   );
   const numeroNiños = parseInt(document.getElementById("numero_niños").value);
   const totalPersonas = numeroAdultos + numeroNiños;
-  document.getElementById("totalPersonas").value = "Total de personas: " + totalPersonas;
+  document.getElementById("totalPersonas").value =
+    "Total de personas: " + totalPersonas;
 };
 const calcularFormulario = () => {
   var id_destino = $("#destinoSeleccionado").val();
@@ -24,6 +25,42 @@ const calcularFormulario = () => {
       $("#formCalcular").html(respuesta);
     },
   });
+};
+
+const aceptarTerminosCalc = () => {
+  const swalWithBootstrapButtons = Swal.mixin({
+    customClass: {
+      confirmButton: "btn btn-success",
+      cancelButton: "btn btn-danger",
+    },
+    buttonsStyling: false,
+  });
+
+  swalWithBootstrapButtons
+    .fire({
+      title:
+        "Si usted decide avanzar en el botón 'Calcular precio',indica que acepta los términos y condiciones. ",
+      text: "¡Antes de avanzar, recomendamos leer los Términos y Condiciones escritos en laparte inferior de la página.!",
+      icon: "warning",
+      showCancelButton: true,
+      confirmButtonText: "Si, acepto",
+      cancelButtonText: "No, cancelar",
+      reverseButtons: true,
+    })
+    .then((result) => {
+      if (result.isConfirmed) {
+        calcularFormulario();
+      } else if (
+        /* Read more about handling dismissals below */
+        result.dismiss === Swal.DismissReason.cancel
+      ) {
+        swalWithBootstrapButtons.fire(
+          "Cancelado",
+          "Tu archivo ha sido salvado",
+          "error"
+        );
+      }
+    });
 };
 
 aceptarTerminos = () => {
