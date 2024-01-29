@@ -124,7 +124,7 @@ function mandarConfirmacionReservacion($datos_cliente)
                               letter-spacing: -0.02em;
                             "
                           >
-                            Gracias por reservar en México Amazing Travels, donde vivirás la mejor experiencia!.
+                            Gracias por reservar en México Amazing Travels
                           </h1>
                           <p style="margin: 0">
                           Has reservado tu viaje a Oaxaca con ' . $datos_cliente[7] . ' adultos y ' . $datos_cliente[8] . ' niños, para el 23 de Agosto del 2023 exitosamente,  <br><br>
