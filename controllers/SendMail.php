@@ -124,7 +124,7 @@ function mandarConfirmacionReservacion($datos_cliente)
                               letter-spacing: -0.02em;
                             "
                           >
-                            Usted reservó un viaje a OAXACA con el paquete BÁSICO para las fechas 23 DE AGOSTO 2023.
+                            Gracias por reservar en México Amazing Travels, donde vivirás la mejor experiencia!.
                           </h1>
                           <p style="margin: 0">
                           Has reservado tu viaje a Oaxaca con ' . $datos_cliente[7] . ' adultos y ' . $datos_cliente[8] . ' niños, para el 23 de Agosto del 2023 exitosamente,  <br><br>
@@ -141,7 +141,7 @@ function mandarConfirmacionReservacion($datos_cliente)
                           </center> .<br><br>
                           Cuando hagas la transferencia, por favor envíanos foto del comprobante, eso ayudará a hacerte la reservación de vuelo y hospedaje a tu nombre y lugares asegurados con tiempo adecuado.
                           <br><br>
-                          Finalmente, recibirás correo con el aeropuerto, destino, la fecha, hora de vuelo y el IQ de reservación.
+                          Finalmente, recibirás correo con el aeropuerto, destino, la fecha, hora de vuelo y el QR de reservación.
                           <br><br>
                           ¡Gracias por tu preferencia, sabemos que volverás a acompañarnos en otra aventura increíble!
                           
