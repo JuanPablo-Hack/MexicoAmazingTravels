@@ -4,8 +4,7 @@ function mandarConfirmacionReservacion($datos_cliente)
     $destinatario = "$datos_cliente[1]";
     $asunto =
         'Thank you for making your reservation with México Amazing Travels';
-    $cuerpo =
-        ' 
+    $cuerpo = ' 
         <!DOCTYPE html>
         <html
           lang="en"
@@ -124,18 +123,13 @@ function mandarConfirmacionReservacion($datos_cliente)
                               letter-spacing: -0.02em;
                             "
                           >
-                          Thank you for booking at Mexico Amazing Travels
+                          You have successfully booked your trip to Oaxaca, congratulations!
                                                     </h1>
                           <p style="margin: 0">
-                          You have booked your trip to Oaxaca with ' .
-        $datos_cliente[7] .
-        'adults and' .
-        $datos_cliente[8] .
-        'children, by August 23, 2023 successfully, <br><br>
-                           Congratulations!
-                          . <br><br>
                           You can cancel if you wish within a period of no more than 48 hours. From this moment. <br><br>
-                          If you have decided to confirm, your reservation code is: <br><br>
+
+                          If you have decided to confirm, your reservation code with México Amazing Travels is: <br><br>
+                          
                           <center><strong>FFG89201</strong></center> .<br><br>
                           Please make your transfer to: <br><br>
                           <center>
@@ -143,11 +137,15 @@ function mandarConfirmacionReservacion($datos_cliente)
                              <strong>CLABE: 014589678936</strong> <br>
                              <strong>Amount: $6,800 USD</strong> <br>
                            </center> .<br><br>
-                           When you make the transfer, please send us a photo of the receipt, that will help us make the flight and accommodation reservation in your name and secure places with adequate time.
-                           <br><br>
-                           Finally, you will receive an email with the airport, destination, date, flight time and the reservation QR.
-                           <br><br>
-                           Thank you for your preference, we know that you will join us again on another incredible adventure!
+                           When you make the transfer, please send us to contacto@mexicoamazingtravels.com the photo of the payment receipt and the full names of you and your companions (same as in the passport) so that we can send you the reservation for each one. With which they can check their luggage and board the plane. <br><br>
+
+Remember that you must have your passport on hand; without it, you will not be able to board. <br><br>
+
+This will help us make the flight and accommodation reservation in your name and secured places with adequate time. <br><br>
+
+Finally, you will shortly receive an email with reservations and information on the airport, destination, date and time of flight. <br><br>
+
+Thank you for your preference, we know that you will live an unforgettable experience and will join us again on another incredible adventure!
                           
                             
                           </p>
