@@ -122,9 +122,8 @@ function mandarConfirmacionReservacion($datos_cliente)
                               letter-spacing: -0.02em;
                             "
                           >
-                            Has reservado tu viaje a Oaxaca exitosamente, ¡Felicidades!
+                           <center>Has reservado tu viaje a Oaxaca exitosamente, ¡Felicidades!</center> 
                           </h1>
-                          <br><br>
                           <p style="margin: 0">
                           Puedes cancelar si así lo deseas en un plazo no mayor a 48 hrs. a partir de este momento. <br><br>
                           Si has decidido confirmar, tu código de reservación con México Amazing Travels es: <br><br>
