@@ -46,7 +46,7 @@ $result2 = mysqli_query($conexion, $sql2);
                     </div>
                 </div>
                 <div class="col-md-4">
-                    <select name="datos[]" class="form-input" data-constraints="@Selected" id="numero_Adults" onchange="calcularPersonas()">
+                    <select name="datos[]" class="form-input" data-constraints="@Selected" id="numero_adultos" onchange="calcularPersonas()">
                         <option selected disabled value="0">-Adult Numbers-</option>
                         <option value="1">Adults 1</option>
                         <option value="2">Adults 2</option>
@@ -61,7 +61,7 @@ $result2 = mysqli_query($conexion, $sql2);
                     </select>
                 </div>
                 <div class="col-md-4">
-                    <select name="datos[]" class="form-input" data-constraints="@Selected" id="numero_Children" onchange="calcularPersonas()">
+                    <select name="datos[]" class="form-input" data-constraints="@Selected" id="numero_niños" onchange="calcularPersonas()">
                         <option selected disabled value="0">-Children's Numbers-</option>
                         <option value="0">Sin Children</option>
                         <option value="1">Children 1</option>
