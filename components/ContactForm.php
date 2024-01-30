@@ -165,4 +165,4 @@ $result2 = mysqli_query($conexion, $sql2);
 
 <script src="assets/sweetalert2/sweetalert2.all.min.js"></script>
 <script src="assets/js/reservarFormUSA.js"></script>
-<script src="assets/js/calculosFormUSA.js.js"></script>
+<script src="assets/js/calculosFormUSA.js"></script>
