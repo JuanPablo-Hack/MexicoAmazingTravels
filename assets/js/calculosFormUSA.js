@@ -5,7 +5,7 @@ const calcularPersonas = () => {
   const numeroNiños = parseInt(document.getElementById("numero_niños").value);
   const totalPersonas = numeroAdultos + numeroNiños;
   document.getElementById("totalPersonas").value =
-    "Total de personas: " + totalPersonas;
+    "Total people: " + totalPersonas;
 };
 const calcularFormulario = () => {
   var id_destino = $("#destinoSeleccionado").val();
@@ -27,7 +27,7 @@ const calcularFormulario = () => {
   });
 };
 
-const aceptarTerminosCalc = () => {
+const aceptarTerminosCalcUSA = () => {
   const swalWithBootstrapButtons = Swal.mixin({
     customClass: {
       confirmButton: "btn btn-success",
@@ -63,7 +63,8 @@ const aceptarTerminosCalc = () => {
     });
 };
 
-aceptarTerminos = () => {
+Terms = () => { 
+  
   Swal.fire(
     "Congratulations!",
     "You have accepted our terms and conditions!",
