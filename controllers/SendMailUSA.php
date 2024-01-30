@@ -123,7 +123,7 @@ function mandarConfirmacionReservacion($datos_cliente)
                               letter-spacing: -0.02em;
                             "
                           >
-                          You have successfully booked your trip to Oaxaca, congratulations!
+                          <center>You have successfully booked your trip to Oaxaca, congratulations!</center>
                                                     </h1>
                           <p style="margin: 0">
                           You can cancel if you wish within a period of no more than 48 hours. From this moment. <br><br>
