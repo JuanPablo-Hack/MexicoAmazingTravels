@@ -1,20 +1,20 @@
 <?php
 include 'config/DataBase.php';
-$sql = "SELECT * FROM paquetes";
+$sql = 'SELECT * FROM paquetes';
 $result = mysqli_query($conexion, $sql);
-$sql2 = "SELECT * FROM destinos";
+$sql2 = 'SELECT * FROM destinos';
 $result2 = mysqli_query($conexion, $sql2);
 ?>
 <section class="section section-sm section-last bg-default text-left">
     <div class="container">
         <article class="title-classic">
             <div class="title-classic-title">
-                <h3>Book now</h3>
+                <h3>Reserve</h3>
             </div>
             <div class="title-classic-text">
                 <p>
-                    To book successfully please answer this
-                    form with your information to be able to contact you.
+                     To book successfully please answer this
+                     form with your information to contact you.
                 </p>
             </div>
         </article>
@@ -27,12 +27,12 @@ $result2 = mysqli_query($conexion, $sql2);
                 </div>
                 <div class="col-md-6">
                     <div class="form-wrap">
-                        <input class="form-input" id="contact-email-2" type="email" name="datos[]" data-constraints="@Email @Required" placeholder="Email" />
+                        <input class="form-input" id="contact-email-2" type="email" name="datos[]" data-constraints="@Email @Required" placeholder="E-mail" />
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="form-wrap">
-                        <input class="form-input" type="text" name="datos[]" data-constraints="@Required" placeholder="Country" />
+                        <input class="form-input" type="text" name="datos[]" data-constraints="@Required" placeholder="Country of origin" />
                     </div>
                 </div>
                 <div class="col-md-4">
@@ -45,95 +45,124 @@ $result2 = mysqli_query($conexion, $sql2);
                         <input class="form-input" id="contact-phone-2" type="text" name="datos[]" data-constraints="@Numeric" placeholder="Phone number" />
                     </div>
                 </div>
+                <div class="col-md-4">
+                    <select name="datos[]" class="form-input" data-constraints="@Selected" id="numero_Adults" onchange="calcularPersonas()">
+                        <option selected disabled value="0">-Adult Numbers-</option>
+                        <option value="1">Adults 1</option>
+                        <option value="2">Adults 2</option>
+                        <option value="3">Adults 3</option>
+                        <option value="4">Adults 4</option>
+                        <option value="5">Adults 5</option>
+                        <option value="6">Adults 6</option>
+                        <option value="7">Adults 7</option>
+                        <option value="8">Adults 8</option>
+                        <option value="9">Adults 9</option>
+                        <option value="10">Adults 10</option>
+                    </select>
+                </div>
+                <div class="col-md-4">
+                    <select name="datos[]" class="form-input" data-constraints="@Selected" id="numero_Children" onchange="calcularPersonas()">
+                        <option selected disabled value="0">-Children's Numbers-</option>
+                        <option value="0">Sin Children</option>
+                        <option value="1">Children 1</option>
+                        <option value="2">Children 2</option>
+                        <option value="3">Children 3</option>
+                        <option value="4">Children 4</option>
+                        <option value="5">Children 5</option>
+                        <option value="6">Children 6</option>
+                        <option value="7">Children 7</option>
+                        <option value="8">Children 8</option>
+                        <option value="9">Children 9</option>
+                        <option value="10">Children 10</option>
+                    </select>
+                </div>
+                <div class="col-md-4">
+                    <div class="form-wrap">
+                        <input class="form-input-total" type="text" readonly placeholder="Total de personas" id="totalPersonas" style="background-color: #E8B11F; color: white;" />
+                    </div>
+                </div>
 
                 <div class="col-md-3">
                     <div class="form-wrap">
-                        <select name="datos[]" class="form-input" data-constraints="@Selected">
+                        <select name="datos[]" class="form-input" data-constraints="@Selected" id="destinoSeleccionado">
                             <option value="">-Select a destination-</option>
-                            <?php
-                            while ($Row1 = mysqli_fetch_array($result2)) {
-                            ?>
-                                <option value=<?php echo $Row1['id']; ?>><?php echo $Row1['nombre']; ?></option>
-                            <?php
-                            }
-                            ?>
+                            <?php while (
+                                $Row1 = mysqli_fetch_array($result2)
+                            ) { ?>
+                                <option value=<?php echo $Row1[
+                                    'id'
+                                ]; ?>><?php echo $Row1['nombre']; ?></option>
+                            <?php } ?>
                         </select>
                     </div>
                 </div>
                 <div class="col-md-3">
                     <div class="form-wrap">
-                        <select name="datos[]" class="form-input" data-constraints="@Selected" id="paquteSeleccionado">
+                        <select name="datos[]" class="form-input" data-constraints="@Selected" id="paquteSeleccionado" onchange="fechasDisponibles()">
                             <option value="0">-Select a package-</option>
-                            <?php
-                            while ($Row1 = mysqli_fetch_array($result)) {
-                            ?>
-                                <option value=<?php echo $Row1['id']; ?>><?php echo $Row1['nombre']; ?></option>
-                            <?php
-                            }
-                            ?>
+                            <?php while (
+                                $Row1 = mysqli_fetch_array($result)
+                            ) { ?>
+                                <option value=<?php echo $Row1[
+                                    'id'
+                                ]; ?>><?php echo $Row1['nombre']; ?></option>
+                            <?php } ?>
                         </select>
                     </div>
                 </div>
                 <div class="col-md-3">
-                    <select name="datos[]" class="form-input" data-constraints="@Selected" onchange="cuposDisponibles()">
-                        <option value="">Available dates</option>
-                        <option value="2023-05-09">3 de Marzo - 8 de Marzo</option>
-                        <option value="2023-05-09">3 de Marzo - 8 de Marzo</option>
-                        <option value="2023-05-09">3 de Marzo - 8 de Marzo</option>
+                    <select name="datos[]" class="form-input" data-constraints="@Selected" disabled id="fechas_disponibles" onchange="cuposDisponibles()">
+                        <option selected>-Available dates-</option>
                     </select>
                 </div>
-                <div class="col-md-3" id="cuposdisponibles" style="display: none;">
-                    <div class="form-wrap">
-                        <input class="form-input" id="contact-phone-2" type="text" name="datos[]" placeholder="Cupos disponibles" />
+                <div class="col-md-3">
+                    <div class="form-wrap" id="cuposdisponibles">
+                        <input class="form-input-total" type="number" readonly placeholder="Space available: " id="totalPersonas" style="background-color: #E8B11F; color: white;" />
                     </div>
                 </div>
+            </div>       
+            <div class="row row-14 gutters-14">
                 <div class="col-md-4">
-                    <select name="datos[]" class="form-input" data-constraints="@Selected" id="numero_adultos">
-                        <option selected disabled>-Adult Numbers-</option>
-                        <option value="1">1</option>
-                        <option value="2">2</option>
-                        <option value="3">3</option>
-                        <option value="4">4</option>
-                        <option value="5">5</option>
-                        <option value="6">6</option>
-                        <option value="7">7</option>
-                        <option value="8">8</option>
-                        <option value="9">9</option>
-                        <option value="10">10</option>
-                    </select>
+                    <a class="button  button-pipaluk" style="background-color: #098CC1; color:white; display: block;
+    width: 100%;
+    min-height: 60px;
+    padding: 17px 22px;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 24px;" onclick="aceptarTerminos()">
+                        Accept Terms
+                    </a>
                 </div>
                 <div class="col-md-4">
-                    <select name="datos[]" class="form-input" data-constraints="@Selected" id="numero_niños" onchange="calcularPersonas()">
-                        <option selected disabled>-Children's Numbers-</option>
-                        <option value="1">1</option>
-                        <option value="2">2</option>
-                        <option value="3">3</option>
-                        <option value="4">4</option>
-                        <option value="5">5</option>
-                        <option value="6">6</option>
-                        <option value="7">7</option>
-                        <option value="8">8</option>
-                        <option value="9">9</option>
-                        <option value="10">10</option>
-                    </select>
+                    <a class="button  button-pipaluk" style="background-color: #098CC1; color:white; display: block;
+    width: 100%;
+    min-height: 60px;
+    padding: 17px 22px;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 24px;" onclick="aceptarTerminosCalc()">
+                        Calculate Price                    
+                    </a>
                 </div>
                 <div class="col-md-4">
-                    <div class="form-wrap">
-                        <input class="form-input-total" type="number" readonly placeholder="Total people" id="totalPersonas" style="background-color: #01b3a7; color: white;" />
-                    </div>
-                </div>
-            </div>
-            <div class="contedor_botones">
-                <button class="button button-danger button-pipaluk" style="background-color: #151515; color:white;" onclick="calcularFormulario()">
-                    Calculate Price
-                </button>
-                <button class="button button-primary button-pipaluk" type="submit">
-                    Reserve now
-                </button>
-            </div>
-
+                    <button class="button  button-pipaluk" style="background-color: #098CC1; color:white;display: block;
+    width: 100%;
+    min-height: 60px;
+    padding: 17px 22px;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 24px;" type="submit">
+                        Reserve now
+                    </button>
+                </div> 
+            </div>         
         </form>
+        <div id="formCalcular">
+            
+        </div>
     </div>
 </section>
-<script src="assets/js/reservarForm.js"></script>
-<script src="assets/js/calculosForm.js"></script>
+
+<script src="assets/sweetalert2/sweetalert2.all.min.js"></script>
+<script src="assets/js/reservarFormUSA.js"></script>
+<script src="assets/js/calculosFormUSA.js.js"></script>
