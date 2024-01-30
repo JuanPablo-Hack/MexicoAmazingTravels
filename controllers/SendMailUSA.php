@@ -2,7 +2,8 @@
 function mandarConfirmacionReservacion($datos_cliente)
 {
     $destinatario = "$datos_cliente[1]";
-    $asunto = 'Gracias por realizar su reservación con México Amazing Travels';
+    $asunto =
+        'Thank you for making your reservation with México Amazing Travels';
     $cuerpo =
         ' 
         <!DOCTYPE html>
@@ -123,8 +124,8 @@ function mandarConfirmacionReservacion($datos_cliente)
                               letter-spacing: -0.02em;
                             "
                           >
-                            Gracias por reservar en México Amazing Travels
-                          </h1>
+                          Thank you for booking at Mexico Amazing Travels
+                                                    </h1>
                           <p style="margin: 0">
                           You have booked your trip to Oaxaca with ' .
         $datos_cliente[7] .
