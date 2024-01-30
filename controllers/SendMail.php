@@ -122,14 +122,12 @@ function mandarConfirmacionReservacion($datos_cliente)
                               letter-spacing: -0.02em;
                             "
                           >
-                            Gracias por reservar en México Amazing Travels
+                            Has reservado tu viaje a Oaxaca exitosamente, ¡Felicidades!
                           </h1>
+                          <br><br>
                           <p style="margin: 0">
-                          Has reservado tu viaje a Oaxaca con ' . $datos_cliente[7] . ' adultos y ' . $datos_cliente[8] . ' niños, para el 23 de Agosto del 2023 exitosamente,  <br><br>
-                          ¡Felicidades!
-                          . <br><br>
                           Puedes cancelar si así lo deseas en un plazo no mayor a 48 hrs. a partir de este momento. <br><br>
-                          Si has decidido confirmar, tu código de reservación es: <br><br>
+                          Si has decidido confirmar, tu código de reservación con México Amazing Travels es: <br><br>
                           <center><strong>FFG89201</strong></center> .<br><br>
                           Por Favor realiza tu transferencia a: <br><br>
                           <center>
@@ -137,11 +135,17 @@ function mandarConfirmacionReservacion($datos_cliente)
                             <strong>CLABE: 014589678936</strong> <br>
                             <strong>Monto: $ 6,800 USD</strong> <br>
                           </center> .<br><br>
-                          Cuando hagas la transferencia, por favor envíanos foto del comprobante, eso ayudará a hacerte la reservación de vuelo y hospedaje a tu nombre y lugares asegurados con tiempo adecuado.
-                          <br><br>
-                          Finalmente, recibirás correo con el aeropuerto, destino, la fecha, hora de vuelo y el QR de reservación.
-                          <br><br>
-                          ¡Gracias por tu preferencia, sabemos que volverás a acompañarnos en otra aventura increíble!
+                          Cuando hagas la transferencia, por favor envíanos a contacto@mexicoamazingtravels.com la foto
+                          del comprobante de pago y los nombres completos tuyo y de tus acompañantes (igual que en el
+                          pasaporte) para que te enviemos la reservación de cada uno. Con el que podrán documentar su
+                          equipaje y abordar el avión. <br><br>
+                          Recuerda que deben tener a la mano el pasaporte, sin él, no podrán abordar.
+                          Esto nos ayudará a hacerte la reservación de vuelo y hospedaje a tu nombre y lugares asegurados
+                          con tiempo adecuado. <br><br>
+                          Finalmente, recibirás en breve, correo con las reservaciones e información del aeropuerto, destino,
+                          fecha y hora de vuelo. <br><br>
+                          ¡Gracias por tu preferencia, sabemos que vivirán una experiencia inolvidable y volverán a
+                          acompañarnos en otra aventura increíble!
                           
                             
                           </p>
