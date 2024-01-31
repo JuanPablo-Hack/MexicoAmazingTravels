@@ -122,27 +122,30 @@ function mandarConfirmacionReservacion($datos_cliente)
                               letter-spacing: -0.02em;
                             "
                           >
-                          Merci d avoir réservé au Mexique Amazing Travels.
+                          <center>
+                          Vous avez réservé avec succès votre voyage à Oaxaca, félicitations !
+                          </center>
                           </h1>
                           <p style="margin: 0">
-                          Vous avez réservé votre voyage à Oaxaca avec '. $datos_cliente[7] . 'adultes et'. $datos_cliente[8] . 'enfants, d ici le 23 août 2023 avec succès, <br><br>
-                           Toutes nos félicitations!
-                          . <br><br>
-                          Vous pouvez annuler si vous le souhaitez dans un délai ne dépassant pas 48 heures. à partir de maintenant. <br><br>
-                           Si vous avez décidé de confirmer, votre code de réservation est : <br><br>
+                          Vous pouvez annuler si vous le souhaitez dans un délai ne dépassant pas 48 heures. à partir de maintenant.<br><br>
+
+                          Si vous avez décidé de confirmer, votre code de réservation avec México Amazing Travels est :<br><br>
                            <center><strong>FFG89201</strong></center> .<br><br>
-                           Veuillez effectuer votre virement à : <br><br>
+                           Merci d effectuer votre virement à : <br><br>
                            <centre>
                            <strong>Banque : INTERCAM</strong> <br>
                            <strong>CLABE : 014589678936</strong> <br>
                            <strong>Montant : 6 800 $ USD</strong> <br>
                          </center> .<br><br>
-                         Lorsque vous effectuez le transfert, veuillez nous envoyer une photo du reçu, qui nous aidera à effectuer la réservation de vol et d hébergement en votre nom et à sécuriser les lieux dans un délai suffisant.
-                           <br><br>
-                           Enfin, vous recevrez un email avec laéroport, la destination, la date, l heure du vol et le QR de réservation.
-                           <br><br>
-                           Merci pour votre préférence, nous savons que vous nous rejoindrez à nouveau dans une autre aventure incroyable !
-                          
+                         Lorsque vous effectuez le transfert, veuillez nous envoyer à contacto@mexicoamazingtravels.com la photo du reçu de paiement et vos noms complets et ceux de vos accompagnants (les mêmes que sur le passeport) afin que nous puissions vous envoyer la réservation pour chacun. Avec lequel ils peuvent enregistrer leurs bagages et monter à bord de l avion.
+                         <br><br>
+                         N oubliez pas que vous devez avoir votre passeport en main, sans lequel vous ne pourrez pas embarquer.
+                         <br><br>
+                         Cela nous aidera à effectuer la réservation de vol et d’hébergement en votre nom et à sécuriser les lieux dans un délai suffisant.
+                         <br><br>
+                         Enfin, vous recevrez sous peu un email contenant des réservations et des informations sur l aéroport, la destination, la date et l heure du vol.
+                         <br><br>
+                         Merci pour votre préférence, nous savons que vous vivrez une expérience inoubliable et que vous nous rejoindrez à nouveau pour une autre aventure incroyable !
                             
                           </p>
                           <br />
