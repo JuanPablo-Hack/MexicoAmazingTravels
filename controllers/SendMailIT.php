@@ -132,7 +132,7 @@ function mandarConfirmacionReservacion($datos_cliente)
                           Se hai deciso di confermare, il tuo codice di prenotazione con México Amazing Travels è: <br><br>
                            <center><strong>FFG89201</strong></center> .<br><br>
                            Ti preghiamo di effettuare il bonifico a:: <br><br>
-                           <centro>
+                           <center>
                            <strong>Banca: INTERCAM</strong> <br>
                            <strong>CLABE: 014589678936</strong> <br>
                            <strong>Importo: $ 6.800 USD</strong> <br>
