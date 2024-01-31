@@ -2,8 +2,10 @@
 function mandarConfirmacionReservacion($datos_cliente)
 {
     $destinatario = "$datos_cliente[1]";
-    $asunto = 'Grazie per aver effettuato la prenotazione con México Amazing Travels';
-    $cuerpo = ' 
+    $asunto =
+        'Grazie per aver effettuato la prenotazione con México Amazing Travels';
+    $cuerpo =
+        ' 
         <!DOCTYPE html>
         <html
           lang="en"
@@ -122,26 +124,28 @@ function mandarConfirmacionReservacion($datos_cliente)
                               letter-spacing: -0.02em;
                             "
                           >
-                          Grazie per aver prenotato presso Mexico Amazing Travels
+                          <center>Hai prenotato con successo il tuo viaggio a Oaxaca, congratulazioni!</center>
                                                     </h1>
                           <p style="margin: 0">
-                          Hai prenotato il tuo viaggio a Oaxaca con '. $datos_cliente[7] . 'adulti e'. $datos_cliente[8] . 'bambini, entro il 23 agosto 2023 con successo, <br><br>
-                           Congratulazioni!
-                           . <br><br>
-                           Puoi annullare se lo desideri entro un periodo non superiore a 48 ore. Da questo momento. <br><br>
-                           Se hai deciso di confermare, il tuo codice di prenotazione è: <br><br>
+                          Puoi annullare se lo desideri entro un periodo non superiore a 48 ore. Da questo momento.
+
+                          Se hai deciso di confermare, il tuo codice di prenotazione con México Amazing Travels è: <br><br>
                            <center><strong>FFG89201</strong></center> .<br><br>
-                           Effettua il bonifico a: <br><br>
+                           Ti preghiamo di effettuare il bonifico a:: <br><br>
                            <centro>
                            <strong>Banca: INTERCAM</strong> <br>
                            <strong>CLABE: 014589678936</strong> <br>
                            <strong>Importo: $ 6.800 USD</strong> <br>
                          </center> .<br><br>
-                         Quando effettui il trasferimento, inviaci una foto della ricevuta, che ci aiuterà a effettuare la prenotazione del volo e dell alloggio a tuo nome e ad assicurarci i posti in tempo adeguato.
+                         Quando effettui il trasferimento, ti preghiamo di inviarci a contacto@mexicoamazingtravels.com la foto della ricevuta di pagamento e i nomi completi di te e dei tuoi accompagnatori (come nel passaporto) in modo che possiamo inviarti la prenotazione per ciascuno. Con cui potranno registrare i bagagli e salire sull aereo. 
                          <br><br>
-                         Infine, riceverai un e-mail con l aeroporto, la destinazione, la data, l orario del volo e il QR della prenotazione.
+                         Ricorda che devi avere il passaporto a portata di mano; senza di esso non potrai salire a bordo.
                          <br><br>
-                         Grazie per la tua preferenza, sappiamo che ti unirai a noi di nuovo in un altra incredibile avventura!
+                         Questo ci aiuterà a effettuare la prenotazione del volo e dell alloggio a tuo nome e ad assicurarci posti con tempo adeguato.
+                         <br><br>
+                         Infine, riceverai a breve una email con le prenotazioni e le informazioni su aeroporto, destinazione, data e ora del volo.
+                         <br><br>
+                         Grazie per la tua preferenza, sappiamo che vivrai un esperienza indimenticabile e ti unirai di nuovo a noi in un altra incredibile avventura!
                           
                             
                           </p>
