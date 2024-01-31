@@ -132,7 +132,7 @@ function mandarConfirmacionReservacion($datos_cliente)
                           Si vous avez décidé de confirmer, votre code de réservation avec México Amazing Travels est :<br><br>
                            <center><strong>FFG89201</strong></center> .<br><br>
                            Merci d effectuer votre virement à : <br><br>
-                           <centre>
+                           <center>
                            <strong>Banque : INTERCAM</strong> <br>
                            <strong>CLABE : 014589678936</strong> <br>
                            <strong>Montant : 6 800 $ USD</strong> <br>
