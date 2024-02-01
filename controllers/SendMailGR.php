@@ -122,27 +122,30 @@ function mandarConfirmacionReservacion($datos_cliente)
                               letter-spacing: -0.02em;
                             "
                           >
-                           Vielen Dank für Ihre Buchung bei Mexico Amazing Travels
+                          <center>
+                          Sie haben Ihre Reise nach Oaxaca erfolgreich gebucht, herzlichen Glückwunsch!
+                          </center>
                           </h1>
                           <p style="margin: 0">
-                          Sie haben Ihre Reise nach Oaxaca bei gebucht ' . $datos_cliente[7] . ' Erwachsene und ' . $datos_cliente[8] . ' Kinder, bis 23. August 2023 erfolgreich, <br><br>
-                          Glückwunsch!
-                          . <br><br>
-                          Sie können auf Wunsch innerhalb einer Frist von höchstens 48 Stunden kündigen. Ab diesem Moment. <br><br>
-                          Wenn Sie sich für eine Bestätigung entschieden haben, lautet Ihr Reservierungscode: <br><br>
+                          Sie können auf Wunsch innerhalb einer Frist von höchstens 48 Stunden kündigen. Ab diesem Moment.
+
+                          Wenn Sie sich für eine Bestätigung entschieden haben, lautet Ihr Reservierungscode bei México Amazing Travels: <br><br>
                           <center><strong>FFG89201</strong></center> .<br><br>
                           Bitte überweisen Sie an: <br><br>
-                          <Mitte>
+                          <center>
                           <strong>Bank: INTERCAM</strong> <br>
                           <strong>CLABE: 014589678936</strong> <br>
                           <strong>Betrag: 6.800 USD</strong> <br>
                         </center> .<br><br>
-                        Wenn Sie die Überweisung vornehmen, senden Sie uns bitte ein Foto der Quittung, damit wir die Flug- und Unterkunftsreservierung in Ihrem Namen vornehmen und rechtzeitig Plätze reservieren können.
+                        Wenn Sie die Überweisung vornehmen, senden Sie uns bitte an contacto@mexicoamazingtravels.com das Foto des Zahlungsbelegs und die vollständigen Namen von Ihnen und Ihren Begleitern (wie im Reisepass), damit wir Ihnen die Reservierung für jede einzelne Überweisung zusenden können. Damit können sie ihr Gepäck aufgeben und in das Flugzeug einsteigen.
                         <br><br>
-                        Abschließend erhalten Sie eine E-Mail mit Flughafen, Zielort, Datum, Flugzeit und dem Reservierungs-QR.
+                        Denken Sie daran, dass Sie Ihren Reisepass zur Hand haben müssen; ohne diesen können Sie nicht an Bord gehen.
                         <br><br>
-                        Vielen Dank für Ihre Vorliebe. Wir wissen, dass Sie uns wieder auf einem weiteren unglaublichen Abenteuer begleiten werden!
-                          
+                        Dies hilft uns, die Flug- und Unterkunftsreservierung in Ihrem Namen vorzunehmen und rechtzeitig Plätze zu sichern.
+                        <br><br>
+                        Abschließend erhalten Sie in Kürze eine E-Mail mit Reservierungen und Informationen zu Flughafen, Zielort, Datum und Uhrzeit des Fluges.
+                        <br><br>
+                        Vielen Dank für Ihre Vorliebe. Wir wissen, dass Sie ein unvergessliches Erlebnis erleben und uns wieder auf einem weiteren unglaublichen Abenteuer begleiten werden!
                             
                           </p>
                           <br />
