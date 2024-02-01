@@ -5,7 +5,7 @@ const calcularPersonas = () => {
   const numeroNiños = parseInt(document.getElementById("numero_niños").value);
   const totalPersonas = numeroAdultos + numeroNiños;
   document.getElementById("totalPersonas").value =
-    "Total de personas: " + totalPersonas;
+    "Nombre total de personnes: " + totalPersonas;
 };
 const calcularFormulario = () => {
   var id_destino = $("#destinoSeleccionado").val();
@@ -43,8 +43,8 @@ const aceptarTerminosCalc = () => {
       text: "Avant de continuer, nous vous recommandons de lire les Conditions Générales écrites en bas de page !",
       icon: "warning",
       showCancelButton: true,
-      confirmButtonText: "Si, acepto",
-      cancelButtonText: "No, cancelar",
+      confirmButtonText: "Oui j'accepte",
+      cancelButtonText: "Non, annule",
       reverseButtons: true,
     })
     .then((result) => {

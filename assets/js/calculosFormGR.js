@@ -5,7 +5,7 @@ const calcularPersonas = () => {
   const numeroNiños = parseInt(document.getElementById("numero_niños").value);
   const totalPersonas = numeroAdultos + numeroNiños;
   document.getElementById("totalPersonas").value =
-    "Total de personas: " + totalPersonas;
+    "Total Leute: " + totalPersonas;
 };
 const calcularFormulario = () => {
   var id_destino = $("#destinoSeleccionado").val();

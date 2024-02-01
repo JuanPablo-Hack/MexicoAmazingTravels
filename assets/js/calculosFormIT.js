@@ -43,8 +43,8 @@ const aceptarTerminosCalc = () => {
       text: "Prima di procedere ti consigliamo di leggere i Termini e Condizioni scritti in fondo alla pagina!",
       icon: "warning",
       showCancelButton: true,
-      confirmButtonText: "Si, acepto",
-      cancelButtonText: "No, cancelar",
+      confirmButtonText: "si accetto",
+      cancelButtonText: "No, annulla",
       reverseButtons: true,
     })
     .then((result) => {

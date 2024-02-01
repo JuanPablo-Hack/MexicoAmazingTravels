@@ -43,8 +43,8 @@ const aceptarTerminosCalcUSA = () => {
       text: "¡Before proceeding, we recommend reading the Terms and Conditions written at the bottom of the page.!",
       icon: "warning",
       showCancelButton: true,
-      confirmButtonText: "Si, acepto",
-      cancelButtonText: "No, cancelar",
+      confirmButtonText: "Yes I accept",
+      cancelButtonText: "No, cancel",
       reverseButtons: true,
     })
     .then((result) => {
