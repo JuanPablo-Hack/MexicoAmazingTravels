@@ -78,7 +78,7 @@ $result2 = mysqli_query($conexion, $sql2);
                 </div>
                 <div class="col-md-4">
                     <div class="form-wrap">
-                        <input class="form-input-total" type="text" readonly placeholder="Total de personas" id="totalPersonas" style="background-color: #E8B11F; color: white;" />
+                        <input class="form-input-total" type="text" readonly placeholder="Total people" id="totalPersonas" style="background-color: #E8B11F; color: white;" />
                     </div>
                 </div>
 
