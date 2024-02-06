@@ -63,7 +63,7 @@ $result2 = mysqli_query($conexion, $sql2);
                 <div class="col-md-4">
                     <select name="datos[]" class="form-input" data-constraints="@Selected" id="numero_niños" onchange="calcularPersonas()">
                         <option selected disabled value="0">-Children's Numbers-</option>
-                        <option value="0">Sin Children</option>
+                        <option value="0">Without children</option>
                         <option value="1">Children 1</option>
                         <option value="2">Children 2</option>
                         <option value="3">Children 3</option>
@@ -140,7 +140,7 @@ $result2 = mysqli_query($conexion, $sql2);
     padding: 17px 22px;
     font-size: 18px;
     font-weight: 400;
-    line-height: 24px;" onclick="aceptarTerminosCalcUSA()">
+    line-height: 24px;" onclick="calcularFormulario()">
                         Calculate Price                    
                     </div>
                 </div>
