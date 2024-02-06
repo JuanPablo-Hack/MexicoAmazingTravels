@@ -12,7 +12,7 @@
                             Flüge
                         </h5>
                         <p class="box-icon-classic-text">
-                            Der Hin- und Rückflug im Paket des von Ihnen gewählten Reiseziels ab den Städten México DF, Guadalajara, Puerto Vallarta, Cancún & Manzanillo.
+                            Der Hin- und Rückflug im Paket des von Ihnen gewählten Reiseziels ab den Städten México DF, Guadalajara, Puerto Vallarta, Cancún.
                         </p>
                     </div>
                 </div>

@@ -12,7 +12,7 @@
                             Voli
                         </h5>
                         <p class="box-icon-classic-text">
-                            Il volo di andata e ritorno nel pacchetto della destinazione che decidi tu partendo dalle città del México DF, Guadalajara, Puerto Vallarta, Cancún & Manzanillo.
+                            Il volo di andata e ritorno nel pacchetto della destinazione che decidi tu partendo dalle città del México DF, Guadalajara, Puerto Vallarta, Cancún.
                         </p>
                     </div>
                 </div>

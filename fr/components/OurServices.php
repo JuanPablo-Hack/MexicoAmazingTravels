@@ -12,7 +12,7 @@
                             Vols
                         </h5>
                         <p class="box-icon-classic-text">
-                            Le vol aller-retour dans le forfait de la destination que vous décidez à partir des villes de México DF, Guadalajara, Puerto Vallarta, Cancún & Manzanillo.
+                            Le vol aller-retour dans le forfait de la destination que vous décidez à partir des villes de México DF, Guadalajara, Puerto Vallarta, Cancún.
                         </p>
                     </div>
                 </div>
