@@ -58,7 +58,7 @@ async function crearReservacion(e) {
         );
         setTimeout(function () {
           location.reload();
-        }, 3000);
+        }, 8000);
       } else {
         swalWithBootstrapButtons.fire(
           "Error",
