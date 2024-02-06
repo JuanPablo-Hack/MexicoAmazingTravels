@@ -140,7 +140,7 @@ $result2 = mysqli_query($conexion, $sql2);
     padding: 17px 22px;
     font-size: 18px;
     font-weight: 400;
-    line-height: 24px;" onclick="aceptarTerminosCalc()">
+    line-height: 24px;" onclick="calcularFormulario()">
                         Preis berechnen
                     </a>
                 </div>
