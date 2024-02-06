@@ -17,7 +17,7 @@ const fechasDisponibles = () => {
 const cuposDisponibles = () => {
   var id_viaje = $("#fechas_disponibles").val();
   $.ajax({
-    url: "../models/CuposDisponibles.php",
+    url: "../models/CuposDisponiblesUSA.php",
     method: "POST",
     data: {
       id: id_viaje,
