@@ -17,7 +17,7 @@ const fechasDisponibles = () => {
 const cuposDisponibles = () => {
   var id_viaje = $("#fechas_disponibles").val();
   $.ajax({
-    url: "../models/CuposDisponibles.php",
+    url: "../models/CuposDisponiblesFR.php",
     method: "POST",
     data: {
       id: id_viaje,
@@ -58,7 +58,7 @@ async function crearReservacion(e) {
         );
         setTimeout(function () {
           location.reload();
-        }, 3000);
+        }, 8000);
       } else {
         swalWithBootstrapButtons.fire(
           "Erreur",

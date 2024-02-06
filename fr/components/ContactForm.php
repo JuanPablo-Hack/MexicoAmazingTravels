@@ -117,7 +117,7 @@ $result2 = mysqli_query($conexion, $sql2);
                 </div>
                 <div class="col-md-3">
                     <div class="form-wrap" id="cuposdisponibles">
-                        <input class="form-input-total" type="number" readonly placeholder="Cupos disponibles: " id="totalPersonas" style="background-color: #E8B11F; color: white;" />
+                        <input class="form-input-total" type="number" readonly placeholder="Platz verfügbar: " id="totalPersonas" style="background-color: #E8B11F; color: white;" />
                     </div>
                 </div>
             </div>       
@@ -140,7 +140,7 @@ $result2 = mysqli_query($conexion, $sql2);
     padding: 17px 22px;
     font-size: 18px;
     font-weight: 400;
-    line-height: 24px;" onclick="aceptarTerminosCalc()">
+    line-height: 24px;" onclick="calcularFormulario()">
                         Calculer le prix
                     </a>
                 </div>
