@@ -23,7 +23,7 @@
                         <div class="tab-content">
                             <div class="tab-pane fade show active" id="tabs-7-1">
                                 <p>
-                                    <strong>Mexico Amazing Travels"</strong> is a company that
+                                    <strong>"Mexico Amazing Travels"</strong> is a company that
                                     offers the tourist in general, the services and means
                                     necessary for them to know and live the warmth of their
                                     people, their environment and lifestyle so that they return
