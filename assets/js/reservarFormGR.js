@@ -61,8 +61,8 @@ async function crearReservacion(e) {
         }, 8000);
       } else {
         swalWithBootstrapButtons.fire(
-          "Error",
-          "Hemos tenido un error a la base de datos o la conexión.",
+          "Fehler",
+          "Es ist ein Datenbank- oder Verbindungsfehler aufgetreten.",
           "error"
         );
         // setTimeout(function () {
