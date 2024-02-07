@@ -1,7 +1,6 @@
 <?php
 include 'config/DataBase.php';
-$sql = 'SELECT * FROM paquetes';
-$result = mysqli_query($conexion, $sql);
+
 $sql2 = 'SELECT * FROM destinos';
 $result2 = mysqli_query($conexion, $sql2);
 ?>
@@ -100,13 +99,12 @@ $result2 = mysqli_query($conexion, $sql2);
                     <div class="form-wrap">
                         <select name="datos[]" class="form-input" data-constraints="@Selected" id="paquteSeleccionado" onchange="fechasDisponibles()">
                             <option value="0">-Select a package-</option>
-                            <?php while (
-                                $Row1 = mysqli_fetch_array($result)
-                            ) { ?>
-                                <option value=<?php echo $Row1[
-                                    'id'
-                                ]; ?>><?php echo $Row1['nombre']; ?></option>
-                            <?php } ?>
+                            <option value="1">Essential</option>
+                            <option value="2">Familiar and exciting</option>
+                            <option value="3">With time to delight</option>
+                            <option value="4">Adventure and Culture</option>
+                            <option value="5">Unforgettable beaches</option>
+                            <option value="6">Special and tailored to you</option>
                         </select>
                     </div>
                 </div>
