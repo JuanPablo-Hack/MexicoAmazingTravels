@@ -100,13 +100,12 @@ $result2 = mysqli_query($conexion, $sql2);
                     <div class="form-wrap">
                         <select name="datos[]" class="form-input" data-constraints="@Selected" id="paquteSeleccionado" onchange="fechasDisponibles()">
                             <option value="0">-Wählen Sie ein Paket aus-</option>
-                            <?php while (
-                                $Row1 = mysqli_fetch_array($result)
-                            ) { ?>
-                                <option value=<?php echo $Row1[
-                                    'id'
-                                ]; ?>><?php echo $Row1['nombre']; ?></option>
-                            <?php } ?>
+                            <option value="1">Essentiell</option>
+                            <option value="2">Vertraut und spannend</option>
+                            <option value="3">Mit Zeit zum Genießen</option>
+                            <option value="4">Abenteuer und Kultur</option>
+                            <option value="5">Unvergessliche Strände</option>
+                            <option value="6">Speziell und auf Sie zugeschnitten</option>
                         </select>
                     </div>
                 </div>
