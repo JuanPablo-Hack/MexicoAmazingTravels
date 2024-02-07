@@ -9,7 +9,7 @@ const fechasDisponibles = () => {
     },
     success: function (respuesta) {
       $("#fechas_disponibles").attr("disabled", false);
-      $("#fechas_disponibles").html(option + respuesta);
+      $("#fechas_disponibles").html(respuesta);
     },
   });
 };
