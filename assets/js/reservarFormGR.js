@@ -1,6 +1,7 @@
 const fechasDisponibles = () => {
   var id_paquete = $("#paquteSeleccionado").val();
-  
+  var option =
+    "<option value='0' selected>-Wählen Sie ein verfügbares Datum-</option>";
   $.ajax({
     url: "../models/FechasDisponibles.php",
     method: "POST",
@@ -9,7 +10,7 @@ const fechasDisponibles = () => {
     },
     success: function (respuesta) {
       $("#fechas_disponibles").attr("disabled", false);
-      $("#fechas_disponibles").html(respuesta);
+      $("#fechas_disponibles").html(option + respuesta);
     },
   });
 };
