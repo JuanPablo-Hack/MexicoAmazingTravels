@@ -27,7 +27,9 @@ const calcularFormulario = () => {
   });
 };
 
-const aceptarTerminosCalc = () => {
+const aceptarTerminosCalc = () => {};
+
+aceptarTerminos = () => {
   const swalWithBootstrapButtons = Swal.mixin({
     customClass: {
       confirmButton: "btn btn-success",
@@ -49,7 +51,11 @@ const aceptarTerminosCalc = () => {
     })
     .then((result) => {
       if (result.isConfirmed) {
-        calcularFormulario();
+        Swal.fire(
+          "Congratulazioni!",
+          "Hai accettato i nostri termini e condizioni!",
+          "success"
+        );
       } else if (
         /* Read more about handling dismissals below */
         result.dismiss === Swal.DismissReason.cancel
@@ -61,12 +67,4 @@ const aceptarTerminosCalc = () => {
         );
       }
     });
-};
-
-aceptarTerminos = () => {
-  Swal.fire(
-    "Congratulazioni!",
-    "Hai accettato i nostri termini e condizioni!",
-    "success"
-  );
 };
