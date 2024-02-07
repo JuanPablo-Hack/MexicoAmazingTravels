@@ -1,7 +1,5 @@
 const fechasDisponibles = () => {
   var id_paquete = $("#paquteSeleccionado").val();
-  var option =
-    "<option value='0' selected>-Elije una fecha disponible-</option>";
   $.ajax({
     url: "../models/FechasDisponibles.php",
     method: "POST",
