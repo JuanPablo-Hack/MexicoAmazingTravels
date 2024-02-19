@@ -1,7 +1,6 @@
 const fechasDisponibles = () => {
   var id_paquete = $("#paquteSeleccionado").val();
-  var option =
-    "<option value='0' selected>-Choose an available date-</option>";
+  var option = "<option value='0' selected>-Choose an available date-</option>";
   $.ajax({
     url: "../models/FechasDisponibles.php",
     method: "POST",
@@ -58,16 +57,16 @@ async function crearReservacion(e) {
         );
         setTimeout(function () {
           location.reload();
-        }, 8000);
+        }, 12000);
       } else {
         swalWithBootstrapButtons.fire(
           "Error",
           "We have had a database or connection error.",
           "error"
         );
-        // setTimeout(function () {
-        //   location.reload();
-        // }, 3000);
+        setTimeout(function () {
+          location.reload();
+        }, 3000);
       }
     });
 }
