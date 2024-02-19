@@ -146,7 +146,7 @@
                             Cena speciale
                         </h5>
                         <p class="box-icon-classic-text">
-                            Sarà sempre bello riceverli e salutarli con una cena speciale. Un buon momento per divertirsi e ottenere una foto ricordo per gentile concessione di Mexico Amazing & Unforgettable.
+                            Sarà sempre bello riceverli e salutarli con una cena speciale. Un buon momento per divertirsi e ottenere una foto ricordo per gentile concessione di Mexico Amazing Travels.
                         </p>
                     </div>
                 </div>

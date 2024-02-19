@@ -27,8 +27,7 @@
                                     necessario per loro di conoscere e vivere il calore della loro
                                     persone, il loro ambiente e stile di vita in modo che ritornino
                                     soddisfatti alle loro case e ricordati che si sono divertiti
-                                    Messico via Messico Incantevole e indimenticabile.
-                                </p>
+                                    Messico via Mexico Amazing Travels.
                             </div>
                             <div class="tab-pane fade" id="tabs-7-2">
                                 <p>
