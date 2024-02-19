@@ -58,16 +58,16 @@ async function crearReservacion(e) {
         );
         setTimeout(function () {
           location.reload();
-        }, 3000);
+        }, 12000);
       } else {
         swalWithBootstrapButtons.fire(
           "Errore",
           "Si è verificato un errore nel database o nella connessione.",
           "error"
         );
-        // setTimeout(function () {
-        //   location.reload();
-        // }, 3000);
+        setTimeout(function () {
+          location.reload();
+        }, 3000);
       }
     });
 }
