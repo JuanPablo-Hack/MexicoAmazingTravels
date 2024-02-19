@@ -40,7 +40,7 @@ aceptarTerminos = () => {
     .fire({
       title:
         "Si usted decide avanzar en el botón 'Calcular precio',indica que acepta los términos y condiciones. ",
-      text: "¡Antes de avanzar, recomendamos leer los Términos y Condiciones escritos en laparte inferior de la página.!",
+      text: "¡Antes de avanzar, recomendamos leer los Términos y Condiciones escritos en la parte inferior de la página.!",
       icon: "warning",
       showCancelButton: true,
       confirmButtonText: "Si, acepto",
