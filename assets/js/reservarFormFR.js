@@ -65,9 +65,9 @@ async function crearReservacion(e) {
           "Nous avons eu une erreur de base de données ou de connexion.",
           "error"
         );
-        // setTimeout(function () {
-        //   location.reload();
-        // }, 3000);
+        setTimeout(function () {
+          location.reload();
+        }, 3000);
       }
     });
 }
