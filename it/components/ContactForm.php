@@ -42,7 +42,7 @@ $result2 = mysqli_query($conexion, $sql2);
                 </div>
                 <div class="col-md-4">
                     <div class="form-wrap">
-                        <input class="form-input" id="contact-phone-2" type="text" name="datos[]" data-constraints="@Numeric" placeholder="NNumero di telefono" />
+                        <input class="form-input" id="contact-phone-2" type="text" name="datos[]" data-constraints="@Numeric" placeholder="Numero di telefono" />
                     </div>
                 </div>
                 <div class="col-md-4">
